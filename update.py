@@ -11,7 +11,7 @@ top_ids = ids[:10]
 entries = []
 for i, id in enumerate(top_ids, start=1):
     item = requests.get(f"https://hacker-news.firebaseio.com/v0/item/{id}.json").json()
-    title = item.get("title", "بدون عنوان")
+    title = item.get("title", "📰")
     url = item.get("url", f"https://news.ycombinator.com/item?id={id}")
     time_utc = datetime.utcfromtimestamp(item.get("time", 0)).strftime('%Y-%m-%d %H:%M')
     entries.append(f"🔹 [{title}]({url}) <sub><sup>({time_utc} UTC)</sup></sub>")
