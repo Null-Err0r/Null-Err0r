@@ -33,3 +33,4 @@ jobs:
           else
             git commit -m "Update README with latest HackerNews story"
             git push
+          fi
