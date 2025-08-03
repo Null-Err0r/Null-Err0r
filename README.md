@@ -83,6 +83,7 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
@@ -90,7 +91,6 @@
 
 <ul style="list-style-type: none; padding-left: 0; line-height: 1.6;">
   <li>🔹 <a href="https://stephango.com/ramblings" style="color: #f7931a; text-decoration: none;">If you're remote, ramble</a> — <code>2025-08-03 10:32 UTC</code></li>
-  <li>🔹 <a href="https://saturn.land/monopoly-money.html" style="color: #f7931a; text-decoration: none;">How OpenAI Is Turning Monopoly Money into Real Debt</a> — <code>2025-08-03 16:17 UTC</code></li>
   <li>🔹 <a href="https://bastian.rieck.me/blog/2025/fulbright/" style="color: #f7931a; text-decoration: none;">The Fulbright Program: Chock Full of Bright Ideas</a> — <code>2025-08-03 13:24 UTC</code></li>
   <li>🔹 <a href="https://www.ioccc.org/2024/index.html" style="color: #f7931a; text-decoration: none;">Twenty Eighth International Obfuscated C Code Contest</a> — <code>2025-08-03 04:34 UTC</code></li>
   <li>🔹 <a href="https://www.helsinkitimes.fi/finland/finland-news/domestic/27539-helsinki-records-zero-traffic-deaths-for-full-year.html" style="color: #f7931a; text-decoration: none;">Helsinki records zero traffic deaths for full year</a> — <code>2025-07-30 16:08 UTC</code></li>
@@ -99,14 +99,16 @@
   <li>🔹 <a href="http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html" style="color: #f7931a; text-decoration: none;">A Real PowerBook: The Macintosh Application Environment on a Pa-RISC Laptop</a> — <code>2025-08-03 06:38 UTC</code></li>
   <li>🔹 <a href="https://lesves.github.io/articles/ski-rental/" style="color: #f7931a; text-decoration: none;">The Ski Rental Problem</a> — <code>2025-07-30 22:34 UTC</code></li>
   <li>🔹 <a href="https://www.telotrucks.com/" style="color: #f7931a; text-decoration: none;">Telo MT1</a> — <code>2025-08-02 16:40 UTC</code></li>
+  <li>🔹 <a href="https://www.nature.com/articles/s41586-025-09317-z" style="color: #f7931a; text-decoration: none;">Flourishing chemosynthetic life at the greatest depths of hadal trenches</a> — <code>2025-07-30 18:20 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-03 16:37:40 UTC
+  latest update: 2025-08-03 16:54:58 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
