@@ -75,23 +75,32 @@
 <br>
 </details> 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
 <h3>📰 Hacker News (Every 15 minutes)</h3>
 
 <ul style="list-style-type: none; padding-left: 0; line-height: 1.6;">
-  <li>🔹 <a href="https://news.ycombinator.com/item?id=ID1" style="color: #f7931a; text-decoration: none;">عنوان خبر ۱</a> — <code>2025-08-03 13:49 UTC</code></li>
-  <li>🔹 <a href="https://news.ycombinator.com/item?id=ID2" style="color: #f7931a; text-decoration: none;">عنوان خبر ۲</a> — <code>2025-08-03 11:01 UTC</code></li>
-  <!-- سایر اخبار -->
+  <li>🔹 <a href="https://stephango.com/ramblings" style="color: #f7931a; text-decoration: none;">If you're remote, ramble</a> — <code>2025-08-03 10:32 UTC</code></li>
+  <li>🔹 <a href="https://www.ioccc.org/2024/index.html" style="color: #f7931a; text-decoration: none;">Twenty Eighth International Obfuscated C Code Contest</a> — <code>2025-08-03 04:34 UTC</code></li>
+  <li>🔹 <a href="https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed" style="color: #f7931a; text-decoration: none;">Tokens are getting more expensive</a> — <code>2025-08-03 11:01 UTC</code></li>
+  <li>🔹 <a href="https://www.helsinkitimes.fi/finland/finland-news/domestic/27539-helsinki-records-zero-traffic-deaths-for-full-year.html" style="color: #f7931a; text-decoration: none;">Helsinki records zero traffic deaths for full year</a> — <code>2025-07-30 16:08 UTC</code></li>
+  <li>🔹 <a href="http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html" style="color: #f7931a; text-decoration: none;">A Real PowerBook: The Macintosh Application Environment on a Pa-RISC Laptop</a> — <code>2025-08-03 06:38 UTC</code></li>
+  <li>🔹 <a href="https://www.bbc.com/news/articles/c4gzx0zm68vo" style="color: #f7931a; text-decoration: none;">Imaging reveals intricate tattoos of 2,500-year-old Siberian ice mummy</a> — <code>2025-07-31 13:29 UTC</code></li>
+  <li>🔹 <a href="https://www.nature.com/articles/s41586-025-09317-z" style="color: #f7931a; text-decoration: none;">Flourishing chemosynthetic life at the greatest depths of hadal trenches</a> — <code>2025-07-30 18:20 UTC</code></li>
+  <li>🔹 <a href="https://www.telotrucks.com/" style="color: #f7931a; text-decoration: none;">Telo MT1</a> — <code>2025-08-02 16:40 UTC</code></li>
+  <li>🔹 <a href="https://jackharvest.com/index.php/2025/07/27/build-your-own-minisforum-n5-inspired-mini-nas-a-comprehensive-guide/" style="color: #f7931a; text-decoration: none;">Build Your Own Minisforum N5 Inspired Mini NAS: A Comprehensive Guide</a> — <code>2025-07-30 17:14 UTC</code></li>
+  <li>🔹 <a href="https://blocksandfiles.com/2025/07/30/micron-three-276-layer-ssds/" style="color: #f7931a; text-decoration: none;">Micron rolls out 276-layer SSD trio for speed, scale, and stability</a> — <code>2025-07-30 21:54 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-03 13:56:17 UTC
+  latest update: 2025-08-03 14:08:20 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 <div align="center">
