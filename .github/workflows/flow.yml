@@ -1,4 +1,4 @@
-name: flow
+name: Update README Automatically
 
 on:
   workflow_dispatch:
