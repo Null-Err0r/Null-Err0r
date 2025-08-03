@@ -80,6 +80,7 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
@@ -94,16 +95,17 @@
   <li>🔹 <a href="http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html" style="color: #f7931a; text-decoration: none;">A Real PowerBook: The Macintosh Application Environment on a Pa-RISC Laptop</a> — <code>2025-08-03 06:38 UTC</code></li>
   <li>🔹 <a href="https://fab.cba.mit.edu/classes/863.19/CBA/people/dsculley/index.html" style="color: #f7931a; text-decoration: none;">How To Make (almost) Anything (2019)</a> — <code>2025-08-03 11:28 UTC</code></li>
   <li>🔹 <a href="https://lesves.github.io/articles/ski-rental/" style="color: #f7931a; text-decoration: none;">The Ski Rental Problem</a> — <code>2025-07-30 22:34 UTC</code></li>
-  <li>🔹 <a href="https://www.telotrucks.com/" style="color: #f7931a; text-decoration: none;">Telo MT1</a> — <code>2025-08-02 16:40 UTC</code></li>
   <li>🔹 <a href="https://www.nature.com/articles/s41586-025-09317-z" style="color: #f7931a; text-decoration: none;">Flourishing chemosynthetic life at the greatest depths of hadal trenches</a> — <code>2025-07-30 18:20 UTC</code></li>
+  <li>🔹 <a href="https://www.telotrucks.com/" style="color: #f7931a; text-decoration: none;">Telo MT1</a> — <code>2025-08-02 16:40 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-03 15:32:26 UTC
+  latest update: 2025-08-03 15:50:58 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
