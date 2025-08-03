@@ -3,8 +3,7 @@ name: Auto Update README
 
 on:
   schedule:
-    - cron: '0 6 * * *' 
-  workflow_dispatch:
+    - cron: "0 6 * * 0"
 
 jobs:
   update_readme:
@@ -12,11 +11,6 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
 
       - name: Install requests
         run: pip install requests
@@ -29,9 +23,6 @@ jobs:
           git config user.name "Null-Err0r"
           git config user.email "github-actions@github.com"
           git add README.md
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Auto-update README with HN & contact"
-            git push
-          fi
+          git commit -m "Auto-update README with HN & contact"
+          git push
+
