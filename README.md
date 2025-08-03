@@ -76,21 +76,19 @@
 </details> 
 
 <!--hn-readme-->
-<div align="center">
 
-### 📰 Hacker News ( Every 15 minutes )
+### 📰 Hacker News (Every 15 minutes)
 
-🔹 [If you're remote, ramble](https://stephango.com/ramblings) <sub><sup>(2025-08-03 10:32 UTC)</sup></sub>
-🔹 [One Third of the Web Will Stop Working in 4 Days](https://lowendbox.com/blog/one-third-of-the-web-will-stop-working-in-4-days-massive-scale-cdn-compromise-starts-wednesday/) <sub><sup>(2025-08-03 13:49 UTC)</sup></sub>
-🔹 [Twenty Eighth International Obfuscated C Code Contest](https://www.ioccc.org/2024/index.html) <sub><sup>(2025-08-03 04:34 UTC)</sup></sub>
-🔹 [Tokens are getting more expensive](https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed) <sub><sup>(2025-08-03 11:01 UTC)</sup></sub>
-🔹 [Helsinki records zero traffic deaths for full year](https://www.helsinkitimes.fi/finland/finland-news/domestic/27539-helsinki-records-zero-traffic-deaths-for-full-year.html) <sub><sup>(2025-07-30 16:08 UTC)</sup></sub>
-🔹 [A Real PowerBook: The Macintosh Application Environment on a Pa-RISC Laptop](http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html) <sub><sup>(2025-08-03 06:38 UTC)</sup></sub>
-🔹 [Flourishing chemosynthetic life at the greatest depths of hadal trenches](https://www.nature.com/articles/s41586-025-09317-z) <sub><sup>(2025-07-30 18:20 UTC)</sup></sub>
-🔹 [Imaging reveals intricate tattoos of 2,500-year-old Siberian ice mummy](https://www.bbc.com/news/articles/c4gzx0zm68vo) <sub><sup>(2025-07-31 13:29 UTC)</sup></sub>
-🔹 [Telo MT1](https://www.telotrucks.com/) <sub><sup>(2025-08-02 16:40 UTC)</sup></sub>
-🔹 [Build Your Own Minisforum N5 Inspired Mini NAS: A Comprehensive Guide](https://jackharvest.com/index.php/2025/07/27/build-your-own-minisforum-n5-inspired-mini-nas-a-comprehensive-guide/) <sub><sup>(2025-07-30 17:14 UTC)</sup></sub>
+🔹 [If you're remote, ramble](https://stephango.com/ramblings) — `2025-08-03 10:32 UTC`
+🔹 [One Third of the Web Will Stop Working in 4 Days](https://lowendbox.com/blog/one-third-of-the-web-will-stop-working-in-4-days-massive-scale-cdn-compromise-starts-wednesday/) — `2025-08-03 13:49 UTC`
+🔹 [Twenty Eighth International Obfuscated C Code Contest](https://www.ioccc.org/2024/index.html) — `2025-08-03 04:34 UTC`
+🔹 [Tokens are getting more expensive](https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed) — `2025-08-03 11:01 UTC`
+🔹 [Helsinki records zero traffic deaths for full year](https://www.helsinkitimes.fi/finland/finland-news/domestic/27539-helsinki-records-zero-traffic-deaths-for-full-year.html) — `2025-07-30 16:08 UTC`
+🔹 [A Real PowerBook: The Macintosh Application Environment on a Pa-RISC Laptop](http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html) — `2025-08-03 06:38 UTC`
+🔹 [Flourishing chemosynthetic life at the greatest depths of hadal trenches](https://www.nature.com/articles/s41586-025-09317-z) — `2025-07-30 18:20 UTC`
+🔹 [Imaging reveals intricate tattoos of 2,500-year-old Siberian ice mummy](https://www.bbc.com/news/articles/c4gzx0zm68vo) — `2025-07-31 13:29 UTC`
+🔹 [Why you're going to see more swimming pools in strip malls](https://thehustle.co/originals/why-youre-going-to-see-a-lot-more-swimming-pools-in-strip-malls) — `2025-08-03 12:07 UTC`
+🔹 [Telo MT1](https://www.telotrucks.com/) — `2025-08-02 16:40 UTC`
 
-<sub><sup>latest: 2025-08-03 13:56:17 UTC</sup></sub>
+_latest update: 2025-08-03 13:59:41 UTC_
 
-</div>
