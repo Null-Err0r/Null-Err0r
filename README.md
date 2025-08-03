@@ -98,6 +98,7 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
@@ -105,23 +106,24 @@
 
 <ul style="list-style-type: none; padding-left: 0; line-height: 1.6;">
   <li>🔹 <a href="https://kashw1n.com/blog/nodejs-2025/" style="color: #f7931a; text-decoration: none;">Modern Node.js Patterns</a> — <code>2025-08-03 19:16 UTC</code></li>
-  <li>🔹 <a href="https://www.anthropic.com/research/persona-vectors" style="color: #f7931a; text-decoration: none;">Persona vectors: Monitoring and controlling character traits in language models</a> — <code>2025-08-03 16:38 UTC</code></li>
   <li>🔹 <a href="https://news.asu.edu/20250725-environment-and-sustainability-new-global-study-shows-freshwater-disappearing-alarming" style="color: #f7931a; text-decoration: none;">Freshwater loss from land is the lead driver of sea-level rise</a> — <code>2025-08-03 19:49 UTC</code></li>
+  <li>🔹 <a href="https://www.anthropic.com/research/persona-vectors" style="color: #f7931a; text-decoration: none;">Persona vectors: Monitoring and controlling character traits in language models</a> — <code>2025-08-03 16:38 UTC</code></li>
+  <li>🔹 <a href="https://grantslatton.com/how-to-design-document" style="color: #f7931a; text-decoration: none;">Writing a Good Design Document</a> — <code>2025-08-03 20:21 UTC</code></li>
   <li>🔹 <a href="https://acoup.blog/2025/08/01/collections-life-work-death-and-the-peasant-part-iiia-family-formation/" style="color: #f7931a; text-decoration: none;">Collections: Life, Work, Death and the Peasant, Part IIIa: Family Formation</a> — <code>2025-08-02 07:39 UTC</code></li>
   <li>🔹 <a href="https://stephango.com/ramblings" style="color: #f7931a; text-decoration: none;">If you're remote, ramble</a> — <code>2025-08-03 10:32 UTC</code></li>
-  <li>🔹 <a href="https://grantslatton.com/how-to-design-document" style="color: #f7931a; text-decoration: none;">Writing a Good Design Document</a> — <code>2025-08-03 20:21 UTC</code></li>
-  <li>🔹 <a href="https://www.reuters.com/world/un-report-finds-united-nations-reports-are-not-widely-read-2025-08-01/" style="color: #f7931a; text-decoration: none;">UN report finds UN reports are not widely read</a> — <code>2025-08-03 16:49 UTC</code></li>
   <li>🔹 <a href="https://archive.irixnet.org/thisoldsgi/" style="color: #f7931a; text-decoration: none;">This Old SGI: notes and memoirs on the Silicon Graphics 4D series (1996)</a> — <code>2025-08-03 15:04 UTC</code></li>
+  <li>🔹 <a href="https://www.reuters.com/world/un-report-finds-united-nations-reports-are-not-widely-read-2025-08-01/" style="color: #f7931a; text-decoration: none;">UN report finds UN reports are not widely read</a> — <code>2025-08-03 16:49 UTC</code></li>
   <li>🔹 <a href="https://www.ioccc.org/2024/index.html" style="color: #f7931a; text-decoration: none;">Twenty Eighth International Obfuscated C Code Contest</a> — <code>2025-08-03 04:34 UTC</code></li>
   <li>🔹 <a href="https://www.bbc.com/news/articles/c4gzx0zm68vo" style="color: #f7931a; text-decoration: none;">2,500-year-old Siberian 'ice mummy' had intricate tattoos, imaging reveals</a> — <code>2025-07-31 13:29 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-03 21:08:38 UTC
+  latest update: 2025-08-03 21:29:43 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
