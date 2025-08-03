@@ -106,30 +106,32 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
 <h3>📰 Hacker News (Every 15 minutes)</h3>
 
 <ul style="list-style-type: none; padding-left: 0; line-height: 1.6;">
-  <li>🔹 <a href="https://kashw1n.com/blog/nodejs-2025/" style="color: #f7931a; text-decoration: none;">Modern Node.js Patterns</a> — <code>2025-08-03 19:16 UTC</code></li>
   <li>🔹 <a href="https://www.economist.com/graphic-detail/2022/09/29/a-study-of-lights-at-night-suggests-dictators-lie-about-economic-growth" style="color: #f7931a; text-decoration: none;">A study of lights at night suggests dictators lie about economic growth (2022)</a> — <code>2025-08-03 22:50 UTC</code></li>
+  <li>🔹 <a href="https://kashw1n.com/blog/nodejs-2025/" style="color: #f7931a; text-decoration: none;">Modern Node.js Patterns</a> — <code>2025-08-03 19:16 UTC</code></li>
   <li>🔹 <a href="https://grantslatton.com/how-to-design-document" style="color: #f7931a; text-decoration: none;">Writing a good design document</a> — <code>2025-08-03 20:21 UTC</code></li>
   <li>🔹 <a href="https://www.anthropic.com/research/persona-vectors" style="color: #f7931a; text-decoration: none;">Persona vectors: Monitoring and controlling character traits in language models</a> — <code>2025-08-03 16:38 UTC</code></li>
+  <li>🔹 <a href="https://eliot-jones.com/2025/8/pdf-parsing-xref" style="color: #f7931a; text-decoration: none;">So you want to parse a PDF?</a> — <code>2025-08-03 22:24 UTC</code></li>
   <li>🔹 <a href="https://url.town/" style="color: #f7931a; text-decoration: none;">Welcome to url.town, population 465</a> — <code>2025-08-02 08:24 UTC</code></li>
   <li>🔹 <a href="https://stephango.com/ramblings" style="color: #f7931a; text-decoration: none;">If you're remote, ramble</a> — <code>2025-08-03 10:32 UTC</code></li>
-  <li>🔹 <a href="https://howtogrowalmostanything.notion.site/htgaa25" style="color: #f7931a; text-decoration: none;">How to Grow Almost Anything</a> — <code>2025-08-03 22:55 UTC</code></li>
-  <li>🔹 <a href="https://eliot-jones.com/2025/8/pdf-parsing-xref" style="color: #f7931a; text-decoration: none;">So you want to parse a PDF?</a> — <code>2025-08-03 22:24 UTC</code></li>
   <li>🔹 <a href="https://acoup.blog/2025/08/01/collections-life-work-death-and-the-peasant-part-iiia-family-formation/" style="color: #f7931a; text-decoration: none;">Life, Work, Death and the Peasant: Family Formation</a> — <code>2025-08-02 07:39 UTC</code></li>
+  <li>🔹 <a href="https://howtogrowalmostanything.notion.site/htgaa25" style="color: #f7931a; text-decoration: none;">How to Grow Almost Anything</a> — <code>2025-08-03 22:55 UTC</code></li>
   <li>🔹 <a href="https://news.asu.edu/20250725-environment-and-sustainability-new-global-study-shows-freshwater-disappearing-alarming" style="color: #f7931a; text-decoration: none;">Shrinking freshwater availability increasing land contribution to sea level rise</a> — <code>2025-08-03 19:49 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-03 23:30:30 UTC
+  latest update: 2025-08-03 23:50:08 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
