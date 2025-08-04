@@ -155,6 +155,7 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
@@ -165,20 +166,21 @@
   <li>🔹 <a href="https://isitreallyfoss.com/" style="color: #f7931a; text-decoration: none;">Is It FOSS?</a> — <code>2025-08-04 21:26 UTC</code></li>
   <li>🔹 <a href="https://qwenlm.github.io/blog/qwen-image/" style="color: #f7931a; text-decoration: none;">Qwen-Image: Crafting with native text rendering</a> — <code>2025-08-04 15:56 UTC</code></li>
   <li>🔹 <a href="https://www.jpl.nasa.gov/news/marking-13-years-on-mars-nasas-curiosity-picks-up-new-skills/" style="color: #f7931a; text-decoration: none;">NASA's Curiosity picks up new skills</a> — <code>2025-08-04 19:20 UTC</code></li>
-  <li>🔹 <a href="https://v8.dev/blog/json-stringify" style="color: #f7931a; text-decoration: none;">How we made JSON.stringify more than twice as fast</a> — <code>2025-08-04 14:09 UTC</code></li>
   <li>🔹 <a href="https://www.aboutamazon.eu/news/aws/aws-european-sovereign-cloud-to-be-operated-by-eu-citizens" style="color: #f7931a; text-decoration: none;">AWS European Sovereign Cloud to be operated by EU citizens</a> — <code>2025-08-04 20:44 UTC</code></li>
-  <li>🔹 <a href="https://www.tesla.com/tesla-diner" style="color: #f7931a; text-decoration: none;">Tesla Diner</a> — <code>2025-08-04 22:43 UTC</code></li>
+  <li>🔹 <a href="https://v8.dev/blog/json-stringify" style="color: #f7931a; text-decoration: none;">How we made JSON.stringify more than twice as fast</a> — <code>2025-08-04 14:09 UTC</code></li>
+  <li>🔹 <a href="https://whatdoesonebilliondollarslooklike.website/" style="color: #f7931a; text-decoration: none;">What Does One Billion Dollars Look Like?</a> — <code>2025-08-04 21:34 UTC</code></li>
   <li>🔹 <a href="https://bl.ag/indian-sign-painting-a-typeface-designers-take-on-the-craft/" style="color: #f7931a; text-decoration: none;">Indian Sign Painting: A typeface designer's take on the craft</a> — <code>2025-08-02 14:03 UTC</code></li>
   <li>🔹 <a href="https://www.giacomoran.com/blog/content-aware-sr/" style="color: #f7931a; text-decoration: none;">Content-Aware Spaced Repetition</a> — <code>2025-08-04 19:32 UTC</code></li>
-  <li>🔹 <a href="https://fortune.com/2025/08/03/ai-interviewers-job-seekers-unemployment-hiring-hr-teams/" style="color: #f7931a; text-decoration: none;">Job-seekers are dodging AI interviewers</a> — <code>2025-08-04 08:04 UTC</code></li>
+  <li>🔹 <a href="https://github.com/crbnos/carbon" style="color: #f7931a; text-decoration: none;">Show HN: I've been building an ERP for manufacturing for the last 3 years</a> — <code>2025-08-04 22:24 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-04 23:09:56 UTC
+  latest update: 2025-08-04 23:31:03 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
