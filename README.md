@@ -140,6 +140,7 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
@@ -151,19 +152,20 @@
   <li>🔹 <a href="https://notashes.me/blog/part-1-memory-management/" style="color: #f7931a; text-decoration: none;">Part 1: A Deep Dive into Rust and C Memory Interoperability</a> — <code>2025-08-04 15:12 UTC</code></li>
   <li>🔹 <a href="https://hegemon.substack.com/p/facts-will-not-save-you" style="color: #f7931a; text-decoration: none;">Facts will not Save You - AI, History and Soviet Sci-Fi</a> — <code>2025-08-01 18:16 UTC</code></li>
   <li>🔹 <a href="https://openipc.org/à" style="color: #f7931a; text-decoration: none;">Open IP Camera Firmware</a> — <code>2025-08-01 15:41 UTC</code></li>
-  <li>🔹 <a href="https://videocardz.com/newz/gigabyte-removes-unofficial-pcie-5-0-support-from-b650-motherboards-in-latest-bios-update" style="color: #f7931a; text-decoration: none;">Gigabyte removes PCIe 5.0 support from B650 motherboards in latest BIOS update</a> — <code>2025-08-02 19:01 UTC</code></li>
-  <li>🔹 <a href="https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/" style="color: #f7931a; text-decoration: none;">Perplexity is using stealth, undeclared crawlers to evade no-crawl directives</a> — <code>2025-08-04 13:39 UTC</code></li>
   <li>🔹 <a href="https://fortune.com/2025/08/03/ai-interviewers-job-seekers-unemployment-hiring-hr-teams/" style="color: #f7931a; text-decoration: none;">Job-seekers are dodging AI interviewers</a> — <code>2025-08-04 08:04 UTC</code></li>
+  <li>🔹 <a href="https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/" style="color: #f7931a; text-decoration: none;">Perplexity is using stealth, undeclared crawlers to evade no-crawl directives</a> — <code>2025-08-04 13:39 UTC</code></li>
   <li>🔹 <a href="https://www.ashermancinelli.com/csblog/2025-7-20-Ideal-Array-Language.html" style="color: #f7931a; text-decoration: none;">My Ideal Array Language</a> — <code>2025-08-04 13:05 UTC</code></li>
   <li>🔹 <a href="https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/" style="color: #f7931a; text-decoration: none;">Century-Old Stone “Tsunami Stones” Dot Japan's Coastline (2015)</a> — <code>2025-08-04 12:51 UTC</code></li>
+  <li>🔹 <a href="https://quizmathgenius.com/" style="color: #f7931a; text-decoration: none;">Show HN: Tiny logic and number games I built for my kids</a> — <code>2025-08-04 15:25 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-04 18:14:45 UTC
+  latest update: 2025-08-04 18:49:25 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
