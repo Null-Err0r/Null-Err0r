@@ -120,6 +120,7 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
@@ -131,19 +132,20 @@
   <li>🔹 <a href="https://eliot-jones.com/2025/8/pdf-parsing-xref" style="color: #f7931a; text-decoration: none;">So you want to parse a PDF?</a> — <code>2025-08-03 22:24 UTC</code></li>
   <li>🔹 <a href="https://grantslatton.com/how-to-design-document" style="color: #f7931a; text-decoration: none;">Writing a good design document</a> — <code>2025-08-03 20:21 UTC</code></li>
   <li>🔹 <a href="https://www.anthropic.com/research/persona-vectors" style="color: #f7931a; text-decoration: none;">Persona vectors: Monitoring and controlling character traits in language models</a> — <code>2025-08-03 16:38 UTC</code></li>
-  <li>🔹 <a href="https://github.com/easrng/tsints" style="color: #f7931a; text-decoration: none;">A parser for TypeScript types, written in TypeScript types</a> — <code>2025-08-04 02:12 UTC</code></li>
   <li>🔹 <a href="https://stephango.com/ramblings" style="color: #f7931a; text-decoration: none;">If you're remote, ramble</a> — <code>2025-08-03 10:32 UTC</code></li>
   <li>🔹 <a href="https://acoup.blog/2025/08/01/collections-life-work-death-and-the-peasant-part-iiia-family-formation/" style="color: #f7931a; text-decoration: none;">Life, Work, Death and the Peasant: Family Formation</a> — <code>2025-08-02 07:39 UTC</code></li>
   <li>🔹 <a href="https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers" style="color: #f7931a; text-decoration: none;">Why doctors hate their computers (2018)</a> — <code>2025-08-04 00:41 UTC</code></li>
-  <li>🔹 <a href="https://www.nber.org/papers/w34071" style="color: #f7931a; text-decoration: none;">Rising Young Worker Despair in the United States</a> — <code>2025-08-04 04:11 UTC</code></li>
+  <li>🔹 <a href="https://github.com/easrng/tsints" style="color: #f7931a; text-decoration: none;">A parser for TypeScript types, written in TypeScript types</a> — <code>2025-08-04 02:12 UTC</code></li>
+  <li>🔹 <a href="https://fortune.com/2025/08/03/ai-interviewers-job-seekers-unemployment-hiring-hr-teams/" style="color: #f7931a; text-decoration: none;">Job-seekers are dodging AI interviewers</a> — <code>2025-08-04 08:04 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-04 09:51:21 UTC
+  latest update: 2025-08-04 10:13:18 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
