@@ -144,6 +144,7 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
@@ -153,21 +154,22 @@
   <li>🔹 <a href="https://benholmen.com/blog/kilopixel/" style="color: #f7931a; text-decoration: none;">Show HN: I spent 6 years building a ridiculous wooden pixel display</a> — <code>2025-08-04 16:16 UTC</code></li>
   <li>🔹 <a href="https://offline.kids/" style="color: #f7931a; text-decoration: none;">Offline.kids – Screen-free activities for kids</a> — <code>2025-08-04 17:50 UTC</code></li>
   <li>🔹 <a href="https://eprints.lse.ac.uk/112431/" style="color: #f7931a; text-decoration: none;">Circadian justice</a> — <code>2025-08-04 18:27 UTC</code></li>
+  <li>🔹 <a href="https://qwenlm.github.io/blog/qwen-image/" style="color: #f7931a; text-decoration: none;">Qwen-Image: Crafting with native text rendering</a> — <code>2025-08-04 15:56 UTC</code></li>
   <li>🔹 <a href="https://notashes.me/blog/part-1-memory-management/" style="color: #f7931a; text-decoration: none;">A deep dive into Rust and C memory interoperability</a> — <code>2025-08-04 15:12 UTC</code></li>
   <li>🔹 <a href="https://openipc.org/à" style="color: #f7931a; text-decoration: none;">OpenIPC: Open IP Camera Firmware</a> — <code>2025-08-01 15:41 UTC</code></li>
-  <li>🔹 <a href="https://qwenlm.github.io/blog/qwen-image/" style="color: #f7931a; text-decoration: none;">Qwen-Image: Crafting with native text rendering</a> — <code>2025-08-04 15:56 UTC</code></li>
   <li>🔹 <a href="https://bl.ag/indian-sign-painting-a-typeface-designers-take-on-the-craft/" style="color: #f7931a; text-decoration: none;">Indian Sign Painting: A typeface designer's take on the craft</a> — <code>2025-08-02 14:03 UTC</code></li>
   <li>🔹 <a href="https://fortune.com/2025/08/03/ai-interviewers-job-seekers-unemployment-hiring-hr-teams/" style="color: #f7931a; text-decoration: none;">Job-seekers are dodging AI interviewers</a> — <code>2025-08-04 08:04 UTC</code></li>
+  <li>🔹 <a href="https://evgeniipendragon.com/posts/customizing-tmux-and-making-it-less-dreadful/" style="color: #f7931a; text-decoration: none;">Customizing tmux</a> — <code>2025-08-04 15:41 UTC</code></li>
   <li>🔹 <a href="https://www.ashermancinelli.com/csblog/2025-7-20-Ideal-Array-Language.html" style="color: #f7931a; text-decoration: none;">My Ideal Array Language</a> — <code>2025-08-04 13:05 UTC</code></li>
-  <li>🔹 <a href="https://www.itsnicethat.com/features/how-we-built-bluey-s-world-cartoon-background-scenery-art-director-catriona-drummond-animation-090725" style="color: #f7931a; text-decoration: none;">How we built Bluey’s world</a> — <code>2025-08-01 12:33 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-04 19:41:48 UTC
+  latest update: 2025-08-04 19:49:29 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
