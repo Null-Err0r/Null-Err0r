@@ -132,6 +132,7 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
@@ -140,22 +141,23 @@
 <ul style="list-style-type: none; padding-left: 0; line-height: 1.6;">
   <li>🔹 <a href="https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/" style="color: #f7931a; text-decoration: none;">Century-Old Stone “Tsunami Stones” Dot Japan's Coastline (2015)</a> — <code>2025-08-04 12:51 UTC</code></li>
   <li>🔹 <a href="https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/" style="color: #f7931a; text-decoration: none;">Perplexity is using stealth, undeclared crawlers to evade no-crawl directives</a> — <code>2025-08-04 13:39 UTC</code></li>
-  <li>🔹 <a href="https://dustri.org/b/objects-should-shut-the-fuck-up.html" style="color: #f7931a; text-decoration: none;">Objects should shut the fuck up</a> — <code>2025-08-04 14:33 UTC</code></li>
+  <li>🔹 <a href="https://notashes.me/blog/part-1-memory-management/" style="color: #f7931a; text-decoration: none;">Part 1: A Deep Dive into Rust and C Memory Interoperability</a> — <code>2025-08-04 15:12 UTC</code></li>
   <li>🔹 <a href="https://research.vu.nl/ws/portalfiles/portal/127420931/Genetic_correlates_of_social_stratification_in_Great_Britain.pdf" style="color: #f7931a; text-decoration: none;">Genetic correlates of social stratification in Great Britain (2019) [pdf]</a> — <code>2025-08-04 12:41 UTC</code></li>
+  <li>🔹 <a href="https://www.ashermancinelli.com/csblog/2025-7-20-Ideal-Array-Language.html" style="color: #f7931a; text-decoration: none;">My Ideal Array Language</a> — <code>2025-08-04 13:05 UTC</code></li>
   <li>🔹 <a href="https://spectrum.ieee.org/optical-brain-imaging" style="color: #f7931a; text-decoration: none;">Scientists shine a laser through a human head</a> — <code>2025-08-04 13:07 UTC</code></li>
   <li>🔹 <a href="https://arxiv.org/abs/2506.14272" style="color: #f7931a; text-decoration: none;">GHz spiking neuromorphic photonic chip with in-situ training</a> — <code>2025-08-04 11:21 UTC</code></li>
-  <li>🔹 <a href="https://www.ashermancinelli.com/csblog/2025-7-20-Ideal-Array-Language.html" style="color: #f7931a; text-decoration: none;">My Ideal Array Language</a> — <code>2025-08-04 13:05 UTC</code></li>
   <li>🔹 <a href="https://fortune.com/2025/08/03/ai-interviewers-job-seekers-unemployment-hiring-hr-teams/" style="color: #f7931a; text-decoration: none;">Job-seekers are dodging AI interviewers</a> — <code>2025-08-04 08:04 UTC</code></li>
+  <li>🔹 <a href="https://dustri.org/b/objects-should-shut-the-fuck-up.html" style="color: #f7931a; text-decoration: none;">Objects should shut the fuck up</a> — <code>2025-08-04 14:33 UTC</code></li>
   <li>🔹 <a href="https://deprogrammaticaipsum.com/the-toyota-corolla-of-programming/" style="color: #f7931a; text-decoration: none;">The Toyota Corolla of programming</a> — <code>2025-08-04 13:49 UTC</code></li>
-  <li>🔹 <a href="https://blog.pkh.me/p/44-perfecting-anti-aliasing-on-signed-distance-functions.html" style="color: #f7931a; text-decoration: none;">Perfecting anti-aliasing on signed distance functions</a> — <code>2025-08-04 10:55 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-04 14:57:45 UTC
+  latest update: 2025-08-04 15:17:53 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
