@@ -117,6 +117,7 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
@@ -130,17 +131,18 @@
   <li>🔹 <a href="https://www.anthropic.com/research/persona-vectors" style="color: #f7931a; text-decoration: none;">Persona vectors: Monitoring and controlling character traits in language models</a> — <code>2025-08-03 16:38 UTC</code></li>
   <li>🔹 <a href="https://github.com/easrng/tsints" style="color: #f7931a; text-decoration: none;">A parser for TypeScript types, written in TypeScript types</a> — <code>2025-08-04 02:12 UTC</code></li>
   <li>🔹 <a href="https://stephango.com/ramblings" style="color: #f7931a; text-decoration: none;">If you're remote, ramble</a> — <code>2025-08-03 10:32 UTC</code></li>
-  <li>🔹 <a href="https://thenewstack.io/how-python-grew-from-a-language-to-a-community/" style="color: #f7931a; text-decoration: none;">How Python grew from a language to a community</a> — <code>2025-08-03 16:38 UTC</code></li>
   <li>🔹 <a href="https://acoup.blog/2025/08/01/collections-life-work-death-and-the-peasant-part-iiia-family-formation/" style="color: #f7931a; text-decoration: none;">Life, Work, Death and the Peasant: Family Formation</a> — <code>2025-08-02 07:39 UTC</code></li>
-  <li>🔹 <a href="http://ithare.com/c-model-of-the-hardware-vs-model-of-the-compiler/" style="color: #f7931a; text-decoration: none;">C++: "model of the hardware" vs. "model of the compiler" (2018)</a> — <code>2025-07-31 08:36 UTC</code></li>
+  <li>🔹 <a href="https://thenewstack.io/how-python-grew-from-a-language-to-a-community/" style="color: #f7931a; text-decoration: none;">How Python grew from a language to a community</a> — <code>2025-08-03 16:38 UTC</code></li>
+  <li>🔹 <a href="https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers" style="color: #f7931a; text-decoration: none;">Why doctors hate their computers (2018)</a> — <code>2025-08-04 00:41 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-04 08:15:29 UTC
+  latest update: 2025-08-04 08:50:58 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
