@@ -135,6 +135,7 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
@@ -146,19 +147,20 @@
   <li>🔹 <a href="https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/" style="color: #f7931a; text-decoration: none;">Century-Old Stone “Tsunami Stones” Dot Japan's Coastline (2015)</a> — <code>2025-08-04 12:51 UTC</code></li>
   <li>🔹 <a href="https://openipc.org/à" style="color: #f7931a; text-decoration: none;">Open IP Camera Firmware</a> — <code>2025-08-01 15:41 UTC</code></li>
   <li>🔹 <a href="https://spectrum.ieee.org/optical-brain-imaging" style="color: #f7931a; text-decoration: none;">Scientists shine a laser through a human head</a> — <code>2025-08-04 13:07 UTC</code></li>
+  <li>🔹 <a href="https://quizmathgenius.com/" style="color: #f7931a; text-decoration: none;">Show HN: Tiny logic and number games I built for my kids</a> — <code>2025-08-04 15:25 UTC</code></li>
   <li>🔹 <a href="https://www.ashermancinelli.com/csblog/2025-7-20-Ideal-Array-Language.html" style="color: #f7931a; text-decoration: none;">My Ideal Array Language</a> — <code>2025-08-04 13:05 UTC</code></li>
   <li>🔹 <a href="https://arxiv.org/abs/2506.14272" style="color: #f7931a; text-decoration: none;">GHz spiking neuromorphic photonic chip with in-situ training</a> — <code>2025-08-04 11:21 UTC</code></li>
+  <li>🔹 <a href="https://hegemon.substack.com/p/facts-will-not-save-you" style="color: #f7931a; text-decoration: none;">Facts will not Save You - AI, History and Soviet Sci-Fi</a> — <code>2025-08-01 18:16 UTC</code></li>
   <li>🔹 <a href="https://fortune.com/2025/08/03/ai-interviewers-job-seekers-unemployment-hiring-hr-teams/" style="color: #f7931a; text-decoration: none;">Job-seekers are dodging AI interviewers</a> — <code>2025-08-04 08:04 UTC</code></li>
-  <li>🔹 <a href="https://quizmathgenius.com/" style="color: #f7931a; text-decoration: none;">Show HN: Tiny logic and number games I built for my kids</a> — <code>2025-08-04 15:25 UTC</code></li>
-  <li>🔹 <a href="https://deprogrammaticaipsum.com/the-toyota-corolla-of-programming/" style="color: #f7931a; text-decoration: none;">The Toyota Corolla of programming</a> — <code>2025-08-04 13:49 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-04 15:56:18 UTC
+  latest update: 2025-08-04 16:16:58 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
