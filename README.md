@@ -127,30 +127,32 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
 <h3>📰 Hacker News (Every 15 minutes)</h3>
 
 <ul style="list-style-type: none; padding-left: 0; line-height: 1.6;">
-  <li>🔹 <a href="https://arxiv.org/abs/2506.14272" style="color: #f7931a; text-decoration: none;">Photonic SNN chip reaches 1 GHz and supports on-chip learning</a> — <code>2025-08-04 11:21 UTC</code></li>
+  <li>🔹 <a href="https://arxiv.org/abs/2506.14272" style="color: #f7931a; text-decoration: none;">GHz spiking neuromorphic photonic chip with in-situ training</a> — <code>2025-08-04 11:21 UTC</code></li>
+  <li>🔹 <a href="https://lweb.cfa.harvard.edu/~loeb/HCL25.pdf" style="color: #f7931a; text-decoration: none;">Is the Interstellar Object 3I/Atlas Alien Technology? [pdf]</a> — <code>2025-08-04 12:48 UTC</code></li>
   <li>🔹 <a href="https://blog.pkh.me/p/44-perfecting-anti-aliasing-on-signed-distance-functions.html" style="color: #f7931a; text-decoration: none;">Perfecting anti-aliasing on signed distance functions</a> — <code>2025-08-04 10:55 UTC</code></li>
+  <li>🔹 <a href="https://www.wired.com/story/palantir-government-contracting-push/" style="color: #f7931a; text-decoration: none;">Palantir Is Extending Its Reach Even Further into Government</a> — <code>2025-08-04 11:44 UTC</code></li>
+  <li>🔹 <a href="https://www.pcgamer.com/games/mastercard-deflects-blame-for-nsfw-games-being-taken-down-but-valve-says-payment-processors-specifically-cited-a-mastercard-rule-about-damaging-the-brand/" style="color: #f7931a; text-decoration: none;">Mastercard deflects blame for NSFW games being taken down</a> — <code>2025-08-04 09:27 UTC</code></li>
+  <li>🔹 <a href="https://research.vu.nl/ws/portalfiles/portal/127420931/Genetic_correlates_of_social_stratification_in_Great_Britain.pdf" style="color: #f7931a; text-decoration: none;">Genetic correlates of social stratification in Great Britain [pdf]</a> — <code>2025-08-04 12:41 UTC</code></li>
+  <li>🔹 <a href="https://www.itsnicethat.com/features/how-we-built-bluey-s-world-cartoon-background-scenery-art-director-catriona-drummond-animation-090725" style="color: #f7931a; text-decoration: none;">How we built Bluey’s World</a> — <code>2025-08-01 12:33 UTC</code></li>
   <li>🔹 <a href="https://phys.org/news/2025-07-quantum-state-interface-exotic-materials.html" style="color: #f7931a; text-decoration: none;">New quantum state of matter found at interface of exotic materials</a> — <code>2025-08-01 09:42 UTC</code></li>
   <li>🔹 <a href="https://kashw1n.com/blog/nodejs-2025/" style="color: #f7931a; text-decoration: none;">Modern Node.js Patterns</a> — <code>2025-08-03 19:16 UTC</code></li>
   <li>🔹 <a href="https://eliot-jones.com/2025/8/pdf-parsing-xref" style="color: #f7931a; text-decoration: none;">So you want to parse a PDF?</a> — <code>2025-08-03 22:24 UTC</code></li>
-  <li>🔹 <a href="https://grantslatton.com/how-to-design-document" style="color: #f7931a; text-decoration: none;">Writing a good design document</a> — <code>2025-08-03 20:21 UTC</code></li>
-  <li>🔹 <a href="https://www.anthropic.com/research/persona-vectors" style="color: #f7931a; text-decoration: none;">Persona vectors: Monitoring and controlling character traits in language models</a> — <code>2025-08-03 16:38 UTC</code></li>
-  <li>🔹 <a href="https://www.theverge.com/reviews/717491/lenovo-thinkbook-plus-gen-6-rollable-laptop-review" style="color: #f7931a; text-decoration: none;">ThinkBook Plus Gen 6 – Lenovo’s rollable laptop</a> — <code>2025-08-04 10:10 UTC</code></li>
-  <li>🔹 <a href="https://stephango.com/ramblings" style="color: #f7931a; text-decoration: none;">If you're remote, ramble</a> — <code>2025-08-03 10:32 UTC</code></li>
-  <li>🔹 <a href="https://www.livescience.com/physics-mathematics/lightning-on-earth-is-sparked-by-a-powerful-chain-reaction-from-outer-space-simulations-show" style="color: #f7931a; text-decoration: none;">Lightning on Earth is sparked by a powerful chain reaction from outer space</a> — <code>2025-08-04 09:49 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-04 12:19:44 UTC
+  latest update: 2025-08-04 13:12:34 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
