@@ -141,6 +141,7 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
@@ -148,23 +149,24 @@
 
 <ul style="list-style-type: none; padding-left: 0; line-height: 1.6;">
   <li>🔹 <a href="https://benholmen.com/blog/kilopixel/" style="color: #f7931a; text-decoration: none;">Show HN: I spent 6 years building a ridiculous wooden pixel display</a> — <code>2025-08-04 16:16 UTC</code></li>
-  <li>🔹 <a href="https://www.vogue.com/article/reconnecting-with-ex-friends" style="color: #f7931a; text-decoration: none;">I Asked Four Former Friends Why We Stopped Speaking-Here's What I Learned (2023)</a> — <code>2025-08-04 17:18 UTC</code></li>
-  <li>🔹 <a href="https://notashes.me/blog/part-1-memory-management/" style="color: #f7931a; text-decoration: none;">Part 1: A Deep Dive into Rust and C Memory Interoperability</a> — <code>2025-08-04 15:12 UTC</code></li>
-  <li>🔹 <a href="https://hegemon.substack.com/p/facts-will-not-save-you" style="color: #f7931a; text-decoration: none;">Facts will not Save You - AI, History and Soviet Sci-Fi</a> — <code>2025-08-01 18:16 UTC</code></li>
-  <li>🔹 <a href="https://openipc.org/à" style="color: #f7931a; text-decoration: none;">Open IP Camera Firmware</a> — <code>2025-08-01 15:41 UTC</code></li>
+  <li>🔹 <a href="https://offline.kids/" style="color: #f7931a; text-decoration: none;">Offline.kids – Screen-free activities for kids</a> — <code>2025-08-04 17:50 UTC</code></li>
+  <li>🔹 <a href="https://notashes.me/blog/part-1-memory-management/" style="color: #f7931a; text-decoration: none;">A deep dive into Rust and C memory interoperability</a> — <code>2025-08-04 15:12 UTC</code></li>
+  <li>🔹 <a href="https://eprints.lse.ac.uk/112431/" style="color: #f7931a; text-decoration: none;">Circadian justice</a> — <code>2025-08-04 18:27 UTC</code></li>
+  <li>🔹 <a href="https://openipc.org/à" style="color: #f7931a; text-decoration: none;">OpenIPC: Open IP Camera Firmware</a> — <code>2025-08-01 15:41 UTC</code></li>
   <li>🔹 <a href="https://fortune.com/2025/08/03/ai-interviewers-job-seekers-unemployment-hiring-hr-teams/" style="color: #f7931a; text-decoration: none;">Job-seekers are dodging AI interviewers</a> — <code>2025-08-04 08:04 UTC</code></li>
+  <li>🔹 <a href="https://www.reuters.com/sustainability/climate-energy/europe-is-breaking-its-reliance-american-science-2025-08-01/" style="color: #f7931a; text-decoration: none;">Europe is breaking its reliance on American science</a> — <code>2025-08-04 18:48 UTC</code></li>
   <li>🔹 <a href="https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/" style="color: #f7931a; text-decoration: none;">Perplexity is using stealth, undeclared crawlers to evade no-crawl directives</a> — <code>2025-08-04 13:39 UTC</code></li>
   <li>🔹 <a href="https://www.ashermancinelli.com/csblog/2025-7-20-Ideal-Array-Language.html" style="color: #f7931a; text-decoration: none;">My Ideal Array Language</a> — <code>2025-08-04 13:05 UTC</code></li>
-  <li>🔹 <a href="https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/" style="color: #f7931a; text-decoration: none;">Century-Old Stone “Tsunami Stones” Dot Japan's Coastline (2015)</a> — <code>2025-08-04 12:51 UTC</code></li>
-  <li>🔹 <a href="https://quizmathgenius.com/" style="color: #f7931a; text-decoration: none;">Show HN: Tiny logic and number games I built for my kids</a> — <code>2025-08-04 15:25 UTC</code></li>
+  <li>🔹 <a href="https://www.itsnicethat.com/features/how-we-built-bluey-s-world-cartoon-background-scenery-art-director-catriona-drummond-animation-090725" style="color: #f7931a; text-decoration: none;">How we built Bluey’s world</a> — <code>2025-08-01 12:33 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-04 18:49:25 UTC
+  latest update: 2025-08-04 19:12:24 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
