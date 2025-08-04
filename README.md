@@ -150,6 +150,7 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
@@ -161,19 +162,20 @@
   <li>🔹 <a href="https://www.jpl.nasa.gov/news/marking-13-years-on-mars-nasas-curiosity-picks-up-new-skills/" style="color: #f7931a; text-decoration: none;">NASA's Curiosity picks up new skills</a> — <code>2025-08-04 19:20 UTC</code></li>
   <li>🔹 <a href="https://bl.ag/indian-sign-painting-a-typeface-designers-take-on-the-craft/" style="color: #f7931a; text-decoration: none;">Indian Sign Painting: A typeface designer's take on the craft</a> — <code>2025-08-02 14:03 UTC</code></li>
   <li>🔹 <a href="https://v8.dev/blog/json-stringify" style="color: #f7931a; text-decoration: none;">How we made JSON.stringify more than twice as fast</a> — <code>2025-08-04 14:09 UTC</code></li>
+  <li>🔹 <a href="https://lithub.com/what-happened-when-i-tried-to-replace-myself-with-chatgpt-in-my-english-classroom/" style="color: #f7931a; text-decoration: none;">What Happened When I Tried to Replace Myself with ChatGPT in My English Class</a> — <code>2025-08-02 17:32 UTC</code></li>
   <li>🔹 <a href="https://me.pcmag.com/en/networking/31452/spacexs-cellular-starlink-expands-to-support-iot-devices" style="color: #f7931a; text-decoration: none;">Cellular Starlink expands to support IoT devices</a> — <code>2025-08-01 11:32 UTC</code></li>
   <li>🔹 <a href="https://www.nytimes.com/2025/08/04/well/cardiac-amyloidosis.html" style="color: #f7931a; text-decoration: none;">Once a death sentence, cardiac amyloidosis is finally treatable</a> — <code>2025-08-04 20:23 UTC</code></li>
+  <li>🔹 <a href="https://www.giacomoran.com/blog/content-aware-sr/" style="color: #f7931a; text-decoration: none;">Content-Aware Spaced Repetition</a> — <code>2025-08-04 19:32 UTC</code></li>
   <li>🔹 <a href="https://openipc.org/à" style="color: #f7931a; text-decoration: none;">OpenIPC: Open IP Camera Firmware</a> — <code>2025-08-01 15:41 UTC</code></li>
-  <li>🔹 <a href="https://eprints.lse.ac.uk/112431/" style="color: #f7931a; text-decoration: none;">Circadian justice (2022)</a> — <code>2025-08-04 18:27 UTC</code></li>
-  <li>🔹 <a href="https://lithub.com/what-happened-when-i-tried-to-replace-myself-with-chatgpt-in-my-english-classroom/" style="color: #f7931a; text-decoration: none;">What Happened When I Tried to Replace Myself with ChatGPT in My English Class</a> — <code>2025-08-02 17:32 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-04 21:31:36 UTC
+  latest update: 2025-08-04 21:50:08 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
