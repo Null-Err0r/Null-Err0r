@@ -179,30 +179,32 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
 <h3>📰 Hacker News (Every 15 minutes)</h3>
 
 <ul style="list-style-type: none; padding-left: 0; line-height: 1.6;">
-  <li>🔹 <a href="https://apps.apple.com/cn/app/ublock-origin-lite/id6745342698" style="color: #f7931a; text-decoration: none;">uBlock Origin Lite now available for Safari</a> — <code>2025-08-05 09:01 UTC</code></li>
-  <li>🔹 <a href="https://www.buildyourownlisp.com/" style="color: #f7931a; text-decoration: none;">Build Your Own Lisp (In C)</a> — <code>2025-08-05 11:55 UTC</code></li>
+  <li>🔹 <a href="https://apps.apple.com/app/ublock-origin-lite/id6745342698" style="color: #f7931a; text-decoration: none;">uBlock Origin Lite now available for Safari</a> — <code>2025-08-05 09:01 UTC</code></li>
+  <li>🔹 <a href="https://www.buildyourownlisp.com/" style="color: #f7931a; text-decoration: none;">Build Your Own Lisp</a> — <code>2025-08-05 11:55 UTC</code></li>
   <li>🔹 <a href="https://frigate.video/" style="color: #f7931a; text-decoration: none;">Monitor your security cameras with locally processed AI</a> — <code>2025-08-05 05:05 UTC</code></li>
   <li>🔹 <a href="https://www.smithsonianmag.com/history/man-who-pretended-be-doctor-ran-worlds-fair-attraction-saved-lives-thousands-premature-babies-180960200/" style="color: #f7931a; text-decoration: none;">A Carnival Attraction That Saved Premature Babies (2016)</a> — <code>2025-08-02 18:45 UTC</code></li>
+  <li>🔹 <a href="https://www.science.org/content/article/scientific-fraud-has-become-industry-alarming-analysis-finds" style="color: #f7931a; text-decoration: none;">Scientific fraud has become an 'industry,' alarming analysis finds</a> — <code>2025-08-05 10:56 UTC</code></li>
   <li>🔹 <a href="https://thephp.foundation/blog/2025/07/11/php-85-adds-pipe-operator/" style="color: #f7931a; text-decoration: none;">PHP 8.5 adds pipe operator</a> — <code>2025-08-05 04:13 UTC</code></li>
+  <li>🔹 <a href="https://9to5mac.com/2025/08/05/tsmc-says-employees-tried-to-steal-trade-secrets-on-iphone-18-chip-process/" style="color: #f7931a; text-decoration: none;">TSMC says employees tried to steal trade secrets on iPhone 18 chip process</a> — <code>2025-08-05 12:53 UTC</code></li>
   <li>🔹 <a href="https://benholmen.com/blog/kilopixel/" style="color: #f7931a; text-decoration: none;">Show HN: I spent 6 years building a ridiculous wooden pixel display</a> — <code>2025-08-04 16:16 UTC</code></li>
-  <li>🔹 <a href="https://echarts.apache.org/handbook/en/basics/release-note/v6-feature/" style="color: #f7931a; text-decoration: none;">Apache ECharts 6 New Features</a> — <code>2025-08-05 06:33 UTC</code></li>
+  <li>🔹 <a href="https://echarts.apache.org/handbook/en/basics/release-note/v6-feature/" style="color: #f7931a; text-decoration: none;">Apache ECharts 6</a> — <code>2025-08-05 06:33 UTC</code></li>
   <li>🔹 <a href="https://qwenlm.github.io/blog/qwen-image/" style="color: #f7931a; text-decoration: none;">Qwen-Image: Crafting with native text rendering</a> — <code>2025-08-04 15:56 UTC</code></li>
-  <li>🔹 <a href="https://v8.dev/blog/json-stringify" style="color: #f7931a; text-decoration: none;">How we made JSON.stringify more than twice as fast</a> — <code>2025-08-04 14:09 UTC</code></li>
-  <li>🔹 <a href="https://thingino.com/" style="color: #f7931a; text-decoration: none;">Thingino: Open-Source Firmware for IP Cameras</a> — <code>2025-08-04 22:22 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-05 12:20:00 UTC
+  latest update: 2025-08-05 13:11:48 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
