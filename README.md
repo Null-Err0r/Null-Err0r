@@ -198,6 +198,7 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
@@ -205,23 +206,24 @@
 
 <ul style="list-style-type: none; padding-left: 0; line-height: 1.6;">
   <li>🔹 <a href="https://openai.com/open-models/" style="color: #f7931a; text-decoration: none;">Open models by OpenAI</a> — <code>2025-08-05 17:02 UTC</code></li>
-  <li>🔹 <a href="https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/" style="color: #f7931a; text-decoration: none;">Genie 3: A new frontier for world models</a> — <code>2025-08-05 14:08 UTC</code></li>
   <li>🔹 <a href="https://ergaster.org/til/base64-encoded-json/" style="color: #f7931a; text-decoration: none;">TIL that You can spot base64 encoded JSON, certificates, and private keys</a> — <code>2025-08-05 19:17 UTC</code></li>
-  <li>🔹 <a href="https://github.com/openai/harmony" style="color: #f7931a; text-decoration: none;">OpenAI Harmony</a> — <code>2025-08-05 16:07 UTC</code></li>
+  <li>🔹 <a href="https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/" style="color: #f7931a; text-decoration: none;">Genie 3: A new frontier for world models</a> — <code>2025-08-05 14:08 UTC</code></li>
   <li>🔹 <a href="https://ollama.com/turbo" style="color: #f7931a; text-decoration: none;">Ollama Turbo</a> — <code>2025-08-05 18:46 UTC</code></li>
-  <li>🔹 <a href="https://openai.com/index/introducing-gpt-oss/" style="color: #f7931a; text-decoration: none;">Introducing gpt-oss</a> — <code>2025-08-05 17:00 UTC</code></li>
+  <li>🔹 <a href="https://github.com/openai/harmony" style="color: #f7931a; text-decoration: none;">OpenAI Harmony</a> — <code>2025-08-05 16:07 UTC</code></li>
   <li>🔹 <a href="https://github.com/w3c/png/issues/39" style="color: #f7931a; text-decoration: none;">Consider using Zstandard and/or LZ4 instead of Deflate</a> — <code>2025-08-05 17:18 UTC</code></li>
   <li>🔹 <a href="https://apps.apple.com/app/ublock-origin-lite/id6745342698" style="color: #f7931a; text-decoration: none;">uBlock Origin Lite now available for Safari</a> — <code>2025-08-05 09:01 UTC</code></li>
+  <li>🔹 <a href="https://openai.com/index/introducing-gpt-oss/" style="color: #f7931a; text-decoration: none;">Introducing gpt-oss</a> — <code>2025-08-05 17:00 UTC</code></li>
   <li>🔹 <a href="https://www.anthropic.com/news/claude-opus-4-1" style="color: #f7931a; text-decoration: none;">Claude Opus 4.1</a> — <code>2025-08-05 16:28 UTC</code></li>
   <li>🔹 <a href="https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/" style="color: #f7931a; text-decoration: none;">Things that helped me get out of the AI 10x engineer imposter syndrome</a> — <code>2025-08-05 14:10 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-05 19:49:00 UTC
+  latest update: 2025-08-05 20:11:03 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
