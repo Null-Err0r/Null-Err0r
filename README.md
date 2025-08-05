@@ -167,6 +167,7 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
@@ -182,15 +183,16 @@
   <li>🔹 <a href="https://thingino.com/" style="color: #f7931a; text-decoration: none;">Thingino: Open-Source Firmware for IP Cameras</a> — <code>2025-08-04 22:22 UTC</code></li>
   <li>🔹 <a href="https://lithub.com/what-happened-when-i-tried-to-replace-myself-with-chatgpt-in-my-english-classroom/" style="color: #f7931a; text-decoration: none;">I tried to replace myself with ChatGPT in my English class</a> — <code>2025-08-02 17:32 UTC</code></li>
   <li>🔹 <a href="https://amritkwatra.com/experiments/3d-line-drawings" style="color: #f7931a; text-decoration: none;">3D Line Drawings</a> — <code>2025-08-04 23:16 UTC</code></li>
-  <li>🔹 <a href="https://stories.tamu.edu/news/2025/07/28/ai-turns-drone-footage-into-disaster-response-maps-in-minutes/" style="color: #f7931a; text-decoration: none;">Using drone imagery and AI to rapidly assess damage after hurricanes and floods</a> — <code>2025-08-01 20:22 UTC</code></li>
+  <li>🔹 <a href="https://tallysolutions.com/technology/introduction-to-unikernel-2/" style="color: #f7931a; text-decoration: none;">Introduction to Unikernel: Building, deploying lightweight, secure applications</a> — <code>2025-08-01 14:22 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-05 07:44:14 UTC
+  latest update: 2025-08-05 07:53:27 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
