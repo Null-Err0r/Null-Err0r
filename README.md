@@ -184,6 +184,7 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
@@ -195,19 +196,20 @@
   <li>🔹 <a href="https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/" style="color: #f7931a; text-decoration: none;">AI is not Making Engineers 10x as Productive</a> — <code>2025-08-05 14:10 UTC</code></li>
   <li>🔹 <a href="https://lambdaland.org/posts/2025-08-04_artifical_inanity/" style="color: #f7931a; text-decoration: none;">AI Stands for Artificial Inanity</a> — <code>2025-08-05 13:46 UTC</code></li>
   <li>🔹 <a href="https://www.buildyourownlisp.com/" style="color: #f7931a; text-decoration: none;">Build Your Own Lisp</a> — <code>2025-08-05 11:55 UTC</code></li>
+  <li>🔹 <a href="https://www.news.uscg.mil/Press-Releases/Article/4265651/coast-guard-marine-board-of-investigation-releases-report-on-titan-submersible/" style="color: #f7931a; text-decoration: none;">US Coast Guard Report on Titan Submersible</a> — <code>2025-08-05 14:47 UTC</code></li>
+  <li>🔹 <a href="https://www.lanl.gov/media/publications/1663/dynamics-of-dynamic-imaging" style="color: #f7931a; text-decoration: none;">Los Alamos Is Capturing Real-Time Images of Explosions at 7Mths of a Second</a> — <code>2025-08-05 14:47 UTC</code></li>
+  <li>🔹 <a href="https://prog21.dadgum.com/57.html" style="color: #f7931a; text-decoration: none;">No Comment</a> — <code>2025-08-05 14:30 UTC</code></li>
   <li>🔹 <a href="https://birthdays.app" style="color: #f7931a; text-decoration: none;">Show HN: I built a text-based birthday reminder app</a> — <code>2025-08-05 13:57 UTC</code></li>
   <li>🔹 <a href="https://frigate.video/" style="color: #f7931a; text-decoration: none;">Monitor your security cameras with locally processed AI</a> — <code>2025-08-05 05:05 UTC</code></li>
-  <li>🔹 <a href="https://9to5mac.com/2025/08/05/tsmc-says-employees-tried-to-steal-trade-secrets-on-iphone-18-chip-process/" style="color: #f7931a; text-decoration: none;">TSMC says employees tried to steal trade secrets on iPhone 18 chip process</a> — <code>2025-08-05 12:53 UTC</code></li>
-  <li>🔹 <a href="https://prog21.dadgum.com/57.html" style="color: #f7931a; text-decoration: none;">No Comment</a> — <code>2025-08-05 14:30 UTC</code></li>
-  <li>🔹 <a href="https://www.proxmox.com/en/about/company-details/press-releases/proxmox-virtual-environment-9-0" style="color: #f7931a; text-decoration: none;">Proxmox Virtual Environment 9.0 with Debian 13 released</a> — <code>2025-08-05 13:57 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-05 14:58:41 UTC
+  latest update: 2025-08-05 15:21:12 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
