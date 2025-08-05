@@ -174,6 +174,7 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
@@ -182,22 +183,23 @@
 <ul style="list-style-type: none; padding-left: 0; line-height: 1.6;">
   <li>🔹 <a href="https://apps.apple.com/cn/app/ublock-origin-lite/id6745342698" style="color: #f7931a; text-decoration: none;">uBlock Origin Lite now available for Safari</a> — <code>2025-08-05 09:01 UTC</code></li>
   <li>🔹 <a href="https://frigate.video/" style="color: #f7931a; text-decoration: none;">Monitor your security cameras with locally processed AI</a> — <code>2025-08-05 05:05 UTC</code></li>
-  <li>🔹 <a href="https://thephp.foundation/blog/2025/07/11/php-85-adds-pipe-operator/" style="color: #f7931a; text-decoration: none;">PHP 8.5 adds pipe operator</a> — <code>2025-08-05 04:13 UTC</code></li>
   <li>🔹 <a href="https://benholmen.com/blog/kilopixel/" style="color: #f7931a; text-decoration: none;">Show HN: I spent 6 years building a ridiculous wooden pixel display</a> — <code>2025-08-04 16:16 UTC</code></li>
+  <li>🔹 <a href="https://thephp.foundation/blog/2025/07/11/php-85-adds-pipe-operator/" style="color: #f7931a; text-decoration: none;">PHP 8.5 adds pipe operator</a> — <code>2025-08-05 04:13 UTC</code></li>
   <li>🔹 <a href="https://qwenlm.github.io/blog/qwen-image/" style="color: #f7931a; text-decoration: none;">Qwen-Image: Crafting with native text rendering</a> — <code>2025-08-04 15:56 UTC</code></li>
-  <li>🔹 <a href="https://github.com/crbnos/carbon" style="color: #f7931a; text-decoration: none;">Show HN: I've been building an ERP for manufacturing for the last 3 years</a> — <code>2025-08-04 22:24 UTC</code></li>
   <li>🔹 <a href="https://v8.dev/blog/json-stringify" style="color: #f7931a; text-decoration: none;">How we made JSON.stringify more than twice as fast</a> — <code>2025-08-04 14:09 UTC</code></li>
+  <li>🔹 <a href="https://github.com/crbnos/carbon" style="color: #f7931a; text-decoration: none;">Show HN: I've been building an ERP for manufacturing for the last 3 years</a> — <code>2025-08-04 22:24 UTC</code></li>
   <li>🔹 <a href="https://thingino.com/" style="color: #f7931a; text-decoration: none;">Thingino: Open-Source Firmware for IP Cameras</a> — <code>2025-08-04 22:22 UTC</code></li>
-  <li>🔹 <a href="https://lithub.com/what-happened-when-i-tried-to-replace-myself-with-chatgpt-in-my-english-classroom/" style="color: #f7931a; text-decoration: none;">I tried to replace myself with ChatGPT in my English class</a> — <code>2025-08-02 17:32 UTC</code></li>
   <li>🔹 <a href="https://amritkwatra.com/experiments/3d-line-drawings" style="color: #f7931a; text-decoration: none;">3D Line Drawings</a> — <code>2025-08-04 23:16 UTC</code></li>
+  <li>🔹 <a href="https://lithub.com/what-happened-when-i-tried-to-replace-myself-with-chatgpt-in-my-english-classroom/" style="color: #f7931a; text-decoration: none;">I tried to replace myself with ChatGPT in my English class</a> — <code>2025-08-02 17:32 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-05 10:41:54 UTC
+  latest update: 2025-08-05 10:56:29 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
