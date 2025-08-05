@@ -195,6 +195,7 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
@@ -206,19 +207,20 @@
   <li>🔹 <a href="https://github.com/openai/harmony" style="color: #f7931a; text-decoration: none;">OpenAI Harmony</a> — <code>2025-08-05 16:07 UTC</code></li>
   <li>🔹 <a href="https://github.com/w3c/png/issues/39" style="color: #f7931a; text-decoration: none;">Consider using Zstandard and/or LZ4 instead of Deflate</a> — <code>2025-08-05 17:18 UTC</code></li>
   <li>🔹 <a href="https://apps.apple.com/app/ublock-origin-lite/id6745342698" style="color: #f7931a; text-decoration: none;">uBlock Origin Lite now available for Safari</a> — <code>2025-08-05 09:01 UTC</code></li>
-  <li>🔹 <a href="https://www.anthropic.com/news/claude-opus-4-1" style="color: #f7931a; text-decoration: none;">Claude Opus 4.1</a> — <code>2025-08-05 16:28 UTC</code></li>
   <li>🔹 <a href="https://openai.com/index/introducing-gpt-oss/" style="color: #f7931a; text-decoration: none;">Introducing gpt-oss</a> — <code>2025-08-05 17:00 UTC</code></li>
+  <li>🔹 <a href="https://www.anthropic.com/news/claude-opus-4-1" style="color: #f7931a; text-decoration: none;">Claude Opus 4.1</a> — <code>2025-08-05 16:28 UTC</code></li>
   <li>🔹 <a href="https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/" style="color: #f7931a; text-decoration: none;">Things that helped me get out of the AI 10x engineer imposter syndrome</a> — <code>2025-08-05 14:10 UTC</code></li>
   <li>🔹 <a href="https://www.lanl.gov/media/publications/1663/dynamics-of-dynamic-imaging" style="color: #f7931a; text-decoration: none;">Los Alamos is capturing real-time images of explosions at 7mths of a second</a> — <code>2025-08-05 14:47 UTC</code></li>
   <li>🔹 <a href="https://trial.medpath.com/news/5c43f09ebb6d0f8e/ozempic-shows-anti-aging-effects-in-first-clinical-trial-reversing-biological-age-by-3-1-years" style="color: #f7931a; text-decoration: none;">Ozempic Shows Anti-Aging Effects in Trial, Reversing Biological Age by 3.1 Years</a> — <code>2025-08-05 14:28 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-05 18:54:15 UTC
+  latest update: 2025-08-05 19:13:26 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
