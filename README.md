@@ -159,6 +159,7 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
@@ -169,20 +170,21 @@
   <li>🔹 <a href="https://github.com/crbnos/carbon" style="color: #f7931a; text-decoration: none;">Show HN: I've been building an ERP for manufacturing for the last 3 years</a> — <code>2025-08-04 22:24 UTC</code></li>
   <li>🔹 <a href="https://qwenlm.github.io/blog/qwen-image/" style="color: #f7931a; text-decoration: none;">Qwen-Image: Crafting with native text rendering</a> — <code>2025-08-04 15:56 UTC</code></li>
   <li>🔹 <a href="https://v8.dev/blog/json-stringify" style="color: #f7931a; text-decoration: none;">How we made JSON.stringify more than twice as fast</a> — <code>2025-08-04 14:09 UTC</code></li>
-  <li>🔹 <a href="https://www.perl.com/article/the-history-of-the-schwartzian-transform/" style="color: #f7931a; text-decoration: none;">The history of the Schwartzian Transform (2016)</a> — <code>2025-08-01 15:15 UTC</code></li>
   <li>🔹 <a href="https://thingino.com/" style="color: #f7931a; text-decoration: none;">Thingino: Open-Source Firmware for IP Cameras</a> — <code>2025-08-04 22:22 UTC</code></li>
   <li>🔹 <a href="https://lithub.com/what-happened-when-i-tried-to-replace-myself-with-chatgpt-in-my-english-classroom/" style="color: #f7931a; text-decoration: none;">I tried to replace myself with ChatGPT in my English class</a> — <code>2025-08-02 17:32 UTC</code></li>
-  <li>🔹 <a href="https://econteen.com/" style="color: #f7931a; text-decoration: none;">EconTeen – Financial literacy lessons and tools for teens</a> — <code>2025-08-04 23:10 UTC</code></li>
-  <li>🔹 <a href="https://news.ycombinator.com/item?id=44793446" style="color: #f7931a; text-decoration: none;">Anthropic expires your paid credits after a year</a> — <code>2025-08-05 01:43 UTC</code></li>
-  <li>🔹 <a href="https://fortune.com/2025/08/03/ai-interviewers-job-seekers-unemployment-hiring-hr-teams/" style="color: #f7931a; text-decoration: none;">Job-seekers are dodging AI interviewers</a> — <code>2025-08-04 08:04 UTC</code></li>
+  <li>🔹 <a href="https://www.perl.com/article/the-history-of-the-schwartzian-transform/" style="color: #f7931a; text-decoration: none;">The history of the Schwartzian Transform (2016)</a> — <code>2025-08-01 15:15 UTC</code></li>
+  <li>🔹 <a href="https://www.jpl.nasa.gov/news/marking-13-years-on-mars-nasas-curiosity-picks-up-new-skills/" style="color: #f7931a; text-decoration: none;">NASA's Curiosity picks up new skills</a> — <code>2025-08-04 19:20 UTC</code></li>
+  <li>🔹 <a href="https://amritkwatra.com/experiments/3d-line-drawings" style="color: #f7931a; text-decoration: none;">3D Line Drawings</a> — <code>2025-08-04 23:16 UTC</code></li>
+  <li>🔹 <a href="https://bl.ag/indian-sign-painting-a-typeface-designers-take-on-the-craft/" style="color: #f7931a; text-decoration: none;">Indian Sign Painting: A typeface designer's take on the craft</a> — <code>2025-08-02 14:03 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-05 02:58:18 UTC
+  latest update: 2025-08-05 04:06:01 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
