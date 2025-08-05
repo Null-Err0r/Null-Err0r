@@ -183,6 +183,7 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
@@ -192,21 +193,22 @@
   <li>🔹 <a href="https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/" style="color: #f7931a; text-decoration: none;">Genie 3: A new frontier for world models</a> — <code>2025-08-05 14:08 UTC</code></li>
   <li>🔹 <a href="https://apps.apple.com/app/ublock-origin-lite/id6745342698" style="color: #f7931a; text-decoration: none;">uBlock Origin Lite now available for Safari</a> — <code>2025-08-05 09:01 UTC</code></li>
   <li>🔹 <a href="https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/" style="color: #f7931a; text-decoration: none;">AI is not Making Engineers 10x as Productive</a> — <code>2025-08-05 14:10 UTC</code></li>
-  <li>🔹 <a href="https://www.buildyourownlisp.com/" style="color: #f7931a; text-decoration: none;">Build Your Own Lisp</a> — <code>2025-08-05 11:55 UTC</code></li>
   <li>🔹 <a href="https://lambdaland.org/posts/2025-08-04_artifical_inanity/" style="color: #f7931a; text-decoration: none;">AI Stands for Artificial Inanity</a> — <code>2025-08-05 13:46 UTC</code></li>
+  <li>🔹 <a href="https://www.buildyourownlisp.com/" style="color: #f7931a; text-decoration: none;">Build Your Own Lisp</a> — <code>2025-08-05 11:55 UTC</code></li>
   <li>🔹 <a href="https://birthdays.app" style="color: #f7931a; text-decoration: none;">Show HN: I built a text-based birthday reminder app</a> — <code>2025-08-05 13:57 UTC</code></li>
   <li>🔹 <a href="https://frigate.video/" style="color: #f7931a; text-decoration: none;">Monitor your security cameras with locally processed AI</a> — <code>2025-08-05 05:05 UTC</code></li>
   <li>🔹 <a href="https://9to5mac.com/2025/08/05/tsmc-says-employees-tried-to-steal-trade-secrets-on-iphone-18-chip-process/" style="color: #f7931a; text-decoration: none;">TSMC says employees tried to steal trade secrets on iPhone 18 chip process</a> — <code>2025-08-05 12:53 UTC</code></li>
-  <li>🔹 <a href="https://github.com/stratdev3/SimpleW" style="color: #f7931a; text-decoration: none;">SimpleW – Web Server Library .NET Core</a> — <code>2025-08-05 13:39 UTC</code></li>
-  <li>🔹 <a href="https://thephp.foundation/blog/2025/07/11/php-85-adds-pipe-operator/" style="color: #f7931a; text-decoration: none;">PHP 8.5 adds pipe operator</a> — <code>2025-08-05 04:13 UTC</code></li>
+  <li>🔹 <a href="https://prog21.dadgum.com/57.html" style="color: #f7931a; text-decoration: none;">No Comment</a> — <code>2025-08-05 14:30 UTC</code></li>
+  <li>🔹 <a href="https://www.proxmox.com/en/about/company-details/press-releases/proxmox-virtual-environment-9-0" style="color: #f7931a; text-decoration: none;">Proxmox Virtual Environment 9.0 with Debian 13 released</a> — <code>2025-08-05 13:57 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-05 14:44:32 UTC
+  latest update: 2025-08-05 14:58:41 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
