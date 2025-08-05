@@ -192,30 +192,32 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
 <h3>📰 Hacker News (Every 15 minutes)</h3>
 
 <ul style="list-style-type: none; padding-left: 0; line-height: 1.6;">
-  <li>🔹 <a href="https://openai.com/open-models/" style="color: #f7931a; text-decoration: none;">OpenAI Open Models</a> — <code>2025-08-05 17:02 UTC</code></li>
+  <li>🔹 <a href="https://openai.com/open-models/" style="color: #f7931a; text-decoration: none;">Open models by OpenAI</a> — <code>2025-08-05 17:02 UTC</code></li>
   <li>🔹 <a href="https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/" style="color: #f7931a; text-decoration: none;">Genie 3: A new frontier for world models</a> — <code>2025-08-05 14:08 UTC</code></li>
   <li>🔹 <a href="https://github.com/openai/harmony" style="color: #f7931a; text-decoration: none;">OpenAI Harmony</a> — <code>2025-08-05 16:07 UTC</code></li>
-  <li>🔹 <a href="https://apps.apple.com/app/ublock-origin-lite/id6745342698" style="color: #f7931a; text-decoration: none;">uBlock Origin Lite now available for Safari</a> — <code>2025-08-05 09:01 UTC</code></li>
   <li>🔹 <a href="https://www.anthropic.com/news/claude-opus-4-1" style="color: #f7931a; text-decoration: none;">Claude Opus 4.1</a> — <code>2025-08-05 16:28 UTC</code></li>
-  <li>🔹 <a href="https://elevenlabs.io/blog/eleven-music-is-here" style="color: #f7931a; text-decoration: none;">Eleven Music Is Here</a> — <code>2025-08-05 15:42 UTC</code></li>
+  <li>🔹 <a href="https://apps.apple.com/app/ublock-origin-lite/id6745342698" style="color: #f7931a; text-decoration: none;">uBlock Origin Lite now available for Safari</a> — <code>2025-08-05 09:01 UTC</code></li>
+  <li>🔹 <a href="https://github.com/w3c/png/issues/39" style="color: #f7931a; text-decoration: none;">Consider using Zstandard and/or LZ4 instead of Deflate</a> — <code>2025-08-05 17:18 UTC</code></li>
   <li>🔹 <a href="https://www.lanl.gov/media/publications/1663/dynamics-of-dynamic-imaging" style="color: #f7931a; text-decoration: none;">Los Alamos is capturing real-time images of explosions at 7mths of a second</a> — <code>2025-08-05 14:47 UTC</code></li>
   <li>🔹 <a href="https://www.buildyourownlisp.com/" style="color: #f7931a; text-decoration: none;">Build Your Own Lisp</a> — <code>2025-08-05 11:55 UTC</code></li>
-  <li>🔹 <a href="https://samlshield.com/" style="color: #f7931a; text-decoration: none;">SAML Shield: Drop-in protection that works for any stack</a> — <code>2025-08-05 16:05 UTC</code></li>
   <li>🔹 <a href="https://www.techdirt.com/2025/08/05/trump-fcc-abandons-efforts-to-make-u-s-broadband-fast-and-affordable/" style="color: #f7931a; text-decoration: none;">FCC Abandons Efforts to Make U.S. Broadband Fast and Affordable</a> — <code>2025-08-05 15:59 UTC</code></li>
+  <li>🔹 <a href="https://www.news.uscg.mil/Press-Releases/Article/4265651/coast-guard-marine-board-of-investigation-releases-report-on-titan-submersible/" style="color: #f7931a; text-decoration: none;">US Coast Guard Report on Titan Submersible</a> — <code>2025-08-05 14:47 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-05 17:34:21 UTC
+  latest update: 2025-08-05 17:52:50 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
