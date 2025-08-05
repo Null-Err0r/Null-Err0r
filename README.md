@@ -177,6 +177,7 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
@@ -188,19 +189,20 @@
   <li>🔹 <a href="https://www.smithsonianmag.com/history/man-who-pretended-be-doctor-ran-worlds-fair-attraction-saved-lives-thousands-premature-babies-180960200/" style="color: #f7931a; text-decoration: none;">A Carnival Attraction That Saved Premature Babies (2016)</a> — <code>2025-08-02 18:45 UTC</code></li>
   <li>🔹 <a href="https://benholmen.com/blog/kilopixel/" style="color: #f7931a; text-decoration: none;">Show HN: I spent 6 years building a ridiculous wooden pixel display</a> — <code>2025-08-04 16:16 UTC</code></li>
   <li>🔹 <a href="https://thephp.foundation/blog/2025/07/11/php-85-adds-pipe-operator/" style="color: #f7931a; text-decoration: none;">PHP 8.5 adds pipe operator</a> — <code>2025-08-05 04:13 UTC</code></li>
+  <li>🔹 <a href="https://echarts.apache.org/handbook/en/basics/release-note/v6-feature/" style="color: #f7931a; text-decoration: none;">Apache ECharts 6 New Features</a> — <code>2025-08-05 06:33 UTC</code></li>
   <li>🔹 <a href="https://qwenlm.github.io/blog/qwen-image/" style="color: #f7931a; text-decoration: none;">Qwen-Image: Crafting with native text rendering</a> — <code>2025-08-04 15:56 UTC</code></li>
   <li>🔹 <a href="https://v8.dev/blog/json-stringify" style="color: #f7931a; text-decoration: none;">How we made JSON.stringify more than twice as fast</a> — <code>2025-08-04 14:09 UTC</code></li>
   <li>🔹 <a href="https://github.com/crbnos/carbon" style="color: #f7931a; text-decoration: none;">Show HN: I've been building an ERP for manufacturing for the last 3 years</a> — <code>2025-08-04 22:24 UTC</code></li>
   <li>🔹 <a href="https://www.space.com/astronomy/earth/new-world-record-weather-satellites-detect-515-mile-long-lightning-flash" style="color: #f7931a; text-decoration: none;">New world record Weather satellites detect 515-mile-long lightning flash</a> — <code>2025-08-02 16:10 UTC</code></li>
-  <li>🔹 <a href="https://echarts.apache.org/handbook/en/basics/release-note/v6-feature/" style="color: #f7931a; text-decoration: none;">Apache ECharts 6 New Features</a> — <code>2025-08-05 06:33 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-05 11:30:32 UTC
+  latest update: 2025-08-05 11:49:04 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
