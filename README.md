@@ -157,30 +157,32 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
 <h3>📰 Hacker News (Every 15 minutes)</h3>
 
 <ul style="list-style-type: none; padding-left: 0; line-height: 1.6;">
-  <li>🔹 <a href="https://isitreallyfoss.com/" style="color: #f7931a; text-decoration: none;">Is It FOSS?</a> — <code>2025-08-04 21:26 UTC</code></li>
   <li>🔹 <a href="https://benholmen.com/blog/kilopixel/" style="color: #f7931a; text-decoration: none;">Show HN: I spent 6 years building a ridiculous wooden pixel display</a> — <code>2025-08-04 16:16 UTC</code></li>
+  <li>🔹 <a href="https://econteen.com/" style="color: #f7931a; text-decoration: none;">EconTeen – Financial Literacy Lessons and Tools for Teens</a> — <code>2025-08-04 23:10 UTC</code></li>
   <li>🔹 <a href="https://qwenlm.github.io/blog/qwen-image/" style="color: #f7931a; text-decoration: none;">Qwen-Image: Crafting with native text rendering</a> — <code>2025-08-04 15:56 UTC</code></li>
   <li>🔹 <a href="https://github.com/crbnos/carbon" style="color: #f7931a; text-decoration: none;">Show HN: I've been building an ERP for manufacturing for the last 3 years</a> — <code>2025-08-04 22:24 UTC</code></li>
   <li>🔹 <a href="https://v8.dev/blog/json-stringify" style="color: #f7931a; text-decoration: none;">How we made JSON.stringify more than twice as fast</a> — <code>2025-08-04 14:09 UTC</code></li>
-  <li>🔹 <a href="https://www.jpl.nasa.gov/news/marking-13-years-on-mars-nasas-curiosity-picks-up-new-skills/" style="color: #f7931a; text-decoration: none;">NASA's Curiosity picks up new skills</a> — <code>2025-08-04 19:20 UTC</code></li>
-  <li>🔹 <a href="https://whatdoesonebilliondollarslooklike.website/" style="color: #f7931a; text-decoration: none;">What Does One Billion Dollars Look Like?</a> — <code>2025-08-04 21:34 UTC</code></li>
-  <li>🔹 <a href="https://bl.ag/indian-sign-painting-a-typeface-designers-take-on-the-craft/" style="color: #f7931a; text-decoration: none;">Indian Sign Painting: A typeface designer's take on the craft</a> — <code>2025-08-02 14:03 UTC</code></li>
-  <li>🔹 <a href="https://econteen.com/" style="color: #f7931a; text-decoration: none;">EconTeen – Financial Literacy Lessons and Tools for Teens</a> — <code>2025-08-04 23:10 UTC</code></li>
   <li>🔹 <a href="https://thingino.com/" style="color: #f7931a; text-decoration: none;">Thingino: Open-Source Firmware for IP Cameras</a> — <code>2025-08-04 22:22 UTC</code></li>
+  <li>🔹 <a href="https://www.jpl.nasa.gov/news/marking-13-years-on-mars-nasas-curiosity-picks-up-new-skills/" style="color: #f7931a; text-decoration: none;">NASA's Curiosity picks up new skills</a> — <code>2025-08-04 19:20 UTC</code></li>
+  <li>🔹 <a href="https://lithub.com/what-happened-when-i-tried-to-replace-myself-with-chatgpt-in-my-english-classroom/" style="color: #f7931a; text-decoration: none;">What Happened When I Tried to Replace Myself with ChatGPT in My English Class</a> — <code>2025-08-02 17:32 UTC</code></li>
+  <li>🔹 <a href="https://www.giacomoran.com/blog/content-aware-sr/" style="color: #f7931a; text-decoration: none;">Content-Aware Spaced Repetition</a> — <code>2025-08-04 19:32 UTC</code></li>
+  <li>🔹 <a href="https://bl.ag/indian-sign-painting-a-typeface-designers-take-on-the-craft/" style="color: #f7931a; text-decoration: none;">Indian Sign Painting: A typeface designer's take on the craft</a> — <code>2025-08-02 14:03 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-04 23:50:22 UTC
+  latest update: 2025-08-05 00:52:18 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
