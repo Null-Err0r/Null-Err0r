@@ -204,6 +204,7 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
@@ -216,18 +217,19 @@
   <li>🔹 <a href="https://ollama.com/turbo" style="color: #f7931a; text-decoration: none;">Ollama Turbo</a> — <code>2025-08-05 18:46 UTC</code></li>
   <li>🔹 <a href="https://apps.apple.com/app/ublock-origin-lite/id6745342698" style="color: #f7931a; text-decoration: none;">uBlock Origin Lite now available for Safari</a> — <code>2025-08-05 09:01 UTC</code></li>
   <li>🔹 <a href="https://github.com/w3c/png/issues/39" style="color: #f7931a; text-decoration: none;">Consider using Zstandard and/or LZ4 instead of Deflate</a> — <code>2025-08-05 17:18 UTC</code></li>
-  <li>🔹 <a href="https://byroot.github.io/ruby/json/2025/08/02/whats-wrong-with-the-json-gem-api.html" style="color: #f7931a; text-decoration: none;">What's wrong with the JSON gem API?</a> — <code>2025-08-05 20:46 UTC</code></li>
+  <li>🔹 <a href="https://www.bbc.com/news/articles/cglzl1ez283o" style="color: #f7931a; text-decoration: none;">The mystery of Winston Churchill's dead platypus was unsolved until now</a> — <code>2025-08-03 13:35 UTC</code></li>
   <li>🔹 <a href="https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae" style="color: #f7931a; text-decoration: none;">Kyber (YC W23) is hiring enterprise account executives</a> — <code>2025-08-05 21:02 UTC</code></li>
   <li>🔹 <a href="https://www.anthropic.com/news/claude-opus-4-1" style="color: #f7931a; text-decoration: none;">Claude Opus 4.1</a> — <code>2025-08-05 16:28 UTC</code></li>
-  <li>🔹 <a href="https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/" style="color: #f7931a; text-decoration: none;">Things that helped me get out of the AI 10x engineer imposter syndrome</a> — <code>2025-08-05 14:10 UTC</code></li>
+  <li>🔹 <a href="https://byroot.github.io/ruby/json/2025/08/02/whats-wrong-with-the-json-gem-api.html" style="color: #f7931a; text-decoration: none;">What's wrong with the JSON gem API?</a> — <code>2025-08-05 20:46 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-05 21:49:56 UTC
+  latest update: 2025-08-05 22:10:17 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
