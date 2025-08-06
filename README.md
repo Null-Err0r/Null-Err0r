@@ -23,6 +23,39 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Null-Err0r&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" />
 </div>
 
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📰 Hacker News (Every 15 minutes)</h3>
+
+      *This section is updated automatically by a GitHub Action.*
+
+      <br>
+      <p align="right">
+        <small>latest update: <!-- HACKER_NEWS_LAST_UPDATED --><!-- /HACKER_NEWS_LAST_UPDATED --></small>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Talk to my AI Assistant! / با دستیار هوش مصنوعی من صحبت کنید!</h3>
+      <p>
+        To ask a question, please <strong><a href="https://github.com/Null-Err0r/Null-Err0r/issues/new">open a new issue here</a></strong>. My AI will automatically post a reply.<br>
+        برای پرسیدن سوال، لطفاً یک <strong><a href="https://github.com/Null-Err0r/Null-Err0r/issues/new">Issue جدید در این مخزن باز کنید</a></strong>. هوش مصنوعی من به صورت خودکار پاسخ شما را ارسال خواهد کرد.
+      </p>
+      <blockquote>
+        <p><strong>Note:</strong> Conversations are archived on GitHub. / <strong>توجه:</strong> مکالمات در گیت‌هاب آرشیو می‌شود.</p>
+      </blockquote>
+      <hr>
+      <h4>💬 Recent Conversations / آخرین مکالمات</h4>
+
+      *This section is updated automatically by a GitHub Action.*
+
+    </td>
+  </tr>
+</table>
+
+
+
 <div align="center">
   <br> </br>
   <img src="https://ghvc.kabelkultur.se/?username=null-err0r&abbreviated=true&color=ff5500&label=%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%20%20%F0%9F%91%80%20%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AEVisitor%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%20%F0%9F%91%80%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE⁮⁮" alt="Visitor Counter" />
@@ -64,7 +97,7 @@
 </details>
 
 <details align="center">
-<summary> <b>  💬  Click to contact me</b> </summary>
+<summary> <b>  💬  Click to contact me</b> </summary>
 <br>
 <div align="center">
   <br><br>
@@ -73,385 +106,7 @@
   </a>
 </div>
 <br>
-</details> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--hn-readme-->
-<div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
-
-<h3>📰 Hacker News (Every 15 minutes)</h3>
-
-<ul style="list-style-type: none; padding-left: 0; line-height: 1.6;">
-  <li>🔹 <a href="https://github.com/manzaltu/claude-code-ide.el" style="color: #f7931a; text-decoration: none;">Claude Code IDE integration for Emacs</a> — <code>2025-08-06 13:17 UTC</code></li>
-  <li>🔹 <a href="https://www.pew.org/en/research-and-analysis/issue-briefs/2025/07/how-states-and-cities-decimated-americans-lowest-cost-housing-option" style="color: #f7931a; text-decoration: none;">States and Cities Decimated Americans' Lowest-Cost Housing Option</a> — <code>2025-08-06 18:43 UTC</code></li>
-  <li>🔹 <a href="https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/" style="color: #f7931a; text-decoration: none;">Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work</a> — <code>2025-08-06 16:00 UTC</code></li>
-  <li>🔹 <a href="https://danielchasehooper.com/posts/segment_array/" style="color: #f7931a; text-decoration: none;">A Fast, Growable Array with Stable Pointers in C</a> — <code>2025-08-06 18:21 UTC</code></li>
-  <li>🔹 <a href="https://learn.microsoft.com/en-us/answers/questions/009ae104-47ff-475c-adc1-d5f9604927de/can-i-open-16-bit-application-in-windows-8?forum=windows-all&referrer=answers" style="color: #f7931a; text-decoration: none;">"This question has been retired"</a> — <code>2025-08-06 18:57 UTC</code></li>
-  <li>🔹 <a href="https://www.multicians.org/multics.html" style="color: #f7931a; text-decoration: none;">Multics</a> — <code>2025-08-06 16:57 UTC</code></li>
-  <li>🔹 <a href="https://github.com/KittenML/KittenTTS" style="color: #f7931a; text-decoration: none;">Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model</a> — <code>2025-08-06 05:04 UTC</code></li>
-  <li>🔹 <a href="https://blog.google/technology/google-labs/jules-now-available/" style="color: #f7931a; text-decoration: none;">Jules, our asynchronous coding agent</a> — <code>2025-08-06 16:05 UTC</code></li>
-  <li>🔹 <a href="https://glfmn.io/posts/zig-error-patterns/" style="color: #f7931a; text-decoration: none;">Zig Error Patterns</a> — <code>2025-08-06 15:03 UTC</code></li>
-  <li>🔹 <a href="https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/" style="color: #f7931a; text-decoration: none;">Breaking the sorting barrier for directed single-source shortest paths</a> — <code>2025-08-06 14:43 UTC</code></li>
-</ul>
-
-<p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-06 19:48:31 UTC
-</p>
-
-</div>
-<!--hn-readme-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</details>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Bottom Banner" />
