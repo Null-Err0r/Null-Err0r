@@ -28,15 +28,19 @@ jobs:
             echo "EOF"
           } >> "$GITHUB_OUTPUT"
 
-      - name: Post AI response as comment
+      - name: Parse Response and Post Comment
         uses: actions/github-script@v6
         with:
           script: |
             const rawResponse = `${{ steps.ai_response.outputs.raw_text }}`.trim();
             let cleanJsonString = rawResponse;
 
-            if (rawResponse.startsWith('data:')) {
-              cleanJsonString = rawResponse.substring(5).trim();
+            // Find the start and end of the JSON object within the response string
+            const firstBrace = rawResponse.indexOf('{');
+            const lastBrace = rawResponse.lastIndexOf('}');
+
+            if (firstBrace !== -1 && lastBrace > firstBrace) {
+              cleanJsonString = rawResponse.substring(firstBrace, lastBrace + 1);
             }
 
             try {
