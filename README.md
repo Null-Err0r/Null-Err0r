@@ -247,6 +247,7 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
@@ -259,18 +260,19 @@
   <li>🔹 <a href="https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/" style="color: #f7931a; text-decoration: none;">Breaking the sorting barrier for directed single-source shortest paths</a> — <code>2025-08-06 14:43 UTC</code></li>
   <li>🔹 <a href="https://github.com/KittenML/KittenTTS" style="color: #f7931a; text-decoration: none;">Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model</a> — <code>2025-08-06 05:04 UTC</code></li>
   <li>🔹 <a href="https://glfmn.io/posts/zig-error-patterns/" style="color: #f7931a; text-decoration: none;">Zig Error Patterns</a> — <code>2025-08-06 15:03 UTC</code></li>
+  <li>🔹 <a href="https://www.multicians.org/multics.html" style="color: #f7931a; text-decoration: none;">Multics</a> — <code>2025-08-06 16:57 UTC</code></li>
   <li>🔹 <a href="https://math.stackexchange.com/questions/567265/why-is-it-worth-spending-time-on-type-theory" style="color: #f7931a; text-decoration: none;">Why is it worth spending time on type theory? (2013)</a> — <code>2025-08-04 16:46 UTC</code></li>
-  <li>🔹 <a href="https://github.com/berbyte/sinkzone" style="color: #f7931a; text-decoration: none;">Show HN: Sinkzone DNS – Forwarder that blocks everything except your allowlist</a> — <code>2025-08-06 16:08 UTC</code></li>
   <li>🔹 <a href="https://303-gen-06a668.netlify.app/" style="color: #f7931a; text-decoration: none;">303Gen – 303 acid loops generator</a> — <code>2025-08-06 12:50 UTC</code></li>
   <li>🔹 <a href="https://tonsky.me/blog/lockfiles/" style="color: #f7931a; text-decoration: none;">We shouldn't have needed lockfiles</a> — <code>2025-08-06 15:33 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-06 18:14:38 UTC
+  latest update: 2025-08-06 18:47:37 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
