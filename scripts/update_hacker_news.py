@@ -24,7 +24,7 @@ def format_story(story):
     url = story.get('url', '#')
     timestamp = story.get('time', 0)
     time_str = datetime.fromtimestamp(timestamp, tz=pytz.utc).strftime('%Y-%m-%d %H:%M UTC')
-    return f"<tr>\n    <td valign=\"top\">🔹 <a href='{url}' target='_blank' rel='noopener noreferrer'>{title}</a></td>\n    <td valign=\"top\" align=\"right\"><small>{time_str}</small></td>\n</tr>"
+return f'<tr>\n    <td valign="top" style="padding-bottom: 10px;">🔹 <a href="{url}" target="_blank" rel="noopener noreferrer">{title}</a></td>\n    <td valign="top" align="right" style="padding-bottom: 10px;"><small>{time_str}</small></td>\n</tr>'
 
 def main():
     try:
