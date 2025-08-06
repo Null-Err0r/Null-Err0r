@@ -4,7 +4,6 @@ on:
   issues:
     types: [opened]
 
-
 permissions:
   issues: write
   contents: write
@@ -13,51 +12,67 @@ jobs:
   run_ai_bot_and_update_readme:
     runs-on: ubuntu-latest
     steps:
-
       - name: Check out repository
         uses: actions/checkout@v4
 
-
-      - name: Call AI Worker API
+      - name: Call AI Worker API and Sanitize Response
         id: ai_response
         run: |
-          RESPONSE_JSON=$(curl -s -X POST "${{ secrets.WORKER_URL }}" \
+          RAW_RESPONSE=$(curl -s -X POST "${{ secrets.WORKER_URL }}" \
             -H "Content-Type: application/json" \
             -d '{"prompt": "${{ github.event.issue.body }}"}')
-          echo "response_text=$RESPONSE_JSON" >> $GITHUB_OUTPUT
-
+          
+          # This line removes the "data: " prefix from the response
+          CLEAN_JSON=$(echo "$RAW_RESPONSE" | sed 's/^data: //')
+          
+          # This method is safer for multiline outputs
+          {
+            echo "response_text<<EOF"
+            echo "$CLEAN_JSON"
+            echo "EOF"
+          } >> "$GITHUB_OUTPUT"
 
       - name: Post AI response as comment
         uses: actions/github-script@v6
         with:
           script: |
-            const response = JSON.parse('${{ steps.ai_response.outputs.response_text }}');
-            const body = `🤖 **AI Assistant:**\n\n${response.answer || 'Sorry, I could not process your request.'}`;
-            github.rest.issues.createComment({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: context.issue.number,
-              body: body
-            });
-
+            try {
+              const rawJson = `${{ steps.ai_response.outputs.response_text }}`;
+              const response = JSON.parse(rawJson);
+              // Use 'response.response' based on your error log
+              const body = `🤖 **AI Assistant:**\n\n${response.response || 'Sorry, I could not process your request.'}`;
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: body
+              });
+            } catch (e) {
+              console.error("Error parsing AI response:", e);
+              const errorBody = `🤖 **AI Assistant:**\n\nSorry, I received an invalid response from the AI service and could not parse it.`;
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: errorBody
+              });
+            }
 
       - name: Close the issue
         uses: actions/github-script@v6
         with:
           script: |
-            github.rest.issues.update({
+            await github.rest.issues.update({
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: context.issue.number,
               state: 'closed'
             });
 
-
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
-
 
       - name: Get latest 20 conversations
         id: get_issues
@@ -67,10 +82,8 @@ jobs:
           issues_json=$(gh issue list --repo ${{ github.repository }} --limit 20 --state closed --json title,url)
           echo "issues_json=$issues_json" >> $GITHUB_OUTPUT
 
-
       - name: Update README with recent conversations
         run: echo "${{ steps.get_issues.outputs.issues_json }}" | python scripts/update_ai_chat.py
-
 
       - name: Commit and push if there are changes
         run: |
