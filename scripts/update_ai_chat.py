@@ -1,32 +1,22 @@
-
 import re
 import json
 import sys
-import os
 
 def update_readme():
-    """
-    Reads a JSON of GitHub issues from stdin, formats them,
-    and updates the README.md file between specified markers.
-    """
     readme_path = "README.md"
     
     try:
         issues_json = sys.stdin.read()
         if not issues_json:
-            print("No input received from stdin.")
+            print("No input received from stdin for chat log.")
             return
         issues = json.loads(issues_json)
     except json.JSONDecodeError:
-        print(f"Error: Invalid JSON input. Received: {issues_json}")
+        print(f"Error: Invalid JSON input for chat log. Received: {issues_json}")
         sys.exit(1)
 
-    conversation_list = []
-    for issue in issues:
-        title = issue.get('title', 'No Title').replace('[', '\\[').replace(']', '\\]')
-        url = issue.get('url', '#')
-        conversation_list.append(f"* [{title}]({url})")
-
+    conversation_list = [f"* [{issue.get('title', 'No Title').replace('[', '\\[').replace(']', '\\]')}]({issue.get('url', '#')})" for issue in issues]
+    
     if not conversation_list:
         conversations_md = "No recent conversations."
     else:
