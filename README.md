@@ -29,27 +29,27 @@
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://github.com/manzaltu/claude-code-ide.el' target='_blank' rel='noopener noreferrer'>Claude Code IDE integration for Emacs</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 13:17 UTC</small>
-🔹 <a href='https://www.b-list.org/weblog/2025/aug/06/litestar/' target='_blank' rel='noopener noreferrer'>Litestar is worth a look</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 19:43 UTC</small>
 🔹 <a href='https://www.projecthyperion.org' target='_blank' rel='noopener noreferrer'>Project Hyperion: Interstellar ship design competition</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 20:40 UTC</small>
+🔹 <a href='https://www.b-list.org/weblog/2025/aug/06/litestar/' target='_blank' rel='noopener noreferrer'>Litestar is worth a look</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 19:43 UTC</small>
 🔹 <a href='https://danielchasehooper.com/posts/segment_array/' target='_blank' rel='noopener noreferrer'>A fast, growable array with stable pointers in C</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 18:21 UTC</small>
 🔹 <a href='https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/' target='_blank' rel='noopener noreferrer'>Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 16:00 UTC</small>
+🔹 <a href='https://mixxx.org/news/2025-08-06-qml-project/' target='_blank' rel='noopener noreferrer'>The new shape of Mixxx 3.0 – take part in the future of Open Source DJing</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 21:29 UTC</small>
 🔹 <a href='https://www.espn.com/espn/feature/story/_/id/43832710/how-f1-evolved-1950-where-headed-2026' target='_blank' rel='noopener noreferrer'>The History of F1 Design</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 20:01 UTC</small>
 🔹 <a href='https://www.multicians.org/multics.html' target='_blank' rel='noopener noreferrer'>Multics</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 16:57 UTC</small>
+🔹 <a href='https://301party.com/' target='_blank' rel='noopener noreferrer'>301party.com: The Intentionally Open Redirect</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 20:54 UTC</small>
 🔹 <a href='https://github.com/KittenML/KittenTTS' target='_blank' rel='noopener noreferrer'>Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 05:04 UTC</small>
-🔹 <a href='https://comptime.js.org/' target='_blank' rel='noopener noreferrer'>Comptime.ts: compile-time expressions for TypeScript</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-03 19:11 UTC</small>
-🔹 <a href='https://blog.google/technology/google-labs/jules-now-available/' target='_blank' rel='noopener noreferrer'>Jules, our asynchronous coding agent</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 16:05 UTC</small>
 <!-- HACKER_NEWS_END -->
 <br>
-<p align="right"><small>latest update: <!-- HACKER_NEWS_LAST_UPDATED -->2025-08-06 21:30:02 UTC<!-- /HACKER_NEWS_LAST_UPDATED --></small></p>
+<p align="right"><small>latest update: <!-- HACKER_NEWS_LAST_UPDATED -->2025-08-06 21:43:00 UTC<!-- /HACKER_NEWS_LAST_UPDATED --></small></p>
 
 </td>
 <td width="50%" valign="top">
