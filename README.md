@@ -218,6 +218,7 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
@@ -233,15 +234,16 @@
   <li>🔹 <a href="https://amaranth-lang.org/docs/amaranth/latest/intro.html#the-amaranth-language" style="color: #f7931a; text-decoration: none;">The Amaranth hardware description language</a> — <code>2025-08-06 03:49 UTC</code></li>
   <li>🔹 <a href="https://ergaster.org/til/base64-encoded-json/" style="color: #f7931a; text-decoration: none;">Spotting base64 encoded JSON, certificates, and private keys</a> — <code>2025-08-05 19:17 UTC</code></li>
   <li>🔹 <a href="https://ollama.com/turbo" style="color: #f7931a; text-decoration: none;">Ollama Turbo</a> — <code>2025-08-05 18:46 UTC</code></li>
-  <li>🔹 <a href="https://trial.medpath.com/news/5c43f09ebb6d0f8e/ozempic-shows-anti-aging-effects-in-first-clinical-trial-reversing-biological-age-by-3-1-years" style="color: #f7931a; text-decoration: none;">Ozempic shows anti-aging effects in trial</a> — <code>2025-08-05 14:28 UTC</code></li>
+  <li>🔹 <a href="https://kartproject.org/" style="color: #f7931a; text-decoration: none;">Kart – Distributed version-control for geospatial and tabular data</a> — <code>2025-08-04 06:35 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-06 06:55:05 UTC
+  latest update: 2025-08-06 07:16:18 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
