@@ -240,6 +240,7 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
@@ -248,22 +249,23 @@
 <ul style="list-style-type: none; padding-left: 0; line-height: 1.6;">
   <li>🔹 <a href="https://github.com/manzaltu/claude-code-ide.el" style="color: #f7931a; text-decoration: none;">Claude Code IDE Integration for Emacs</a> — <code>2025-08-06 13:17 UTC</code></li>
   <li>🔹 <a href="https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/" style="color: #f7931a; text-decoration: none;">Breaking the sorting barrier for directed single-source shortest paths</a> — <code>2025-08-06 14:43 UTC</code></li>
-  <li>🔹 <a href="https://hamatti.org/posts/dotfiles-feel-too-intimate-and-personal-to-share/" style="color: #f7931a; text-decoration: none;">Dotfiles feel too intimate and personal to share</a> — <code>2025-08-06 14:36 UTC</code></li>
   <li>🔹 <a href="https://openai.com/index/providing-chatgpt-to-the-entire-us-federal-workforce/" style="color: #f7931a; text-decoration: none;">Providing ChatGPT to the entire U.S. federal workforce</a> — <code>2025-08-06 14:12 UTC</code></li>
+  <li>🔹 <a href="https://hamatti.org/posts/dotfiles-feel-too-intimate-and-personal-to-share/" style="color: #f7931a; text-decoration: none;">Dotfiles feel too intimate and personal to share</a> — <code>2025-08-06 14:36 UTC</code></li>
   <li>🔹 <a href="https://github.com/KittenML/KittenTTS" style="color: #f7931a; text-decoration: none;">Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model</a> — <code>2025-08-06 05:04 UTC</code></li>
   <li>🔹 <a href="https://nautilustrader.io/" style="color: #f7931a; text-decoration: none;">NautilusTrader: Open-source algorithmic trading platform</a> — <code>2025-08-06 11:23 UTC</code></li>
-  <li>🔹 <a href="https://github.com/ventoy/Ventoy/issues/3224" style="color: #f7931a; text-decoration: none;">About the BLOBs in Ventoy</a> — <code>2025-08-06 10:41 UTC</code></li>
   <li>🔹 <a href="https://303-gen-06a668.netlify.app/" style="color: #f7931a; text-decoration: none;">303Gen – 303 acid loops generator</a> — <code>2025-08-06 12:50 UTC</code></li>
+  <li>🔹 <a href="https://github.com/ventoy/Ventoy/issues/3224" style="color: #f7931a; text-decoration: none;">About the BLOBs in Ventoy</a> — <code>2025-08-06 10:41 UTC</code></li>
+  <li>🔹 <a href="https://github.com/shutootaki/bookwith" style="color: #f7931a; text-decoration: none;">Show HN: An Open-Source E-Book Reader for Conversational Reading with an LLM</a> — <code>2025-08-06 13:01 UTC</code></li>
   <li>🔹 <a href="https://books.open.tudelft.nl/home/catalog/book/11" style="color: #f7931a; text-decoration: none;">The 1090 Megahertz Riddle: A Guide to Decoding Mode S and ADS-B Signals</a> — <code>2025-08-03 18:54 UTC</code></li>
-  <li>🔹 <a href="https://www.bleepingcomputer.com/news/security/google-suffers-data-breach-in-ongoing-salesforce-data-theft-attacks/" style="color: #f7931a; text-decoration: none;">Google suffers data breach in ongoing Salesforce data theft attacks</a> — <code>2025-08-06 14:04 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-06 15:44:06 UTC
+  latest update: 2025-08-06 15:54:20 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
