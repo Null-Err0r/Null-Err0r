@@ -214,12 +214,14 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
 <h3>📰 Hacker News (Every 15 minutes)</h3>
 
 <ul style="list-style-type: none; padding-left: 0; line-height: 1.6;">
+  <li>🔹 <a href="https://github.com/KittenML/KittenTTS" style="color: #f7931a; text-decoration: none;">Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model</a> — <code>2025-08-06 05:04 UTC</code></li>
   <li>🔹 <a href="https://openai.com/open-models/" style="color: #f7931a; text-decoration: none;">Open models by OpenAI</a> — <code>2025-08-05 17:02 UTC</code></li>
   <li>🔹 <a href="https://www.marinecorpstimes.com/news/your-marine-corps/2025/08/04/the-marines-now-have-an-official-drone-fighting-handbook/" style="color: #f7931a; text-decoration: none;">Marines now have an official drone-fighting handbook</a> — <code>2025-08-06 03:05 UTC</code></li>
   <li>🔹 <a href="https://amaranth-lang.org/docs/amaranth/latest/intro.html#the-amaranth-language" style="color: #f7931a; text-decoration: none;">The Amaranth hardware description language</a> — <code>2025-08-06 03:49 UTC</code></li>
@@ -227,17 +229,17 @@
   <li>🔹 <a href="https://github.com/Picocrypt/Picocrypt/issues/134" style="color: #f7931a; text-decoration: none;">I'm Archiving Picocrypt</a> — <code>2025-08-06 03:14 UTC</code></li>
   <li>🔹 <a href="https://permacomputing.net/software_rot/" style="color: #f7931a; text-decoration: none;">Software Rot</a> — <code>2025-08-06 02:35 UTC</code></li>
   <li>🔹 <a href="https://ergaster.org/til/base64-encoded-json/" style="color: #f7931a; text-decoration: none;">Spotting base64 encoded JSON, certificates, and private keys</a> — <code>2025-08-05 19:17 UTC</code></li>
-  <li>🔹 <a href="https://ollama.com/turbo" style="color: #f7931a; text-decoration: none;">Ollama Turbo</a> — <code>2025-08-05 18:46 UTC</code></li>
   <li>🔹 <a href="https://blog.google/products/gemini/storybooks/" style="color: #f7931a; text-decoration: none;">Create personal illustrated storybooks in the Gemini app</a> — <code>2025-08-05 21:14 UTC</code></li>
-  <li>🔹 <a href="https://trial.medpath.com/news/5c43f09ebb6d0f8e/ozempic-shows-anti-aging-effects-in-first-clinical-trial-reversing-biological-age-by-3-1-years" style="color: #f7931a; text-decoration: none;">Ozempic shows anti-aging effects in trial</a> — <code>2025-08-05 14:28 UTC</code></li>
+  <li>🔹 <a href="https://ollama.com/turbo" style="color: #f7931a; text-decoration: none;">Ollama Turbo</a> — <code>2025-08-05 18:46 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-06 04:54:31 UTC
+  latest update: 2025-08-06 05:21:48 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
