@@ -19,10 +19,12 @@ def get_story_details(story_id):
         return None
 
 def format_story(story):
+    
     title = story.get('title', 'N/A')
     url = story.get('url', '#')
     timestamp = story.get('time', 0)
     time_str = datetime.fromtimestamp(timestamp, tz=pytz.utc).strftime('%Y-%m-%d %H:%M UTC')
+
     return f"🔹 <a href='{url}' target='_blank' rel='noopener noreferrer'>{title}</a><br><sub>&nbsp;&nbsp;&nbsp;&nbsp;— {time_str}</sub>"
 
 def main():
@@ -39,27 +41,26 @@ def main():
         print(f"Error fetching story IDs: {e}")
         return
 
-    stories_html_rows = [format_story(details) for sid in story_ids[:MAX_STORIES] if (details := get_story_details(sid))]
+    stories_markdown = [format_story(details) for sid in story_ids[:MAX_STORIES] if (details := get_story_details(sid))]
     
-    if not stories_html_rows:
+    if not stories_markdown:
         print("No stories fetched, not updating README.")
         return
         
-    content = "<table>\n"
-    content += "\n".join(stories_html_rows)
-    content += "\n</table>"
+    content = "<br><br>\n".join(stories_markdown)
     
     news_placeholder = r"(.|\n)*"
     news_replacement = f"\n{content}\n"
     new_readme, count = re.subn(news_placeholder, news_replacement, readme_content)
     
     if count == 0:
-        print("Warning: HACKER_NEWS_START placeholder not found.")
+        print("Warning: HACKER_NEWS_START placeholder not found in README.md.")
+
         return
         
     update_time = datetime.now(pytz.utc).strftime('%Y-%m-%d %H:%M:%S UTC')
     timestamp_placeholder = r"(.|\n)*"
-    timestamp_replacement = f"{update_time}"
+    timestamp_replacement = f"\nLast Updated: {update_time}\n"
     new_readme = re.sub(timestamp_placeholder, timestamp_replacement, new_readme)
 
     with open(README_PATH, "w", encoding="utf-8") as f:
