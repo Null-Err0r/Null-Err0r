@@ -5,12 +5,10 @@
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Null-Err0r&theme=gruvbox" />
 </p>
-
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Null-Err0r&theme=gruvbox" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Null-Err0r&theme=gruvbox" />
 </p>
-
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Null-Err0r&theme=gruvbox" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Null-Err0r&theme=gruvbox&utcOffset=8" />
@@ -18,7 +16,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=null-err0r&theme=gruvbox" alt="GitHub Streak" />
 </div>
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Null-Err0r&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" />
 </div>
@@ -68,7 +65,6 @@
     </picture>
   </a>
 </div>
-
 <div align="center">
   <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=19436819" target="_blank" style="display: block;">
     <picture>
@@ -77,7 +73,6 @@
     </picture>
   </a>
 </div>
-
 <div align="center">
   <a href="https://next.ossinsight.io/widgets/official/compose-org-activity-map?activity=stars&role=stars&owner_id=19436819&period=past_12_months" target="_blank" style="display: block;">
     <picture>
@@ -91,7 +86,6 @@
 </div>
 <br>
 </details>
-
 <details align="center">
 <summary> <b>  💬  Click to contact me</b> </summary>
 <br>
@@ -103,35 +97,6 @@
 </div>
 <br>
 </details>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Bottom Banner" />
 </div>
-
-
-
-<!--hn-readme-->
-<div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
-
-<h3>📰 Hacker News (Every 15 minutes)</h3>
-
-<ul style="list-style-type: none; padding-left: 0; line-height: 1.6;">
-  <li>🔹 <a href="https://github.com/manzaltu/claude-code-ide.el" style="color: #f7931a; text-decoration: none;">Claude Code IDE integration for Emacs</a> — <code>2025-08-06 13:17 UTC</code></li>
-  <li>🔹 <a href="https://www.b-list.org/weblog/2025/aug/06/litestar/" style="color: #f7931a; text-decoration: none;">Litestar Is Worth a Look</a> — <code>2025-08-06 19:43 UTC</code></li>
-  <li>🔹 <a href="https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/" style="color: #f7931a; text-decoration: none;">Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work</a> — <code>2025-08-06 16:00 UTC</code></li>
-  <li>🔹 <a href="https://danielchasehooper.com/posts/segment_array/" style="color: #f7931a; text-decoration: none;">A Fast, Growable Array with Stable Pointers in C</a> — <code>2025-08-06 18:21 UTC</code></li>
-  <li>🔹 <a href="https://www.multicians.org/multics.html" style="color: #f7931a; text-decoration: none;">Multics</a> — <code>2025-08-06 16:57 UTC</code></li>
-  <li>🔹 <a href="https://www.pew.org/en/research-and-analysis/issue-briefs/2025/07/how-states-and-cities-decimated-americans-lowest-cost-housing-option" style="color: #f7931a; text-decoration: none;">States and Cities Decimated Americans' Lowest-Cost Housing Option</a> — <code>2025-08-06 18:43 UTC</code></li>
-  <li>🔹 <a href="https://blog.google/technology/google-labs/jules-now-available/" style="color: #f7931a; text-decoration: none;">Jules, our asynchronous coding agent</a> — <code>2025-08-06 16:05 UTC</code></li>
-  <li>🔹 <a href="https://github.com/KittenML/KittenTTS" style="color: #f7931a; text-decoration: none;">Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model</a> — <code>2025-08-06 05:04 UTC</code></li>
-  <li>🔹 <a href="https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/" style="color: #f7931a; text-decoration: none;">Breaking the sorting barrier for directed single-source shortest paths</a> — <code>2025-08-06 14:43 UTC</code></li>
-  <li>🔹 <a href="https://glfmn.io/posts/zig-error-patterns/" style="color: #f7931a; text-decoration: none;">Zig Error Patterns</a> — <code>2025-08-06 15:03 UTC</code></li>
-</ul>
-
-<p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-06 20:35:14 UTC
-</p>
-
-</div>
-<!--hn-readme-->
-
