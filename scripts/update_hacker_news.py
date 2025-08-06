@@ -19,12 +19,12 @@ def get_story_details(story_id):
         return None
 
 def format_story(story):
- 
     title = story.get('title', 'N/A')
     url = story.get('url', '#')
     timestamp = story.get('time', 0)
     time_str = datetime.fromtimestamp(timestamp, tz=pytz.utc).strftime('%Y-%m-%d %H:%M UTC')
-    return f"<tr>\n    <td valign=\"top\">🔹 <a href='{url}' target='_blank' rel='noopener noreferrer'>{title}</a></td>\n    <td valign=\"top\" align=\"right\"><small>{time_str}</small><br><br></td>\n</tr>"
+    return f"🔹 <a href='{url}' target='_blank' rel='noopener noreferrer'>{title}</a><br><sub>&nbsp;&nbsp;&nbsp;&nbsp;— {time_str}</sub>"
+
 def main():
     try:
         with open(README_PATH, "r", encoding="utf-8") as f:
