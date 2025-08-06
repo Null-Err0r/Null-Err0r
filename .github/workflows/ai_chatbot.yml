@@ -4,37 +4,42 @@ on:
   issues:
     types: [opened]
 
+
 permissions:
   issues: write
   contents: write
 
 jobs:
-  run_ai_bot:
+  run_ai_bot_and_update_readme:
     runs-on: ubuntu-latest
     steps:
+
       - name: Check out repository
         uses: actions/checkout@v4
+
 
       - name: Call AI Worker API
         id: ai_response
         run: |
-          RESPONSE_JSON=$(curl -X POST "${{ secrets.WORKER_URL }}" \
+          RESPONSE_JSON=$(curl -s -X POST "${{ secrets.WORKER_URL }}" \
             -H "Content-Type: application/json" \
             -d '{"prompt": "${{ github.event.issue.body }}"}')
-          echo "::set-output name=response_text::$RESPONSE_JSON"
+          echo "response_text=$RESPONSE_JSON" >> $GITHUB_OUTPUT
+
 
       - name: Post AI response as comment
         uses: actions/github-script@v6
         with:
           script: |
             const response = JSON.parse('${{ steps.ai_response.outputs.response_text }}');
-            const body = `🤖 **AI Assistant:**\n\n${response.answer}`;
+            const body = `🤖 **AI Assistant:**\n\n${response.answer || 'Sorry, I could not process your request.'}`;
             github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: context.issue.number,
               body: body
             });
+
 
       - name: Close the issue
         uses: actions/github-script@v6
@@ -47,23 +52,25 @@ jobs:
               state: 'closed'
             });
 
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
+
 
       - name: Get latest 20 conversations
         id: get_issues
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          issues_json=$(gh issue list --limit 20 --state closed --json title,url)
+          issues_json=$(gh issue list --repo ${{ github.repository }} --limit 20 --state closed --json title,url)
           echo "issues_json=$issues_json" >> $GITHUB_OUTPUT
 
+
       - name: Update README with recent conversations
-        env:
-          ISSUES_JSON: ${{ steps.get_issues.outputs.issues_json }}
-        run: echo "$ISSUES_JSON" | python scripts/update_ai_chat.py
+        run: echo "${{ steps.get_issues.outputs.issues_json }}" | python scripts/update_ai_chat.py
+
 
       - name: Commit and push if there are changes
         run: |
