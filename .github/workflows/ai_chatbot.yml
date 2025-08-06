@@ -28,42 +28,38 @@ jobs:
             echo "EOF"
           } >> "$GITHUB_OUTPUT"
 
-      - name: Parse Response and Post Comment
+      - name: Parse Stream and Post Comment
         uses: actions/github-script@v6
         with:
           script: |
             const rawResponse = `${{ steps.ai_response.outputs.raw_text }}`.trim();
-            let cleanJsonString = rawResponse;
+            const lines = rawResponse.split('\n');
+            let fullResponse = '';
 
-            // Find the start and end of the JSON object within the response string
-            const firstBrace = rawResponse.indexOf('{');
-            const lastBrace = rawResponse.lastIndexOf('}');
-
-            if (firstBrace !== -1 && lastBrace > firstBrace) {
-              cleanJsonString = rawResponse.substring(firstBrace, lastBrace + 1);
+            for (const line of lines) {
+              if (line.startsWith('data:')) {
+                const jsonString = line.substring(5).trim();
+                if (jsonString && jsonString !== '[DONE]') {
+                  try {
+                    const data = JSON.parse(jsonString);
+                    if (data.response) {
+                      fullResponse += data.response;
+                    }
+                  } catch (e) {
+                    console.warn('Could not parse line:', jsonString);
+                  }
+                }
+              }
             }
 
-            try {
-              const response = JSON.parse(cleanJsonString);
-              const body = `🤖 **AI Assistant:**\n\n${response.response || 'Sorry, I could not process your request.'}`;
-              
-              await github.rest.issues.createComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: context.issue.number,
-                body: body
-              });
-            } catch (e) {
-              console.error("Error parsing AI response:", e);
-              console.error("Raw response received:", rawResponse);
-              const errorBody = `🤖 **AI Assistant:**\n\nSorry, I received an invalid response and could not parse it.`;
-              await github.rest.issues.createComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: context.issue.number,
-                body: errorBody
-              });
-            }
+            const body = `🤖 **AI Assistant:**\n\n${fullResponse.trim() || 'Sorry, I could not generate a response.'}`;
+            
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: body
+            });
 
       - name: Close the issue
         uses: actions/github-script@v6
