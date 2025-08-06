@@ -21,11 +21,17 @@
 </div>
 
 
-<p align="right"><small>latest update: ...</small></p>
-''
+### 📰 Hacker News (Every 15 minutes)
 
-''
+<!-- HACKER_NEWS_START -->
+<!-- HACKER_NEWS_END -->
+
+<p align="right"><small>latest update: 
+<!-- HACKER_NEWS_LAST_UPDATED -->Updateing...<!-- /HACKER_NEWS_LAST_UPDATED -->
+</small></p>
+
 <hr>
+
 
 
 ### 🤖 Talk to my AI Assistant! / با دستیار هوش مصنوعی من صحبت کنید!
