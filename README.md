@@ -23,14 +23,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Null-Err0r&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" />
 </div>
 
-
+<!-- Start Dynamic Content Section -->
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>📰 Hacker News (Every 15 minutes)</h3>
-
+      <!-- HACKER_NEWS_START -->
       *This section is updated automatically by a GitHub Action.*
-
+      <!-- HACKER_NEWS_END -->
       <br>
       <p align="right">
         <small>latest update: <!-- HACKER_NEWS_LAST_UPDATED --><!-- /HACKER_NEWS_LAST_UPDATED --></small>
@@ -47,14 +47,13 @@
       </blockquote>
       <hr>
       <h4>💬 Recent Conversations / آخرین مکالمات</h4>
-
+      <!-- CHAT_LOG_START -->
       *This section is updated automatically by a GitHub Action.*
-
+      <!-- CHAT_LOG_END -->
     </td>
   </tr>
 </table>
-
-
+<!-- End Dynamic Content Section -->
 
 <div align="center">
   <br> </br>
