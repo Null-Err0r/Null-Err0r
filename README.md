@@ -109,6 +109,7 @@
 </div>
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
@@ -116,20 +117,21 @@
 
 <ul style="list-style-type: none; padding-left: 0; line-height: 1.6;">
   <li>🔹 <a href="https://github.com/manzaltu/claude-code-ide.el" style="color: #f7931a; text-decoration: none;">Claude Code IDE integration for Emacs</a> — <code>2025-08-06 13:17 UTC</code></li>
-  <li>🔹 <a href="https://www.pew.org/en/research-and-analysis/issue-briefs/2025/07/how-states-and-cities-decimated-americans-lowest-cost-housing-option" style="color: #f7931a; text-decoration: none;">States and Cities Decimated Americans' Lowest-Cost Housing Option</a> — <code>2025-08-06 18:43 UTC</code></li>
-  <li>🔹 <a href="https://learn.microsoft.com/en-us/answers/questions/009ae104-47ff-475c-adc1-d5f9604927de/can-i-open-16-bit-application-in-windows-8?forum=windows-all&referrer=answers" style="color: #f7931a; text-decoration: none;">"This question has been retired"</a> — <code>2025-08-06 18:57 UTC</code></li>
+  <li>🔹 <a href="https://www.b-list.org/weblog/2025/aug/06/litestar/" style="color: #f7931a; text-decoration: none;">Litestar Is Worth a Look</a> — <code>2025-08-06 19:43 UTC</code></li>
   <li>🔹 <a href="https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/" style="color: #f7931a; text-decoration: none;">Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work</a> — <code>2025-08-06 16:00 UTC</code></li>
   <li>🔹 <a href="https://danielchasehooper.com/posts/segment_array/" style="color: #f7931a; text-decoration: none;">A Fast, Growable Array with Stable Pointers in C</a> — <code>2025-08-06 18:21 UTC</code></li>
   <li>🔹 <a href="https://www.multicians.org/multics.html" style="color: #f7931a; text-decoration: none;">Multics</a> — <code>2025-08-06 16:57 UTC</code></li>
-  <li>🔹 <a href="https://johnjianwang.medium.com/why-blocking-llms-from-your-website-is-dumb-3dc7c3c9097d" style="color: #f7931a; text-decoration: none;">Blocking LLMs from your website cuts you off from next-generation search</a> — <code>2025-08-06 17:38 UTC</code></li>
+  <li>🔹 <a href="https://www.pew.org/en/research-and-analysis/issue-briefs/2025/07/how-states-and-cities-decimated-americans-lowest-cost-housing-option" style="color: #f7931a; text-decoration: none;">States and Cities Decimated Americans' Lowest-Cost Housing Option</a> — <code>2025-08-06 18:43 UTC</code></li>
+  <li>🔹 <a href="https://blog.google/technology/google-labs/jules-now-available/" style="color: #f7931a; text-decoration: none;">Jules, our asynchronous coding agent</a> — <code>2025-08-06 16:05 UTC</code></li>
   <li>🔹 <a href="https://github.com/KittenML/KittenTTS" style="color: #f7931a; text-decoration: none;">Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model</a> — <code>2025-08-06 05:04 UTC</code></li>
-  <li>🔹 <a href="https://www.ocregister.com/2025/07/21/19-of-california-houses-are-owned-by-investors/" style="color: #f7931a; text-decoration: none;">19% of California houses are owned by investors</a> — <code>2025-08-06 19:15 UTC</code></li>
   <li>🔹 <a href="https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/" style="color: #f7931a; text-decoration: none;">Breaking the sorting barrier for directed single-source shortest paths</a> — <code>2025-08-06 14:43 UTC</code></li>
+  <li>🔹 <a href="https://glfmn.io/posts/zig-error-patterns/" style="color: #f7931a; text-decoration: none;">Zig Error Patterns</a> — <code>2025-08-06 15:03 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-06 20:11:10 UTC
+  latest update: 2025-08-06 20:35:14 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
