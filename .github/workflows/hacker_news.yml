@@ -23,8 +23,20 @@ jobs:
       - name: Install dependencies
         run: pip install requests pytz
 
+      - name: (DEBUG) Show README content BEFORE script runs
+        run: |
+          echo "--- README BEFORE ---"
+          cat README.md
+          echo "--- END README BEFORE ---"
+          
       - name: Update README with Hacker News stories
         run: python scripts/update_hacker_news.py
+
+      - name: (DEBUG) Show README content AFTER script runs
+        run: |
+          echo "--- README AFTER ---"
+          cat README.md
+          echo "--- END README AFTER ---"
 
       - name: Commit and push if there are changes
         run: |
@@ -34,6 +46,7 @@ jobs:
           if ! git diff --staged --quiet; then
             git commit -m "docs: update Hacker News stories"
             git push
+            echo "Changes committed and pushed."
           else
             echo "No changes to commit."
           fi
