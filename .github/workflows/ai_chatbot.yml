@@ -15,20 +15,16 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Call AI Worker API and Sanitize Response
+      - name: Call AI Worker API
         id: ai_response
         run: |
           RAW_RESPONSE=$(curl -s -X POST "${{ secrets.WORKER_URL }}" \
             -H "Content-Type: application/json" \
             -d '{"prompt": "${{ github.event.issue.body }}"}')
           
-          # This line removes the "data: " prefix from the response
-          CLEAN_JSON=$(echo "$RAW_RESPONSE" | sed 's/^data: //')
-          
-          # This method is safer for multiline outputs
           {
-            echo "response_text<<EOF"
-            echo "$CLEAN_JSON"
+            echo "raw_text<<EOF"
+            echo "$RAW_RESPONSE"
             echo "EOF"
           } >> "$GITHUB_OUTPUT"
 
@@ -36,11 +32,17 @@ jobs:
         uses: actions/github-script@v6
         with:
           script: |
+            const rawResponse = `${{ steps.ai_response.outputs.raw_text }}`.trim();
+            let cleanJsonString = rawResponse;
+
+            if (rawResponse.startsWith('data:')) {
+              cleanJsonString = rawResponse.substring(5).trim();
+            }
+
             try {
-              const rawJson = `${{ steps.ai_response.outputs.response_text }}`;
-              const response = JSON.parse(rawJson);
-              // Use 'response.response' based on your error log
+              const response = JSON.parse(cleanJsonString);
               const body = `🤖 **AI Assistant:**\n\n${response.response || 'Sorry, I could not process your request.'}`;
+              
               await github.rest.issues.createComment({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
@@ -49,7 +51,8 @@ jobs:
               });
             } catch (e) {
               console.error("Error parsing AI response:", e);
-              const errorBody = `🤖 **AI Assistant:**\n\nSorry, I received an invalid response from the AI service and could not parse it.`;
+              console.error("Raw response received:", rawResponse);
+              const errorBody = `🤖 **AI Assistant:**\n\nSorry, I received an invalid response and could not parse it.`;
               await github.rest.issues.createComment({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
