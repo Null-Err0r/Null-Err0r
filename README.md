@@ -248,6 +248,7 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
@@ -255,23 +256,24 @@
 
 <ul style="list-style-type: none; padding-left: 0; line-height: 1.6;">
   <li>🔹 <a href="https://github.com/manzaltu/claude-code-ide.el" style="color: #f7931a; text-decoration: none;">Claude Code IDE integration for Emacs</a> — <code>2025-08-06 13:17 UTC</code></li>
+  <li>🔹 <a href="https://www.smithsonianmag.com/smart-news/cognitive-decline-can-be-slowed-down-with-lifestyle-changes-from-diet-to-exercise-and-social-time-new-study-suggests-180987077/" style="color: #f7931a; text-decoration: none;">Cognitive Decline Can Be Slowed Down with Lifestyle Changes</a> — <code>2025-08-06 18:37 UTC</code></li>
   <li>🔹 <a href="https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/" style="color: #f7931a; text-decoration: none;">Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work</a> — <code>2025-08-06 16:00 UTC</code></li>
-  <li>🔹 <a href="https://blog.google/technology/google-labs/jules-now-available/" style="color: #f7931a; text-decoration: none;">Jules, our asynchronous coding agent</a> — <code>2025-08-06 16:05 UTC</code></li>
+  <li>🔹 <a href="https://danielchasehooper.com/posts/segment_array/" style="color: #f7931a; text-decoration: none;">A Fast, Growable Array with Stable Pointers in C</a> — <code>2025-08-06 18:21 UTC</code></li>
   <li>🔹 <a href="https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/" style="color: #f7931a; text-decoration: none;">Breaking the sorting barrier for directed single-source shortest paths</a> — <code>2025-08-06 14:43 UTC</code></li>
   <li>🔹 <a href="https://github.com/KittenML/KittenTTS" style="color: #f7931a; text-decoration: none;">Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model</a> — <code>2025-08-06 05:04 UTC</code></li>
+  <li>🔹 <a href="https://blog.google/technology/google-labs/jules-now-available/" style="color: #f7931a; text-decoration: none;">Jules, our asynchronous coding agent</a> — <code>2025-08-06 16:05 UTC</code></li>
   <li>🔹 <a href="https://glfmn.io/posts/zig-error-patterns/" style="color: #f7931a; text-decoration: none;">Zig Error Patterns</a> — <code>2025-08-06 15:03 UTC</code></li>
+  <li>🔹 <a href="https://blog.google/products/search/ai-search-driving-more-queries-higher-quality-clicks/" style="color: #f7931a; text-decoration: none;">Google says AI in Search is driving more queries and higher quality clicks</a> — <code>2025-08-06 17:32 UTC</code></li>
   <li>🔹 <a href="https://www.multicians.org/multics.html" style="color: #f7931a; text-decoration: none;">Multics</a> — <code>2025-08-06 16:57 UTC</code></li>
-  <li>🔹 <a href="https://math.stackexchange.com/questions/567265/why-is-it-worth-spending-time-on-type-theory" style="color: #f7931a; text-decoration: none;">Why is it worth spending time on type theory? (2013)</a> — <code>2025-08-04 16:46 UTC</code></li>
-  <li>🔹 <a href="https://303-gen-06a668.netlify.app/" style="color: #f7931a; text-decoration: none;">303Gen – 303 acid loops generator</a> — <code>2025-08-06 12:50 UTC</code></li>
-  <li>🔹 <a href="https://tonsky.me/blog/lockfiles/" style="color: #f7931a; text-decoration: none;">We shouldn't have needed lockfiles</a> — <code>2025-08-06 15:33 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-06 18:47:37 UTC
+  latest update: 2025-08-06 19:11:54 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
