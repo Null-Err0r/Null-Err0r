@@ -25,33 +25,30 @@
 
 <!-- Start Dynamic Content Section -->
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📰 Hacker News (Every 15 minutes)</h3>
-      <!-- HACKER_NEWS_START -->
-      *This section is updated automatically by a GitHub Action.*
-      <!-- HACKER_NEWS_END -->
-      <br>
-      <p align="right">
-        <small>latest update: <!-- HACKER_NEWS_LAST_UPDATED --><!-- /HACKER_NEWS_LAST_UPDATED --></small>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Talk to my AI Assistant! / با دستیار هوش مصنوعی من صحبت کنید!</h3>
-      <p>
-        To ask a question, please <strong><a href="https://github.com/Null-Err0r/Null-Err0r/issues/new">open a new issue here</a></strong>. My AI will automatically post a reply.<br>
-        برای پرسیدن سوال، لطفاً یک <strong><a href="https://github.com/Null-Err0r/Null-Err0r/issues/new">Issue جدید در این مخزن باز کنید</a></strong>. هوش مصنوعی من به صورت خودکار پاسخ شما را ارسال خواهد کرد.
-      </p>
-      <blockquote>
-        <p><strong>Note:</strong> Conversations are archived on GitHub. / <strong>توجه:</strong> مکالمات در گیت‌هاب آرشیو می‌شود.</p>
-      </blockquote>
-      <hr>
-      <h4>💬 Recent Conversations / آخرین مکالمات</h4>
-      <!-- CHAT_LOG_START -->
-      *This section is updated automatically by a GitHub Action.*
-      <!-- CHAT_LOG_END -->
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📰 Hacker News (Every 15 minutes)
+<!-- HACKER_NEWS_START -->
+*This section is updated automatically by a GitHub Action.*
+<!-- HACKER_NEWS_END -->
+<br>
+<p align="right"><small>latest update: <!-- HACKER_NEWS_LAST_UPDATED --><!-- /HACKER_NEWS_LAST_UPDATED --></small></p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Talk to my AI Assistant! / با دستیار هوش مصنوعی من صحبت کنید!
+<p>To ask a question, please <strong><a href="https://github.com/Null-Err0r/Null-Err0r/issues/new">open a new issue here</a></strong>. My AI will automatically post a reply.<br>برای پرسیدن سوال، لطفاً یک <strong><a href="https://github.com/Null-Err0r/Null-Err0r/issues/new">Issue جدید در این مخزن باز کنید</a></strong>. هوش مصنوعی من به صورت خودکار پاسخ شما را ارسال خواهد کرد.</p>
+<blockquote><p><strong>Note:</strong> Conversations are archived on GitHub. / <strong>توجه:</strong> مکالمات در گیت‌هاب آرشیو می‌شود.</p></blockquote>
+<hr>
+<h4>💬 Recent Conversations / آخرین مکالمات</h4>
+<!-- CHAT_LOG_START -->
+*This section is updated automatically by a GitHub Action.*
+<!-- CHAT_LOG_END -->
+
+</td>
+</tr>
 </table>
 <!-- End Dynamic Content Section -->
 
