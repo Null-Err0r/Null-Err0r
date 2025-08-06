@@ -236,6 +236,7 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
@@ -245,21 +246,22 @@
   <li>🔹 <a href="https://github.com/manzaltu/claude-code-ide.el" style="color: #f7931a; text-decoration: none;">Claude Code IDE Integration for Emacs</a> — <code>2025-08-06 13:17 UTC</code></li>
   <li>🔹 <a href="https://github.com/KittenML/KittenTTS" style="color: #f7931a; text-decoration: none;">Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model</a> — <code>2025-08-06 05:04 UTC</code></li>
   <li>🔹 <a href="https://nautilustrader.io/" style="color: #f7931a; text-decoration: none;">NautilusTrader: Open-source algorithmic trading platform</a> — <code>2025-08-06 11:23 UTC</code></li>
+  <li>🔹 <a href="https://hamatti.org/posts/dotfiles-feel-too-intimate-and-personal-to-share/" style="color: #f7931a; text-decoration: none;">Dotfiles feel too intimate and personal to share</a> — <code>2025-08-06 14:36 UTC</code></li>
   <li>🔹 <a href="https://openai.com/open-models/" style="color: #f7931a; text-decoration: none;">Open models by OpenAI</a> — <code>2025-08-05 17:02 UTC</code></li>
   <li>🔹 <a href="https://github.com/ventoy/Ventoy/issues/3224" style="color: #f7931a; text-decoration: none;">About the BLOBs in Ventoy</a> — <code>2025-08-06 10:41 UTC</code></li>
-  <li>🔹 <a href="https://old.reddit.com/r/law/comments/1mj3ttx/constitution_of_the_united_states_website_has/" style="color: #f7931a; text-decoration: none;">Constitution of the United States Website has removed sections (web.archive.org)</a> — <code>2025-08-06 13:30 UTC</code></li>
-  <li>🔹 <a href="https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/" style="color: #f7931a; text-decoration: none;">Genie 3: A new frontier for world models</a> — <code>2025-08-05 14:08 UTC</code></li>
+  <li>🔹 <a href="https://iwantproductmarketfit.substack.com/p/how-one-pitch-change-helped-this" style="color: #f7931a; text-decoration: none;">Coffee-shop pitch change helped founder unlock traction for laptop campers</a> — <code>2025-08-06 13:20 UTC</code></li>
+  <li>🔹 <a href="https://www.bleepingcomputer.com/news/security/google-suffers-data-breach-in-ongoing-salesforce-data-theft-attacks/" style="color: #f7931a; text-decoration: none;">Google suffers data breach in ongoing Salesforce data theft attacks</a> — <code>2025-08-06 14:04 UTC</code></li>
+  <li>🔹 <a href="https://cointelegraph.com/news/eu-chat-control-plan-gains-support-threatens-encryption" style="color: #f7931a; text-decoration: none;">EU proposal to scan all private messages gains momentum</a> — <code>2025-08-06 13:17 UTC</code></li>
   <li>🔹 <a href="https://lwn.net/SubscriberLink/1031707/73cb0cf917307a93/" style="color: #f7931a; text-decoration: none;">Python performance myths and fairy tales</a> — <code>2025-08-06 08:36 UTC</code></li>
-  <li>🔹 <a href="https://open-web-advocacy.org/blog/japan-apple-must-lift-engine-ban-by-december/" style="color: #f7931a; text-decoration: none;">Japan: Apple Must Lift Browser Engine Ban by December</a> — <code>2025-08-06 10:07 UTC</code></li>
-  <li>🔹 <a href="https://permacomputing.net/software_rot/" style="color: #f7931a; text-decoration: none;">Software Rot</a> — <code>2025-08-06 02:35 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-06 14:14:23 UTC
+  latest update: 2025-08-06 14:43:41 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
