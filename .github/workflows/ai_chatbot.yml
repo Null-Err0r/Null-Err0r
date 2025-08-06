@@ -3,7 +3,7 @@ name: AI Assistant & README Updater
 on:
   issues:
     types: [opened]
-  workflow_dispatch: # Allows manual runs
+  workflow_dispatch:
 
 permissions:
   issues: write
@@ -33,20 +33,16 @@ jobs:
         with:
           script: |
             const rawResponse = `${{ steps.ai_response.outputs.raw_text }}`.trim();
-            let fullResponse = '';
             const lines = rawResponse.split('\n');
+            let fullResponse = '';
             for (const line of lines) {
               if (line.startsWith('data:')) {
                 const jsonString = line.substring(5).trim();
                 if (jsonString && jsonString !== '[DONE]') {
                   try {
                     const data = JSON.parse(jsonString);
-                    if (data.response) {
-                      fullResponse += data.response;
-                    }
-                  } catch (e) {
-                    console.warn('Could not parse line:', jsonString);
-                  }
+                    if (data.response) { fullResponse += data.response; }
+                  } catch (e) { console.warn('Could not parse line:', jsonString); }
                 }
               }
             }
@@ -54,7 +50,7 @@ jobs:
             await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              issue_number: context.issue.number,
+              issue_number: github.event.issue.number,
               body: body
             });
 
@@ -65,7 +61,7 @@ jobs:
             await github.rest.issues.update({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              issue_number: context.issue.number,
+              issue_number: github.event.issue.number,
               state: 'closed'
             });
 
@@ -75,11 +71,9 @@ jobs:
           python-version: '3.x'
 
       - name: Get latest 20 conversations and save to file
-        id: get_issues
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          gh issue list --repo ${{ github.repository }} --limit 20 --state closed --json title,url > issues.json
+        run: gh issue list --repo ${{ github.repository }} --limit 20 --state closed --json title,url > issues.json
 
       - name: Update README with recent conversations
         run: python scripts/update_ai_chat.py
