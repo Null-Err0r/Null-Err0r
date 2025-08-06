@@ -22,7 +22,7 @@
 
 ### 📰 Hacker News (Every 15 minutes)
 <br>
-<p align="right"><small>latest update: </small></p>
+<p align="right"><small>latest update: ...</small></p>
 
 <hr>
 
