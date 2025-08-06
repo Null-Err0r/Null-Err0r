@@ -235,6 +235,7 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
@@ -246,19 +247,20 @@
   <li>🔹 <a href="https://nautilustrader.io/" style="color: #f7931a; text-decoration: none;">NautilusTrader: Open-source algorithmic trading platform</a> — <code>2025-08-06 11:23 UTC</code></li>
   <li>🔹 <a href="https://openai.com/open-models/" style="color: #f7931a; text-decoration: none;">Open models by OpenAI</a> — <code>2025-08-05 17:02 UTC</code></li>
   <li>🔹 <a href="https://github.com/ventoy/Ventoy/issues/3224" style="color: #f7931a; text-decoration: none;">About the BLOBs in Ventoy</a> — <code>2025-08-06 10:41 UTC</code></li>
-  <li>🔹 <a href="https://slrpnk.net/post/25696399" style="color: #f7931a; text-decoration: none;">The Constitution Has Been Changed</a> — <code>2025-08-06 13:40 UTC</code></li>
+  <li>🔹 <a href="https://old.reddit.com/r/law/comments/1mj3ttx/constitution_of_the_united_states_website_has/" style="color: #f7931a; text-decoration: none;">Constitution of the United States Website has removed sections (web.archive.org)</a> — <code>2025-08-06 13:30 UTC</code></li>
   <li>🔹 <a href="https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/" style="color: #f7931a; text-decoration: none;">Genie 3: A new frontier for world models</a> — <code>2025-08-05 14:08 UTC</code></li>
-  <li>🔹 <a href="https://news.ycombinator.com/item?id=44811457" style="color: #f7931a; text-decoration: none;">Ask HN: Do you struggle with flow state when using AI assisted coding tools?</a> — <code>2025-08-06 13:08 UTC</code></li>
-  <li>🔹 <a href="https://tratt.net/laurie/blog/2025/llm_inflation.html" style="color: #f7931a; text-decoration: none;">LLM Inflation</a> — <code>2025-08-06 10:44 UTC</code></li>
+  <li>🔹 <a href="https://lwn.net/SubscriberLink/1031707/73cb0cf917307a93/" style="color: #f7931a; text-decoration: none;">Python performance myths and fairy tales</a> — <code>2025-08-06 08:36 UTC</code></li>
   <li>🔹 <a href="https://open-web-advocacy.org/blog/japan-apple-must-lift-engine-ban-by-december/" style="color: #f7931a; text-decoration: none;">Japan: Apple Must Lift Browser Engine Ban by December</a> — <code>2025-08-06 10:07 UTC</code></li>
+  <li>🔹 <a href="https://permacomputing.net/software_rot/" style="color: #f7931a; text-decoration: none;">Software Rot</a> — <code>2025-08-06 02:35 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-06 13:52:34 UTC
+  latest update: 2025-08-06 14:14:23 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
