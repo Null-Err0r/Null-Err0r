@@ -3,6 +3,7 @@ name: AI Assistant & README Updater
 on:
   issues:
     types: [opened]
+  workflow_dispatch: # Allows manual runs
 
 permissions:
   issues: write
@@ -21,7 +22,6 @@ jobs:
           RAW_RESPONSE=$(curl -s -X POST "${{ secrets.WORKER_URL }}" \
             -H "Content-Type: application/json" \
             -d '{"prompt": "${{ github.event.issue.body }}"}')
-          
           {
             echo "raw_text<<EOF"
             echo "$RAW_RESPONSE"
@@ -33,9 +33,8 @@ jobs:
         with:
           script: |
             const rawResponse = `${{ steps.ai_response.outputs.raw_text }}`.trim();
-            const lines = rawResponse.split('\n');
             let fullResponse = '';
-
+            const lines = rawResponse.split('\n');
             for (const line of lines) {
               if (line.startsWith('data:')) {
                 const jsonString = line.substring(5).trim();
@@ -51,9 +50,7 @@ jobs:
                 }
               }
             }
-
             const body = `🤖 **AI Assistant:**\n\n${fullResponse.trim() || 'Sorry, I could not generate a response.'}`;
-            
             await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
@@ -77,16 +74,15 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Get latest 20 conversations
+      - name: Get latest 20 conversations and save to file
         id: get_issues
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          issues_json=$(gh issue list --repo ${{ github.repository }} --limit 20 --state closed --json title,url)
-          echo "issues_json=$issues_json" >> $GITHUB_OUTPUT
+          gh issue list --repo ${{ github.repository }} --limit 20 --state closed --json title,url > issues.json
 
       - name: Update README with recent conversations
-        run: echo "${{ steps.get_issues.outputs.issues_json }}" | python scripts/update_ai_chat.py
+        run: python scripts/update_ai_chat.py
 
       - name: Commit and push if there are changes
         run: |
