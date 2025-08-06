@@ -243,14 +243,15 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
 <h3>📰 Hacker News (Every 15 minutes)</h3>
 
 <ul style="list-style-type: none; padding-left: 0; line-height: 1.6;">
-  <li>🔹 <a href="https://github.com/manzaltu/claude-code-ide.el" style="color: #f7931a; text-decoration: none;">Claude Code IDE Integration for Emacs</a> — <code>2025-08-06 13:17 UTC</code></li>
   <li>🔹 <a href="https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/" style="color: #f7931a; text-decoration: none;">Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work</a> — <code>2025-08-06 16:00 UTC</code></li>
+  <li>🔹 <a href="https://github.com/manzaltu/claude-code-ide.el" style="color: #f7931a; text-decoration: none;">Claude Code IDE integration for Emacs</a> — <code>2025-08-06 13:17 UTC</code></li>
   <li>🔹 <a href="https://hamatti.org/posts/dotfiles-feel-too-intimate-and-personal-to-share/" style="color: #f7931a; text-decoration: none;">Dotfiles feel too intimate and personal to share</a> — <code>2025-08-06 14:36 UTC</code></li>
   <li>🔹 <a href="https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/" style="color: #f7931a; text-decoration: none;">Breaking the sorting barrier for directed single-source shortest paths</a> — <code>2025-08-06 14:43 UTC</code></li>
   <li>🔹 <a href="https://github.com/KittenML/KittenTTS" style="color: #f7931a; text-decoration: none;">Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model</a> — <code>2025-08-06 05:04 UTC</code></li>
@@ -258,15 +259,16 @@
   <li>🔹 <a href="https://glfmn.io/posts/zig-error-patterns/" style="color: #f7931a; text-decoration: none;">Zig-Error-Patterns</a> — <code>2025-08-06 15:03 UTC</code></li>
   <li>🔹 <a href="https://303-gen-06a668.netlify.app/" style="color: #f7931a; text-decoration: none;">303Gen – 303 acid loops generator</a> — <code>2025-08-06 12:50 UTC</code></li>
   <li>🔹 <a href="https://nautilustrader.io/" style="color: #f7931a; text-decoration: none;">NautilusTrader: Open-source algorithmic trading platform</a> — <code>2025-08-06 11:23 UTC</code></li>
-  <li>🔹 <a href="https://github.com/ventoy/Ventoy/issues/3224" style="color: #f7931a; text-decoration: none;">About the BLOBs in Ventoy</a> — <code>2025-08-06 10:41 UTC</code></li>
+  <li>🔹 <a href="https://github.com/berbyte/sinkzone" style="color: #f7931a; text-decoration: none;">Show HN: Sinkzone DNS forwarder that blocks everything except your allowlist</a> — <code>2025-08-06 16:08 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-06 16:45:24 UTC
+  latest update: 2025-08-06 17:14:01 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
