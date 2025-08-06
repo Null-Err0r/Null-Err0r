@@ -234,30 +234,32 @@
 
 
 
+
 <!--hn-readme-->
 <div align="center" style="border: 1px solid #f7931a; border-radius: 10px; padding: 20px; max-width: 700px; margin: auto; background-color: #1d2021; color: #f7931a; font-family: 'Fira Code', monospace;">
 
 <h3>📰 Hacker News (Every 15 minutes)</h3>
 
 <ul style="list-style-type: none; padding-left: 0; line-height: 1.6;">
+  <li>🔹 <a href="https://github.com/manzaltu/claude-code-ide.el" style="color: #f7931a; text-decoration: none;">Claude Code IDE Integration for Emacs</a> — <code>2025-08-06 13:17 UTC</code></li>
   <li>🔹 <a href="https://github.com/KittenML/KittenTTS" style="color: #f7931a; text-decoration: none;">Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model</a> — <code>2025-08-06 05:04 UTC</code></li>
-  <li>🔹 <a href="https://grell.dev/blog/ai_rejection" style="color: #f7931a; text-decoration: none;">I gave the AI arms and legs then it rejected me</a> — <code>2025-08-06 07:25 UTC</code></li>
-  <li>🔹 <a href="https://tratt.net/laurie/blog/2025/llm_inflation.html" style="color: #f7931a; text-decoration: none;">LLM Inflation</a> — <code>2025-08-06 10:44 UTC</code></li>
-  <li>🔹 <a href="https://nautilustrader.io/" style="color: #f7931a; text-decoration: none;">NautilusTrader: Open-Source, High-Performance Algorithmic Trading Platform</a> — <code>2025-08-06 11:23 UTC</code></li>
+  <li>🔹 <a href="https://nautilustrader.io/" style="color: #f7931a; text-decoration: none;">NautilusTrader: Open-source algorithmic trading platform</a> — <code>2025-08-06 11:23 UTC</code></li>
   <li>🔹 <a href="https://openai.com/open-models/" style="color: #f7931a; text-decoration: none;">Open models by OpenAI</a> — <code>2025-08-05 17:02 UTC</code></li>
   <li>🔹 <a href="https://github.com/ventoy/Ventoy/issues/3224" style="color: #f7931a; text-decoration: none;">About the BLOBs in Ventoy</a> — <code>2025-08-06 10:41 UTC</code></li>
-  <li>🔹 <a href="https://en.wikipedia.org/wiki/Slopsquatting" style="color: #f7931a; text-decoration: none;">Slopsquatting</a> — <code>2025-08-06 11:43 UTC</code></li>
+  <li>🔹 <a href="https://slrpnk.net/post/25696399" style="color: #f7931a; text-decoration: none;">The Constitution Has Been Changed</a> — <code>2025-08-06 13:40 UTC</code></li>
   <li>🔹 <a href="https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/" style="color: #f7931a; text-decoration: none;">Genie 3: A new frontier for world models</a> — <code>2025-08-05 14:08 UTC</code></li>
-  <li>🔹 <a href="https://arstechnica.com/tech-policy/2025/08/grok-generates-fake-taylor-swift-nudes-without-being-asked/" style="color: #f7931a; text-decoration: none;">Grok generates fake Taylor Swift nudes without being asked</a> — <code>2025-08-06 12:37 UTC</code></li>
-  <li>🔹 <a href="https://github.com/Picocrypt/Picocrypt/issues/134" style="color: #f7931a; text-decoration: none;">I'm Archiving Picocrypt</a> — <code>2025-08-06 03:14 UTC</code></li>
+  <li>🔹 <a href="https://news.ycombinator.com/item?id=44811457" style="color: #f7931a; text-decoration: none;">Ask HN: Do you struggle with flow state when using AI assisted coding tools?</a> — <code>2025-08-06 13:08 UTC</code></li>
+  <li>🔹 <a href="https://tratt.net/laurie/blog/2025/llm_inflation.html" style="color: #f7931a; text-decoration: none;">LLM Inflation</a> — <code>2025-08-06 10:44 UTC</code></li>
+  <li>🔹 <a href="https://open-web-advocacy.org/blog/japan-apple-must-lift-engine-ban-by-december/" style="color: #f7931a; text-decoration: none;">Japan: Apple Must Lift Browser Engine Ban by December</a> — <code>2025-08-06 10:07 UTC</code></li>
 </ul>
 
 <p style="font-size: 0.8em; color: #aaaaaa; margin-top: 10px;">
-  latest update: 2025-08-06 13:12:10 UTC
+  latest update: 2025-08-06 13:52:34 UTC
 </p>
 
 </div>
 <!--hn-readme-->
+
 
 
 
