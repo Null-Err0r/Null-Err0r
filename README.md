@@ -25,19 +25,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://meyerweb.com/eric/thoughts/2025/08/07/infinite-pixels/' target='_blank' rel='noopener noreferrer'>Infinite Pixels</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 13:12 UTC</small><br><br>
-🔹 <a href='https://allchronology.com/2025/08/07/outdated-software-nationwide-chaos-united-airlines-grounds-flights-after-system-meltdown/' target='_blank' rel='noopener noreferrer'>Outdated Software, Nationwide Chaos: United Grounds Flights After Meltdown</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 13:55 UTC</small><br><br>
+🔹 <a href='https://win32.run/' target='_blank' rel='noopener noreferrer'>Windows XP Professional</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 13:58 UTC</small><br><br>
 🔹 <a href='https://progressandpoverty.substack.com/p/how-baltimore-assessments-accidentally' target='_blank' rel='noopener noreferrer'>Baltimore Assessments Accidentally Subsidize Blight–and How We Can Fix It</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 12:35 UTC</small><br><br>
-🔹 <a href='https://marcin.juszkiewicz.com.pl/2025/07/22/arm-desktop-emulation/' target='_blank' rel='noopener noreferrer'>Arm Desktop: x86 Emulation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 12:26 UTC</small><br><br>
+🔹 <a href='https://github.com/FreeBSDFoundation/proj-laptop/blob/main/monthly-updates/2025-07.md' target='_blank' rel='noopener noreferrer'>Laptop Support and Usability (LSU): July 2025 Report from the FreeBSD Foundation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 13:55 UTC</small><br><br>
 🔹 <a href='https://blog.google/technology/developers/introducing-gemini-cli-github-actions/' target='_blank' rel='noopener noreferrer'>New AI Coding Teammate: Gemini CLI GitHub Actions</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 09:28 UTC</small><br><br>
-🔹 <a href='https://www.derekthompson.org/p/how-ai-conquered-the-us-economy-a' target='_blank' rel='noopener noreferrer'>How AI Conquered the US Economy: A Visual FAQ</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 10:12 UTC</small><br><br>
+🔹 <a href='https://marcin.juszkiewicz.com.pl/2025/07/22/arm-desktop-emulation/' target='_blank' rel='noopener noreferrer'>Arm Desktop: x86 Emulation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 12:26 UTC</small><br><br>
+🔹 <a href='https://www.humaninvariant.com/blog/working' target='_blank' rel='noopener noreferrer'>No One Is Working</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 14:02 UTC</small><br><br>
 🔹 <a href='https://blog.danielh.cc/blog/passwords' target='_blank' rel='noopener noreferrer'>We replaced passwords with something worse</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 02:19 UTC</small><br><br>
-🔹 <a href='https://leonardo.chiariglione.org/' target='_blank' rel='noopener noreferrer'>Leonardo Chiariglione: “I closed MPEG on 2 June 2020”</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 10:09 UTC</small><br><br>
 🔹 <a href='https://github.com/stasher-dev/stasher-cli' target='_blank' rel='noopener noreferrer'>Show HN: Stasher – Burn-after-read secrets from the CLI, no server, no trust</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 11:48 UTC</small><br><br>
-🔹 <a href='#' target='_blank' rel='noopener noreferrer'>GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 12:01 UTC</small><br><br>
+🔹 <a href='https://hackteam.io/blog/your-llm-does-not-care-about-mcp/' target='_blank' rel='noopener noreferrer'>An LLM does not need to understand MCP</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 12:52 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-07 14:16:13 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-07 14:47:27 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
