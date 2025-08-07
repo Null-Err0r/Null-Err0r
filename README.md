@@ -29,15 +29,15 @@
 🔹 <a href='https://github.com/manzaltu/claude-code-ide.el' target='_blank' rel='noopener noreferrer'>Claude Code IDE integration for Emacs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 13:17 UTC</small><br><br>
 🔹 <a href='https://blog.danielh.cc/blog/passwords' target='_blank' rel='noopener noreferrer'>We replaced passwords with something worse</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 02:19 UTC</small><br><br>
 🔹 <a href='https://founders.archives.gov/documents/Franklin/01-20-02-0213' target='_blank' rel='noopener noreferrer'>Rules by which a great empire may be reduced to a small one (1773)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 23:29 UTC</small><br><br>
+🔹 <a href='https://www.goto10retro.com/p/40-years-of-the-amiga-from-commodore' target='_blank' rel='noopener noreferrer'>40 Years of the Amiga, from Commodore – By Paul Lefebvre</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 07:36 UTC</small><br><br>
 🔹 <a href='https://www.projecthyperion.org' target='_blank' rel='noopener noreferrer'>Project Hyperion: Interstellar ship design competition</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 20:40 UTC</small><br><br>
 🔹 <a href='https://arxiv.org/abs/2508.03814' target='_blank' rel='noopener noreferrer'>A candidate giant planet imaged in the habitable zone of α  Cen A</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 01:42 UTC</small><br><br>
-🔹 <a href='https://www.b-list.org/weblog/2025/aug/06/litestar/' target='_blank' rel='noopener noreferrer'>Litestar is worth a look</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 19:43 UTC</small><br><br>
 🔹 <a href='https://herbie.uwplse.org/' target='_blank' rel='noopener noreferrer'>Herbie detects inaccurate expressions and finds more accurate replacements</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-03 15:54 UTC</small><br><br>
-🔹 <a href='https://github.com/KittenML/KittenTTS' target='_blank' rel='noopener noreferrer'>Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 05:04 UTC</small><br><br>
+🔹 <a href='https://www.b-list.org/weblog/2025/aug/06/litestar/' target='_blank' rel='noopener noreferrer'>Litestar is worth a look</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 19:43 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-07 07:43:45 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-07 07:53:29 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
