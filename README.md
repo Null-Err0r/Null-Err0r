@@ -30,14 +30,14 @@
 🔹 <a href='https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/' target='_blank' rel='noopener noreferrer'>Cracking the Vault: How we found zero-day flaws in HashiCorp Vault</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 07:01 UTC</small><br><br>
 🔹 <a href='https://www.baseten.co/blog/sota-performance-for-gpt-oss-120b-on-nvidia-gpus/' target='_blank' rel='noopener noreferrer'>Running GPT-OSS-120B at 500 tokens per second on Nvidia GPUs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 02:28 UTC</small><br><br>
 🔹 <a href='https://github.com/manzaltu/claude-code-ide.el' target='_blank' rel='noopener noreferrer'>Claude Code IDE integration for Emacs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 13:17 UTC</small><br><br>
-🔹 <a href='https://herbie.uwplse.org/' target='_blank' rel='noopener noreferrer'>Herbie detects inaccurate expressions and finds more accurate replacements</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-03 15:54 UTC</small><br><br>
+🔹 <a href='https://priver.dev/blog/ai/about-ai/' target='_blank' rel='noopener noreferrer'>About AI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 09:05 UTC</small><br><br>
 🔹 <a href='https://www.projecthyperion.org' target='_blank' rel='noopener noreferrer'>Project Hyperion: Interstellar ship design competition</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 20:40 UTC</small><br><br>
 🔹 <a href='https://developer.mozilla.org/en-US/docs/Glossary/Debounce' target='_blank' rel='noopener noreferrer'>Debounce</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-04 16:04 UTC</small><br><br>
-🔹 <a href='https://priver.dev/blog/ai/about-ai/' target='_blank' rel='noopener noreferrer'>About AI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 09:05 UTC</small><br><br>
+🔹 <a href='https://herbie.uwplse.org/' target='_blank' rel='noopener noreferrer'>Herbie detects inaccurate expressions and finds more accurate replacements</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-03 15:54 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-07 10:42:25 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-07 10:55:49 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
