@@ -25,19 +25,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='http://openai.com/gpt-5' target='_blank' rel='noopener noreferrer'>GPT-5</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:00 UTC</small><br><br>
-🔹 <a href='https://natalie.sh/posts/bluesky-comments/' target='_blank' rel='noopener noreferrer'>Building Bluesky Comments for My Blog</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 15:56 UTC</small><br><br>
+🔹 <a href='https://natalie.sh/posts/bluesky-comments/' target='_blank' rel='noopener noreferrer'>Building Bluesky comments for my blog</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 15:56 UTC</small><br><br>
+🔹 <a href='https://cdn.openai.com/pdf/8124a3ce-ab78-4f06-96eb-49ea29ffb52f/gpt5-system-card-aug7.pdf' target='_blank' rel='noopener noreferrer'>GPT-5 System Card [pdf]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:03 UTC</small><br><br>
+🔹 <a href='https://openai.com/index/introducing-gpt-5-for-developers' target='_blank' rel='noopener noreferrer'>GPT-5 for Developers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:06 UTC</small><br><br>
 🔹 <a href='https://meyerweb.com/eric/thoughts/2025/08/07/infinite-pixels/' target='_blank' rel='noopener noreferrer'>Infinite Pixels</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 13:12 UTC</small><br><br>
-🔹 <a href='https://writings.founderlabs.io/p/how-to-sell-if-your-user-is-not-the' target='_blank' rel='noopener noreferrer'>How to Sell if Your User is not the Buyer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 15:09 UTC</small><br><br>
-🔹 <a href='https://openai.com/index/gpt-5-system-card' target='_blank' rel='noopener noreferrer'>GPT-5 System Card</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:03 UTC</small><br><br>
 🔹 <a href='https://hms.harvard.edu/news/could-lithium-explain-treat-alzheimers-disease' target='_blank' rel='noopener noreferrer'>Lithium Reverses Alzheimer's in Mice</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 14:56 UTC</small><br><br>
-🔹 <a href='https://tomscii.sig7.se/2024/01/Ditching-GitHub' target='_blank' rel='noopener noreferrer'>Ditching GitHub (2024)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 16:18 UTC</small><br><br>
+🔹 <a href='https://writings.founderlabs.io/p/how-to-sell-if-your-user-is-not-the' target='_blank' rel='noopener noreferrer'>How to Sell if Your User is not the Buyer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 15:09 UTC</small><br><br>
 🔹 <a href='https://www.ycombinator.com/companies/foundry/jobs/jwdYx6v-founding-product-engineer' target='_blank' rel='noopener noreferrer'>Foundry (YC F24) Is Hiring Staff Level Product Engineers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:00 UTC</small><br><br>
-🔹 <a href='https://www.youtube.com/watch?v=0Uu_VJeVVfo' target='_blank' rel='noopener noreferrer'>Live: GPT-5</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 16:16 UTC</small><br><br>
+🔹 <a href='https://tomscii.sig7.se/2024/01/Ditching-GitHub' target='_blank' rel='noopener noreferrer'>Ditching GitHub (2024)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 16:18 UTC</small><br><br>
 🔹 <a href='https://www.perl.com/article/suse-donates-to-tprf/' target='_blank' rel='noopener noreferrer'>SUSE Donates USD 11,500 to the Perl and Raku Foundation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 14:20 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-07 17:38:52 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-07 17:52:45 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
