@@ -26,18 +26,18 @@
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://meyerweb.com/eric/thoughts/2025/08/07/infinite-pixels/' target='_blank' rel='noopener noreferrer'>Infinite Pixels</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 13:12 UTC</small><br><br>
 🔹 <a href='https://win32.run/' target='_blank' rel='noopener noreferrer'>Windows XP Professional</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 13:58 UTC</small><br><br>
-🔹 <a href='https://progressandpoverty.substack.com/p/how-baltimore-assessments-accidentally' target='_blank' rel='noopener noreferrer'>Baltimore Assessments Accidentally Subsidize Blight–and How We Can Fix It</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 12:35 UTC</small><br><br>
+🔹 <a href='https://writings.founderlabs.io/p/how-to-sell-if-your-user-is-not-the' target='_blank' rel='noopener noreferrer'>How to Sell if Your User is not the Buyer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 15:09 UTC</small><br><br>
 🔹 <a href='https://github.com/FreeBSDFoundation/proj-laptop/blob/main/monthly-updates/2025-07.md' target='_blank' rel='noopener noreferrer'>Laptop Support and Usability (LSU): July 2025 Report from the FreeBSD Foundation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 13:55 UTC</small><br><br>
-🔹 <a href='https://blog.google/technology/developers/introducing-gemini-cli-github-actions/' target='_blank' rel='noopener noreferrer'>New AI Coding Teammate: Gemini CLI GitHub Actions</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 09:28 UTC</small><br><br>
 🔹 <a href='https://thenumb.at/QMC/' target='_blank' rel='noopener noreferrer'>Monte Carlo Crash Course: Quasi-Monte Carlo</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-03 20:53 UTC</small><br><br>
-🔹 <a href='https://marcin.juszkiewicz.com.pl/2025/07/22/arm-desktop-emulation/' target='_blank' rel='noopener noreferrer'>Arm Desktop: x86 Emulation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 12:26 UTC</small><br><br>
+🔹 <a href='https://blog.google/technology/developers/introducing-gemini-cli-github-actions/' target='_blank' rel='noopener noreferrer'>New AI Coding Teammate: Gemini CLI GitHub Actions</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 09:28 UTC</small><br><br>
 🔹 <a href='https://www.mechanize.work/blog/sweatshop-data-is-over/' target='_blank' rel='noopener noreferrer'>Sweatshop Data Is Over</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 14:00 UTC</small><br><br>
+🔹 <a href='https://awayfromtheordinary.com/2024/07/29/honesty-boxes-in-scotland/' target='_blank' rel='noopener noreferrer'>Honesty Boxes in Scotland (2024)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 14:11 UTC</small><br><br>
+🔹 <a href='https://marcin.juszkiewicz.com.pl/2025/07/22/arm-desktop-emulation/' target='_blank' rel='noopener noreferrer'>Arm Desktop: x86 Emulation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 12:26 UTC</small><br><br>
 🔹 <a href='https://blog.danielh.cc/blog/passwords' target='_blank' rel='noopener noreferrer'>We replaced passwords with something worse</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 02:19 UTC</small><br><br>
-🔹 <a href='https://alhadaqa.github.io/globaltradedynamics/' target='_blank' rel='noopener noreferrer'>Global Trade Dynamics</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 14:14 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-07 15:13:52 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-07 15:38:35 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
