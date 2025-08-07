@@ -58,8 +58,13 @@
 <p>To ask a question, please <strong><a href="https://github.com/Null-Err0r/Null-Err0r/issues/new">open a new issue here</a></strong>. My AI will automatically post a reply.<br>برای پرسیدن سوال، لطفاً یک <strong><a href="https://github.com/Null-Err0r/Null-Err0r/issues/new">Issue جدید در این مخزن باز کنید</a></strong>. هوش مصنوعی من به صورت خودکار پاسخ شما را ارسال خواهد کرد.</p>
 <blockquote><p><strong>Note:</strong> Conversations are archived on GitHub. / <strong>توجه:</strong> مکالمات در گیت‌هاب آرشیو می‌شود.</p></blockquote>
 <hr>
-<h4>💬 Recent Conversations / آخرین مکالمات</h4>
+
+### 💬 Recent Conversations / آخرین مکالمات
 *This section is updated automatically by a GitHub Action.*
+
+<!-- CHAT_LOG_START -->
+<!-- CHAT_LOG_END -->
+
 <div align="center">
   <br> </br>
   <img src="https://ghvc.kabelkultur.se/?username=null-err0r&abbreviated=true&color=ff5500&label=%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%20%20%F0%9F%91%80%20%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AEVisitor%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%20%F0%9F%91%80%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE⁮⁮" alt="Visitor Counter" />
