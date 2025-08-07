@@ -25,19 +25,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://openai.com/gpt-5/' target='_blank' rel='noopener noreferrer'>GPT-5</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:00 UTC</small><br><br>
+🔹 <a href='https://simonwillison.net/2025/Aug/7/gpt-5/' target='_blank' rel='noopener noreferrer'>GPT-5: Key characteristics, pricing and system card</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:46 UTC</small><br><br>
 🔹 <a href='https://openai.com/index/introducing-gpt-5-for-developers' target='_blank' rel='noopener noreferrer'>GPT-5 for Developers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:06 UTC</small><br><br>
 🔹 <a href='https://natalie.sh/posts/bluesky-comments/' target='_blank' rel='noopener noreferrer'>Building Bluesky comments for my blog</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 15:56 UTC</small><br><br>
-🔹 <a href='https://meyerweb.com/eric/thoughts/2025/08/07/infinite-pixels/' target='_blank' rel='noopener noreferrer'>Infinite Pixels</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 13:12 UTC</small><br><br>
-🔹 <a href='https://lightweightlsat.com/' target='_blank' rel='noopener noreferrer'>The Lightweight LSAT</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:51 UTC</small><br><br>
-🔹 <a href='https://writings.founderlabs.io/p/how-to-sell-if-your-user-is-not-the' target='_blank' rel='noopener noreferrer'>How to sell if your user is not the buyer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 15:09 UTC</small><br><br>
 🔹 <a href='https://github.com/geerlingguy/ollama-benchmark/issues/21' target='_blank' rel='noopener noreferrer'>Benchmark Framework Desktop Mainboard and 4-node cluster</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:49 UTC</small><br><br>
-🔹 <a href='https://github.com/FreeBSDFoundation/proj-laptop/blob/main/monthly-updates/2025-07.md' target='_blank' rel='noopener noreferrer'>Laptop Support and Usability (LSU): July 2025 Report from the FreeBSD Foundation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 13:55 UTC</small><br><br>
-🔹 <a href='https://www.ycombinator.com/companies/foundry/jobs/jwdYx6v-founding-product-engineer' target='_blank' rel='noopener noreferrer'>Foundry (YC F24) Is Hiring Staff Level Product Engineers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:00 UTC</small><br><br>
-🔹 <a href='https://jepsen.io/analyses/capela-dda5892' target='_blank' rel='noopener noreferrer'>Jepsen: Capela dda5892</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 14:44 UTC</small><br><br>
+🔹 <a href='https://lightweightlsat.com/' target='_blank' rel='noopener noreferrer'>Lightweight LSAT</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:51 UTC</small><br><br>
+🔹 <a href='https://meyerweb.com/eric/thoughts/2025/08/07/infinite-pixels/' target='_blank' rel='noopener noreferrer'>Infinite Pixels</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 13:12 UTC</small><br><br>
+🔹 <a href='https://writings.founderlabs.io/p/how-to-sell-if-your-user-is-not-the' target='_blank' rel='noopener noreferrer'>How to sell if your user is not the buyer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 15:09 UTC</small><br><br>
+🔹 <a href='https://github.com/FreeBSDFoundation/proj-laptop/blob/main/monthly-updates/2025-07.md' target='_blank' rel='noopener noreferrer'>Laptop Support and Usability (LSU): July 2025 Report</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 13:55 UTC</small><br><br>
+🔹 <a href='https://www.ycombinator.com/companies/foundry/jobs/jwdYx6v-founding-product-engineer' target='_blank' rel='noopener noreferrer'>Foundry (YC F24) is hiring staff-level product engineers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:00 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-07 18:17:50 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-07 18:53:58 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
