@@ -27,17 +27,17 @@
 🔹 <a href='https://openai.com/gpt-5/' target='_blank' rel='noopener noreferrer'>GPT-5</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:00 UTC</small><br><br>
 🔹 <a href='https://www.historicaltechtree.com/' target='_blank' rel='noopener noreferrer'>Historical Tech Tree</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 19:24 UTC</small><br><br>
 🔹 <a href='https://simonwillison.net/2025/Aug/7/gpt-5/' target='_blank' rel='noopener noreferrer'>GPT-5: Key characteristics, pricing and system card</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:46 UTC</small><br><br>
-🔹 <a href='https://github.com/geerlingguy/ollama-benchmark/issues/21' target='_blank' rel='noopener noreferrer'>Benchmark Framework Desktop Mainboard and 4-node cluster</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:49 UTC</small><br><br>
 🔹 <a href='https://openai.com/index/introducing-gpt-5-for-developers' target='_blank' rel='noopener noreferrer'>GPT-5 for Developers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:06 UTC</small><br><br>
+🔹 <a href='https://github.com/geerlingguy/ollama-benchmark/issues/21' target='_blank' rel='noopener noreferrer'>Benchmark Framework Desktop Mainboard and 4-node cluster</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:49 UTC</small><br><br>
 🔹 <a href='https://natalie.sh/posts/bluesky-comments/' target='_blank' rel='noopener noreferrer'>Building Bluesky comments for my blog</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 15:56 UTC</small><br><br>
-🔹 <a href='https://www.wired.com/story/encryption-made-for-police-and-military-radios-may-be-easily-cracked-researchers-find/' target='_blank' rel='noopener noreferrer'>Encryption made for police and military radios may be easily cracked</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 18:30 UTC</small><br><br>
 🔹 <a href='https://www.seangoedecke.com/gpt-oss-is-phi-5/' target='_blank' rel='noopener noreferrer'>OpenAI's new open-source model is basically Phi-5</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 18:59 UTC</small><br><br>
-🔹 <a href='https://www.theatlantic.com/health/archive/2024/03/dna-tests-incest/677791/' target='_blank' rel='noopener noreferrer'>DNA tests are uncovering the true prevalence of incest (2024)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:40 UTC</small><br><br>
+🔹 <a href='https://www.wired.com/story/encryption-made-for-police-and-military-radios-may-be-easily-cracked-researchers-find/' target='_blank' rel='noopener noreferrer'>Encryption made for police and military radios may be easily cracked</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 18:30 UTC</small><br><br>
 🔹 <a href='https://win32.run/' target='_blank' rel='noopener noreferrer'>Windows XP Professional</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 13:58 UTC</small><br><br>
+🔹 <a href='https://map-yue.github.io/' target='_blank' rel='noopener noreferrer'>Open music foundation models for full-song generation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-04 10:46 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-07 20:53:23 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-07 21:09:57 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
