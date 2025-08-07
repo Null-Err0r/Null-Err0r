@@ -30,14 +30,14 @@
 🔹 <a href='https://github.com/manzaltu/claude-code-ide.el' target='_blank' rel='noopener noreferrer'>Claude Code IDE integration for Emacs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 13:17 UTC</small><br><br>
 🔹 <a href='https://herbie.uwplse.org/' target='_blank' rel='noopener noreferrer'>Herbie detects inaccurate expressions and finds more accurate replacements</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-03 15:54 UTC</small><br><br>
 🔹 <a href='https://www.projecthyperion.org' target='_blank' rel='noopener noreferrer'>Project Hyperion: Interstellar ship design competition</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 20:40 UTC</small><br><br>
-🔹 <a href='https://founders.archives.gov/documents/Franklin/01-20-02-0213' target='_blank' rel='noopener noreferrer'>Rules by which a great empire may be reduced to a small one (1773)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 23:29 UTC</small><br><br>
 🔹 <a href='https://developer.mozilla.org/en-US/docs/Glossary/Debounce' target='_blank' rel='noopener noreferrer'>Debounce</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-04 16:04 UTC</small><br><br>
+🔹 <a href='https://founders.archives.gov/documents/Franklin/01-20-02-0213' target='_blank' rel='noopener noreferrer'>Rules by which a great empire may be reduced to a small one (1773)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 23:29 UTC</small><br><br>
 🔹 <a href='https://github.com/KittenML/KittenTTS' target='_blank' rel='noopener noreferrer'>Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 05:04 UTC</small><br><br>
 🔹 <a href='https://arxiv.org/abs/2508.03814' target='_blank' rel='noopener noreferrer'>A candidate giant planet imaged in the habitable zone of α  Cen A</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 01:42 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-07 09:46:01 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-07 10:13:08 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
