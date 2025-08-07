@@ -43,7 +43,11 @@ def format_story(story):
 
     time_str = datetime.fromtimestamp(timestamp, tz=pytz.utc).strftime('%Y-%m-%d %H:%M UTC')
 
-    return f"🔹 <a href='{url}' target='_blank' rel='noopener noreferrer'>{title}</a><br>\n&nbsp;&nbsp;&nbsp;&nbsp;— <small>{time_str}</small>"
+    return (
+    f"🔹 <a href='{url}' target='_blank' rel='noopener noreferrer'>{title}</a><br>"
+    f"&nbsp;&nbsp;&nbsp;&nbsp;— <small>{time_str}</small><br><br>"
+)
+
 
 
 def main():
