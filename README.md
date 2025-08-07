@@ -24,20 +24,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://openai.com/gpt-5/' target='_blank' rel='noopener noreferrer'>GPT-5</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:00 UTC</small><br><br>
 🔹 <a href='https://www.vibechart.net/' target='_blank' rel='noopener noreferrer'>Vibechart</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 21:36 UTC</small><br><br>
+🔹 <a href='https://openai.com/gpt-5/' target='_blank' rel='noopener noreferrer'>GPT-5</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:00 UTC</small><br><br>
 🔹 <a href='https://www.historicaltechtree.com/' target='_blank' rel='noopener noreferrer'>Historical Tech Tree</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 19:24 UTC</small><br><br>
 🔹 <a href='https://simonwillison.net/2025/Aug/7/gpt-5/' target='_blank' rel='noopener noreferrer'>GPT-5: Key characteristics, pricing and system card</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:46 UTC</small><br><br>
 🔹 <a href='https://www.rtl-sdr.com/flipperzero-darkweb-firmware-bypasses-rolling-code-security/' target='_blank' rel='noopener noreferrer'>Flipper Zero DarkWeb Firmware Bypasses Rolling Code Security</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 21:10 UTC</small><br><br>
+🔹 <a href='https://cursor.com/cli' target='_blank' rel='noopener noreferrer'>Cursor CLI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 20:53 UTC</small><br><br>
 🔹 <a href='https://openai.com/index/introducing-gpt-5-for-developers' target='_blank' rel='noopener noreferrer'>GPT-5 for Developers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:06 UTC</small><br><br>
 🔹 <a href='https://www.seangoedecke.com/gpt-oss-is-phi-5/' target='_blank' rel='noopener noreferrer'>OpenAI's new open-source model is basically Phi-5</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 18:59 UTC</small><br><br>
-🔹 <a href='https://cursor.com/cli' target='_blank' rel='noopener noreferrer'>Cursor CLI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 20:53 UTC</small><br><br>
-🔹 <a href='https://github.com/geerlingguy/ollama-benchmark/issues/21' target='_blank' rel='noopener noreferrer'>Benchmark Framework Desktop Mainboard and 4-node cluster</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:49 UTC</small><br><br>
 🔹 <a href='https://www.wired.com/story/encryption-made-for-police-and-military-radios-may-be-easily-cracked-researchers-find/' target='_blank' rel='noopener noreferrer'>Encryption made for police and military radios may be easily cracked</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 18:30 UTC</small><br><br>
+🔹 <a href='https://github.com/geerlingguy/ollama-benchmark/issues/21' target='_blank' rel='noopener noreferrer'>Benchmark Framework Desktop Mainboard and 4-node cluster</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:49 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-07 22:36:42 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-07 22:53:15 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
