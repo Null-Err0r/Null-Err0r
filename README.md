@@ -25,19 +25,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://github.com/manzaltu/claude-code-ide.el' target='_blank' rel='noopener noreferrer'>Claude Code IDE integration for Emacs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 13:17 UTC</small><br><br>
+🔹 <a href='https://founders.archives.gov/documents/Franklin/01-20-02-0213' target='_blank' rel='noopener noreferrer'>Rules by Which a Great Empire May Be Reduced to a Small One (1773)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 23:29 UTC</small><br><br>
 🔹 <a href='https://www.projecthyperion.org' target='_blank' rel='noopener noreferrer'>Project Hyperion: Interstellar ship design competition</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 20:40 UTC</small><br><br>
+🔹 <a href='https://arxiv.org/abs/2508.03814' target='_blank' rel='noopener noreferrer'>A Candidate Giant Planet Imaged in the Habitable Zone of α Cen A</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 01:42 UTC</small><br><br>
 🔹 <a href='https://www.b-list.org/weblog/2025/aug/06/litestar/' target='_blank' rel='noopener noreferrer'>Litestar is worth a look</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 19:43 UTC</small><br><br>
-🔹 <a href='https://founders.archives.gov/documents/Franklin/01-20-02-0213' target='_blank' rel='noopener noreferrer'>Rules by Which a Great Empire May Be Reduced to a Small One</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 23:29 UTC</small><br><br>
-🔹 <a href='https://www.inkhaven.blog/' target='_blank' rel='noopener noreferrer'>The Inkhaven Blogging Residency</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 00:20 UTC</small><br><br>
+🔹 <a href='http://tenfourfox.blogspot.com/2025/08/mac-history-echoes-in-mac-operating.html' target='_blank' rel='noopener noreferrer'>Mac history echoes in current Mac operating systems</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 02:27 UTC</small><br><br>
+🔹 <a href='https://pavpanchekha.com/blog/9bit.html' target='_blank' rel='noopener noreferrer'>We'd be better off with 9-bit bytes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 19:39 UTC</small><br><br>
+🔹 <a href='https://www.classcentral.com/report/coursera-preview-mode-paywall/' target='_blank' rel='noopener noreferrer'>The Day MOOCs Died: Coursera's Preview Mode Kills Free Learning</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-03 17:23 UTC</small><br><br>
 🔹 <a href='https://dannybate.com/2025/08/03/you-know-more-finnish-than-you-think/' target='_blank' rel='noopener noreferrer'>You know more Finnish than you think</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-04 19:08 UTC</small><br><br>
 🔹 <a href='https://danielchasehooper.com/posts/segment_array/' target='_blank' rel='noopener noreferrer'>A fast, growable array with stable pointers in C</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 18:21 UTC</small><br><br>
-🔹 <a href='https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/' target='_blank' rel='noopener noreferrer'>Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 16:00 UTC</small><br><br>
-🔹 <a href='https://pavpanchekha.com/blog/9bit.html' target='_blank' rel='noopener noreferrer'>We'd be better off with 9-bit bytes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 19:39 UTC</small><br><br>
-🔹 <a href='https://301party.com/' target='_blank' rel='noopener noreferrer'>301party.com: Intentionally open redirect</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 20:54 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-07 01:00:08 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-07 03:04:17 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
