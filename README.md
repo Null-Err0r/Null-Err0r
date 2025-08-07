@@ -55,7 +55,7 @@
 
 
 ### 🤖 Talk to my AI Assistant! / با دستیار هوش مصنوعی من صحبت کنید!
-<p>To ask a question, please <strong><a href="https://github.com/Null-Err0r/Null-Err0r/issues/new">open a new issue here</a></strong>. My AI will automatically post a reply.<br>برای پرسیدن سوال، لطفاً یک <strong><a href="https://github.com/Null-Err0r/Null-Err0r/issues/new">Issue جدید در این مخزن باز کنید</a></strong>. هوش مصنوعی من به صورت خودکار پاسخ شما را ارسال خواهد کرد.</p>
+<p>To ask a question, please <strong><a href="https://github.com/Null-Err0r/Null-Err0r/issues/new">open a new issue here</a></strong>. My AI will automatically post a reply.<br>برای پرسیدن سوال، لطفاً یک <strong><a href="https://github.com/Null-Err0r/Null-Err0r/issues/new">مسئله جدید در این مخزن باز کنید</a></strong>. هوش مصنوعی من به صورت خودکار پاسخ شما را ارسال خواهد کرد.</p>
 <blockquote><p><strong>Note:</strong> Conversations are archived on GitHub. / <strong>توجه:</strong> مکالمات در گیت‌هاب آرشیو می‌شود.</p></blockquote>
 <hr>
 
