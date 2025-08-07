@@ -82,10 +82,31 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Get latest 20 conversations and save to file
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: gh issue list --repo ${{ github.repository }} --limit 20 --state closed --json title,url > issues.json
+- name: Get latest 20 conversations and save to file
+  env:
+    GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  run: |
+    mkdir -p tmp_issues
+    gh issue list --repo ${{ github.repository }} --state closed --limit 20 --json number,title,url > tmp_issues/list.json
+
+    echo "[" > issues.json
+    index=0
+    total=$(jq length tmp_issues/list.json)
+    jq -c '.[]' tmp_issues/list.json | while read issue; do
+      number=$(echo "$issue" | jq -r .number)
+      title=$(echo "$issue" | jq -r .title)
+      url=$(echo "$issue" | jq -r .url)
+
+      last_comment=$(gh api repos/${{ github.repository }}/issues/$number/comments --jq '.[-1].body' 2>/dev/null | head -c 500 | jq -Rs .)
+      if [ "$last_comment" = "null" ]; then last_comment="\"\""; fi
+
+      echo "  {\"title\": $(echo "$title" | jq -Rs .), \"url\": \"$url\", \"last_comment\": $last_comment}" >> issues.json
+
+      index=$((index + 1))
+      if [ $index -lt $total ]; then echo "," >> issues.json; fi
+    done
+    echo "]" >> issues.json
+
 
       - name: Update README with recent conversations
         run: python scripts/update_ai_chat.py
