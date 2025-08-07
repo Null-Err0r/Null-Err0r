@@ -29,15 +29,15 @@
 🔹 <a href='https://blog.danielh.cc/blog/passwords' target='_blank' rel='noopener noreferrer'>We replaced passwords with something worse</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 02:19 UTC</small><br><br>
 🔹 <a href='https://priver.dev/blog/ai/about-ai/' target='_blank' rel='noopener noreferrer'>About AI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 09:05 UTC</small><br><br>
 🔹 <a href='https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/' target='_blank' rel='noopener noreferrer'>Cracking the Vault: How we found zero-day flaws in HashiCorp Vault</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 07:01 UTC</small><br><br>
+🔹 <a href='https://apnews.com/article/ai-school-surveillance-gaggle-goguardian-bark-8c531cde8f9aee0b1ef06cfce109724a' target='_blank' rel='noopener noreferrer'>Schools are using AI surveillance to protect students. Sometimes arresting them</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 11:17 UTC</small><br><br>
 🔹 <a href='https://www.baseten.co/blog/sota-performance-for-gpt-oss-120b-on-nvidia-gpus/' target='_blank' rel='noopener noreferrer'>Running GPT-OSS-120B at 500 tokens per second on Nvidia GPUs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 02:28 UTC</small><br><br>
 🔹 <a href='https://github.com/manzaltu/claude-code-ide.el' target='_blank' rel='noopener noreferrer'>Claude Code IDE integration for Emacs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 13:17 UTC</small><br><br>
 🔹 <a href='https://developer.mozilla.org/en-US/docs/Glossary/Debounce' target='_blank' rel='noopener noreferrer'>Debounce</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-04 16:04 UTC</small><br><br>
-🔹 <a href='https://www.projecthyperion.org' target='_blank' rel='noopener noreferrer'>Project Hyperion: Interstellar ship design competition</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 20:40 UTC</small><br><br>
-🔹 <a href='https://founders.archives.gov/documents/Franklin/01-20-02-0213' target='_blank' rel='noopener noreferrer'>Rules by which a great empire may be reduced to a small one (1773)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 23:29 UTC</small><br><br>
+🔹 <a href='https://momentsingraphics.de/HPG2025.html' target='_blank' rel='noopener noreferrer'>Splatshop: Efficiently Editing Large Gaussian Splat Models</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-04 08:53 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-07 11:30:53 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-07 11:49:35 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
