@@ -24,20 +24,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://leonardo.chiariglione.org/' target='_blank' rel='noopener noreferrer'>"I closed MPEG on 2 Jun '20 when I left because obscure forces had hijacked it."</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 10:09 UTC</small><br><br>
+🔹 <a href='https://leonardo.chiariglione.org/' target='_blank' rel='noopener noreferrer'>Leonardo Chiariglione: “I closed MPEG on 2 June 2020”</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 10:09 UTC</small><br><br>
+🔹 <a href='https://hackteam.io/blog/your-llm-does-not-care-about-mcp/' target='_blank' rel='noopener noreferrer'>LLM Does Not Care About MCP</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 12:52 UTC</small><br><br>
 🔹 <a href='https://blog.google/technology/developers/introducing-gemini-cli-github-actions/' target='_blank' rel='noopener noreferrer'>New AI Coding Teammate: Gemini CLI GitHub Actions</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 09:28 UTC</small><br><br>
-🔹 <a href='https://apnews.com/article/ai-school-surveillance-gaggle-goguardian-bark-8c531cde8f9aee0b1ef06cfce109724a' target='_blank' rel='noopener noreferrer'>Schools are using AI surveillance to protect students. Sometimes arresting them</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 11:17 UTC</small><br><br>
-🔹 <a href='https://nimishg.substack.com/p/ai-ethics-is-being-narrowed-on-purpose' target='_blank' rel='noopener noreferrer'>AI ethics is being narrowed on purpose – just like privacy was</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 11:20 UTC</small><br><br>
-🔹 <a href='https://blog.danielh.cc/blog/passwords' target='_blank' rel='noopener noreferrer'>We replaced passwords with something worse</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 02:19 UTC</small><br><br>
 🔹 <a href='https://github.com/stasher-dev/stasher-cli' target='_blank' rel='noopener noreferrer'>Show HN: Stasher – Burn-after-read secrets from the CLI, no server, no trust</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 11:48 UTC</small><br><br>
+🔹 <a href='https://blog.danielh.cc/blog/passwords' target='_blank' rel='noopener noreferrer'>We replaced passwords with something worse</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 02:19 UTC</small><br><br>
+🔹 <a href='https://muratkasimov.art/Ya/Articles/You-don%27t-really-need-monads' target='_blank' rel='noopener noreferrer'>You Don't Need Monads</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 12:44 UTC</small><br><br>
+🔹 <a href='https://www.derekthompson.org/p/how-ai-conquered-the-us-economy-a' target='_blank' rel='noopener noreferrer'>How AI Conquered the US Economy: A Visual FAQ</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 10:12 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 12:01 UTC</small><br><br>
 🔹 <a href='https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/' target='_blank' rel='noopener noreferrer'>Cracking the Vault: How we found zero-day flaws in HashiCorp Vault</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 07:01 UTC</small><br><br>
 🔹 <a href='https://github.com/manzaltu/claude-code-ide.el' target='_blank' rel='noopener noreferrer'>Claude Code IDE integration for Emacs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 13:17 UTC</small><br><br>
-🔹 <a href='https://www.baseten.co/blog/sota-performance-for-gpt-oss-120b-on-nvidia-gpus/' target='_blank' rel='noopener noreferrer'>Running GPT-OSS-120B at 500 tokens per second on Nvidia GPUs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 02:28 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-07 12:24:18 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-07 13:12:30 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
