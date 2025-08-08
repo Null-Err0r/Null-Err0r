@@ -25,19 +25,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://simonwillison.net/2025/Aug/8/surprise-deprecation-of-gpt-4o/' target='_blank' rel='noopener noreferrer'>The surprise deprecation of GPT-4o for ChatGPT consumers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 18:04 UTC</small><br><br>
+🔹 <a href='https://instavm.io/blog/building-my-offline-ai-workspace' target='_blank' rel='noopener noreferrer'>I Want Everything Local – Building My Offline AI Workspace</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 18:19 UTC</small><br><br>
 🔹 <a href='https://github.com/Nicholas-L-Johnson/flip-card' target='_blank' rel='noopener noreferrer'>Ultrathin business card runs a fluid simulation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 11:41 UTC</small><br><br>
-🔹 <a href='https://elite-ai-assisted-coding.dev/p/copilot-agentic-coding-gpt-5-vs-claude-4-sonnet' target='_blank' rel='noopener noreferrer'>GPT-5 vs. Sonnet: Complex Agentic Coding</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 15:38 UTC</small><br><br>
 🔹 <a href='https://thereader.mitpress.mit.edu/the-secret-history-of-tor-how-a-military-project-became-a-lifeline-for-privacy/' target='_blank' rel='noopener noreferrer'>Tor: How a Military Project Became a Lifeline for Privacy</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 15:45 UTC</small><br><br>
 🔹 <a href='https://www.jeffgeerling.com/blog/2025/i-clustered-four-framework-mainboards-test-huge-llms' target='_blank' rel='noopener noreferrer'>I clustered four Framework Mainboards to test LLMs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 17:20 UTC</small><br><br>
+🔹 <a href='https://elite-ai-assisted-coding.dev/p/copilot-agentic-coding-gpt-5-vs-claude-4-sonnet' target='_blank' rel='noopener noreferrer'>GPT-5 vs. Sonnet: Complex Agentic Coding</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 15:38 UTC</small><br><br>
 🔹 <a href='https://theahura.substack.com/p/tech-things-genies-lamp-openai-cant' target='_blank' rel='noopener noreferrer'>Google's Genie is more impressive than GPT5</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 14:46 UTC</small><br><br>
 🔹 <a href='https://passo.uno/from-tech-writers-to-ai-context-curators/' target='_blank' rel='noopener noreferrer'>AI must RTFM: Why tech writers are becoming context curators</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 15:04 UTC</small><br><br>
 🔹 <a href='https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/2025-shortlist' target='_blank' rel='noopener noreferrer'>Astronomy Photographer of the Year 2025 shortlist</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 14:29 UTC</small><br><br>
 🔹 <a href='https://radar.com/blog/high-performance-geocoding-in-rust' target='_blank' rel='noopener noreferrer'>HorizonDB, a geocoding engine in Rust that replaces Elasticsearch</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 12:57 UTC</small><br><br>
-🔹 <a href='https://www.spacebar.news/apple-history-hiding-in-mac-font/' target='_blank' rel='noopener noreferrer'>Apple's history is hiding in a Mac font</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-04 17:31 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-08 18:14:37 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-08 18:45:23 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
