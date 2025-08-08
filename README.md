@@ -29,15 +29,15 @@
 🔹 <a href='https://thereader.mitpress.mit.edu/the-secret-history-of-tor-how-a-military-project-became-a-lifeline-for-privacy/' target='_blank' rel='noopener noreferrer'>Tor: How a military project became a lifeline for privacy</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 15:45 UTC</small><br><br>
 🔹 <a href='https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/' target='_blank' rel='noopener noreferrer'>Jim Lovell, Apollo 13 commander, has died</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 19:12 UTC</small><br><br>
 🔹 <a href='https://github.com/steveyegge/efrit' target='_blank' rel='noopener noreferrer'>Efrit: A native elisp coding agent running in Emacs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 19:20 UTC</small><br><br>
-🔹 <a href='https://www.dbos.dev/blog/why-postgres-durable-execution' target='_blank' rel='noopener noreferrer'>Build durable workflows with Postgres</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 19:24 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Ask HN: How can ChatGPT serve 700M users when I can't run one GPT-4 locally?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 19:27 UTC</small><br><br>
 🔹 <a href='https://www.bbc.com/culture/article/20250807-the-radical-film-that-became-a-disaster-for-disney' target='_blank' rel='noopener noreferrer'>Disney 1985 film The Black Cauldron was an experiment that failed</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 19:52 UTC</small><br><br>
+🔹 <a href='https://www.dbos.dev/blog/why-postgres-durable-execution' target='_blank' rel='noopener noreferrer'>Build durable workflows with Postgres</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 19:24 UTC</small><br><br>
 🔹 <a href='https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/2025-shortlist' target='_blank' rel='noopener noreferrer'>Astronomy Photographer of the Year 2025 shortlist</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 14:29 UTC</small><br><br>
 🔹 <a href='https://radar.com/blog/high-performance-geocoding-in-rust' target='_blank' rel='noopener noreferrer'>How we replaced Elasticsearch and MongoDB with Rust and RocksDB</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 12:57 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-08 21:49:16 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-08 22:10:51 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
