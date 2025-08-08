@@ -24,20 +24,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
+🔹 <a href='https://github.com/Nicholas-L-Johnson/flip-card' target='_blank' rel='noopener noreferrer'>Ultrathin business card runs a fluid simulation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 11:41 UTC</small><br><br>
 🔹 <a href='https://openai.com/gpt-5/' target='_blank' rel='noopener noreferrer'>GPT-5</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:00 UTC</small><br><br>
 🔹 <a href='https://bytemash.net/posts/i-went-down-the-linear-rabbit-hole/' target='_blank' rel='noopener noreferrer'>Linear sent me down a local-first rabbit hole</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 05:45 UTC</small><br><br>
-🔹 <a href='https://github.com/Nicholas-L-Johnson/flip-card' target='_blank' rel='noopener noreferrer'>Ultrathin business card runs a fluid simulation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 11:41 UTC</small><br><br>
-🔹 <a href='https://loganmarek.com/i-dont-read-your-threads/' target='_blank' rel='noopener noreferrer'>I Don't Read Your Email Threads</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 11:15 UTC</small><br><br>
+🔹 <a href='https://loganmarek.com/i-dont-read-your-threads/' target='_blank' rel='noopener noreferrer'>I don't read your email threads</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 11:15 UTC</small><br><br>
+🔹 <a href='https://blog.broulik.de/2025/08/on-window-activation/' target='_blank' rel='noopener noreferrer'>Window Activation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-04 12:03 UTC</small><br><br>
+🔹 <a href='https://media.amtrak.com/2025/08/amtrak-nextgen-acela-debuts-on-august-28/' target='_blank' rel='noopener noreferrer'>Amtrak NextGen Acela Debuts on August 28</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 11:30 UTC</small><br><br>
 🔹 <a href='https://www.rtl-sdr.com/flipperzero-darkweb-firmware-bypasses-rolling-code-security/' target='_blank' rel='noopener noreferrer'>Flipper Zero dark web firmware bypasses rolling code security</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 21:10 UTC</small><br><br>
 🔹 <a href='https://www.historicaltechtree.com/' target='_blank' rel='noopener noreferrer'>Historical Tech Tree</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 19:24 UTC</small><br><br>
-🔹 <a href='https://catzkorn.dev/blog/love-letter/' target='_blank' rel='noopener noreferrer'>A love letter to my future employer (2020)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 06:01 UTC</small><br><br>
-🔹 <a href='https://underjord.io/500-virtual-linux-devices-on-arm64.html' target='_blank' rel='noopener noreferrer'>Virtual Linux Devices on ARM64</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-04 11:51 UTC</small><br><br>
-🔹 <a href='https://cursor.com/cli' target='_blank' rel='noopener noreferrer'>Cursor CLI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 20:53 UTC</small><br><br>
-🔹 <a href='https://www.seangoedecke.com/gpt-oss-is-phi-5/' target='_blank' rel='noopener noreferrer'>OpenAI's new open-source model is basically Phi-5</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 18:59 UTC</small><br><br>
+🔹 <a href='https://anthonysimmon.com/workleap-dotnet-coding-standards/' target='_blank' rel='noopener noreferrer'>How we enforce .NET coding standards to improve productivity</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-04 21:03 UTC</small><br><br>
+🔹 <a href='https://hanlab.mit.edu/blog/streamingllm' target='_blank' rel='noopener noreferrer'>How Attention Sinks Keep Language Models Stable</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 08:53 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-08 11:51:11 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-08 12:23:19 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
