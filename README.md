@@ -30,14 +30,14 @@
 🔹 <a href='https://www.historicaltechtree.com/' target='_blank' rel='noopener noreferrer'>Historical Tech Tree</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 19:24 UTC</small><br><br>
 🔹 <a href='https://notes.eatonphil.com/2023-11-01-postgres-table-access-methods.html' target='_blank' rel='noopener noreferrer'>Writing a storage engine for Postgres: An in-memory table access method (2023)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-04 08:53 UTC</small><br><br>
 🔹 <a href='https://simonwillison.net/2025/Aug/7/gpt-5/' target='_blank' rel='noopener noreferrer'>GPT-5: Key characteristics, pricing and system card</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:46 UTC</small><br><br>
+🔹 <a href='https://www.qodo.ai/blog/benchmarking-gpt-5-on-real-world-code-reviews-with-the-pr-benchmark/' target='_blank' rel='noopener noreferrer'>Benchmarking GPT-5 on 400 Real-World Code Reviews</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 06:00 UTC</small><br><br>
 🔹 <a href='https://cursor.com/cli' target='_blank' rel='noopener noreferrer'>Cursor CLI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 20:53 UTC</small><br><br>
 🔹 <a href='https://www.seangoedecke.com/gpt-oss-is-phi-5/' target='_blank' rel='noopener noreferrer'>OpenAI's new open-source model is basically Phi-5</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 18:59 UTC</small><br><br>
-🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Ask HN: Has any of the Pivotal Tracker replacement attempts succeeded?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-04 11:56 UTC</small><br><br>
-🔹 <a href='https://harpers.org/archive/1964/11/the-paranoid-style-in-american-politics/' target='_blank' rel='noopener noreferrer'>The Paranoid Style in American Politics (1964)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 02:55 UTC</small><br><br>
+🔹 <a href='https://medium.com/@raul.lapaz/learning-kubernetes-security-2cb906ad8037' target='_blank' rel='noopener noreferrer'>Lessons from writing a Kubernetes Security book</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-04 11:44 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-08 05:49:35 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-08 06:19:32 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
