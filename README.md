@@ -29,15 +29,15 @@
 🔹 <a href='https://www.rtl-sdr.com/flipperzero-darkweb-firmware-bypasses-rolling-code-security/' target='_blank' rel='noopener noreferrer'>Flipper Zero dark web firmware bypasses rolling code security</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 21:10 UTC</small><br><br>
 🔹 <a href='https://catzkorn.dev/blog/love-letter/' target='_blank' rel='noopener noreferrer'>A love letter to my future employer (2020)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 06:01 UTC</small><br><br>
 🔹 <a href='https://www.historicaltechtree.com/' target='_blank' rel='noopener noreferrer'>Historical Tech Tree</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 19:24 UTC</small><br><br>
-🔹 <a href='https://www.qodo.ai/blog/benchmarking-gpt-5-on-real-world-code-reviews-with-the-pr-benchmark/' target='_blank' rel='noopener noreferrer'>Benchmarking GPT-5 on 400 real-world code reviews</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 06:00 UTC</small><br><br>
 🔹 <a href='https://cursor.com/cli' target='_blank' rel='noopener noreferrer'>Cursor CLI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 20:53 UTC</small><br><br>
 🔹 <a href='https://simonwillison.net/2025/Aug/7/gpt-5/' target='_blank' rel='noopener noreferrer'>GPT-5: Key characteristics, pricing and system card</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:46 UTC</small><br><br>
 🔹 <a href='https://www.seangoedecke.com/gpt-oss-is-phi-5/' target='_blank' rel='noopener noreferrer'>OpenAI's new open-source model is basically Phi-5</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 18:59 UTC</small><br><br>
+🔹 <a href='https://underjord.io/500-virtual-linux-devices-on-arm64.html' target='_blank' rel='noopener noreferrer'>Virtual Linux Devices on ARM64</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-04 11:51 UTC</small><br><br>
 🔹 <a href='https://notes.eatonphil.com/2023-11-01-postgres-table-access-methods.html' target='_blank' rel='noopener noreferrer'>Writing a storage engine for Postgres: An in-memory table access method (2023)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-04 08:53 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-08 08:49:45 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-08 09:17:48 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
