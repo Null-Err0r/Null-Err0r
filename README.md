@@ -28,16 +28,16 @@
 🔹 <a href='https://github.com/Nicholas-L-Johnson/flip-card' target='_blank' rel='noopener noreferrer'>Ultrathin business card runs a fluid simulation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 11:41 UTC</small><br><br>
 🔹 <a href='https://thereader.mitpress.mit.edu/the-secret-history-of-tor-how-a-military-project-became-a-lifeline-for-privacy/' target='_blank' rel='noopener noreferrer'>Tor: How a military project became a lifeline for privacy</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 15:45 UTC</small><br><br>
 🔹 <a href='https://www.dbos.dev/blog/why-postgres-durable-execution' target='_blank' rel='noopener noreferrer'>Build durable workflows with Postgres</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 19:24 UTC</small><br><br>
-🔹 <a href='https://github.com/alurm/json2dir' target='_blank' rel='noopener noreferrer'>Json2dir: a JSON-to-directory converter, a fast alternative to home-manager</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 18:46 UTC</small><br><br>
+🔹 <a href='https://inference.net/blog/what-s-left-is-distillation' target='_blank' rel='noopener noreferrer'>GPU-Rich Labs Have Won: What's Left for the Rest of Us Is Distillation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 19:29 UTC</small><br><br>
+🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Ask HN: How can ChatGPT serve 700M users when I can't run one GPT-4 locally?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 19:27 UTC</small><br><br>
 🔹 <a href='https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/2025-shortlist' target='_blank' rel='noopener noreferrer'>Astronomy Photographer of the Year 2025 shortlist</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 14:29 UTC</small><br><br>
+🔹 <a href='https://github.com/alurm/json2dir' target='_blank' rel='noopener noreferrer'>Json2dir: a JSON-to-directory converter, a fast alternative to home-manager</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 18:46 UTC</small><br><br>
 🔹 <a href='https://radar.com/blog/high-performance-geocoding-in-rust' target='_blank' rel='noopener noreferrer'>How we replaced Elasticsearch and MongoDB with Rust and RocksDB</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 12:57 UTC</small><br><br>
-🔹 <a href='https://www.hudsonrivertrading.com/hrtbeat/inside-hrts-python-fork/' target='_blank' rel='noopener noreferrer'>HRT's Python fork: Leveraging PEP 690 for faster imports</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 16:12 UTC</small><br><br>
-🔹 <a href='https://www.spacebar.news/apple-history-hiding-in-mac-font/' target='_blank' rel='noopener noreferrer'>Apple's history is hiding in a Mac font</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-04 17:31 UTC</small><br><br>
-🔹 <a href='https://simonwillison.net/2025/Aug/8/surprise-deprecation-of-gpt-4o/' target='_blank' rel='noopener noreferrer'>The surprise deprecation of GPT-4o for ChatGPT consumers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 18:04 UTC</small><br><br>
+🔹 <a href='https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/' target='_blank' rel='noopener noreferrer'>Apollo 13 Commander Jim Lovell has passed away</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 19:12 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-08 19:46:52 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-08 20:13:01 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
