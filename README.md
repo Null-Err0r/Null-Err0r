@@ -25,19 +25,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://github.com/Nicholas-L-Johnson/flip-card' target='_blank' rel='noopener noreferrer'>Ultrathin business card runs a fluid simulation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 11:41 UTC</small><br><br>
-🔹 <a href='https://apnorc.org/projects/food-housing-and-health-care-costs-are-a-source-of-major-stress-for-many-people/' target='_blank' rel='noopener noreferrer'>Food, housing, & health care costs are a source of major stress for many people</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 12:27 UTC</small><br><br>
 🔹 <a href='https://radar.com/blog/high-performance-geocoding-in-rust' target='_blank' rel='noopener noreferrer'>HorizonDB, a geocoding engine in Rust that replaces Elasticsearch</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 12:57 UTC</small><br><br>
+🔹 <a href='https://apnorc.org/projects/food-housing-and-health-care-costs-are-a-source-of-major-stress-for-many-people/' target='_blank' rel='noopener noreferrer'>Food, housing, & health care costs are a source of major stress for many people</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 12:27 UTC</small><br><br>
 🔹 <a href='https://productpickle.online/2025/07/20/ritual-features-the-quiet-strategy-behind-daily-puzzle-games-on-linkedin-and-beyond/' target='_blank' rel='noopener noreferrer'>The Rise of Ritual Features: Why Platforms Are Adding Daily Puzzle Games</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 13:26 UTC</small><br><br>
-🔹 <a href='https://blog.broulik.de/2025/08/on-window-activation/' target='_blank' rel='noopener noreferrer'>Window Activation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-04 12:03 UTC</small><br><br>
 🔹 <a href='https://openai.com/gpt-5/' target='_blank' rel='noopener noreferrer'>GPT-5</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:00 UTC</small><br><br>
+🔹 <a href='https://blog.broulik.de/2025/08/on-window-activation/' target='_blank' rel='noopener noreferrer'>Window Activation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-04 12:03 UTC</small><br><br>
+🔹 <a href='https://www.dzombak.com/blog/2025/08/getting-good-results-from-claude-code/' target='_blank' rel='noopener noreferrer'>Getting Good Results from Claude Code</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 13:45 UTC</small><br><br>
 🔹 <a href='https://bytemash.net/posts/i-went-down-the-linear-rabbit-hole/' target='_blank' rel='noopener noreferrer'>Linear sent me down a local-first rabbit hole</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 05:45 UTC</small><br><br>
-🔹 <a href='https://trayce.dev?resubmit=hn' target='_blank' rel='noopener noreferrer'>Show HN: Trayce – “Burp Suite for developers”</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 14:49 UTC</small><br><br>
-🔹 <a href='https://hanlab.mit.edu/blog/streamingllm' target='_blank' rel='noopener noreferrer'>How Attention Sinks Keep Language Models Stable</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 08:53 UTC</small><br><br>
 🔹 <a href='https://www.nber.org/papers/w34072' target='_blank' rel='noopener noreferrer'>What Does Consulting Do?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 13:52 UTC</small><br><br>
+🔹 <a href='https://trayce.dev?resubmit=hn' target='_blank' rel='noopener noreferrer'>Show HN: Trayce – “Burp Suite for developers”</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 14:49 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-08 14:41:18 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-08 14:55:15 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
