@@ -25,19 +25,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://openai.com/gpt-5/' target='_blank' rel='noopener noreferrer'>GPT-5</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:00 UTC</small><br><br>
-🔹 <a href='https://gist.github.com/maoxiaoke/f6d5b28f9104cd856a2622a084f46fd7' target='_blank' rel='noopener noreferrer'>GPT-5 leaked system prompt</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 03:09 UTC</small><br><br>
+🔹 <a href='https://www.qodo.ai/blog/benchmarking-gpt-5-on-real-world-code-reviews-with-the-pr-benchmark/' target='_blank' rel='noopener noreferrer'>Benchmarking GPT-5 on 400 Real-World Code Reviews</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 06:00 UTC</small><br><br>
 🔹 <a href='https://www.rtl-sdr.com/flipperzero-darkweb-firmware-bypasses-rolling-code-security/' target='_blank' rel='noopener noreferrer'>Flipper Zero dark web firmware bypasses rolling code security</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 21:10 UTC</small><br><br>
 🔹 <a href='https://www.historicaltechtree.com/' target='_blank' rel='noopener noreferrer'>Historical Tech Tree</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 19:24 UTC</small><br><br>
+🔹 <a href='https://bytemash.net/posts/i-went-down-the-linear-rabbit-hole/' target='_blank' rel='noopener noreferrer'>Linear sent me down a local-first rabbit hole</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 05:45 UTC</small><br><br>
 🔹 <a href='https://notes.eatonphil.com/2023-11-01-postgres-table-access-methods.html' target='_blank' rel='noopener noreferrer'>Writing a storage engine for Postgres: An in-memory table access method (2023)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-04 08:53 UTC</small><br><br>
-🔹 <a href='https://simonwillison.net/2025/Aug/7/gpt-5/' target='_blank' rel='noopener noreferrer'>GPT-5: Key characteristics, pricing and system card</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:46 UTC</small><br><br>
-🔹 <a href='https://www.qodo.ai/blog/benchmarking-gpt-5-on-real-world-code-reviews-with-the-pr-benchmark/' target='_blank' rel='noopener noreferrer'>Benchmarking GPT-5 on 400 Real-World Code Reviews</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 06:00 UTC</small><br><br>
-🔹 <a href='https://cursor.com/cli' target='_blank' rel='noopener noreferrer'>Cursor CLI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 20:53 UTC</small><br><br>
 🔹 <a href='https://www.seangoedecke.com/gpt-oss-is-phi-5/' target='_blank' rel='noopener noreferrer'>OpenAI's new open-source model is basically Phi-5</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 18:59 UTC</small><br><br>
-🔹 <a href='https://medium.com/@raul.lapaz/learning-kubernetes-security-2cb906ad8037' target='_blank' rel='noopener noreferrer'>Lessons from writing a Kubernetes Security book</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-04 11:44 UTC</small><br><br>
+🔹 <a href='https://simonwillison.net/2025/Aug/7/gpt-5/' target='_blank' rel='noopener noreferrer'>GPT-5: Key characteristics, pricing and system card</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:46 UTC</small><br><br>
+🔹 <a href='https://cursor.com/cli' target='_blank' rel='noopener noreferrer'>Cursor CLI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 20:53 UTC</small><br><br>
+🔹 <a href='https://openai.com/index/introducing-gpt-5-for-developers' target='_blank' rel='noopener noreferrer'>GPT-5 for Developers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:06 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-08 06:19:32 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-08 06:55:11 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
