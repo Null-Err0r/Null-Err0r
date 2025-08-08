@@ -24,20 +24,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://elite-ai-assisted-coding.dev/p/copilot-agentic-coding-gpt-5-vs-claude-4-sonnet' target='_blank' rel='noopener noreferrer'>GPT-5 vs. Sonnet: Complex Agentic Coding</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 15:38 UTC</small><br><br>
 🔹 <a href='https://github.com/Nicholas-L-Johnson/flip-card' target='_blank' rel='noopener noreferrer'>Ultrathin business card runs a fluid simulation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 11:41 UTC</small><br><br>
+🔹 <a href='https://elite-ai-assisted-coding.dev/p/copilot-agentic-coding-gpt-5-vs-claude-4-sonnet' target='_blank' rel='noopener noreferrer'>GPT-5 vs. Sonnet: Complex Agentic Coding</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 15:38 UTC</small><br><br>
 🔹 <a href='https://passo.uno/from-tech-writers-to-ai-context-curators/' target='_blank' rel='noopener noreferrer'>AI must RTFM: Why tech writers are becoming context curators</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 15:04 UTC</small><br><br>
 🔹 <a href='https://theahura.substack.com/p/tech-things-genies-lamp-openai-cant' target='_blank' rel='noopener noreferrer'>Google's Genie is more impressive than GPT5</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 14:46 UTC</small><br><br>
 🔹 <a href='https://radar.com/blog/high-performance-geocoding-in-rust' target='_blank' rel='noopener noreferrer'>HorizonDB, a geocoding engine in Rust that replaces Elasticsearch</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 12:57 UTC</small><br><br>
 🔹 <a href='https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/2025-shortlist' target='_blank' rel='noopener noreferrer'>Astronomy Photographer of the Year 2025 shortlist</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 14:29 UTC</small><br><br>
 🔹 <a href='https://thereader.mitpress.mit.edu/the-secret-history-of-tor-how-a-military-project-became-a-lifeline-for-privacy/' target='_blank' rel='noopener noreferrer'>Tor: How a Military Project Became a Lifeline for Privacy</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 15:45 UTC</small><br><br>
+🔹 <a href='https://www.dzombak.com/blog/2025/08/getting-good-results-from-claude-code/' target='_blank' rel='noopener noreferrer'>Getting good results from Claude code</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 13:45 UTC</small><br><br>
 🔹 <a href='https://www.spacebar.news/apple-history-hiding-in-mac-font/' target='_blank' rel='noopener noreferrer'>Apple's history is hiding in a Mac font</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-04 17:31 UTC</small><br><br>
 🔹 <a href='https://blog.broulik.de/2025/08/on-window-activation/' target='_blank' rel='noopener noreferrer'>Window Activation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-04 12:03 UTC</small><br><br>
-🔹 <a href='https://rakhim.exotext.com/ai-is-impressive-because-we-ve-failed-at-semantic-web-and-personal-computing' target='_blank' rel='noopener noreferrer'>AI is impressive because we've failed at personal computing</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 14:57 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-08 16:39:04 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-08 16:53:16 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
