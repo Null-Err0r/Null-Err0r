@@ -30,14 +30,14 @@
 🔹 <a href='https://blog.broulik.de/2025/08/on-window-activation/' target='_blank' rel='noopener noreferrer'>Window Activation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-04 12:03 UTC</small><br><br>
 🔹 <a href='https://openai.com/gpt-5/' target='_blank' rel='noopener noreferrer'>GPT-5</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:00 UTC</small><br><br>
 🔹 <a href='https://bytemash.net/posts/i-went-down-the-linear-rabbit-hole/' target='_blank' rel='noopener noreferrer'>Linear sent me down a local-first rabbit hole</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 05:45 UTC</small><br><br>
+🔹 <a href='https://productpickle.online/2025/07/20/ritual-features-the-quiet-strategy-behind-daily-puzzle-games-on-linkedin-and-beyond/' target='_blank' rel='noopener noreferrer'>The Rise of Ritual Features: Why Platforms Are Adding Daily Puzzle Games</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 13:26 UTC</small><br><br>
 🔹 <a href='https://www.bloomberg.com/opinion/articles/2025-08-08/the-bls-can-t-be-replaced-by-the-private-sector' target='_blank' rel='noopener noreferrer'>The BLS Can't Be Replaced by the Private Sector</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 12:52 UTC</small><br><br>
-🔹 <a href='https://trayce.dev?resubmit=hn' target='_blank' rel='noopener noreferrer'>Show HN: Trayce – “Burp Suite for developers”</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 14:49 UTC</small><br><br>
 🔹 <a href='https://rozab.dev/blog/emoji-search/' target='_blank' rel='noopener noreferrer'>The Windows 10 emoji picker has been broken for a month</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 11:51 UTC</small><br><br>
-🔹 <a href='https://www.rtl-sdr.com/flipperzero-darkweb-firmware-bypasses-rolling-code-security/' target='_blank' rel='noopener noreferrer'>Flipper Zero dark web firmware bypasses rolling code security</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 21:10 UTC</small><br><br>
+🔹 <a href='https://trayce.dev?resubmit=hn' target='_blank' rel='noopener noreferrer'>Show HN: Trayce – “Burp Suite for developers”</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 14:49 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-08 13:49:42 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-08 14:14:17 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
