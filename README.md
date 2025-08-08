@@ -28,16 +28,16 @@
 🔹 <a href='https://github.com/Nicholas-L-Johnson/flip-card' target='_blank' rel='noopener noreferrer'>Ultrathin business card runs a fluid simulation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 11:41 UTC</small><br><br>
 🔹 <a href='https://thereader.mitpress.mit.edu/the-secret-history-of-tor-how-a-military-project-became-a-lifeline-for-privacy/' target='_blank' rel='noopener noreferrer'>Tor: How a military project became a lifeline for privacy</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 15:45 UTC</small><br><br>
 🔹 <a href='https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/' target='_blank' rel='noopener noreferrer'>Jim Lovell, Apollo 13 commander, has died</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 19:12 UTC</small><br><br>
-🔹 <a href='https://www.macrumors.com/2025/07/10/no-m5-macbook-pro-2025/' target='_blank' rel='noopener noreferrer'>M5 MacBook Pro No Longer Coming in 2025</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 18:43 UTC</small><br><br>
 🔹 <a href='https://github.com/steveyegge/efrit' target='_blank' rel='noopener noreferrer'>Efrit: A native elisp coding agent running in Emacs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 19:20 UTC</small><br><br>
+🔹 <a href='https://www.macrumors.com/2025/07/10/no-m5-macbook-pro-2025/' target='_blank' rel='noopener noreferrer'>M5 MacBook Pro No Longer Coming in 2025</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 18:43 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Ask HN: How can ChatGPT serve 700M users when I can't run one GPT-4 locally?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 19:27 UTC</small><br><br>
+🔹 <a href='https://www.biographic.com/unmasking-the-sea-star-killer/' target='_blank' rel='noopener noreferrer'>Unmasking the Sea Star Killer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-05 13:10 UTC</small><br><br>
 🔹 <a href='https://simonwillison.net/2025/Aug/8/surprise-deprecation-of-gpt-4o/' target='_blank' rel='noopener noreferrer'>The surprise deprecation of GPT-4o for ChatGPT consumers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 18:04 UTC</small><br><br>
-🔹 <a href='https://radar.com/blog/high-performance-geocoding-in-rust' target='_blank' rel='noopener noreferrer'>How we replaced Elasticsearch and MongoDB with Rust and RocksDB</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 12:57 UTC</small><br><br>
 🔹 <a href='https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/2025-shortlist' target='_blank' rel='noopener noreferrer'>Astronomy Photographer of the Year 2025 shortlist</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 14:29 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-08 23:11:09 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-08 23:29:33 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
