@@ -25,19 +25,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://github.com/Nicholas-L-Johnson/flip-card' target='_blank' rel='noopener noreferrer'>Ultrathin business card runs a fluid simulation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 11:41 UTC</small><br><br>
+🔹 <a href='https://apnorc.org/projects/food-housing-and-health-care-costs-are-a-source-of-major-stress-for-many-people/' target='_blank' rel='noopener noreferrer'>Food, housing, & health care costs are a source of major stress for many people</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 12:27 UTC</small><br><br>
+🔹 <a href='https://radar.com/blog/high-performance-geocoding-in-rust' target='_blank' rel='noopener noreferrer'>HorizonDB, a geocoding engine in Rust that replaces Elasticsearch</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 12:57 UTC</small><br><br>
+🔹 <a href='https://blog.broulik.de/2025/08/on-window-activation/' target='_blank' rel='noopener noreferrer'>Window Activation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-04 12:03 UTC</small><br><br>
 🔹 <a href='https://openai.com/gpt-5/' target='_blank' rel='noopener noreferrer'>GPT-5</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 17:00 UTC</small><br><br>
 🔹 <a href='https://bytemash.net/posts/i-went-down-the-linear-rabbit-hole/' target='_blank' rel='noopener noreferrer'>Linear sent me down a local-first rabbit hole</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 05:45 UTC</small><br><br>
-🔹 <a href='https://blog.broulik.de/2025/08/on-window-activation/' target='_blank' rel='noopener noreferrer'>Window Activation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-04 12:03 UTC</small><br><br>
-🔹 <a href='https://radar.com/blog/high-performance-geocoding-in-rust' target='_blank' rel='noopener noreferrer'>HorizonDB, a geocoding engine in Rust that replaces Elasticsearch</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 12:57 UTC</small><br><br>
-🔹 <a href='https://xcancel.com/mxroute/status/1952890684660203830' target='_blank' rel='noopener noreferrer'>Apple's Favoritism to Fastmail</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 12:25 UTC</small><br><br>
-🔹 <a href='https://www.rtl-sdr.com/flipperzero-darkweb-firmware-bypasses-rolling-code-security/' target='_blank' rel='noopener noreferrer'>Flipper Zero dark web firmware bypasses rolling code security</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 21:10 UTC</small><br><br>
+🔹 <a href='https://www.bloomberg.com/opinion/articles/2025-08-08/the-bls-can-t-be-replaced-by-the-private-sector' target='_blank' rel='noopener noreferrer'>The BLS Can't Be Replaced by the Private Sector</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 12:52 UTC</small><br><br>
 🔹 <a href='https://trayce.dev?resubmit=hn' target='_blank' rel='noopener noreferrer'>Show HN: Trayce – “Burp Suite for developers”</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 14:49 UTC</small><br><br>
-🔹 <a href='https://anthonysimmon.com/workleap-dotnet-coding-standards/' target='_blank' rel='noopener noreferrer'>How we enforce .NET coding standards to improve productivity</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-04 21:03 UTC</small><br><br>
-🔹 <a href='https://www.historicaltechtree.com/' target='_blank' rel='noopener noreferrer'>Historical Tech Tree</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 19:24 UTC</small><br><br>
+🔹 <a href='https://rozab.dev/blog/emoji-search/' target='_blank' rel='noopener noreferrer'>The Windows 10 emoji picker has been broken for a month</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 11:51 UTC</small><br><br>
+🔹 <a href='https://www.rtl-sdr.com/flipperzero-darkweb-firmware-bypasses-rolling-code-security/' target='_blank' rel='noopener noreferrer'>Flipper Zero dark web firmware bypasses rolling code security</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 21:10 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-08 13:10:47 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-08 13:49:42 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
