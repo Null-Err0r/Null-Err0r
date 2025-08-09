@@ -29,15 +29,15 @@
 🔹 <a href='https://blog.hyperknot.com/p/openfreemap-survived-100000-requests' target='_blank' rel='noopener noreferrer'>OpenFreeMap survived 100k requests per second</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 13:31 UTC</small><br><br>
 🔹 <a href='https://www.cam.ac.uk/research/news/long-term-exposure-to-outdoor-air-pollution-linked-to-increased-risk-of-dementia' target='_blank' rel='noopener noreferrer'>Long-term exposure to outdoor air pollution linked to increased risk of dementia</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 13:01 UTC</small><br><br>
 🔹 <a href='https://quickshell.org/' target='_blank' rel='noopener noreferrer'>Quickshell – building blocks for your desktop</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-05 16:18 UTC</small><br><br>
-🔹 <a href='https://instavm.io/blog/building-my-offline-ai-workspace' target='_blank' rel='noopener noreferrer'>I want everything local – Building my offline AI workspace</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 18:19 UTC</small><br><br>
 🔹 <a href='https://simonwillison.net/2025/Aug/9/bay-area-ai/' target='_blank' rel='noopener noreferrer'>Simon Willison's Lethal Trifecta Talk at the Bay Area AI Security Meetup</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 14:47 UTC</small><br><br>
-🔹 <a href='https://github.com/menloresearch/jan' target='_blank' rel='noopener noreferrer'>Jan – Ollama alternative with local UI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 09:54 UTC</small><br><br>
 🔹 <a href='https://help.openai.com/en/articles/11752874-chatgpt-agent' target='_blank' rel='noopener noreferrer'>ChatGPT Agent – EU Launch</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 15:41 UTC</small><br><br>
 🔹 <a href='https://probablydance.com/2025/08/04/installing-a-mini-split-ac-in-a-brooklyn-apartment/' target='_blank' rel='noopener noreferrer'>Installing a Mini-Split AC in a Brooklyn Apartment</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 10:06 UTC</small><br><br>
+🔹 <a href='https://matklad.github.io/2025/08/08/partially-matching-zig-enums.html' target='_blank' rel='noopener noreferrer'>Partially Matching Zig Enums</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 08:50 UTC</small><br><br>
+🔹 <a href='https://github.com/menloresearch/jan' target='_blank' rel='noopener noreferrer'>Jan – Ollama alternative with local UI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 09:54 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-09 16:12:41 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-09 16:38:15 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
