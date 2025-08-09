@@ -28,16 +28,16 @@
 🔹 <a href='https://www.righto.com/2025/08/intel-386-package-ct-scan.html' target='_blank' rel='noopener noreferrer'>A CT scanner reveals surprises inside the 386 processor's ceramic package</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 17:17 UTC</small><br><br>
 🔹 <a href='https://simonwillison.net/2025/Aug/9/bay-area-ai/' target='_blank' rel='noopener noreferrer'>The Lethal Trifecta</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 14:47 UTC</small><br><br>
 🔹 <a href='https://www.debian.org/News/2025/20250809' target='_blank' rel='noopener noreferrer'>Debian 13 "Trixie"</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 18:18 UTC</small><br><br>
-🔹 <a href='https://www.bbc.com/news/articles/c62wx23y2v1o' target='_blank' rel='noopener noreferrer'>People returned to live in Pompeii's ruins, archaeologists say</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 13:16 UTC</small><br><br>
 🔹 <a href='https://blog.hyperknot.com/p/openfreemap-survived-100000-requests' target='_blank' rel='noopener noreferrer'>OpenFreeMap survived 100k requests per second</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 13:31 UTC</small><br><br>
+🔹 <a href='https://blog.glyph.im/2025/08/r0mls-ratio.html' target='_blank' rel='noopener noreferrer'>R0ML's Ratio</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 12:21 UTC</small><br><br>
 🔹 <a href='https://ch.at/' target='_blank' rel='noopener noreferrer'>Ch.at – a lightweight LLM chat service accessible through HTTP, SSH, DNS and API</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 18:59 UTC</small><br><br>
-🔹 <a href='https://quickshell.org/' target='_blank' rel='noopener noreferrer'>Quickshell – building blocks for your desktop</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-05 16:18 UTC</small><br><br>
+🔹 <a href='https://www.bbc.com/news/articles/c62wx23y2v1o' target='_blank' rel='noopener noreferrer'>People returned to live in Pompeii's ruins, archaeologists say</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 13:16 UTC</small><br><br>
 🔹 <a href='https://nicholas.carlini.com/writing/2021/unlimited-register-machine-game-of-life.html' target='_blank' rel='noopener noreferrer'>A Simple CPU on the Game of Life (2021)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 15:17 UTC</small><br><br>
-🔹 <a href='https://www.cam.ac.uk/research/news/long-term-exposure-to-outdoor-air-pollution-linked-to-increased-risk-of-dementia' target='_blank' rel='noopener noreferrer'>Long-term exposure to outdoor air pollution linked to increased risk of dementia</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 13:01 UTC</small><br><br>
+🔹 <a href='https://quickshell.org/' target='_blank' rel='noopener noreferrer'>Quickshell – building blocks for your desktop</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-05 16:18 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-09 22:10:33 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-09 22:32:59 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
