@@ -26,18 +26,18 @@
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://instavm.io/blog/building-my-offline-ai-workspace' target='_blank' rel='noopener noreferrer'>I want everything local – Building my offline AI workspace</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 18:19 UTC</small><br><br>
 🔹 <a href='https://github.com/Nicholas-L-Johnson/flip-card' target='_blank' rel='noopener noreferrer'>Ultrathin business card runs a fluid simulation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 11:41 UTC</small><br><br>
-🔹 <a href='https://www.embrapa.br/en/busca-de-noticias/-/noticia/75361634/little-known-leguminous-plant-can-increase-beef-production-by-60' target='_blank' rel='noopener noreferrer'>Little-known leguminous plant can increase beef production by 60% (2022)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 23:20 UTC</small><br><br>
+🔹 <a href='https://help.aol.com/articles/dial-up-internet-to-be-discontinued' target='_blank' rel='noopener noreferrer'>Dial-up Internet to be discontinued</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 01:37 UTC</small><br><br>
 🔹 <a href='https://thereader.mitpress.mit.edu/the-secret-history-of-tor-how-a-military-project-became-a-lifeline-for-privacy/' target='_blank' rel='noopener noreferrer'>Tor: How a military project became a lifeline for privacy</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 15:45 UTC</small><br><br>
-🔹 <a href='https://share.google/lwSKW8yEyTcCMaDrs' target='_blank' rel='noopener noreferrer'>The Desperate Struggle to Squeeze Aid into a Starving Gaz</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 00:39 UTC</small><br><br>
-🔹 <a href='https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/' target='_blank' rel='noopener noreferrer'>Jim Lovell, Apollo 13 commander, has died</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 19:12 UTC</small><br><br>
+🔹 <a href='https://www.instantdb.com/essays/gpt_5_vs_opus_4' target='_blank' rel='noopener noreferrer'>GPT 5 vs. Opus 4.1 for Vibe-Coded Apps</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 23:11 UTC</small><br><br>
+🔹 <a href='https://medium.com/ratelimitly/why-you-shouldnt-use-redis-as-a-rate-limiter-part-1-of-2-3d4261f5b38a' target='_blank' rel='noopener noreferrer'>Why you shouldn't use Redis as a rate limiter</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-05 16:05 UTC</small><br><br>
 🔹 <a href='https://github.com/steveyegge/efrit' target='_blank' rel='noopener noreferrer'>Efrit: A native elisp coding agent running in Emacs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 19:20 UTC</small><br><br>
-🔹 <a href='https://www.matthewnewton.com/blog/arc-challenge-diffusion' target='_blank' rel='noopener noreferrer'>Hacking Diffusion into Qwen3 for the Arc Challenge</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-05 14:43 UTC</small><br><br>
+🔹 <a href='https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/' target='_blank' rel='noopener noreferrer'>Jim Lovell, Apollo 13 commander, has died</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 19:12 UTC</small><br><br>
+🔹 <a href='https://www.dzombak.com/blog/2025/08/getting-good-results-from-claude-code/' target='_blank' rel='noopener noreferrer'>Getting good results from Claude Code</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 13:45 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Ask HN: How can ChatGPT serve 700M users when I can't run one GPT-4 locally?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 19:27 UTC</small><br><br>
-🔹 <a href='https://www.biographic.com/unmasking-the-sea-star-killer/' target='_blank' rel='noopener noreferrer'>Unmasking the Sea Star Killer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-05 13:10 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-09 00:54:29 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-09 02:43:30 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
