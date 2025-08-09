@@ -25,19 +25,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://sky.dlazaro.ca' target='_blank' rel='noopener noreferrer'>Show HN: The current sky at your approximate location, as a CSS gradient</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 13:25 UTC</small><br><br>
-🔹 <a href='https://simonwillison.net/2025/Aug/9/bay-area-ai/' target='_blank' rel='noopener noreferrer'>The Lethal Trifecta</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 14:47 UTC</small><br><br>
 🔹 <a href='https://research.eye.security/consent-and-compromise/' target='_blank' rel='noopener noreferrer'>Abusing Entra OAuth for fun and access to internal Microsoft applications</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 21:59 UTC</small><br><br>
+🔹 <a href='https://simonwillison.net/2025/Aug/9/bay-area-ai/' target='_blank' rel='noopener noreferrer'>My Lethal Trifecta talk at the Bay Area AI Security Meetup</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 14:47 UTC</small><br><br>
 🔹 <a href='https://www.righto.com/2025/08/intel-386-package-ct-scan.html' target='_blank' rel='noopener noreferrer'>A CT scanner reveals surprises inside the 386 processor's ceramic package</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 17:17 UTC</small><br><br>
 🔹 <a href='https://ch.at/' target='_blank' rel='noopener noreferrer'>Ch.at – a lightweight LLM chat service accessible through HTTP, SSH, DNS and API</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 18:59 UTC</small><br><br>
 🔹 <a href='https://www.debian.org/News/2025/20250809' target='_blank' rel='noopener noreferrer'>Debian 13 "Trixie"</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 18:18 UTC</small><br><br>
 🔹 <a href='https://blog.glyph.im/2025/08/r0mls-ratio.html' target='_blank' rel='noopener noreferrer'>R0ML's Ratio</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 12:21 UTC</small><br><br>
-🔹 <a href='https://www.bbc.com/news/articles/c62wx23y2v1o' target='_blank' rel='noopener noreferrer'>People returned to live in Pompeii's ruins, archaeologists say</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 13:16 UTC</small><br><br>
 🔹 <a href='https://blog.hyperknot.com/p/openfreemap-survived-100000-requests' target='_blank' rel='noopener noreferrer'>OpenFreeMap survived 100k requests per second</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 13:31 UTC</small><br><br>
-🔹 <a href='https://nicholas.carlini.com/writing/2021/unlimited-register-machine-game-of-life.html' target='_blank' rel='noopener noreferrer'>A Simple CPU on the Game of Life (2021)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 15:17 UTC</small><br><br>
+🔹 <a href='https://www.bbc.com/news/articles/c62wx23y2v1o' target='_blank' rel='noopener noreferrer'>People returned to live in Pompeii's ruins, archaeologists say</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 13:16 UTC</small><br><br>
+🔹 <a href='https://krebsonsecurity.com/2025/08/who-got-arrested-in-the-raid-on-the-xss-crime-forum/' target='_blank' rel='noopener noreferrer'>Who got arrested in the raid on the XSS crime forum?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 12:14 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-09 23:41:21 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-09 23:49:12 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
