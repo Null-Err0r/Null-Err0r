@@ -27,8 +27,8 @@
 🔹 <a href='https://instavm.io/blog/building-my-offline-ai-workspace' target='_blank' rel='noopener noreferrer'>I want everything local – Building my offline AI workspace</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 18:19 UTC</small><br><br>
 🔹 <a href='http://www.tribblix.org/' target='_blank' rel='noopener noreferrer'>Tribblix – The Retro Illumos Distribution</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 06:46 UTC</small><br><br>
 🔹 <a href='https://ethanding.substack.com/p/windsurf-gets-margin-called' target='_blank' rel='noopener noreferrer'>What the windsurf sale means for the AI coding ecosystem</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 03:24 UTC</small><br><br>
-🔹 <a href='https://shkspr.mobi/blog/2025/08/i-bought-a-16-smartwatch-just-because-it-used-usb-c/' target='_blank' rel='noopener noreferrer'>I bought a £16 smartwatch just because it used USB-C</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 12:12 UTC</small><br><br>
 🔹 <a href='https://matklad.github.io/2025/08/08/partially-matching-zig-enums.html' target='_blank' rel='noopener noreferrer'>Partially Matching Zig Enums</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 08:50 UTC</small><br><br>
+🔹 <a href='https://shkspr.mobi/blog/2025/08/i-bought-a-16-smartwatch-just-because-it-used-usb-c/' target='_blank' rel='noopener noreferrer'>I bought a £16 smartwatch just because it used USB-C</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 12:12 UTC</small><br><br>
 🔹 <a href='https://arxiv.org/abs/2504.17033' target='_blank' rel='noopener noreferrer'>Breaking the Sorting Barrier for Directed Single-Source Shortest Paths</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 05:34 UTC</small><br><br>
 🔹 <a href='https://github.com/Nicholas-L-Johnson/flip-card' target='_blank' rel='noopener noreferrer'>Ultrathin business card runs a fluid simulation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 11:41 UTC</small><br><br>
 🔹 <a href='https://sandstorm.org/' target='_blank' rel='noopener noreferrer'>Sandstorm- self-hostable web productivity suite</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 06:06 UTC</small><br><br>
@@ -37,7 +37,7 @@
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-09 09:30:55 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-09 09:47:55 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
