@@ -29,15 +29,15 @@
 🔹 <a href='https://blog.hyperknot.com/p/openfreemap-survived-100000-requests' target='_blank' rel='noopener noreferrer'>OpenFreeMap survived 100k requests per second</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 13:31 UTC</small><br><br>
 🔹 <a href='https://www.cam.ac.uk/research/news/long-term-exposure-to-outdoor-air-pollution-linked-to-increased-risk-of-dementia' target='_blank' rel='noopener noreferrer'>Long-term exposure to outdoor air pollution linked to increased risk of dementia</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 13:01 UTC</small><br><br>
 🔹 <a href='https://quickshell.org/' target='_blank' rel='noopener noreferrer'>Quickshell – building blocks for your desktop</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-05 16:18 UTC</small><br><br>
-🔹 <a href='https://laurivahtre.ee/empire-of-the-absurd/' target='_blank' rel='noopener noreferrer'>Empire of the Absurd: A Brief History of the Absurdities of the Soviet Union</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 15:52 UTC</small><br><br>
-🔹 <a href='https://simonwillison.net/2025/Aug/9/bay-area-ai/' target='_blank' rel='noopener noreferrer'>Simon Willison's Lethal Trifecta Talk at the Bay Area AI Security Meetup</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 14:47 UTC</small><br><br>
 🔹 <a href='https://help.openai.com/en/articles/11752874-chatgpt-agent' target='_blank' rel='noopener noreferrer'>ChatGPT Agent – EU Launch</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 15:41 UTC</small><br><br>
+🔹 <a href='https://simonwillison.net/2025/Aug/9/bay-area-ai/' target='_blank' rel='noopener noreferrer'>Simon Willison's Lethal Trifecta Talk at the Bay Area AI Security Meetup</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 14:47 UTC</small><br><br>
+🔹 <a href='https://laurivahtre.ee/empire-of-the-absurd/' target='_blank' rel='noopener noreferrer'>Empire of the Absurd: A Brief History of the Absurdities of the Soviet Union</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 15:52 UTC</small><br><br>
 🔹 <a href='https://github.com/geo-tp/ESP32-Bus-Pirate' target='_blank' rel='noopener noreferrer'>ESP32 Bus Pirate 0.5 – A Hardware Hacking Tool That Speaks Every Protocol</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 14:56 UTC</small><br><br>
-🔹 <a href='https://github.com/menloresearch/jan' target='_blank' rel='noopener noreferrer'>Jan – Ollama alternative with local UI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 09:54 UTC</small><br><br>
+🔹 <a href='https://tetralogical.com/blog/2025/08/08/accessibility-and-the-agentic-web/' target='_blank' rel='noopener noreferrer'>Accessibility and the Agentic Web</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 16:44 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-09 16:53:39 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-09 17:09:00 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
