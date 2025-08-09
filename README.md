@@ -24,20 +24,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://www.usda.gov/about-usda/news/press-releases/2025/07/09/secretary-rollins-takes-decisive-action-and-shuts-down-us-southern-border-ports-livestock-trade-due' target='_blank' rel='noopener noreferrer'>Mexico to US Livestock Trade halted due to Screwworm spread</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 14:30 UTC</small><br><br>
 🔹 <a href='https://sky.dlazaro.ca' target='_blank' rel='noopener noreferrer'>Show HN: The current sky at your approximate location, as a CSS gradient</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 13:25 UTC</small><br><br>
 🔹 <a href='https://www.cam.ac.uk/research/news/long-term-exposure-to-outdoor-air-pollution-linked-to-increased-risk-of-dementia' target='_blank' rel='noopener noreferrer'>Long-term exposure to outdoor air pollution linked to increased risk of dementia</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 13:01 UTC</small><br><br>
+🔹 <a href='https://laurivahtre.ee/empire-of-the-absurd/' target='_blank' rel='noopener noreferrer'>Empire of the Absurd: A Brief History of the Absurdities of the Soviet Union</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 15:52 UTC</small><br><br>
 🔹 <a href='https://blog.hyperknot.com/p/openfreemap-survived-100000-requests' target='_blank' rel='noopener noreferrer'>OpenFreeMap survived 100k requests per second</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 13:31 UTC</small><br><br>
 🔹 <a href='https://simonwillison.net/2025/Aug/9/bay-area-ai/' target='_blank' rel='noopener noreferrer'>Simon Willison's Lethal Trifecta Talk at the Bay Area AI Security Meetup</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 14:47 UTC</small><br><br>
-🔹 <a href='https://laurivahtre.ee/empire-of-the-absurd/' target='_blank' rel='noopener noreferrer'>Empire of the Absurd: A Brief History of the Absurdities of the Soviet Union</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 15:52 UTC</small><br><br>
 🔹 <a href='https://quickshell.org/' target='_blank' rel='noopener noreferrer'>Quickshell – building blocks for your desktop</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-05 16:18 UTC</small><br><br>
-🔹 <a href='https://help.openai.com/en/articles/11752874-chatgpt-agent' target='_blank' rel='noopener noreferrer'>ChatGPT Agent – EU Launch</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 15:41 UTC</small><br><br>
 🔹 <a href='https://www.righto.com/2025/08/intel-386-package-ct-scan.html' target='_blank' rel='noopener noreferrer'>A CT scanner reveals surprises inside the 386 processor's ceramic package</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 17:17 UTC</small><br><br>
+🔹 <a href='https://cs.stanford.edu/~knuth/chatGPT20.txt' target='_blank' rel='noopener noreferrer'>Don Knuth on ChatGPT(07 April 2023)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 17:13 UTC</small><br><br>
+🔹 <a href='https://help.openai.com/en/articles/11752874-chatgpt-agent' target='_blank' rel='noopener noreferrer'>ChatGPT Agent – EU Launch</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 15:41 UTC</small><br><br>
 🔹 <a href='https://julsimon.medium.com/why-mcps-disregard-for-40-years-of-rpc-best-practices-will-burn-enterprises-8ef85ce5bc9b' target='_blank' rel='noopener noreferrer'>MCP's Disregard for 40 Years of RPC Best Practices</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 14:42 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-09 17:49:01 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-09 18:15:01 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
