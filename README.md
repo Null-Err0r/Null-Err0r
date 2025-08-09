@@ -25,19 +25,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://instavm.io/blog/building-my-offline-ai-workspace' target='_blank' rel='noopener noreferrer'>I want everything local – Building my offline AI workspace</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 18:19 UTC</small><br><br>
-🔹 <a href='https://arxiv.org/abs/2504.17033' target='_blank' rel='noopener noreferrer'>Breaking the Sorting Barrier for Directed Single-Source Shortest Paths</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 05:34 UTC</small><br><br>
-🔹 <a href='https://ethanding.substack.com/p/windsurf-gets-margin-called' target='_blank' rel='noopener noreferrer'>What the windsurf sale means for the AI coding ecosystem</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 03:24 UTC</small><br><br>
 🔹 <a href='http://www.tribblix.org/' target='_blank' rel='noopener noreferrer'>Tribblix – The Retro Illumos Distribution</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 06:46 UTC</small><br><br>
+🔹 <a href='https://ethanding.substack.com/p/windsurf-gets-margin-called' target='_blank' rel='noopener noreferrer'>What the windsurf sale means for the AI coding ecosystem</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 03:24 UTC</small><br><br>
+🔹 <a href='https://arxiv.org/abs/2504.17033' target='_blank' rel='noopener noreferrer'>Breaking the Sorting Barrier for Directed Single-Source Shortest Paths</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 05:34 UTC</small><br><br>
 🔹 <a href='https://shkspr.mobi/blog/2025/08/i-bought-a-16-smartwatch-just-because-it-used-usb-c/' target='_blank' rel='noopener noreferrer'>I bought a £16 smartwatch just because it used USB-C</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 12:12 UTC</small><br><br>
 🔹 <a href='https://github.com/Nicholas-L-Johnson/flip-card' target='_blank' rel='noopener noreferrer'>Ultrathin business card runs a fluid simulation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 11:41 UTC</small><br><br>
 🔹 <a href='https://www.npr.org/2025/08/04/nx-s1-5484013/engineer-restores-pay-phones-for-free-public-use' target='_blank' rel='noopener noreferrer'>Engineer restores pay phones for free public use</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 01:12 UTC</small><br><br>
-🔹 <a href='https://thereader.mitpress.mit.edu/the-secret-history-of-tor-how-a-military-project-became-a-lifeline-for-privacy/' target='_blank' rel='noopener noreferrer'>Tor: How a military project became a lifeline for privacy</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 15:45 UTC</small><br><br>
 🔹 <a href='https://sandstorm.org/' target='_blank' rel='noopener noreferrer'>Sandstorm- self-hostable web productivity suite</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 06:06 UTC</small><br><br>
+🔹 <a href='https://thereader.mitpress.mit.edu/the-secret-history-of-tor-how-a-military-project-became-a-lifeline-for-privacy/' target='_blank' rel='noopener noreferrer'>Tor: How a military project became a lifeline for privacy</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 15:45 UTC</small><br><br>
 🔹 <a href='https://www.dzombak.com/blog/2025/08/getting-good-results-from-claude-code/' target='_blank' rel='noopener noreferrer'>Getting good results from Claude Code</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 13:45 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-09 07:10:28 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-09 07:28:38 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
