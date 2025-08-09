@@ -24,20 +24,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://apnews.com/article/pawol-female-umpire-marlins-braves-0ae34533ea49f1e400a1c39e8be6f30e' target='_blank' rel='noopener noreferrer'>Jen Pawol becomes first woman to umpire a Major League Baseball game</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 20:23 UTC</small><br><br>
 🔹 <a href='https://sky.dlazaro.ca' target='_blank' rel='noopener noreferrer'>Show HN: The current sky at your approximate location, as a CSS gradient</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 13:25 UTC</small><br><br>
-🔹 <a href='https://www.cam.ac.uk/research/news/long-term-exposure-to-outdoor-air-pollution-linked-to-increased-risk-of-dementia' target='_blank' rel='noopener noreferrer'>Long-term exposure to outdoor air pollution linked to increased risk of dementia</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 13:01 UTC</small><br><br>
 🔹 <a href='https://www.debian.org/News/2025/20250809' target='_blank' rel='noopener noreferrer'>Debian 13 "Trixie"</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 18:18 UTC</small><br><br>
-🔹 <a href='https://simonwillison.net/2025/Aug/9/bay-area-ai/' target='_blank' rel='noopener noreferrer'>Simon Willison's Lethal Trifecta Talk at the Bay Area AI Security Meetup</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 14:47 UTC</small><br><br>
+🔹 <a href='https://www.cam.ac.uk/research/news/long-term-exposure-to-outdoor-air-pollution-linked-to-increased-risk-of-dementia' target='_blank' rel='noopener noreferrer'>Long-term exposure to outdoor air pollution linked to increased risk of dementia</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 13:01 UTC</small><br><br>
 🔹 <a href='https://www.righto.com/2025/08/intel-386-package-ct-scan.html' target='_blank' rel='noopener noreferrer'>A CT scanner reveals surprises inside the 386 processor's ceramic package</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 17:17 UTC</small><br><br>
+🔹 <a href='https://simonwillison.net/2025/Aug/9/bay-area-ai/' target='_blank' rel='noopener noreferrer'>Simon Willison's Lethal Trifecta Talk at the Bay Area AI Security Meetup</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 14:47 UTC</small><br><br>
 🔹 <a href='https://blog.hyperknot.com/p/openfreemap-survived-100000-requests' target='_blank' rel='noopener noreferrer'>OpenFreeMap survived 100k requests per second</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 13:31 UTC</small><br><br>
+🔹 <a href='https://apnews.com/article/pawol-female-umpire-marlins-braves-0ae34533ea49f1e400a1c39e8be6f30e' target='_blank' rel='noopener noreferrer'>Jen Pawol becomes first woman to umpire a Major League Baseball game</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 20:23 UTC</small><br><br>
 🔹 <a href='https://quickshell.org/' target='_blank' rel='noopener noreferrer'>Quickshell – building blocks for your desktop</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-05 16:18 UTC</small><br><br>
-🔹 <a href='http://blog.tolki.dev/posts/2025/08-07-llms/' target='_blank' rel='noopener noreferrer'>The current state of LLM-driven development</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 16:17 UTC</small><br><br>
 🔹 <a href='https://www.forbes.com/sites/michaeltnietzel/2025/08/08/stanford-to-continue-legacy-admissions-and-withdraw-from-cal-grants/' target='_blank' rel='noopener noreferrer'>Stanford to continue legacy admissions and withdraw from Cal Grants</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 12:54 UTC</small><br><br>
+🔹 <a href='https://github.com/geo-tp/ESP32-Bus-Pirate' target='_blank' rel='noopener noreferrer'>ESP32 Bus Pirate 0.5 – A Hardware Hacking Tool That Speaks Every Protocol</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 14:56 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-09 20:32:23 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-09 20:49:37 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
