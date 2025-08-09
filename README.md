@@ -28,16 +28,16 @@
 🔹 <a href='https://sky.dlazaro.ca' target='_blank' rel='noopener noreferrer'>Show HN: The current sky at your approximate location, as a CSS gradient</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 13:25 UTC</small><br><br>
 🔹 <a href='https://blog.hyperknot.com/p/openfreemap-survived-100000-requests' target='_blank' rel='noopener noreferrer'>OpenFreeMap survived 100k requests per second</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 13:31 UTC</small><br><br>
 🔹 <a href='https://quickshell.org/' target='_blank' rel='noopener noreferrer'>Quickshell – building blocks for your desktop</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-05 16:18 UTC</small><br><br>
+🔹 <a href='https://www.cam.ac.uk/research/news/long-term-exposure-to-outdoor-air-pollution-linked-to-increased-risk-of-dementia' target='_blank' rel='noopener noreferrer'>Long-term exposure to outdoor air pollution linked to increased risk of dementia</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 13:01 UTC</small><br><br>
 🔹 <a href='https://instavm.io/blog/building-my-offline-ai-workspace' target='_blank' rel='noopener noreferrer'>I want everything local – Building my offline AI workspace</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 18:19 UTC</small><br><br>
+🔹 <a href='https://www.bmj.com/content/389/bmj-2024-082007' target='_blank' rel='noopener noreferrer'>Intermittent fasting strategies and their effects on body weight</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 13:14 UTC</small><br><br>
 🔹 <a href='https://matklad.github.io/2025/08/08/partially-matching-zig-enums.html' target='_blank' rel='noopener noreferrer'>Partially Matching Zig Enums</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 08:50 UTC</small><br><br>
 🔹 <a href='https://github.com/menloresearch/jan' target='_blank' rel='noopener noreferrer'>Jan – Ollama alternative with local UI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 09:54 UTC</small><br><br>
-🔹 <a href='https://www.bmj.com/content/389/bmj-2024-082007' target='_blank' rel='noopener noreferrer'>Intermittent fasting strategies and their effects on body weight</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 13:14 UTC</small><br><br>
-🔹 <a href='https://www.cam.ac.uk/research/news/long-term-exposure-to-outdoor-air-pollution-linked-to-increased-risk-of-dementia' target='_blank' rel='noopener noreferrer'>Long-term exposure to outdoor air pollution linked to increased risk of dementia</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 13:01 UTC</small><br><br>
 🔹 <a href='https://eveeifyeve.pages.dev/blogs/cargo-check-slow.mdx/' target='_blank' rel='noopener noreferrer'>Why Cargo Check Is So Slow</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 14:04 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-09 14:49:21 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-09 15:10:20 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
