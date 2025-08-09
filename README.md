@@ -26,18 +26,18 @@
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://instavm.io/blog/building-my-offline-ai-workspace' target='_blank' rel='noopener noreferrer'>I want everything local – Building my offline AI workspace</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 18:19 UTC</small><br><br>
 🔹 <a href='https://matklad.github.io/2025/08/08/partially-matching-zig-enums.html' target='_blank' rel='noopener noreferrer'>Partially Matching Zig Enums</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 08:50 UTC</small><br><br>
+🔹 <a href='https://github.com/menloresearch/jan' target='_blank' rel='noopener noreferrer'>Jan – Ollama alternative with local UI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 09:54 UTC</small><br><br>
 🔹 <a href='http://www.tribblix.org/' target='_blank' rel='noopener noreferrer'>Tribblix – The Retro Illumos Distribution</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 06:46 UTC</small><br><br>
 🔹 <a href='https://github.com/Nicholas-L-Johnson/flip-card' target='_blank' rel='noopener noreferrer'>Ultrathin business card runs a fluid simulation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 11:41 UTC</small><br><br>
+🔹 <a href='https://adele.pollux.casa/check-human.php?redirect=%2Fgemlog%2F2025-08-04_why_I_prefer_human-readble_file_formats.gmi' target='_blank' rel='noopener noreferrer'>I prefer human-readable file formats</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 09:13 UTC</small><br><br>
 🔹 <a href='https://ethanding.substack.com/p/windsurf-gets-margin-called' target='_blank' rel='noopener noreferrer'>What the Windsurf sale means for the AI coding ecosystem</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 03:24 UTC</small><br><br>
 🔹 <a href='https://sandstorm.org/' target='_blank' rel='noopener noreferrer'>Sandstorm- self-hostable web productivity suite</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 06:06 UTC</small><br><br>
 🔹 <a href='https://arxiv.org/abs/2504.17033' target='_blank' rel='noopener noreferrer'>Breaking the Sorting Barrier for Directed Single-Source Shortest Paths</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 05:34 UTC</small><br><br>
-🔹 <a href='https://adele.pollux.casa/check-human.php?redirect=%2Fgemlog%2F2025-08-04_why_I_prefer_human-readble_file_formats.gmi' target='_blank' rel='noopener noreferrer'>I prefer human-readable file formats</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 09:13 UTC</small><br><br>
 🔹 <a href='https://www.wpr.org/transportation/why-wisconsins-county-roads-are-lettered-not-numbered' target='_blank' rel='noopener noreferrer'>Why Wisconsin's county highways are lettered, not numbered (2019)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-05 18:50 UTC</small><br><br>
-🔹 <a href='https://thereader.mitpress.mit.edu/the-secret-history-of-tor-how-a-military-project-became-a-lifeline-for-privacy/' target='_blank' rel='noopener noreferrer'>Tor: How a military project became a lifeline for privacy</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 15:45 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-09 12:20:06 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-09 13:03:32 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
