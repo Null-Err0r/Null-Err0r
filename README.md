@@ -25,9 +25,9 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost' target='_blank' rel='noopener noreferrer'>1910: The year the modern world lost its mind</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 20:48 UTC</small><br><br>
-🔹 <a href='https://onemillionscreenshots.com/?q=random' target='_blank' rel='noopener noreferrer'>One Million Screenshots</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 20:30 UTC</small><br><br>
 🔹 <a href='https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the' target='_blank' rel='noopener noreferrer'>GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 15:06 UTC</small><br><br>
 🔹 <a href='https://ygdp.yale.edu/phenomena/try-and' target='_blank' rel='noopener noreferrer'>Try and</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 13:32 UTC</small><br><br>
+🔹 <a href='https://onemillionscreenshots.com/?q=random' target='_blank' rel='noopener noreferrer'>One Million Screenshots</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 20:30 UTC</small><br><br>
 🔹 <a href='https://fightchatcontrol.eu/' target='_blank' rel='noopener noreferrer'>Fight Chat Control</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 16:50 UTC</small><br><br>
 🔹 <a href='https://github.com/Beariish/bolt' target='_blank' rel='noopener noreferrer'>Show HN: Bolt – A super-fast, statically-typed scripting language written in C</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 17:53 UTC</small><br><br>
 🔹 <a href='https://engineering.fyi/' target='_blank' rel='noopener noreferrer'>Show HN: Engineering.fyi – Search across tech engineering blogs in one place</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 13:44 UTC</small><br><br>
@@ -37,7 +37,7 @@
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-10 21:39:39 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-10 21:47:18 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
