@@ -25,19 +25,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost' target='_blank' rel='noopener noreferrer'>1910: The year the modern world lost its mind</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 20:48 UTC</small><br><br>
-🔹 <a href='https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the' target='_blank' rel='noopener noreferrer'>GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 15:06 UTC</small><br><br>
 🔹 <a href='https://ygdp.yale.edu/phenomena/try-and' target='_blank' rel='noopener noreferrer'>Try and</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 13:32 UTC</small><br><br>
+🔹 <a href='https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the' target='_blank' rel='noopener noreferrer'>GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 15:06 UTC</small><br><br>
 🔹 <a href='https://onemillionscreenshots.com/?q=random' target='_blank' rel='noopener noreferrer'>One Million Screenshots</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 20:30 UTC</small><br><br>
+🔹 <a href='https://alexw.substack.com/p/hire' target='_blank' rel='noopener noreferrer'>Hire People Who Care</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 21:50 UTC</small><br><br>
 🔹 <a href='https://fightchatcontrol.eu/' target='_blank' rel='noopener noreferrer'>Fight Chat Control</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 16:50 UTC</small><br><br>
 🔹 <a href='https://github.com/Beariish/bolt' target='_blank' rel='noopener noreferrer'>Show HN: Bolt – A super-fast, statically-typed scripting language written in C</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 17:53 UTC</small><br><br>
 🔹 <a href='https://engineering.fyi/' target='_blank' rel='noopener noreferrer'>Show HN: Engineering.fyi – Search across tech engineering blogs in one place</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 13:44 UTC</small><br><br>
 🔹 <a href='https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac' target='_blank' rel='noopener noreferrer'>Diffusion language models are super data learners</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 16:04 UTC</small><br><br>
 🔹 <a href='https://mrwint.github.io/winter/writeup/writeup2.html' target='_blank' rel='noopener noreferrer'>Creating the Longest Possible Ski Jump in "The Games: Winter Challenge"</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 14:57 UTC</small><br><br>
-🔹 <a href='https://www.publicbooks.org/strangers-in-the-family-album-reflections-on-soviet-amateur-photography/' target='_blank' rel='noopener noreferrer'>Reflections on Soviet Amateur Photography</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 00:29 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-10 22:10:31 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-10 22:32:55 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
