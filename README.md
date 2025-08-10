@@ -24,20 +24,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://garymarcus.substack.com/p/gpt-5-overdue-overhyped-and-underwhelming' target='_blank' rel='noopener noreferrer'>GPT-5: Overdue, overhyped and underwhelming. And that's not the worst of it</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 00:06 UTC</small><br><br>
 🔹 <a href='https://wuu73.org/blog/aiguide1.html' target='_blank' rel='noopener noreferrer'>How I code with AI on a budget/free</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 22:27 UTC</small><br><br>
 🔹 <a href='https://research.eye.security/consent-and-compromise/' target='_blank' rel='noopener noreferrer'>Abusing Entra OAuth for fun and access to internal Microsoft applications</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 21:59 UTC</small><br><br>
 🔹 <a href='https://sky.dlazaro.ca' target='_blank' rel='noopener noreferrer'>Show HN: The current sky at your approximate location, as a CSS gradient</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 13:25 UTC</small><br><br>
+🔹 <a href='https://www.zachdaniel.dev/p/elixir-misconceptions-1' target='_blank' rel='noopener noreferrer'>Don't “let it crash”, let it heal</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 12:08 UTC</small><br><br>
 🔹 <a href='https://simonwillison.net/2025/Aug/9/bay-area-ai/' target='_blank' rel='noopener noreferrer'>My Lethal Trifecta talk at the Bay Area AI Security Meetup</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 14:47 UTC</small><br><br>
-🔹 <a href='https://whynothugo.nl/journal/2025/08/06/gpts-and-feeling-left-behind/' target='_blank' rel='noopener noreferrer'>GPTs and Feeling Left Behind</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 23:07 UTC</small><br><br>
+🔹 <a href='https://justbuynothing.com/' target='_blank' rel='noopener noreferrer'>Happy BuyNothing Day</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 00:12 UTC</small><br><br>
 🔹 <a href='https://www.righto.com/2025/08/intel-386-package-ct-scan.html' target='_blank' rel='noopener noreferrer'>A CT scanner reveals surprises inside the 386 processor's ceramic package</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 17:17 UTC</small><br><br>
-🔹 <a href='https://ch.at/' target='_blank' rel='noopener noreferrer'>Ch.at – a lightweight LLM chat service accessible through HTTP, SSH, DNS and API</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 18:59 UTC</small><br><br>
 🔹 <a href='https://blog.hyperknot.com/p/openfreemap-survived-100000-requests' target='_blank' rel='noopener noreferrer'>OpenFreeMap survived 100k requests per second</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 13:31 UTC</small><br><br>
 🔹 <a href='https://blog.glyph.im/2025/08/r0mls-ratio.html' target='_blank' rel='noopener noreferrer'>R0ML's Ratio</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 12:21 UTC</small><br><br>
+🔹 <a href='https://www.debian.org/News/2025/20250809' target='_blank' rel='noopener noreferrer'>Debian 13 "Trixie"</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 18:18 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-10 01:02:53 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-10 03:14:37 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
