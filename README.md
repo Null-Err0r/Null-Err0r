@@ -24,6 +24,7 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
+🔹 <a href='https://mill-build.org/blog/14-bash-zsh-completion.html' target='_blank' rel='noopener noreferrer'>Writing Your Own Simple Tab-Completions for Bash and Zsh</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 09:50 UTC</small><br><br>
 🔹 <a href='https://github.com/denizsafak/abogen' target='_blank' rel='noopener noreferrer'>Abogen – Generate audiobooks from EPUBs, PDFs and text</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 05:56 UTC</small><br><br>
 🔹 <a href='https://wuu73.org/blog/aiguide1.html' target='_blank' rel='noopener noreferrer'>How I code with AI on a budget/free</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 22:27 UTC</small><br><br>
 🔹 <a href='https://twitter.com/jxmnop/status/1953899426075816164' target='_blank' rel='noopener noreferrer'>Curious about the training data of OpenAI's new GPT-OSS models? I was too</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 21:10 UTC</small><br><br>
@@ -32,12 +33,11 @@
 🔹 <a href='https://simonwillison.net/2025/Aug/9/bay-area-ai/' target='_blank' rel='noopener noreferrer'>My Lethal Trifecta talk at the Bay Area AI Security Meetup</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 14:47 UTC</small><br><br>
 🔹 <a href='https://blog.tadzik.net/the-importance-of-offtopic.html' target='_blank' rel='noopener noreferrer'>The importance of offtopic</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 10:20 UTC</small><br><br>
 🔹 <a href='https://www.zachdaniel.dev/p/elixir-misconceptions-1' target='_blank' rel='noopener noreferrer'>Don't “let it crash”, let it heal</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 12:08 UTC</small><br><br>
-🔹 <a href='https://blog.hyperknot.com/p/openfreemap-survived-100000-requests' target='_blank' rel='noopener noreferrer'>OpenFreeMap survived 100k requests per second</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 13:31 UTC</small><br><br>
 🔹 <a href='https://www.nhm.ac.uk/discover/news/2025/july/we-finally-solved-the-mystery-of-how-potatoes-evolved.html' target='_blank' rel='noopener noreferrer'>How Potatoes Evolved</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 14:36 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-10 10:11:29 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-10 10:35:42 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
