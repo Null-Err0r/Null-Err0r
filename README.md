@@ -33,11 +33,11 @@
 🔹 <a href='https://github.com/mendableai/open-lovable' target='_blank' rel='noopener noreferrer'>Open Lovable</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 10:10 UTC</small><br><br>
 🔹 <a href='https://github.com/denizsafak/abogen' target='_blank' rel='noopener noreferrer'>Abogen – Generate audiobooks from EPUBs, PDFs and text</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 05:56 UTC</small><br><br>
 🔹 <a href='https://wuu73.org/blog/aiguide1.html' target='_blank' rel='noopener noreferrer'>How I code with AI on a budget/free</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 22:27 UTC</small><br><br>
-🔹 <a href='https://www.livescience.com/space/mars/nasa-finds-multi-billion-year-old-coral-on-mars' target='_blank' rel='noopener noreferrer'>NASA finds multi-billion-year-old 'coral' on Mars</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 14:42 UTC</small><br><br>
+🔹 <a href='https://twitter.com/jxmnop/status/1953899426075816164' target='_blank' rel='noopener noreferrer'>Curious about the training data of OpenAI's new GPT-OSS models? I was too</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 21:10 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-10 15:10:20 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-10 15:30:27 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
