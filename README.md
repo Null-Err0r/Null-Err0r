@@ -25,8 +25,8 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://www.ispreview.co.uk/index.php/2025/08/after-34-years-aol-finally-closes-its-dial-up-internet-service.html' target='_blank' rel='noopener noreferrer'>AOL closes its dial up internet service</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 16:02 UTC</small><br><br>
-🔹 <a href='https://ygdp.yale.edu/phenomena/try-and' target='_blank' rel='noopener noreferrer'>Try and</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 13:32 UTC</small><br><br>
 🔹 <a href='https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the' target='_blank' rel='noopener noreferrer'>GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 15:06 UTC</small><br><br>
+🔹 <a href='https://ygdp.yale.edu/phenomena/try-and' target='_blank' rel='noopener noreferrer'>Try and</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 13:32 UTC</small><br><br>
 🔹 <a href='https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac' target='_blank' rel='noopener noreferrer'>Diffusion Language Models Are Super Data Learners</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 16:04 UTC</small><br><br>
 🔹 <a href='https://engineering.fyi/' target='_blank' rel='noopener noreferrer'>Show HN: Engineering.fyi – Search across tech engineering blogs in one place</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 13:44 UTC</small><br><br>
 🔹 <a href='https://worksonmymachine.ai/p/mcp-an-accidentally-universal-plugin' target='_blank' rel='noopener noreferrer'>MCP: An (Accidentally) Universal Plugin System</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 12:53 UTC</small><br><br>
@@ -37,7 +37,7 @@
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-10 17:40:51 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-10 17:47:40 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
