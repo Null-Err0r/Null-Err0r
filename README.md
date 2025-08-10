@@ -24,20 +24,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://mill-build.org/blog/14-bash-zsh-completion.html' target='_blank' rel='noopener noreferrer'>Writing Your Own Simple Tab-Completions for Bash and Zsh</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 09:50 UTC</small><br><br>
+🔹 <a href='https://mill-build.org/blog/14-bash-zsh-completion.html' target='_blank' rel='noopener noreferrer'>Writing simple tab-completions for Bash and Zsh</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 09:50 UTC</small><br><br>
+🔹 <a href='https://gitpi.us/article-archive/inside-os2/' target='_blank' rel='noopener noreferrer'>Inside OS/2</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 13:15 UTC</small><br><br>
+🔹 <a href='https://hypr.land/' target='_blank' rel='noopener noreferrer'>Hyprland – An independent, dynamic tiling Wayland compositor</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 11:38 UTC</small><br><br>
+🔹 <a href='https://underjord.io/booting-5000-erlangs-on-ampere-one.html' target='_blank' rel='noopener noreferrer'>Booting 5000 Erlangs on Ampere One 192-core</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 11:41 UTC</small><br><br>
 🔹 <a href='https://github.com/mendableai/open-lovable' target='_blank' rel='noopener noreferrer'>Open Lovable</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 10:10 UTC</small><br><br>
 🔹 <a href='https://github.com/denizsafak/abogen' target='_blank' rel='noopener noreferrer'>Abogen – Generate audiobooks from EPUBs, PDFs and text</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 05:56 UTC</small><br><br>
-🔹 <a href='https://hypr.land/' target='_blank' rel='noopener noreferrer'>Hyprland: Latest Wayland features, dynamic tiling, eyecandy, powerful plugins</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 11:38 UTC</small><br><br>
-🔹 <a href='https://underjord.io/booting-5000-erlangs-on-ampere-one.html' target='_blank' rel='noopener noreferrer'>Booting 5000 Erlangs on Ampere One 192-core</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 11:41 UTC</small><br><br>
 🔹 <a href='https://wuu73.org/blog/aiguide1.html' target='_blank' rel='noopener noreferrer'>How I code with AI on a budget/free</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 22:27 UTC</small><br><br>
 🔹 <a href='https://twitter.com/jxmnop/status/1953899426075816164' target='_blank' rel='noopener noreferrer'>Curious about the training data of OpenAI's new GPT-OSS models? I was too</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 21:10 UTC</small><br><br>
 🔹 <a href='https://research.eye.security/consent-and-compromise/' target='_blank' rel='noopener noreferrer'>Abusing Entra OAuth for fun and access to internal Microsoft applications</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 21:59 UTC</small><br><br>
 🔹 <a href='https://sky.dlazaro.ca' target='_blank' rel='noopener noreferrer'>Show HN: The current sky at your approximate location, as a CSS gradient</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 13:25 UTC</small><br><br>
-🔹 <a href='https://dotat.at/@/2025-08-06-p-fast-trie.html' target='_blank' rel='noopener noreferrer'>P-fast trie, but smaller</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-06 21:18 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-10 13:03:46 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-10 13:38:48 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
