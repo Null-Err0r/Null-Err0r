@@ -32,12 +32,12 @@
 🔹 <a href='https://github.com/Beariish/bolt' target='_blank' rel='noopener noreferrer'>Show HN: Bolt – A super-fast, statically-typed scripting language written in C</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 17:53 UTC</small><br><br>
 🔹 <a href='https://engineering.fyi/' target='_blank' rel='noopener noreferrer'>Show HN: Engineering.fyi – Search across tech engineering blogs in one place</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 13:44 UTC</small><br><br>
 🔹 <a href='https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac' target='_blank' rel='noopener noreferrer'>Diffusion language models are super data learners</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 16:04 UTC</small><br><br>
-🔹 <a href='https://mrwint.github.io/winter/writeup/writeup2.html' target='_blank' rel='noopener noreferrer'>Creating the Longest Possible Ski Jump in "The Games: Winter Challenge"</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 14:57 UTC</small><br><br>
 🔹 <a href='https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Events' target='_blank' rel='noopener noreferrer'>Events</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 20:22 UTC</small><br><br>
+🔹 <a href='https://mrwint.github.io/winter/writeup/writeup2.html' target='_blank' rel='noopener noreferrer'>Creating the Longest Possible Ski Jump in "The Games: Winter Challenge"</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 14:57 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-10 21:09:40 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-10 21:28:23 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
