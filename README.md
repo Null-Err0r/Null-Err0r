@@ -24,20 +24,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://issues.chromium.org/issues/412578726' target='_blank' rel='noopener noreferrer'>Google paid a $250K reward for a bug</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 05:56 UTC</small><br><br>
 🔹 <a href='http://techno-fandom.org/~hobbit/cars/ev/offnet.html' target='_blank' rel='noopener noreferrer'>Vanishing from Hyundai’s data network</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 01:55 UTC</small><br><br>
-🔹 <a href='https://dropbox.tech/infrastructure/seventh-generation-server-hardware' target='_blank' rel='noopener noreferrer'>Dropbox announces new gen server hardware for higher efficiency and scalability</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 11:14 UTC</small><br><br>
+🔹 <a href='https://aarol.dev/posts/zig-simd-substr/' target='_blank' rel='noopener noreferrer'>Faster substring search with SIMD in Zig</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 09:41 UTC</small><br><br>
 🔹 <a href='https://www.fosterandpartners.com/projects/millau-viaduct' target='_blank' rel='noopener noreferrer'>Millau Viaduct</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 10:23 UTC</small><br><br>
 🔹 <a href='https://uecker.codeberg.page/2025-08-10.html' target='_blank' rel='noopener noreferrer'>Generic Containers in C: Safe Division Using Maybe</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 05:14 UTC</small><br><br>
-🔹 <a href='https://www.getcassius.ai/blogs/cursor-go-to-market-playbook-100m-arr-ai-coding-assistant' target='_blank' rel='noopener noreferrer'>Cursor's Go-to-Market Playbook: How an AI Coding Assistant Hit $100M+ ARR</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 09:20 UTC</small><br><br>
+🔹 <a href='https://issues.chromium.org/issues/412578726' target='_blank' rel='noopener noreferrer'>The Chrome VRP Panel has decided to award $250k for this report</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 05:56 UTC</small><br><br>
 🔹 <a href='https://ygdp.yale.edu/phenomena/try-and' target='_blank' rel='noopener noreferrer'>Try and</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 13:32 UTC</small><br><br>
+🔹 <a href='https://www.improveyoursocialskills.com/basic-social-skills-guide' target='_blank' rel='noopener noreferrer'>Basic Social Skills Guide</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 05:19 UTC</small><br><br>
 🔹 <a href='https://bernsteinbear.com/blog/compiling-a-lisp-12/' target='_blank' rel='noopener noreferrer'>Compiling a Lisp: Lambda lifting</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 22:35 UTC</small><br><br>
 🔹 <a href='https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the' target='_blank' rel='noopener noreferrer'>GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 15:06 UTC</small><br><br>
-🔹 <a href='https://www.improveyoursocialskills.com/basic-social-skills-guide' target='_blank' rel='noopener noreferrer'>Basic Social Skills Guide</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 05:19 UTC</small><br><br>
+🔹 <a href='https://www.usenix.org/system/files/nsdi22-paper-najafi_1.pdf' target='_blank' rel='noopener noreferrer'>Graham: Synchronizing Clocks by Leveraging Local Clock Properties (2022) [pdf]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 04:54 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-11 10:13:28 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-11 10:41:21 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
