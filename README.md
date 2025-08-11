@@ -25,19 +25,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='http://techno-fandom.org/~hobbit/cars/ev/offnet.html' target='_blank' rel='noopener noreferrer'>Vanishing from Hyundai’s data network</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 01:55 UTC</small><br><br>
-🔹 <a href='https://squadrick.dev/journal/going-faster-than-memcpy' target='_blank' rel='noopener noreferrer'>Going Faster Than Memcpy</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 04:59 UTC</small><br><br>
 🔹 <a href='https://www.usenix.org/system/files/nsdi22-paper-najafi_1.pdf' target='_blank' rel='noopener noreferrer'>Graham: Synchronizing Clocks by Leveraging Local Clock Properties (2022) [pdf]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 04:54 UTC</small><br><br>
+🔹 <a href='https://usebottles.com/' target='_blank' rel='noopener noreferrer'>Easily run Windows software on Linux with Bottles</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 13:39 UTC</small><br><br>
+🔹 <a href='https://squadrick.dev/journal/going-faster-than-memcpy' target='_blank' rel='noopener noreferrer'>Going faster than memcpy</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 04:59 UTC</small><br><br>
 🔹 <a href='https://bernsteinbear.com/blog/compiling-a-lisp-12/' target='_blank' rel='noopener noreferrer'>Compiling a Lisp: Lambda lifting</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 22:35 UTC</small><br><br>
 🔹 <a href='https://pubs.aip.org/physicstoday/article/78/8/54/3355922/The-enduring-puzzle-of-static-electricityEven' target='_blank' rel='noopener noreferrer'>The enduring puzzle of static electricity</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 05:02 UTC</small><br><br>
 🔹 <a href='https://ygdp.yale.edu/phenomena/try-and' target='_blank' rel='noopener noreferrer'>Try and</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 13:32 UTC</small><br><br>
+🔹 <a href='https://uecker.codeberg.page/2025-08-10.html' target='_blank' rel='noopener noreferrer'>Generic Containers in C: Safe Division Using Maybe</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 05:14 UTC</small><br><br>
 🔹 <a href='https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the' target='_blank' rel='noopener noreferrer'>GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 15:06 UTC</small><br><br>
-🔹 <a href='https://eblong.com/zarf/zweb/lists/' target='_blank' rel='noopener noreferrer'>Lists and Lists: Basics of Lisp through interactive fiction (1996)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 08:04 UTC</small><br><br>
 🔹 <a href='https://github.com/Beariish/bolt' target='_blank' rel='noopener noreferrer'>Show HN: Bolt – A super-fast, statically-typed scripting language written in C</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 17:53 UTC</small><br><br>
-🔹 <a href='https://usebottles.com/' target='_blank' rel='noopener noreferrer'>Easily run Windows software on Linux with Bottles</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 13:39 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-11 05:48:43 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-11 06:19:30 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
