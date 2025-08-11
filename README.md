@@ -28,16 +28,16 @@
 🔹 <a href='https://bernsteinbear.com/blog/compiling-a-lisp-12/' target='_blank' rel='noopener noreferrer'>Compiling a Lisp: Lambda lifting</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 22:35 UTC</small><br><br>
 🔹 <a href='https://ygdp.yale.edu/phenomena/try-and' target='_blank' rel='noopener noreferrer'>Try and</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 13:32 UTC</small><br><br>
 🔹 <a href='https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the' target='_blank' rel='noopener noreferrer'>GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 15:06 UTC</small><br><br>
+🔹 <a href='https://pubs.aip.org/physicstoday/article/78/8/54/3355922/The-enduring-puzzle-of-static-electricityEven' target='_blank' rel='noopener noreferrer'>The enduring puzzle of static electricity</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 05:02 UTC</small><br><br>
+🔹 <a href='https://eblong.com/zarf/zweb/lists/' target='_blank' rel='noopener noreferrer'>Lists and Lists: Basics of Lisp through interactive fiction (1996)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 08:04 UTC</small><br><br>
 🔹 <a href='https://github.com/Beariish/bolt' target='_blank' rel='noopener noreferrer'>Show HN: Bolt – A super-fast, statically-typed scripting language written in C</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 17:53 UTC</small><br><br>
-🔹 <a href='https://fightchatcontrol.eu/' target='_blank' rel='noopener noreferrer'>Fight Chat Control</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 16:50 UTC</small><br><br>
-🔹 <a href='https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost' target='_blank' rel='noopener noreferrer'>1910: The year the modern world lost its mind</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 20:48 UTC</small><br><br>
-🔹 <a href='https://engineering.fyi/' target='_blank' rel='noopener noreferrer'>Show HN: Engineering.fyi – Search across tech engineering blogs in one place</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 13:44 UTC</small><br><br>
 🔹 <a href='https://github.com/cloudstreet-dev/React-is-Awful' target='_blank' rel='noopener noreferrer'>Show HN: Reactive: A React Book for the Reluctant (written by Claude)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 00:44 UTC</small><br><br>
-🔹 <a href='https://onemillionscreenshots.com/?q=random' target='_blank' rel='noopener noreferrer'>One Million Screenshots</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 20:30 UTC</small><br><br>
+🔹 <a href='https://fightchatcontrol.eu/' target='_blank' rel='noopener noreferrer'>Fight Chat Control</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 16:50 UTC</small><br><br>
+🔹 <a href='https://engineering.fyi/' target='_blank' rel='noopener noreferrer'>Show HN: Engineering.fyi – Search across tech engineering blogs in one place</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 13:44 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-11 03:12:25 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-11 04:11:57 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
