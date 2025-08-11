@@ -27,17 +27,17 @@
 🔹 <a href='https://issues.chromium.org/issues/412578726' target='_blank' rel='noopener noreferrer'>Google paid a $250K reward for a bug</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 05:56 UTC</small><br><br>
 🔹 <a href='http://techno-fandom.org/~hobbit/cars/ev/offnet.html' target='_blank' rel='noopener noreferrer'>Vanishing from Hyundai’s data network</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 01:55 UTC</small><br><br>
 🔹 <a href='https://www.improveyoursocialskills.com/basic-social-skills-guide' target='_blank' rel='noopener noreferrer'>Basic Social Skills Guide</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 05:19 UTC</small><br><br>
-🔹 <a href='https://jskfellows.stanford.edu/theft-is-not-fair-use-474e11f0d063' target='_blank' rel='noopener noreferrer'>Theft is not fair use</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 06:55 UTC</small><br><br>
 🔹 <a href='https://squadrick.dev/journal/going-faster-than-memcpy' target='_blank' rel='noopener noreferrer'>Going faster than memcpy</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 04:59 UTC</small><br><br>
-🔹 <a href='https://uecker.codeberg.page/2025-08-10.html' target='_blank' rel='noopener noreferrer'>Generic Containers in C: Safe Division Using Maybe</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 05:14 UTC</small><br><br>
 🔹 <a href='https://dropbox.tech/infrastructure/seventh-generation-server-hardware' target='_blank' rel='noopener noreferrer'>Dropbox announces new gen server hardware for higher efficiency and scalability</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 11:14 UTC</small><br><br>
+🔹 <a href='https://uecker.codeberg.page/2025-08-10.html' target='_blank' rel='noopener noreferrer'>Generic Containers in C: Safe Division Using Maybe</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 05:14 UTC</small><br><br>
 🔹 <a href='https://ygdp.yale.edu/phenomena/try-and' target='_blank' rel='noopener noreferrer'>Try and</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 13:32 UTC</small><br><br>
-🔹 <a href='https://www.usenix.org/system/files/nsdi22-paper-najafi_1.pdf' target='_blank' rel='noopener noreferrer'>Graham: Synchronizing Clocks by Leveraging Local Clock Properties (2022) [pdf]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 04:54 UTC</small><br><br>
+🔹 <a href='https://www.rogerebert.com/streaming/hbo-maxs-raised-by-wolves-is-original-sci-fi-at-its-most-polarizing' target='_blank' rel='noopener noreferrer'>Raised by Wolves Is Original Sci-Fi at Its Most Polarizing (2020)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 04:26 UTC</small><br><br>
 🔹 <a href='https://bernsteinbear.com/blog/compiling-a-lisp-12/' target='_blank' rel='noopener noreferrer'>Compiling a Lisp: Lambda lifting</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 22:35 UTC</small><br><br>
+🔹 <a href='https://www.usenix.org/system/files/nsdi22-paper-najafi_1.pdf' target='_blank' rel='noopener noreferrer'>Graham: Synchronizing Clocks by Leveraging Local Clock Properties (2022) [pdf]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 04:54 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-11 08:49:39 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-11 09:17:29 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
