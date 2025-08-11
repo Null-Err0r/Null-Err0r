@@ -25,19 +25,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://aarol.dev/posts/zig-simd-substr/' target='_blank' rel='noopener noreferrer'>Faster substring search with SIMD in Zig</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 09:41 UTC</small><br><br>
-🔹 <a href='http://techno-fandom.org/~hobbit/cars/ev/offnet.html' target='_blank' rel='noopener noreferrer'>Vanishing from Hyundai’s data network</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 01:55 UTC</small><br><br>
+🔹 <a href='https://www.openssh.com/pq.html' target='_blank' rel='noopener noreferrer'>OpenSSH Post-Quantum Cryptography</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 12:01 UTC</small><br><br>
 🔹 <a href='https://aman.ai/primers/ai/' target='_blank' rel='noopener noreferrer'>Hand-picked selection of articles on AI fundamentals/concepts</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 08:59 UTC</small><br><br>
 🔹 <a href='https://www.fosterandpartners.com/projects/millau-viaduct' target='_blank' rel='noopener noreferrer'>Millau Viaduct</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 10:23 UTC</small><br><br>
+🔹 <a href='http://techno-fandom.org/~hobbit/cars/ev/offnet.html' target='_blank' rel='noopener noreferrer'>Vanishing from Hyundai’s data network</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 01:55 UTC</small><br><br>
 🔹 <a href='https://stephango.com/self-guarantee' target='_blank' rel='noopener noreferrer'>Self-Guaranteeing Promises</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 08:03 UTC</small><br><br>
+🔹 <a href='https://squadrick.dev/journal/going-faster-than-memcpy' target='_blank' rel='noopener noreferrer'>Going faster than memcpy</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 04:59 UTC</small><br><br>
 🔹 <a href='https://ygdp.yale.edu/phenomena/try-and' target='_blank' rel='noopener noreferrer'>Try and</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 13:32 UTC</small><br><br>
-🔹 <a href='https://uecker.codeberg.page/2025-08-10.html' target='_blank' rel='noopener noreferrer'>Generic Containers in C: Safe Division Using Maybe</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 05:14 UTC</small><br><br>
-🔹 <a href='https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the' target='_blank' rel='noopener noreferrer'>GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 15:06 UTC</small><br><br>
-🔹 <a href='https://bernsteinbear.com/blog/compiling-a-lisp-12/' target='_blank' rel='noopener noreferrer'>Compiling a Lisp: Lambda lifting</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 22:35 UTC</small><br><br>
 🔹 <a href='https://old.reddit.com/r/LocalLLaMA/comments/1mke7ef/120b_runs_awesome_on_just_8gb_vram/' target='_blank' rel='noopener noreferrer'>GPT-OSS-120B runs on just 8GB VRAM & 64GB+ system RAM</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 10:02 UTC</small><br><br>
+🔹 <a href='https://uecker.codeberg.page/2025-08-10.html' target='_blank' rel='noopener noreferrer'>Generic Containers in C: Safe Division Using Maybe</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 05:14 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-11 11:48:31 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-11 12:23:11 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
