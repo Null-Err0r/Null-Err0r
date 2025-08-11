@@ -25,19 +25,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://www.bbc.com/news/articles/cjr11qqvvwlo' target='_blank' rel='noopener noreferrer'>Wikipedia loses challenge against Online Safety Act</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 16:33 UTC</small><br><br>
-🔹 <a href='https://www.al3rez.com/todo-txt-journey' target='_blank' rel='noopener noreferrer'>I tried every todo app and ended up with a .txt file</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 13:59 UTC</small><br><br>
 🔹 <a href='https://github.com/AdoPi/wlgblock' target='_blank' rel='noopener noreferrer'>Show HN: Play Pokémon to unlock your Wayland session</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 12:15 UTC</small><br><br>
+🔹 <a href='https://www.al3rez.com/todo-txt-journey' target='_blank' rel='noopener noreferrer'>I tried every todo app and ended up with a .txt file</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 13:59 UTC</small><br><br>
+🔹 <a href='https://github.com/danterolle/tilf' target='_blank' rel='noopener noreferrer'>Show HN: I built an offline, open‑source desktop Pixel Art Editor in Python</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 22:21 UTC</small><br><br>
 🔹 <a href='https://planetscale.com/blog/announcing-neki' target='_blank' rel='noopener noreferrer'>Neki – sharded Postgres by the team behind Vitess</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 18:03 UTC</small><br><br>
 🔹 <a href='https://www.openssh.com/pq.html' target='_blank' rel='noopener noreferrer'>OpenSSH Post-Quantum Cryptography</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 12:01 UTC</small><br><br>
 🔹 <a href='https://github.com/ollama/ollama/issues/11714' target='_blank' rel='noopener noreferrer'>Ollama and gguf</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 17:54 UTC</small><br><br>
-🔹 <a href='https://github.com/danterolle/tilf' target='_blank' rel='noopener noreferrer'>Show HN: I built an offline, open‑source desktop Pixel Art Editor in Python</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 22:21 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Halluminate (YC S25) – Simulating the internet to train computer use</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 15:30 UTC</small><br><br>
 🔹 <a href='https://dwyer.co.za/static/claude-code-is-all-you-need.html' target='_blank' rel='noopener noreferrer'>Claude Code is all you need</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 14:03 UTC</small><br><br>
-🔹 <a href='https://deanebarker.net/tech/blog/custom-elements-markdown/' target='_blank' rel='noopener noreferrer'>The Joy of Mixing Custom Elements, Web Components, and Markdown</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 16:16 UTC</small><br><br>
+🔹 <a href='https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition' target='_blank' rel='noopener noreferrer'>GitHub is no longer independent at Microsoft after CEO resignation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 15:47 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-11 23:39:52 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-11 23:47:36 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
