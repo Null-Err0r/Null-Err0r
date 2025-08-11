@@ -29,15 +29,15 @@
 🔹 <a href='https://www.al3rez.com/todo-txt-journey' target='_blank' rel='noopener noreferrer'>I tried every todo app and ended up with a .txt file</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 13:59 UTC</small><br><br>
 🔹 <a href='https://www.openssh.com/pq.html' target='_blank' rel='noopener noreferrer'>OpenSSH Post-Quantum Cryptography</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 12:01 UTC</small><br><br>
 🔹 <a href='https://academic.oup.com/mnras/article/541/4/2853/8213862?login=false' target='_blank' rel='noopener noreferrer'>36B solar mass black hole at centre of the Cosmic Horseshoe gravitational lens</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 14:42 UTC</small><br><br>
-🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Halluminate (YC S25) – Simulating the internet to train computer use</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 15:30 UTC</small><br><br>
+🔹 <a href='https://timharford.com/2025/05/the-value-of-institutional-memory/' target='_blank' rel='noopener noreferrer'>The Value of Institutional Memory</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 16:53 UTC</small><br><br>
 🔹 <a href='https://www.ycombinator.com/companies/trellis/jobs/Cv3ZwXh-forward-deployed-engineers-all-levels-august-2025' target='_blank' rel='noopener noreferrer'>Trellis (YC W24) Is Hiring: Automate Prior Auth in Healthcare</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 17:00 UTC</small><br><br>
 🔹 <a href='https://dwyer.co.za/static/claude-code-is-all-you-need.html' target='_blank' rel='noopener noreferrer'>Claude Code is all you need</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 14:03 UTC</small><br><br>
+🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Halluminate (YC S25) – Simulating the internet to train computer use</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 15:30 UTC</small><br><br>
 🔹 <a href='https://pricingpages.design/' target='_blank' rel='noopener noreferrer'>Pricing Pages – A Curated Gallery of Pricing Page Designs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 12:27 UTC</small><br><br>
-🔹 <a href='https://deanebarker.net/tech/blog/custom-elements-markdown/' target='_blank' rel='noopener noreferrer'>The Joy of Mixing Custom Elements, Web Components, and Markdown</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 16:16 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-11 17:20:25 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-11 17:42:43 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
