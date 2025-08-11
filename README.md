@@ -29,15 +29,15 @@
 🔹 <a href='https://kmicinski.com/functional-programming/2025/08/01/loops/' target='_blank' rel='noopener noreferrer'>Why tail-recursive functions are loops</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 15:10 UTC</small><br><br>
 🔹 <a href='https://planetscale.com/blog/announcing-neki' target='_blank' rel='noopener noreferrer'>Neki – sharded Postgres by the team behind Vitess</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 18:03 UTC</small><br><br>
 🔹 <a href='https://www.openssh.com/pq.html' target='_blank' rel='noopener noreferrer'>OpenSSH Post-Quantum Cryptography</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 12:01 UTC</small><br><br>
+🔹 <a href='https://timharford.com/2025/05/the-value-of-institutional-memory/' target='_blank' rel='noopener noreferrer'>The Value of Institutional Memory</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 16:53 UTC</small><br><br>
 🔹 <a href='https://bytebuddy.net/' target='_blank' rel='noopener noreferrer'>Byte Buddy is a code generation and manipulation library for Java</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 17:25 UTC</small><br><br>
 🔹 <a href='https://opuslabs.substack.com/p/learn-reflect-apply-prepare' target='_blank' rel='noopener noreferrer'>Learn, Reflect, Apply, Prepare: The Four Daily Practices That Changed How I Live</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 16:06 UTC</small><br><br>
-🔹 <a href='https://timharford.com/2025/05/the-value-of-institutional-memory/' target='_blank' rel='noopener noreferrer'>The Value of Institutional Memory</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 16:53 UTC</small><br><br>
 🔹 <a href='https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition' target='_blank' rel='noopener noreferrer'>GitHub is no longer independent at Microsoft after CEO resignation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 15:47 UTC</small><br><br>
 🔹 <a href='https://deanebarker.net/tech/blog/custom-elements-markdown/' target='_blank' rel='noopener noreferrer'>The Joy of Mixing Custom Elements, Web Components, and Markdown</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 16:16 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-11 21:38:33 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-11 21:46:46 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
