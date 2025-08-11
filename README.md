@@ -24,20 +24,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://wikimediafoundation.org/news/2025/08/11/wikimedia-foundation-challenges-uk-online-safety-act-regulations/' target='_blank' rel='noopener noreferrer'>Wikimedia Foundation Challenges UK Online Safety Act Regulations</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 12:38 UTC</small><br><br>
 🔹 <a href='https://blog.kilocode.ai/p/future-ai-spend-100k-per-dev' target='_blank' rel='noopener noreferrer'>Future AI bills of $100k/yr per dev</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 17:59 UTC</small><br><br>
+🔹 <a href='https://wikimediafoundation.org/news/2025/08/11/wikimedia-foundation-challenges-uk-online-safety-act-regulations/' target='_blank' rel='noopener noreferrer'>Wikimedia Foundation Challenges UK Online Safety Act Regulations</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 12:38 UTC</small><br><br>
 🔹 <a href='https://www.al3rez.com/todo-txt-journey' target='_blank' rel='noopener noreferrer'>I tried every todo app and ended up with a .txt file</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 13:59 UTC</small><br><br>
 🔹 <a href='https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition' target='_blank' rel='noopener noreferrer'>GitHub is no longer independent at Microsoft after CEO resignation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 15:47 UTC</small><br><br>
+🔹 <a href='https://dankennedy.net/2025/08/08/the-associated-press-tells-its-book-critics-that-its-ending-weekly-reviews/' target='_blank' rel='noopener noreferrer'>The Associated Press tells its book critics that it's ending weekly reviews</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 17:25 UTC</small><br><br>
 🔹 <a href='https://www.openssh.com/pq.html' target='_blank' rel='noopener noreferrer'>OpenSSH Post-Quantum Cryptography</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 12:01 UTC</small><br><br>
-🔹 <a href='https://timharford.com/2025/05/the-value-of-institutional-memory/' target='_blank' rel='noopener noreferrer'>The Value of Institutional Memory</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 16:53 UTC</small><br><br>
 🔹 <a href='https://www.sas.upenn.edu/~jesusfv/Slides_London.pdf' target='_blank' rel='noopener noreferrer'>The Demographic Future of Humanity: Facts and Consequences [pdf]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 17:03 UTC</small><br><br>
-🔹 <a href='https://academic.oup.com/mnras/article/541/4/2853/8213862?login=false' target='_blank' rel='noopener noreferrer'>36B solar mass black hole at centre of the Cosmic Horseshoe gravitational lens</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 14:42 UTC</small><br><br>
+🔹 <a href='https://middlelayer.substack.com/p/i-claude-is-the-drug-cursor-is-the' target='_blank' rel='noopener noreferrer'>Claude Is the Drug, Cursor Is the Dealer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 16:04 UTC</small><br><br>
+🔹 <a href='https://timharford.com/2025/05/the-value-of-institutional-memory/' target='_blank' rel='noopener noreferrer'>The Value of Institutional Memory</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 16:53 UTC</small><br><br>
 🔹 <a href='https://www.ycombinator.com/companies/trellis/jobs/Cv3ZwXh-forward-deployed-engineers-all-levels-august-2025' target='_blank' rel='noopener noreferrer'>Trellis (YC W24) Is Hiring: Automate Prior Auth in Healthcare</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 17:00 UTC</small><br><br>
-🔹 <a href='https://magecdn.com/blog/2025/08/11/cloudflare-not-a-cdn/' target='_blank' rel='noopener noreferrer'>Cloudflare Is Not a CDN</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 17:31 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-11 18:16:58 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-11 18:51:29 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
