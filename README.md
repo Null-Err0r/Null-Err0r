@@ -30,14 +30,14 @@
 🔹 <a href='https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost' target='_blank' rel='noopener noreferrer'>1910: The year the modern world lost its mind</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 20:48 UTC</small><br><br>
 🔹 <a href='https://github.com/Beariish/bolt' target='_blank' rel='noopener noreferrer'>Show HN: Bolt – A super-fast, statically-typed scripting language written in C</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 17:53 UTC</small><br><br>
 🔹 <a href='https://fightchatcontrol.eu/' target='_blank' rel='noopener noreferrer'>Fight Chat Control</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 16:50 UTC</small><br><br>
-🔹 <a href='https://onemillionscreenshots.com/?q=random' target='_blank' rel='noopener noreferrer'>One Million Screenshots</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 20:30 UTC</small><br><br>
 🔹 <a href='https://engineering.fyi/' target='_blank' rel='noopener noreferrer'>Show HN: Engineering.fyi – Search across tech engineering blogs in one place</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 13:44 UTC</small><br><br>
 🔹 <a href='https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac' target='_blank' rel='noopener noreferrer'>Diffusion language models are super data learners</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 16:04 UTC</small><br><br>
 🔹 <a href='https://thephp.foundation/blog/2025/08/05/compile-generics/' target='_blank' rel='noopener noreferrer'>PHP compile time generics: yay or nay?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 11:49 UTC</small><br><br>
+🔹 <a href='https://mrwint.github.io/winter/writeup/writeup2.html' target='_blank' rel='noopener noreferrer'>Creating the Longest Possible Ski Jump in “The Games: Winter Challenge”</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-07 14:57 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-10 23:49:50 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-11 01:00:40 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
