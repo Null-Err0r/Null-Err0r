@@ -27,17 +27,17 @@
 🔹 <a href='https://wikimediafoundation.org/news/2025/08/11/wikimedia-foundation-challenges-uk-online-safety-act-regulations/' target='_blank' rel='noopener noreferrer'>Wikimedia Foundation Challenges UK Online Safety Act Regulations</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 12:38 UTC</small><br><br>
 🔹 <a href='https://dwyer.co.za/static/claude-code-is-all-you-need.html' target='_blank' rel='noopener noreferrer'>Claude Code is all you need</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 14:03 UTC</small><br><br>
 🔹 <a href='https://www.openssh.com/pq.html' target='_blank' rel='noopener noreferrer'>OpenSSH Post-Quantum Cryptography</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 12:01 UTC</small><br><br>
-🔹 <a href='https://www.nytimes.com/2025/08/11/business/aol-dial-up-internet.html' target='_blank' rel='noopener noreferrer'>AOL to discontinue dial-up internet</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 07:15 UTC</small><br><br>
 🔹 <a href='https://www.al3rez.com/todo-txt-journey' target='_blank' rel='noopener noreferrer'>I tried every todo app and ended up with a .txt file</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 13:59 UTC</small><br><br>
+🔹 <a href='https://academic.oup.com/mnras/article/541/4/2853/8213862?login=false' target='_blank' rel='noopener noreferrer'>36B solar mass black hole at centre of the Cosmic Horseshoe gravitational lens</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 14:42 UTC</small><br><br>
 🔹 <a href='https://aarol.dev/posts/zig-simd-substr/' target='_blank' rel='noopener noreferrer'>Faster substring search with SIMD in Zig</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 09:41 UTC</small><br><br>
-🔹 <a href='https://issues.chromium.org/issues/412578726' target='_blank' rel='noopener noreferrer'>The Chrome VRP Panel has decided to award $250k for this report</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 05:56 UTC</small><br><br>
 🔹 <a href='https://pricingpages.design/' target='_blank' rel='noopener noreferrer'>Pricing Pages – A Curated Gallery of Pricing Page Designs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 12:27 UTC</small><br><br>
+🔹 <a href='https://issues.chromium.org/issues/412578726' target='_blank' rel='noopener noreferrer'>The Chrome VRP Panel has decided to award $250k for this report</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 05:56 UTC</small><br><br>
+🔹 <a href='https://www.nytimes.com/2025/08/11/business/aol-dial-up-internet.html' target='_blank' rel='noopener noreferrer'>AOL to discontinue dial-up internet</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 07:15 UTC</small><br><br>
 🔹 <a href='https://dafoster.net/articles/2025/07/22/designing-software-in-the-large/' target='_blank' rel='noopener noreferrer'>Designing Software in the Large</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 14:25 UTC</small><br><br>
-🔹 <a href='http://techno-fandom.org/~hobbit/cars/ev/offnet.html' target='_blank' rel='noopener noreferrer'>Vanishing from Hyundai’s data network</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 01:55 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-11 14:54:44 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-11 15:12:51 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
