@@ -25,8 +25,8 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://www.arxiv.org/pdf/2508.06471' target='_blank' rel='noopener noreferrer'>GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models [pdf]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 01:26 UTC</small><br><br>
-🔹 <a href='https://www.bbc.com/news/articles/cjr11qqvvwlo' target='_blank' rel='noopener noreferrer'>Wikipedia loses challenge against Online Safety Act</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 16:33 UTC</small><br><br>
 🔹 <a href='https://www.apple1registry.com/en/list.html' target='_blank' rel='noopener noreferrer'>All known 49-year-old Apple-1 computer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 17:32 UTC</small><br><br>
+🔹 <a href='https://www.bbc.com/news/articles/cjr11qqvvwlo' target='_blank' rel='noopener noreferrer'>Wikipedia loses challenge against Online Safety Act</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 16:33 UTC</small><br><br>
 🔹 <a href='https://www.al3rez.com/todo-txt-journey' target='_blank' rel='noopener noreferrer'>I tried every todo app and ended up with a .txt file</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 13:59 UTC</small><br><br>
 🔹 <a href='https://100r.co/site/weathering_software_winter.html' target='_blank' rel='noopener noreferrer'>Weathering Software Winter</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 03:05 UTC</small><br><br>
 🔹 <a href='https://github.com/danterolle/tilf' target='_blank' rel='noopener noreferrer'>Show HN: I built an offline, open‑source desktop Pixel Art Editor in Python</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 22:21 UTC</small><br><br>
@@ -37,7 +37,7 @@
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-12 04:40:12 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-12 04:54:49 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
