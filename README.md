@@ -25,19 +25,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://www.anthropic.com/news/1m-context' target='_blank' rel='noopener noreferrer'>Claude Sonnet 4 now supports 1M tokens of context</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 16:02 UTC</small><br><br>
-🔹 <a href='https://www.marcrand.com/p/lets-get-real-about-the-one-person' target='_blank' rel='noopener noreferrer'>Let's get real about the one-person billion dollar company</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 18:09 UTC</small><br><br>
 🔹 <a href='https://github.com/omnara-ai/omnara' target='_blank' rel='noopener noreferrer'>Show HN: Omnara – Run Claude Code from Anywhere</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 16:33 UTC</small><br><br>
 🔹 <a href='https://blog.wilsonl.in/search-engine/' target='_blank' rel='noopener noreferrer'>Show HN: Building a web search engine from scratch with 3B neural embeddings</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 16:02 UTC</small><br><br>
-🔹 <a href='https://www.sdo.group/study' target='_blank' rel='noopener noreferrer'>Multimodal WFH setup: flight SIM, EE lab, and music studio in 60sqft/5.5M²</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 11:48 UTC</small><br><br>
+🔹 <a href='https://www.marcrand.com/p/lets-get-real-about-the-one-person' target='_blank' rel='noopener noreferrer'>Let's get real about the one-person billion dollar company</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 18:09 UTC</small><br><br>
 🔹 <a href='https://yosefk.com/blog/the-high-level-cpu-challenge.html' target='_blank' rel='noopener noreferrer'>The "high-level CPU" challenge</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 17:07 UTC</small><br><br>
-🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Design Arena (YC S25) – Head-to-head AI benchmark for aesthetics</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 16:10 UTC</small><br><br>
+🔹 <a href='https://www.sdo.group/study' target='_blank' rel='noopener noreferrer'>Multimodal WFH setup: flight SIM, EE lab, and music studio in 60sqft/5.5M²</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 11:48 UTC</small><br><br>
 🔹 <a href='https://arxiv.org/abs/2507.21919' target='_blank' rel='noopener noreferrer'>Training language models to be warm and empathetic makes them less reliable</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 13:32 UTC</small><br><br>
-🔹 <a href='https://www.newyorker.com/news/the-financial-page/is-the-ai-boom-turning-into-an-ai-bubble' target='_blank' rel='noopener noreferrer'>Is the A.I. Boom Turning Into an A.I. Bubble?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 17:25 UTC</small><br><br>
+🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Design Arena (YC S25) – Head-to-head AI benchmark for aesthetics</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 16:10 UTC</small><br><br>
+🔹 <a href='https://asteriskmag.com/issues/11/why-are-there-so-many-rationalist-cults' target='_blank' rel='noopener noreferrer'>Why are there so many rationalist cults?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 14:56 UTC</small><br><br>
 🔹 <a href='https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer' target='_blank' rel='noopener noreferrer'>Weave (YC W25) is hiring a founding AI engineer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 17:01 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-12 18:50:02 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-12 19:09:56 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
