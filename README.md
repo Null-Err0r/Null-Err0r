@@ -31,13 +31,13 @@
 🔹 <a href='https://www.al3rez.com/todo-txt-journey' target='_blank' rel='noopener noreferrer'>I tried every todo app and ended up with a .txt file</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 13:59 UTC</small><br><br>
 🔹 <a href='https://100r.co/site/weathering_software_winter.html' target='_blank' rel='noopener noreferrer'>Weathering Software Winter</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 03:05 UTC</small><br><br>
 🔹 <a href='https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2025-08-09/Disinformation_report' target='_blank' rel='noopener noreferrer'>The Article in the Most Languages</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 07:07 UTC</small><br><br>
+🔹 <a href='https://github.com/danterolle/tilf' target='_blank' rel='noopener noreferrer'>Show HN: I built an offline, open‑source desktop Pixel Art Editor in Python</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 22:21 UTC</small><br><br>
 🔹 <a href='https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition' target='_blank' rel='noopener noreferrer'>GitHub is no longer independent at Microsoft after CEO resignation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 15:47 UTC</small><br><br>
 🔹 <a href='https://dwyer.co.za/static/claude-code-is-all-you-need.html' target='_blank' rel='noopener noreferrer'>Claude Code is all you need</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 14:03 UTC</small><br><br>
-🔹 <a href='https://wiki.freebsd.org/Scheduler/Hybrid' target='_blank' rel='noopener noreferrer'>FreeBSD Scheduling on Hybrid CPUs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 05:51 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-12 06:17:46 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-12 06:50:34 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
