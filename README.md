@@ -31,13 +31,13 @@
 🔹 <a href='https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition' target='_blank' rel='noopener noreferrer'>GitHub is no longer independent at Microsoft after CEO resignation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 15:47 UTC</small><br><br>
 🔹 <a href='https://dwyer.co.za/static/claude-code-is-all-you-need.html' target='_blank' rel='noopener noreferrer'>Claude Code is all you need</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 14:03 UTC</small><br><br>
 🔹 <a href='https://wiki.freebsd.org/Scheduler/Hybrid' target='_blank' rel='noopener noreferrer'>FreeBSD Scheduling on Hybrid CPUs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 05:51 UTC</small><br><br>
+🔹 <a href='https://typo.social/@Hilary/114845913381245488' target='_blank' rel='noopener noreferrer'>Chris Simpkins, creator of Hack font, has died</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 02:51 UTC</small><br><br>
 🔹 <a href='https://github.com/AdoPi/wlgblock' target='_blank' rel='noopener noreferrer'>Show HN: Play Pokémon to unlock your Wayland session</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 12:15 UTC</small><br><br>
 🔹 <a href='https://www.openssh.com/pq.html' target='_blank' rel='noopener noreferrer'>OpenSSH Post-Quantum Cryptography</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 12:01 UTC</small><br><br>
-🔹 <a href='https://typo.social/@Hilary/114845913381245488' target='_blank' rel='noopener noreferrer'>Chris Simpkins, creator of Hack font, has died</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 02:51 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-12 03:39:33 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-12 04:04:04 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
