@@ -32,12 +32,12 @@
 🔹 <a href='https://github.com/omnara-ai/omnara' target='_blank' rel='noopener noreferrer'>Show HN: Omnara – Run Claude Code from anywhere</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 16:33 UTC</small><br><br>
 🔹 <a href='https://www.sdo.group/study' target='_blank' rel='noopener noreferrer'>Multimodal WFH setup: flight SIM, EE lab, and music studio in 60sqft/5.5M²</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 11:48 UTC</small><br><br>
 🔹 <a href='https://arxiv.org/abs/2507.21919' target='_blank' rel='noopener noreferrer'>Training language models to be warm and empathetic makes them less reliable</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 13:32 UTC</small><br><br>
-🔹 <a href='https://www.thurrott.com/music-videos/324346/blender-is-native-on-windows-11-on-arm' target='_blank' rel='noopener noreferrer'>Blender is Native on Windows 11 on Arm</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 02:26 UTC</small><br><br>
 🔹 <a href='https://webkit.org/blog/17240/a-gentle-introduction-to-anchor-positioning/' target='_blank' rel='noopener noreferrer'>A gentle introduction to anchor positioning</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 22:18 UTC</small><br><br>
+🔹 <a href='https://www.thurrott.com/music-videos/324346/blender-is-native-on-windows-11-on-arm' target='_blank' rel='noopener noreferrer'>Blender is Native on Windows 11 on Arm</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 02:26 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-12 22:49:42 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-12 23:10:51 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
