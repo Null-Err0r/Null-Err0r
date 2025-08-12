@@ -31,13 +31,13 @@
 🔹 <a href='https://www.apple1registry.com/en/list.html' target='_blank' rel='noopener noreferrer'>All known 49-year-old Apple-1 computer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 17:32 UTC</small><br><br>
 🔹 <a href='https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2025-08-09/Disinformation_report' target='_blank' rel='noopener noreferrer'>The Article in the Most Languages</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 07:07 UTC</small><br><br>
 🔹 <a href='https://100r.co/site/weathering_software_winter.html' target='_blank' rel='noopener noreferrer'>Weathering Software Winter</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 03:05 UTC</small><br><br>
+🔹 <a href='https://russellw.github.io/undefined-behavior' target='_blank' rel='noopener noreferrer'>Undefined Behavior in C and C++</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 21:30 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>CoLoop (YC S21) Is Hiring AI Engineers in London</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 07:00 UTC</small><br><br>
-🔹 <a href='https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition' target='_blank' rel='noopener noreferrer'>GitHub is no longer independent at Microsoft after CEO resignation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 15:47 UTC</small><br><br>
 🔹 <a href='https://dwyer.co.za/static/claude-code-is-all-you-need.html' target='_blank' rel='noopener noreferrer'>Claude Code is all you need</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 14:03 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-12 07:48:06 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-12 08:15:45 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
