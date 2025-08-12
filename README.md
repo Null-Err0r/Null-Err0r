@@ -31,13 +31,13 @@
 🔹 <a href='https://www.bbc.com/news/articles/cjr11qqvvwlo' target='_blank' rel='noopener noreferrer'>Wikipedia loses challenge against Online Safety Act</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 16:33 UTC</small><br><br>
 🔹 <a href='https://www.al3rez.com/todo-txt-journey' target='_blank' rel='noopener noreferrer'>I tried every todo app and ended up with a .txt file</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 13:59 UTC</small><br><br>
 🔹 <a href='https://www.ycombinator.com/companies/depot/jobs/K1IFotJ-community-events-manager' target='_blank' rel='noopener noreferrer'>Depot (YC W23) Is Hiring a Community and Events Manager (Remote)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 12:00 UTC</small><br><br>
-🔹 <a href='https://twitter.com/p3b7_/status/1955173413992984988' target='_blank' rel='noopener noreferrer'>Monero appears to be in the midst of a successful 51% attack</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 11:56 UTC</small><br><br>
+🔹 <a href='https://sahillavingia.com/reflecting' target='_blank' rel='noopener noreferrer'>Reflecting on My Failure to Build a Billion-Dollar Company (2019)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 03:17 UTC</small><br><br>
 🔹 <a href='https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2025-08-09/Disinformation_report' target='_blank' rel='noopener noreferrer'>The Article in the Most Languages</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 07:07 UTC</small><br><br>
-🔹 <a href='https://russellw.github.io/undefined-behavior' target='_blank' rel='noopener noreferrer'>Undefined Behavior in C and C++</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 21:30 UTC</small><br><br>
+🔹 <a href='https://twitter.com/p3b7_/status/1955173413992984988' target='_blank' rel='noopener noreferrer'>Monero appears to be in the midst of a successful 51% attack</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 11:56 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-12 12:21:45 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-12 13:06:46 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
