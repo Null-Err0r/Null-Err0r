@@ -25,19 +25,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://www.anthropic.com/news/1m-context' target='_blank' rel='noopener noreferrer'>Claude Sonnet 4 now supports 1M tokens of context</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 16:02 UTC</small><br><br>
-🔹 <a href='https://every.to/vibe-check/vibe-check-claude-sonnet-4-now-has-a-1-million-token-context-window' target='_blank' rel='noopener noreferrer'>Claude vs. Gemini: Testing on 1M Tokens of Context</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 16:59 UTC</small><br><br>
 🔹 <a href='https://github.com/omnara-ai/omnara' target='_blank' rel='noopener noreferrer'>Show HN: Omnara – Run Claude Code from Anywhere</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 16:33 UTC</small><br><br>
 🔹 <a href='https://blog.wilsonl.in/search-engine/' target='_blank' rel='noopener noreferrer'>Show HN: Building a web search engine from scratch with 3B neural embeddings</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 16:02 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Design Arena (YC S25) – Head-to-head AI benchmark for aesthetics</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 16:10 UTC</small><br><br>
-🔹 <a href='https://entropicthoughts.com/evaluating-llms-playing-text-adventures' target='_blank' rel='noopener noreferrer'>Evaluating LLMs Playing Text Adventures</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 15:19 UTC</small><br><br>
 🔹 <a href='https://www.sdo.group/study' target='_blank' rel='noopener noreferrer'>Multimodal WFH setup: flight SIM, EE lab, and music studio in 60sqft/5.5M²</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 11:48 UTC</small><br><br>
-🔹 <a href='https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer' target='_blank' rel='noopener noreferrer'>Weave (YC W25) is hiring a founding AI engineer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 17:01 UTC</small><br><br>
+🔹 <a href='https://entropicthoughts.com/evaluating-llms-playing-text-adventures' target='_blank' rel='noopener noreferrer'>Evaluating LLMs Playing Text Adventures</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 15:19 UTC</small><br><br>
 🔹 <a href='https://arxiv.org/abs/2507.21919' target='_blank' rel='noopener noreferrer'>Training language models to be warm and empathetic makes them less reliable</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 13:32 UTC</small><br><br>
-🔹 <a href='https://nexusrouter.com/blog/introducing-nexus-the-open-source-ai-router' target='_blank' rel='noopener noreferrer'>Nexus: An Open-Source AI Router for Governance, Control and Observability</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 14:41 UTC</small><br><br>
+🔹 <a href='https://yosefk.com/blog/the-high-level-cpu-challenge.html' target='_blank' rel='noopener noreferrer'>The "high-level CPU" challenge</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 17:07 UTC</small><br><br>
+🔹 <a href='https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer' target='_blank' rel='noopener noreferrer'>Weave (YC W25) is hiring a founding AI engineer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 17:01 UTC</small><br><br>
+🔹 <a href='https://asteriskmag.com/issues/11/why-are-there-so-many-rationalist-cults' target='_blank' rel='noopener noreferrer'>Why are there so many rationalist cults?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 14:56 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-12 17:51:04 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-12 18:17:02 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
