@@ -33,11 +33,11 @@
 🔹 <a href='https://arxiv.org/abs/2507.21919' target='_blank' rel='noopener noreferrer'>Training language models to be warm and empathetic makes them less reliable</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 13:32 UTC</small><br><br>
 🔹 <a href='https://tangled.sh/@oppi.li/journal' target='_blank' rel='noopener noreferrer'>Journaling using Nix, Vim and coreutils</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 14:04 UTC</small><br><br>
 🔹 <a href='https://www.thurrott.com/music-videos/324346/blender-is-native-on-windows-11-on-arm' target='_blank' rel='noopener noreferrer'>Blender is Native on Windows 11 on Arm</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 02:26 UTC</small><br><br>
-🔹 <a href='https://blog.dataengineerthings.org/the-equality-delete-problem-in-apache-iceberg-143dd451a974' target='_blank' rel='noopener noreferrer'>The Equality Delete Problem in Apache Iceberg</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 18:27 UTC</small><br><br>
+🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Design Arena (YC S25) – Head-to-head AI benchmark for aesthetics</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 16:10 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-12 21:48:43 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-12 22:10:32 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
