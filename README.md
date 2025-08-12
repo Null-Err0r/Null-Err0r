@@ -24,20 +24,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
+🔹 <a href='https://www.githubstatus.com/incidents/9rfydl2xdqqj' target='_blank' rel='noopener noreferrer'>GitHub is (again) having issues</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 14:37 UTC</small><br><br>
 🔹 <a href='https://www.ghacks.net/2025/08/12/australian-court-finds-apple-google-guilty-of-being-anticompetitive/' target='_blank' rel='noopener noreferrer'>Australian court finds Apple, Google guilty of being anticompetitive</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 13:30 UTC</small><br><br>
+🔹 <a href='https://www.theverge.com/tesla/757594/tesla-cybertruck-deactivated-viral-video-fake' target='_blank' rel='noopener noreferrer'>That viral video of a 'deactivated' Tesla Cybertruck is a fake</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 14:12 UTC</small><br><br>
 🔹 <a href='https://lwn.net/SubscriberLink/1032732/3334850da49689e1/' target='_blank' rel='noopener noreferrer'>StarDict sends X11 clipboard to remote servers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 04:08 UTC</small><br><br>
 🔹 <a href='https://www.crowdsupply.com/modos-tech/modos-paper-monitor' target='_blank' rel='noopener noreferrer'>Modos Paper Monitor – Open-hardware e-paper monitor and dev kit</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 12:38 UTC</small><br><br>
-🔹 <a href='https://www.qodo.ai/blog/qodo-command-swe-bench-verified/' target='_blank' rel='noopener noreferrer'>Qodo CLI agent scores 71.2% on SWE-bench Verified</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 11:05 UTC</small><br><br>
 🔹 <a href='https://www.bbc.com/news/articles/cjr11qqvvwlo' target='_blank' rel='noopener noreferrer'>Wikipedia loses challenge against Online Safety Act</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 16:33 UTC</small><br><br>
-🔹 <a href='https://twitter.com/p3b7_/status/1955173413992984988' target='_blank' rel='noopener noreferrer'>Monero appears to be in the midst of a successful 51% attack</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 11:56 UTC</small><br><br>
 🔹 <a href='https://www.arxiv.org/pdf/2508.06471' target='_blank' rel='noopener noreferrer'>GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models [pdf]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 01:26 UTC</small><br><br>
+🔹 <a href='https://www.qodo.ai/blog/qodo-command-swe-bench-verified/' target='_blank' rel='noopener noreferrer'>Qodo CLI agent scores 71.2% on SWE-bench Verified</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 11:05 UTC</small><br><br>
+🔹 <a href='https://twitter.com/p3b7_/status/1955173413992984988' target='_blank' rel='noopener noreferrer'>Monero appears to be in the midst of a successful 51% attack</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 11:56 UTC</small><br><br>
 🔹 <a href='https://www.al3rez.com/todo-txt-journey' target='_blank' rel='noopener noreferrer'>I tried every todo app and ended up with a .txt file</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 13:59 UTC</small><br><br>
-🔹 <a href='https://www.theverge.com/tesla/757594/tesla-cybertruck-deactivated-viral-video-fake' target='_blank' rel='noopener noreferrer'>That viral video of a 'deactivated' Tesla Cybertruck is a fake</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 14:12 UTC</small><br><br>
-🔹 <a href='https://www.ycombinator.com/companies/depot/jobs/K1IFotJ-community-events-manager' target='_blank' rel='noopener noreferrer'>Depot (YC W23) Is Hiring a Community and Events Manager (Remote)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 12:00 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-12 14:36:17 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-12 14:52:44 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
