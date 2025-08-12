@@ -30,14 +30,14 @@
 🔹 <a href='https://www.crowdsupply.com/modos-tech/modos-paper-monitor' target='_blank' rel='noopener noreferrer'>A fast, low-latency, open-hardware e-paper monitor and dev kit</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 12:38 UTC</small><br><br>
 🔹 <a href='https://www.al3rez.com/todo-txt-journey' target='_blank' rel='noopener noreferrer'>I tried every todo app and ended up with a .txt file</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 13:59 UTC</small><br><br>
 🔹 <a href='https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2025-08-09/Disinformation_report' target='_blank' rel='noopener noreferrer'>The Article in the Most Languages</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 07:07 UTC</small><br><br>
-🔹 <a href='https://medicalxpress.com/news/2025-07-artificial-biosensor-body-main-stress.html' target='_blank' rel='noopener noreferrer'>Artificial biosensor can better measure the body's main stress hormone</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 14:06 UTC</small><br><br>
 🔹 <a href='https://russellw.github.io/undefined-behavior' target='_blank' rel='noopener noreferrer'>Undefined Behavior in C and C++</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 21:30 UTC</small><br><br>
+🔹 <a href='https://medicalxpress.com/news/2025-07-artificial-biosensor-body-main-stress.html' target='_blank' rel='noopener noreferrer'>Artificial biosensor can better measure the body's main stress hormone</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-08 14:06 UTC</small><br><br>
 🔹 <a href='https://dwyer.co.za/static/claude-code-is-all-you-need.html' target='_blank' rel='noopener noreferrer'>Claude Code is all you need</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 14:03 UTC</small><br><br>
 🔹 <a href='https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition' target='_blank' rel='noopener noreferrer'>GitHub is no longer independent at Microsoft after CEO resignation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 15:47 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-12 10:38:36 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-12 10:52:37 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
