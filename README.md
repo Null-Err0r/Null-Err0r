@@ -24,20 +24,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://www.githubstatus.com/incidents/9rfydl2xdqqj' target='_blank' rel='noopener noreferrer'>GitHub is (again) having issues</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 14:37 UTC</small><br><br>
-🔹 <a href='https://jszym.com/blog/archiving_googl/' target='_blank' rel='noopener noreferrer'>Where were you when goo.gl shutdown?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 14:52 UTC</small><br><br>
+🔹 <a href='https://www.anthropic.com/news/1m-context' target='_blank' rel='noopener noreferrer'>Claude Sonnet 4 now supports 1M tokens of context</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 16:02 UTC</small><br><br>
 🔹 <a href='https://blog.opensecret.cloud/why-we-migrated-from-neon-to-planetscale/' target='_blank' rel='noopener noreferrer'>Why We Migrated from Neon to PlanetScale</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 15:02 UTC</small><br><br>
-🔹 <a href='https://prog21.dadgum.com/29.html' target='_blank' rel='noopener noreferrer'>A Spellchecker Used to Be a Major Feat of Software Engineering</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 01:07 UTC</small><br><br>
-🔹 <a href='https://arxiv.org/abs/2507.21919' target='_blank' rel='noopener noreferrer'>Training language models to be warm and empathetic makes them less reliable</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 13:32 UTC</small><br><br>
-🔹 <a href='https://nexusrouter.com/blog/introducing-nexus-the-open-source-ai-router' target='_blank' rel='noopener noreferrer'>Nexus: An Open-Source AI Router for Governance, Control and Observability</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 14:41 UTC</small><br><br>
 🔹 <a href='https://entropicthoughts.com/evaluating-llms-playing-text-adventures' target='_blank' rel='noopener noreferrer'>Evaluating LLMs Playing Text Adventures</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 15:19 UTC</small><br><br>
-🔹 <a href='https://www.ghacks.net/2025/08/12/australian-court-finds-apple-google-guilty-of-being-anticompetitive/' target='_blank' rel='noopener noreferrer'>Australian court finds Apple, Google guilty of being anticompetitive</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 13:30 UTC</small><br><br>
-🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Design Arena (YC S25) – Head-to-Head AI Benchmark for Aesthetics</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 16:10 UTC</small><br><br>
+🔹 <a href='https://arxiv.org/abs/2507.21919' target='_blank' rel='noopener noreferrer'>Training language models to be warm and empathetic makes them less reliable</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 13:32 UTC</small><br><br>
+🔹 <a href='https://prog21.dadgum.com/29.html' target='_blank' rel='noopener noreferrer'>A Spellchecker Used to Be a Major Feat of Software Engineering</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 01:07 UTC</small><br><br>
+🔹 <a href='https://nexusrouter.com/blog/introducing-nexus-the-open-source-ai-router' target='_blank' rel='noopener noreferrer'>Nexus: An Open-Source AI Router for Governance, Control and Observability</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 14:41 UTC</small><br><br>
+🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Design Arena (YC S25) – Head-to-head AI benchmark for aesthetics</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 16:10 UTC</small><br><br>
 🔹 <a href='https://www.wsj.com/tech/perplexity-makes-longshot-34-5-billion-offer-for-chrome-5ddb7a22' target='_blank' rel='noopener noreferrer'>Perplexity Makes Longshot $34.5B Offer for Chrome</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 15:33 UTC</small><br><br>
+🔹 <a href='https://blog.wilsonl.in/search-engine/' target='_blank' rel='noopener noreferrer'>Show HN: Building a web search engine from scratch with 3B neural embeddings</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 16:02 UTC</small><br><br>
+🔹 <a href='https://jszym.com/blog/archiving_googl/' target='_blank' rel='noopener noreferrer'>Enlisting in the Fight Against Link Rot</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 14:52 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-12 16:14:13 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-12 16:43:06 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
