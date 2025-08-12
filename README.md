@@ -25,19 +25,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://www.githubstatus.com/incidents/9rfydl2xdqqj' target='_blank' rel='noopener noreferrer'>GitHub is (again) having issues</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 14:37 UTC</small><br><br>
-🔹 <a href='https://asteriskmag.com/issues/11/why-are-there-so-many-rationalist-cults' target='_blank' rel='noopener noreferrer'>Why Are There So Many Rationalist Cults?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 14:56 UTC</small><br><br>
 🔹 <a href='https://jszym.com/blog/archiving_googl/' target='_blank' rel='noopener noreferrer'>Where were you when goo.gl shutdown?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 14:52 UTC</small><br><br>
 🔹 <a href='https://blog.opensecret.cloud/why-we-migrated-from-neon-to-planetscale/' target='_blank' rel='noopener noreferrer'>Why We Migrated from Neon to PlanetScale</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 15:02 UTC</small><br><br>
 🔹 <a href='https://prog21.dadgum.com/29.html' target='_blank' rel='noopener noreferrer'>A Spellchecker Used to Be a Major Feat of Software Engineering</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 01:07 UTC</small><br><br>
 🔹 <a href='https://entropicthoughts.com/evaluating-llms-playing-text-adventures' target='_blank' rel='noopener noreferrer'>Evaluating LLMs Playing Text Adventures</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 15:19 UTC</small><br><br>
-🔹 <a href='https://www.ghacks.net/2025/08/12/australian-court-finds-apple-google-guilty-of-being-anticompetitive/' target='_blank' rel='noopener noreferrer'>Australian court finds Apple, Google guilty of being anticompetitive</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 13:30 UTC</small><br><br>
 🔹 <a href='https://www.gov.uk/government/news/national-drought-group-meets-to-address-nationally-significant-water-shortfall' target='_blank' rel='noopener noreferrer'>UK government advises deleting emails to save water</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 15:12 UTC</small><br><br>
 🔹 <a href='https://nexusrouter.com/blog/introducing-nexus-the-open-source-ai-router' target='_blank' rel='noopener noreferrer'>Nexus: An Open-Source AI Router for Governance, Control and Observability</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 14:41 UTC</small><br><br>
-🔹 <a href='https://lwn.net/SubscriberLink/1032732/3334850da49689e1/' target='_blank' rel='noopener noreferrer'>StarDict sends X11 clipboard to remote servers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 04:08 UTC</small><br><br>
+🔹 <a href='https://www.ghacks.net/2025/08/12/australian-court-finds-apple-google-guilty-of-being-anticompetitive/' target='_blank' rel='noopener noreferrer'>Australian court finds Apple, Google guilty of being anticompetitive</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 13:30 UTC</small><br><br>
+🔹 <a href='https://arxiv.org/abs/2507.21919' target='_blank' rel='noopener noreferrer'>Training language models to be warm and empathetic makes them less reliable</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 13:32 UTC</small><br><br>
+🔹 <a href='https://www.theverge.com/tesla/757594/tesla-cybertruck-deactivated-viral-video-fake' target='_blank' rel='noopener noreferrer'>That viral video of a 'deactivated' Tesla Cybertruck is a fake</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 14:12 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-12 15:34:10 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-12 15:51:36 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
