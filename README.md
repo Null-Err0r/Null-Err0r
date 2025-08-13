@@ -24,20 +24,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://blog.nginx.org/blog/native-support-for-acme-protocol' target='_blank' rel='noopener noreferrer'>Nginx Introduces Native Support for Acme Protocol</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 15:41 UTC</small><br><br>
+🔹 <a href='https://blog.nginx.org/blog/native-support-for-acme-protocol' target='_blank' rel='noopener noreferrer'>Nginx introduces native support for ACME protocol</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 15:41 UTC</small><br><br>
 🔹 <a href='https://xvw.lol/en/articles/why-ocaml.html' target='_blank' rel='noopener noreferrer'>I chose OCaml as my primary language</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 18:05 UTC</small><br><br>
 🔹 <a href='https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b' target='_blank' rel='noopener noreferrer'>FFmpeg 8.0 adds Whisper support</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 10:19 UTC</small><br><br>
-🔹 <a href='https://gamingretro.co.uk/29-years-later-settlers-ii-finally-gets-amiga-release/' target='_blank' rel='noopener noreferrer'>29 years later, Settlers II gets Amiga release</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 18:30 UTC</small><br><br>
-🔹 <a href='https://testing.googleblog.com/2014/04/the-real-test-driven-development.html' target='_blank' rel='noopener noreferrer'>April Fools 2014: The *Real* Test Driven Development</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 17:46 UTC</small><br><br>
+🔹 <a href='https://testing.googleblog.com/2014/04/the-real-test-driven-development.html' target='_blank' rel='noopener noreferrer'>April Fools 2014: The *Real* Test Driven Development (2014)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 17:46 UTC</small><br><br>
 🔹 <a href='https://video.golpoai.com/' target='_blank' rel='noopener noreferrer'>Launch HN: Golpo (YC S25) – AI-generated explainer videos</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 17:11 UTC</small><br><br>
+🔹 <a href='https://astral.sh/pyx' target='_blank' rel='noopener noreferrer'>PYX: The next step in Python packaging</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 18:42 UTC</small><br><br>
 🔹 <a href='https://words.filippo.io/csrf/' target='_blank' rel='noopener noreferrer'>Cross-Site Request Forgery</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 17:31 UTC</small><br><br>
 🔹 <a href='https://lostpixels.io/writings/the-difference-between-plotted-and-printed-artwork' target='_blank' rel='noopener noreferrer'>So what's the difference between plotted and printed artwork?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 13:06 UTC</small><br><br>
-🔹 <a href='https://www.openindiana.org/' target='_blank' rel='noopener noreferrer'>OpenIndiana: Community-Driven Illumos Distribution</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 15:23 UTC</small><br><br>
 🔹 <a href='https://readme.com/careers#product-manager-developer-experience' target='_blank' rel='noopener noreferrer'>ReadMe (YC W15) Is Hiring a Developer Experience PM</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 17:00 UTC</small><br><br>
+🔹 <a href='https://ericmigi.com/blog/pebble-time-2-design-reveal/' target='_blank' rel='noopener noreferrer'>Pebble Time 2* Design Reveal</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 14:40 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-13 18:48:15 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-13 19:08:55 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
