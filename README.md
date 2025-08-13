@@ -25,19 +25,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b' target='_blank' rel='noopener noreferrer'>FFmpeg 8.0 adds Whisper support</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 10:19 UTC</small><br><br>
+🔹 <a href='https://jackpoulson.substack.com/p/when-counterculture-and-empire-merge' target='_blank' rel='noopener noreferrer'>When DEF CON partners with the U.S. Army</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 13:33 UTC</small><br><br>
+🔹 <a href='https://pub.aimind.so/doubleagents-fine-tuning-llms-for-covert-malicious-tool-calls-b8ff00bf513e' target='_blank' rel='noopener noreferrer'>DoubleAgents: Fine-Tuning LLMs for Covert Malicious Tool Calls</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 13:31 UTC</small><br><br>
+🔹 <a href='https://lostpixels.io/writings/the-difference-between-plotted-and-printed-artwork' target='_blank' rel='noopener noreferrer'>So what's the difference between plotted and printed artwork?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 13:06 UTC</small><br><br>
+🔹 <a href='https://www.charlespetzold.com/blog/2025/05/Mary-Queen-of-Scots-Channel-Anamorphosis-A-3D-Simulation.html' target='_blank' rel='noopener noreferrer'>The Mary Queen of Scots Channel Anamorphosis: A 3D Simulation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 13:26 UTC</small><br><br>
 🔹 <a href='https://www.anthropic.com/news/1m-context' target='_blank' rel='noopener noreferrer'>Claude Sonnet 4 now supports 1M tokens of context</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 16:02 UTC</small><br><br>
-🔹 <a href='https://github.com/anthropics/claude-code/issues/3382' target='_blank' rel='noopener noreferrer'>[BUG] Claude says "You're absolutely right!" about everything</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 06:59 UTC</small><br><br>
-🔹 <a href='https://www.cnn.com/2025/08/13/politics/ice-flights-locations-tracking-maps' target='_blank' rel='noopener noreferrer'>The number of ICE flights is skyrocketing – but the planes are harder to track</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 12:52 UTC</small><br><br>
+🔹 <a href='https://github.com/anthropics/claude-code/issues/3382' target='_blank' rel='noopener noreferrer'>Claude says “You're absolutely right!” about everything</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 06:59 UTC</small><br><br>
+🔹 <a href='https://ingram.tech/posts/evaluating-gpt5-reasoning-ability' target='_blank' rel='noopener noreferrer'>Evaluating GPT5's reasoning ability using the Only Connect game show</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 13:52 UTC</small><br><br>
 🔹 <a href='https://www.alltext.nyc/' target='_blank' rel='noopener noreferrer'>Search all text in New York City</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 00:17 UTC</small><br><br>
-🔹 <a href='https://astrobites.org/2025/08/12/starlink-ska-low/' target='_blank' rel='noopener noreferrer'>Nearly 1 in 3 Starlink satellites detected within the SKA-Low frequency band</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 08:12 UTC</small><br><br>
-🔹 <a href='https://data.iana.org/time-zones/tzdb-2025a/factory' target='_blank' rel='noopener noreferrer'>The Factory Timezone</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 08:03 UTC</small><br><br>
-🔹 <a href='https://graphite.rs/libraries/bezier-rs/' target='_blank' rel='noopener noreferrer'>Bezier-rs – algorithms for Bézier segments and shapes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 14:33 UTC</small><br><br>
-🔹 <a href='https://blog.wilsonl.in/search-engine/' target='_blank' rel='noopener noreferrer'>Show HN: Building a web search engine from scratch with 3B neural embeddings</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 16:02 UTC</small><br><br>
-🔹 <a href='https://ashet.computer/' target='_blank' rel='noopener noreferrer'>Ashet Home Computer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 18:56 UTC</small><br><br>
+🔹 <a href='https://guust.ysebie.be/blog/supporting-apache-xml-security-algorithms.html' target='_blank' rel='noopener noreferrer'>Get Org.apache.xml.security Working with GraalVM</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 13:03 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-13 13:07:47 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-13 13:46:17 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
