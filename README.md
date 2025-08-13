@@ -26,18 +26,18 @@
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://blog.nginx.org/blog/native-support-for-acme-protocol' target='_blank' rel='noopener noreferrer'>Nginx Introduces Native Support for Acme Protocol</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 15:41 UTC</small><br><br>
 🔹 <a href='https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b' target='_blank' rel='noopener noreferrer'>FFmpeg 8.0 adds Whisper support</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 10:19 UTC</small><br><br>
-🔹 <a href='https://video.golpoai.com/' target='_blank' rel='noopener noreferrer'>Launch HN: Golpo (YC S25) – AI-generated explainer videos</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 17:11 UTC</small><br><br>
-🔹 <a href='https://abacusnoir.com/2025/08/12/coalton-playground-type-safe-lisp-in-your-browser/' target='_blank' rel='noopener noreferrer'>Coalton Playground: Type-Safe Lisp in the Browser</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 15:00 UTC</small><br><br>
-🔹 <a href='https://www.openindiana.org/' target='_blank' rel='noopener noreferrer'>OpenIndiana: Community-Driven Illumos Distribution</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 15:23 UTC</small><br><br>
-🔹 <a href='https://lostpixels.io/writings/the-difference-between-plotted-and-printed-artwork' target='_blank' rel='noopener noreferrer'>So what's the difference between plotted and printed artwork?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 13:06 UTC</small><br><br>
 🔹 <a href='https://www.tomkranz.com/blog1/a-case-study-in-bad-hiring-practice-and-how-to-fix-it' target='_blank' rel='noopener noreferrer'>A case study in bad hiring practice and how to fix it</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 16:42 UTC</small><br><br>
-🔹 <a href='https://readme.com/careers#product-manager-developer-experience' target='_blank' rel='noopener noreferrer'>ReadMe (YC W15) Is Hiring a Developer Experience PM</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 17:00 UTC</small><br><br>
-🔹 <a href='https://localghost.dev/blog/this-website-is-for-humans/' target='_blank' rel='noopener noreferrer'>This website is for humans</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 15:19 UTC</small><br><br>
+🔹 <a href='https://video.golpoai.com/' target='_blank' rel='noopener noreferrer'>Launch HN: Golpo (YC S25) – AI-generated explainer videos</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 17:11 UTC</small><br><br>
+🔹 <a href='https://www.openindiana.org/' target='_blank' rel='noopener noreferrer'>OpenIndiana: Community-Driven Illumos Distribution</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 15:23 UTC</small><br><br>
+🔹 <a href='https://abacusnoir.com/2025/08/12/coalton-playground-type-safe-lisp-in-your-browser/' target='_blank' rel='noopener noreferrer'>Coalton Playground: Type-Safe Lisp in the Browser</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 15:00 UTC</small><br><br>
+🔹 <a href='https://lostpixels.io/writings/the-difference-between-plotted-and-printed-artwork' target='_blank' rel='noopener noreferrer'>So what's the difference between plotted and printed artwork?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 13:06 UTC</small><br><br>
 🔹 <a href='https://ericmigi.com/blog/pebble-time-2-design-reveal/' target='_blank' rel='noopener noreferrer'>Pebble Time 2* Design Reveal</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 14:40 UTC</small><br><br>
+🔹 <a href='https://readme.com/careers#product-manager-developer-experience' target='_blank' rel='noopener noreferrer'>ReadMe (YC W15) Is Hiring a Developer Experience PM</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 17:00 UTC</small><br><br>
+🔹 <a href='https://xvw.lol/en/articles/why-ocaml.html' target='_blank' rel='noopener noreferrer'>I chose OCaml as my primary language</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 18:05 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-13 17:47:00 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-13 18:16:13 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
