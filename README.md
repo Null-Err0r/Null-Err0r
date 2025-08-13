@@ -26,18 +26,18 @@
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://astral.sh/pyx' target='_blank' rel='noopener noreferrer'>PYX: The next step in Python packaging</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 18:42 UTC</small><br><br>
 🔹 <a href='https://blog.nginx.org/blog/native-support-for-acme-protocol' target='_blank' rel='noopener noreferrer'>Nginx introduces native support for ACME protocol</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 15:41 UTC</small><br><br>
+🔹 <a href='#' target='_blank' rel='noopener noreferrer'>VC-backed company just killed my EU trademark for a small OSS project</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 01:14 UTC</small><br><br>
 🔹 <a href='https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices' target='_blank' rel='noopener noreferrer'>NIST Finalizes 'Lightweight Cryptography' Standard to Protect Small Devices</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 20:43 UTC</small><br><br>
 🔹 <a href='https://xvw.lol/en/articles/why-ocaml.html' target='_blank' rel='noopener noreferrer'>OCaml as my primary language</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 18:05 UTC</small><br><br>
-🔹 <a href='#' target='_blank' rel='noopener noreferrer'>VC-backed company just killed my EU trademark for a small OSS project</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 01:14 UTC</small><br><br>
 🔹 <a href='https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b' target='_blank' rel='noopener noreferrer'>FFmpeg 8.0 adds Whisper support</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 10:19 UTC</small><br><br>
 🔹 <a href='https://www.washingtonpost.com/nation/2025/08/12/illinois-ai-therapy-ban/' target='_blank' rel='noopener noreferrer'>Illinois bans use of artificial intelligence for mental health therapy</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 20:11 UTC</small><br><br>
 🔹 <a href='https://www.servethehome.com/pcie-8-0-announced-by-the-pci-sig-will-double-throughput-again/' target='_blank' rel='noopener noreferrer'>PCIe 8.0 announced by the PCI-Sig will double throughput again</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 22:41 UTC</small><br><br>
 🔹 <a href='https://video.golpoai.com/' target='_blank' rel='noopener noreferrer'>Launch HN: Golpo (YC S25) – AI-generated explainer videos</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 17:11 UTC</small><br><br>
-🔹 <a href='https://words.filippo.io/csrf/' target='_blank' rel='noopener noreferrer'>Cross-Site Request Forgery</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 17:31 UTC</small><br><br>
+🔹 <a href='https://lostpixels.io/writings/the-difference-between-plotted-and-printed-artwork' target='_blank' rel='noopener noreferrer'>So what's the difference between plotted and printed artwork?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 13:06 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-13 21:47:18 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-13 22:11:28 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
