@@ -32,12 +32,12 @@
 🔹 <a href='https://andreyor.st/posts/2023-08-27-fennel-libraries-as-single-files/' target='_blank' rel='noopener noreferrer'>Fennel libraries as single files (2023)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 04:03 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>F-Droid build servers can't build modern Android apps due to outdated CPUs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 04:43 UTC</small><br><br>
 🔹 <a href='https://ashet.computer/' target='_blank' rel='noopener noreferrer'>Ashet Home Computer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 18:56 UTC</small><br><br>
+🔹 <a href='https://www.sheet0.com/' target='_blank' rel='noopener noreferrer'>Sheet0, a data agent transform webpages to structured spreadsheets</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 06:55 UTC</small><br><br>
 🔹 <a href='https://blog.wilsonl.in/search-engine/' target='_blank' rel='noopener noreferrer'>Show HN: Building a web search engine from scratch with 3B neural embeddings</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 16:02 UTC</small><br><br>
-🔹 <a href='https://arxiv.org/abs/2508.07407' target='_blank' rel='noopener noreferrer'>A Comprehensive Survey of Self-Evolving AI Agents [pdf]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 02:26 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-13 07:49:39 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-13 08:15:49 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
