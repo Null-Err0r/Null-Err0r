@@ -25,19 +25,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://www.anthropic.com/news/1m-context' target='_blank' rel='noopener noreferrer'>Claude Sonnet 4 now supports 1M tokens of context</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 16:02 UTC</small><br><br>
+🔹 <a href='https://www.alltext.nyc/' target='_blank' rel='noopener noreferrer'>Search all text in New York City</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 00:17 UTC</small><br><br>
 🔹 <a href='https://ashet.computer/' target='_blank' rel='noopener noreferrer'>Ashet Home Computer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 18:56 UTC</small><br><br>
-🔹 <a href='https://deanebarker.net/tech/blog/let-me-know/' target='_blank' rel='noopener noreferrer'>The Missing Protocol: Let Me Know</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 20:15 UTC</small><br><br>
+🔹 <a href='https://asteriskmag.com/issues/11/scapegoating-the-algorithm' target='_blank' rel='noopener noreferrer'>Scapegoating the Algorithm</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 23:44 UTC</small><br><br>
 🔹 <a href='https://tangled.sh/@oppi.li/journal' target='_blank' rel='noopener noreferrer'>Journaling using Nix, Vim and coreutils</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 14:04 UTC</small><br><br>
 🔹 <a href='https://blog.wilsonl.in/search-engine/' target='_blank' rel='noopener noreferrer'>Show HN: Building a web search engine from scratch with 3B neural embeddings</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 16:02 UTC</small><br><br>
-🔹 <a href='https://github.com/omnara-ai/omnara' target='_blank' rel='noopener noreferrer'>Show HN: Omnara – Run Claude Code from anywhere</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 16:33 UTC</small><br><br>
-🔹 <a href='https://arxiv.org/abs/2507.21919' target='_blank' rel='noopener noreferrer'>Training language models to be warm and empathetic makes them less reliable</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 13:32 UTC</small><br><br>
-🔹 <a href='https://www.sdo.group/study' target='_blank' rel='noopener noreferrer'>Multimodal WFH setup: flight SIM, EE lab, and music studio in 60sqft/5.5M²</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 11:48 UTC</small><br><br>
 🔹 <a href='https://webkit.org/blog/17240/a-gentle-introduction-to-anchor-positioning/' target='_blank' rel='noopener noreferrer'>A gentle introduction to anchor positioning</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 22:18 UTC</small><br><br>
-🔹 <a href='https://www.thurrott.com/music-videos/324346/blender-is-native-on-windows-11-on-arm' target='_blank' rel='noopener noreferrer'>Blender is Native on Windows 11 on Arm</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 02:26 UTC</small><br><br>
+🔹 <a href='https://arxiv.org/abs/2507.21919' target='_blank' rel='noopener noreferrer'>Training language models to be warm and empathetic makes them less reliable</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 13:32 UTC</small><br><br>
+🔹 <a href='https://github.com/omnara-ai/omnara' target='_blank' rel='noopener noreferrer'>Show HN: Omnara – Run Claude Code from anywhere</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 16:33 UTC</small><br><br>
+🔹 <a href='https://www.sdo.group/study' target='_blank' rel='noopener noreferrer'>Multimodal WFH setup: flight SIM, EE lab, and music studio in 60sqft/5.5M²</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 11:48 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-12 23:47:24 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-13 00:55:55 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
