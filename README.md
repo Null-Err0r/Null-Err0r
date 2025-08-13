@@ -25,19 +25,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://www.anthropic.com/news/1m-context' target='_blank' rel='noopener noreferrer'>Claude Sonnet 4 now supports 1M tokens of context</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 16:02 UTC</small><br><br>
-🔹 <a href='https://www.blocked.org.uk/osa-blocks' target='_blank' rel='noopener noreferrer'>Online Safety Act – shutdowns and site blocks</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 06:40 UTC</small><br><br>
 🔹 <a href='https://www.alltext.nyc/' target='_blank' rel='noopener noreferrer'>Search all text in New York City</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 00:17 UTC</small><br><br>
 🔹 <a href='https://data.iana.org/time-zones/tzdb-2025a/factory' target='_blank' rel='noopener noreferrer'>The Factory Timezone</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 08:03 UTC</small><br><br>
-🔹 <a href='https://historyofinformation.com/detail.php?entryid=856' target='_blank' rel='noopener noreferrer'>1948: Catholic Church publishes final edition of “Index Librorum Prohibitorum”</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 03:26 UTC</small><br><br>
+🔹 <a href='https://www.blocked.org.uk/osa-blocks' target='_blank' rel='noopener noreferrer'>Online Safety Act – shutdowns and site blocks</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 06:40 UTC</small><br><br>
 🔹 <a href='https://graphite.rs/libraries/bezier-rs/' target='_blank' rel='noopener noreferrer'>Bezier-rs – algorithms for Bézier segments and shapes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 14:33 UTC</small><br><br>
-🔹 <a href='https://andreyor.st/posts/2023-08-27-fennel-libraries-as-single-files/' target='_blank' rel='noopener noreferrer'>Fennel libraries as single files (2023)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 04:03 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>F-Droid build servers can't build modern Android apps due to outdated CPUs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 04:43 UTC</small><br><br>
+🔹 <a href='https://andreyor.st/posts/2023-08-27-fennel-libraries-as-single-files/' target='_blank' rel='noopener noreferrer'>Fennel libraries as single files (2023)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 04:03 UTC</small><br><br>
 🔹 <a href='https://ashet.computer/' target='_blank' rel='noopener noreferrer'>Ashet Home Computer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 18:56 UTC</small><br><br>
 🔹 <a href='https://www.sheet0.com/' target='_blank' rel='noopener noreferrer'>Sheet0, a data agent transform webpages to structured spreadsheets</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 06:55 UTC</small><br><br>
+🔹 <a href='https://blog.wilsonl.in/search-engine/' target='_blank' rel='noopener noreferrer'>Show HN: Building a web search engine from scratch with 3B neural embeddings</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 16:02 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-13 08:47:53 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-13 09:14:07 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
