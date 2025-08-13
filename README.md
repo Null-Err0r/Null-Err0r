@@ -30,14 +30,14 @@
 🔹 <a href='https://themarkup.org/privacy/2025/08/12/we-caught-companies-making-it-harder-to-delete-your-data' target='_blank' rel='noopener noreferrer'>We caught companies making it harder to delete your personal data online</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 13:50 UTC</small><br><br>
 🔹 <a href='https://pub.aimind.so/doubleagents-fine-tuning-llms-for-covert-malicious-tool-calls-b8ff00bf513e' target='_blank' rel='noopener noreferrer'>DoubleAgents: Fine-Tuning LLMs for Covert Malicious Tool Calls</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 13:31 UTC</small><br><br>
 🔹 <a href='https://ingram.tech/posts/evaluating-gpt5-reasoning-ability' target='_blank' rel='noopener noreferrer'>Evaluating GPT5's reasoning ability using the Only Connect game show</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 13:52 UTC</small><br><br>
-🔹 <a href='https://www.independent.co.uk/news/world/americas/artificial-intelligence-replacing-jobs-report-b2800709.html' target='_blank' rel='noopener noreferrer'>AI is already replacing thousands of jobs per month, report finds</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 14:44 UTC</small><br><br>
 🔹 <a href='https://github.com/anthropics/claude-code/issues/3382' target='_blank' rel='noopener noreferrer'>Claude says “You're absolutely right!” about everything</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 06:59 UTC</small><br><br>
-🔹 <a href='https://www.nbcnews.com/video/farmers-want-california-to-change-its-autonomous-tractor-ban-244658757726' target='_blank' rel='noopener noreferrer'>Farmers want California to change its autonomous tractor ban</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 13:43 UTC</small><br><br>
-🔹 <a href='https://jackpoulson.substack.com/p/when-counterculture-and-empire-merge' target='_blank' rel='noopener noreferrer'>When DEF CON partners with the U.S. Army</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 13:33 UTC</small><br><br>
+🔹 <a href='https://www.asawicki.info/news_1741_myths_about_floating-point_numbers' target='_blank' rel='noopener noreferrer'>Myths About Floating-Point Numbers (2021)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 20:22 UTC</small><br><br>
+🔹 <a href='https://www.alltext.nyc/' target='_blank' rel='noopener noreferrer'>Search all text in New York City</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 00:17 UTC</small><br><br>
+🔹 <a href='https://www.reuters.com/sustainability/climate-energy/geneva-makes-public-transport-temporarily-free-combat-pollution-spike-2025-08-13/' target='_blank' rel='noopener noreferrer'>Geneva makes public transport temporarily free to combat pollution spike</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 13:05 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-13 15:10:09 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-13 15:29:44 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
