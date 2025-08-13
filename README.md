@@ -26,18 +26,18 @@
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b' target='_blank' rel='noopener noreferrer'>FFmpeg 8.0 adds Whisper support</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 10:19 UTC</small><br><br>
 🔹 <a href='https://lostpixels.io/writings/the-difference-between-plotted-and-printed-artwork' target='_blank' rel='noopener noreferrer'>So what's the difference between plotted and printed artwork?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 13:06 UTC</small><br><br>
-🔹 <a href='https://www.charlespetzold.com/blog/2025/05/Mary-Queen-of-Scots-Channel-Anamorphosis-A-3D-Simulation.html' target='_blank' rel='noopener noreferrer'>The Mary Queen of Scots Channel Anamorphosis: A 3D Simulation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 13:26 UTC</small><br><br>
-🔹 <a href='https://themarkup.org/privacy/2025/08/12/we-caught-companies-making-it-harder-to-delete-your-data' target='_blank' rel='noopener noreferrer'>We caught companies making it harder to delete your personal data online</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 13:50 UTC</small><br><br>
-🔹 <a href='https://pub.aimind.so/doubleagents-fine-tuning-llms-for-covert-malicious-tool-calls-b8ff00bf513e' target='_blank' rel='noopener noreferrer'>DoubleAgents: Fine-Tuning LLMs for Covert Malicious Tool Calls</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 13:31 UTC</small><br><br>
 🔹 <a href='https://localghost.dev/blog/this-website-is-for-humans/' target='_blank' rel='noopener noreferrer'>Website Is for Humans</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 15:19 UTC</small><br><br>
+🔹 <a href='https://www.openindiana.org/' target='_blank' rel='noopener noreferrer'>OpenIndiana: Community-Driven Illumos Distribution</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 15:23 UTC</small><br><br>
+🔹 <a href='https://www.charlespetzold.com/blog/2025/05/Mary-Queen-of-Scots-Channel-Anamorphosis-A-3D-Simulation.html' target='_blank' rel='noopener noreferrer'>The Mary Queen of Scots Channel Anamorphosis: A 3D Simulation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 13:26 UTC</small><br><br>
+🔹 <a href='https://pub.aimind.so/doubleagents-fine-tuning-llms-for-covert-malicious-tool-calls-b8ff00bf513e' target='_blank' rel='noopener noreferrer'>DoubleAgents: Fine-Tuning LLMs for Covert Malicious Tool Calls</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 13:31 UTC</small><br><br>
+🔹 <a href='https://themarkup.org/privacy/2025/08/12/we-caught-companies-making-it-harder-to-delete-your-data' target='_blank' rel='noopener noreferrer'>We caught companies making it harder to delete your personal data online</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 13:50 UTC</small><br><br>
 🔹 <a href='https://stackbench.ai/' target='_blank' rel='noopener noreferrer'>How Well Do Coding Agents Use Your Library?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 14:23 UTC</small><br><br>
 🔹 <a href='https://github.com/anthropics/claude-code/issues/3382' target='_blank' rel='noopener noreferrer'>Claude says “You're absolutely right!” about everything</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 06:59 UTC</small><br><br>
-🔹 <a href='https://www.asawicki.info/news_1741_myths_about_floating-point_numbers' target='_blank' rel='noopener noreferrer'>Myths About Floating-Point Numbers (2021)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 20:22 UTC</small><br><br>
-🔹 <a href='https://www.alltext.nyc/' target='_blank' rel='noopener noreferrer'>Search all text in New York City</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 00:17 UTC</small><br><br>
+🔹 <a href='https://www.afar.com/magazine/in-tokyo-japan-country-music-finds-an-audience' target='_blank' rel='noopener noreferrer'>Honky-Tonk Tokyo (2020)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 19:20 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-13 15:39:36 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-13 15:47:07 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
