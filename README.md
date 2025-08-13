@@ -26,18 +26,18 @@
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b' target='_blank' rel='noopener noreferrer'>FFmpeg 8.0 adds Whisper support</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 10:19 UTC</small><br><br>
 🔹 <a href='https://www.anthropic.com/news/1m-context' target='_blank' rel='noopener noreferrer'>Claude Sonnet 4 now supports 1M tokens of context</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 16:02 UTC</small><br><br>
+🔹 <a href='https://astrobites.org/2025/08/12/starlink-ska-low/' target='_blank' rel='noopener noreferrer'>Nearly 1 in 3 Starlink satellites detected within the SKA-Low frequency band</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 08:12 UTC</small><br><br>
 🔹 <a href='https://data.iana.org/time-zones/tzdb-2025a/factory' target='_blank' rel='noopener noreferrer'>The Factory Timezone</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 08:03 UTC</small><br><br>
 🔹 <a href='https://www.alltext.nyc/' target='_blank' rel='noopener noreferrer'>Search all text in New York City</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 00:17 UTC</small><br><br>
-🔹 <a href='https://astrobites.org/2025/08/12/starlink-ska-low/' target='_blank' rel='noopener noreferrer'>Nearly 1 in 3 Starlink satellites detected within the SKA-Low frequency band</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 08:12 UTC</small><br><br>
-🔹 <a href='https://en.wikipedia.org/wiki/L%C3%B6rdagsgodis' target='_blank' rel='noopener noreferrer'>Lördagsgodis (Saturday Sweets)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 22:18 UTC</small><br><br>
-🔹 <a href='https://graphite.rs/libraries/bezier-rs/' target='_blank' rel='noopener noreferrer'>Bezier-rs – algorithms for Bézier segments and shapes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 14:33 UTC</small><br><br>
 🔹 <a href='https://fingerjigger.com/play' target='_blank' rel='noopener noreferrer'>Fingerjigger</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 16:36 UTC</small><br><br>
-🔹 <a href='https://blog.wilsonl.in/search-engine/' target='_blank' rel='noopener noreferrer'>Show HN: Building a web search engine from scratch with 3B neural embeddings</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 16:02 UTC</small><br><br>
+🔹 <a href='https://graphite.rs/libraries/bezier-rs/' target='_blank' rel='noopener noreferrer'>Bezier-rs – algorithms for Bézier segments and shapes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 14:33 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>F-Droid build servers can't build modern Android apps due to outdated CPUs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 04:43 UTC</small><br><br>
+🔹 <a href='https://blog.wilsonl.in/search-engine/' target='_blank' rel='noopener noreferrer'>Show HN: Building a web search engine from scratch with 3B neural embeddings</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 16:02 UTC</small><br><br>
+🔹 <a href='https://ashet.computer/' target='_blank' rel='noopener noreferrer'>Ashet Home Computer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 18:56 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-13 11:10:09 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-13 11:29:23 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
