@@ -32,12 +32,12 @@
 🔹 <a href='https://en.wikipedia.org/wiki/L%C3%B6rdagsgodis' target='_blank' rel='noopener noreferrer'>Lördagsgodis (Saturday Sweets)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 22:18 UTC</small><br><br>
 🔹 <a href='https://graphite.rs/libraries/bezier-rs/' target='_blank' rel='noopener noreferrer'>Bezier-rs – algorithms for Bézier segments and shapes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 14:33 UTC</small><br><br>
 🔹 <a href='https://fingerjigger.com/play' target='_blank' rel='noopener noreferrer'>Fingerjigger</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 16:36 UTC</small><br><br>
-🔹 <a href='#' target='_blank' rel='noopener noreferrer'>F-Droid build servers can't build modern Android apps due to outdated CPUs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 04:43 UTC</small><br><br>
 🔹 <a href='https://blog.wilsonl.in/search-engine/' target='_blank' rel='noopener noreferrer'>Show HN: Building a web search engine from scratch with 3B neural embeddings</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 16:02 UTC</small><br><br>
+🔹 <a href='#' target='_blank' rel='noopener noreferrer'>F-Droid build servers can't build modern Android apps due to outdated CPUs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 04:43 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-13 10:52:56 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-13 11:10:09 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
