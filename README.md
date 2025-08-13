@@ -29,15 +29,15 @@
 🔹 <a href='https://www.charlespetzold.com/blog/2025/05/Mary-Queen-of-Scots-Channel-Anamorphosis-A-3D-Simulation.html' target='_blank' rel='noopener noreferrer'>The Mary Queen of Scots Channel Anamorphosis: A 3D Simulation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 13:26 UTC</small><br><br>
 🔹 <a href='https://themarkup.org/privacy/2025/08/12/we-caught-companies-making-it-harder-to-delete-your-data' target='_blank' rel='noopener noreferrer'>We caught companies making it harder to delete your personal data online</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 13:50 UTC</small><br><br>
 🔹 <a href='https://pub.aimind.so/doubleagents-fine-tuning-llms-for-covert-malicious-tool-calls-b8ff00bf513e' target='_blank' rel='noopener noreferrer'>DoubleAgents: Fine-Tuning LLMs for Covert Malicious Tool Calls</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 13:31 UTC</small><br><br>
-🔹 <a href='https://ingram.tech/posts/evaluating-gpt5-reasoning-ability' target='_blank' rel='noopener noreferrer'>Evaluating GPT5's reasoning ability using the Only Connect game show</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 13:52 UTC</small><br><br>
+🔹 <a href='https://localghost.dev/blog/this-website-is-for-humans/' target='_blank' rel='noopener noreferrer'>Website Is for Humans</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 15:19 UTC</small><br><br>
+🔹 <a href='https://stackbench.ai/' target='_blank' rel='noopener noreferrer'>How Well Do Coding Agents Use Your Library?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 14:23 UTC</small><br><br>
 🔹 <a href='https://github.com/anthropics/claude-code/issues/3382' target='_blank' rel='noopener noreferrer'>Claude says “You're absolutely right!” about everything</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 06:59 UTC</small><br><br>
 🔹 <a href='https://www.asawicki.info/news_1741_myths_about_floating-point_numbers' target='_blank' rel='noopener noreferrer'>Myths About Floating-Point Numbers (2021)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 20:22 UTC</small><br><br>
 🔹 <a href='https://www.alltext.nyc/' target='_blank' rel='noopener noreferrer'>Search all text in New York City</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 00:17 UTC</small><br><br>
-🔹 <a href='https://www.reuters.com/sustainability/climate-energy/geneva-makes-public-transport-temporarily-free-combat-pollution-spike-2025-08-13/' target='_blank' rel='noopener noreferrer'>Geneva makes public transport temporarily free to combat pollution spike</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 13:05 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-13 15:29:44 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-13 15:39:36 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
