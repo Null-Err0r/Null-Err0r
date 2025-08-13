@@ -30,14 +30,14 @@
 🔹 <a href='https://lostpixels.io/writings/the-difference-between-plotted-and-printed-artwork' target='_blank' rel='noopener noreferrer'>So what's the difference between plotted and printed artwork?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 13:06 UTC</small><br><br>
 🔹 <a href='https://pub.aimind.so/doubleagents-fine-tuning-llms-for-covert-malicious-tool-calls-b8ff00bf513e' target='_blank' rel='noopener noreferrer'>DoubleAgents: Fine-Tuning LLMs for Covert Malicious Tool Calls</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 13:31 UTC</small><br><br>
 🔹 <a href='https://ingram.tech/posts/evaluating-gpt5-reasoning-ability' target='_blank' rel='noopener noreferrer'>Evaluating GPT5's reasoning ability using the Only Connect game show</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 13:52 UTC</small><br><br>
-🔹 <a href='https://github.com/anthropics/claude-code/issues/3382' target='_blank' rel='noopener noreferrer'>Claude says “You're absolutely right!” about everything</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 06:59 UTC</small><br><br>
-🔹 <a href='https://guust.ysebie.be/blog/supporting-apache-xml-security-algorithms.html' target='_blank' rel='noopener noreferrer'>Supporting org.apache.xml.security in graalVM</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 13:03 UTC</small><br><br>
-🔹 <a href='https://www.alltext.nyc/' target='_blank' rel='noopener noreferrer'>Search all text in New York City</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 00:17 UTC</small><br><br>
+🔹 <a href='https://themarkup.org/privacy/2025/08/12/we-caught-companies-making-it-harder-to-delete-your-data' target='_blank' rel='noopener noreferrer'>We caught companies making it harder to delete your personal data online</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 13:50 UTC</small><br><br>
 🔹 <a href='https://www.nbcnews.com/video/farmers-want-california-to-change-its-autonomous-tractor-ban-244658757726' target='_blank' rel='noopener noreferrer'>Farmers want California to change its autonomous tractor ban</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 13:43 UTC</small><br><br>
+🔹 <a href='https://github.com/anthropics/claude-code/issues/3382' target='_blank' rel='noopener noreferrer'>Claude says “You're absolutely right!” about everything</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 06:59 UTC</small><br><br>
+🔹 <a href='https://www.alltext.nyc/' target='_blank' rel='noopener noreferrer'>Search all text in New York City</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 00:17 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-13 14:12:38 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-13 14:36:40 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
