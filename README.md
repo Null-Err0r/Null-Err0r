@@ -27,17 +27,17 @@
 🔹 <a href='https://developers.googleblog.com/en/introducing-gemma-3-270m/' target='_blank' rel='noopener noreferrer'>Gemma 3 270M: Compact model for hyper-efficient AI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 16:08 UTC</small><br><br>
 🔹 <a href='https://media.ccc.de/v/why2025-218-how-to-rig-elections' target='_blank' rel='noopener noreferrer'>How to rig elections [video]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 12:04 UTC</small><br><br>
 🔹 <a href='https://github.com/tanrax/org-social' target='_blank' rel='noopener noreferrer'>Org-social is a decentralized social network that runs on Org Mode</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 15:00 UTC</small><br><br>
-🔹 <a href='https://yro.slashdot.org/comments.pl?sid=23765914&cid=65583466' target='_blank' rel='noopener noreferrer'>Steve Wozniak: Life to me was never about accomplishment, but about Happiness</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 18:19 UTC</small><br><br>
-🔹 <a href='https://www.apple.com/newsroom/2025/08/an-update-on-blood-oxygen-for-apple-watch-in-the-us/' target='_blank' rel='noopener noreferrer'>Blood oxygen monitoring returning to Apple Watch in the US</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 13:14 UTC</small><br><br>
+🔹 <a href='https://brodzinski.com/2025/08/ai-hustle-culture.html' target='_blank' rel='noopener noreferrer'>Fundamental Flaw of Hustle Culture</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 19:36 UTC</small><br><br>
+🔹 <a href='https://yro.slashdot.org/comments.pl?sid=23765914&cid=65583466' target='_blank' rel='noopener noreferrer'>Steve Wozniak: Life to me was never about accomplishment, but about happiness</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 18:19 UTC</small><br><br>
+🔹 <a href='https://www.theguardian.com/film/2025/aug/14/cant-pay-wont-pay-impoverished-streaming-services-are-driving-viewers-back-to-piracy' target='_blank' rel='noopener noreferrer'>Streaming services are driving viewers back to piracy</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 16:56 UTC</small><br><br>
 🔹 <a href='https://www.medschool.umaryland.edu/news/2025/new-protein-therapy-shows-promise-as-first-ever-antidote-for-carbon-monoxide-poisoning.html' target='_blank' rel='noopener noreferrer'>New protein therapy shows promise as antidote for carbon monoxide poisoning</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 11:56 UTC</small><br><br>
+🔹 <a href='https://danielchasehooper.com/posts/syscall-build-snooping/' target='_blank' rel='noopener noreferrer'>I made a real-time C/C++/Rust build visualizer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 16:06 UTC</small><br><br>
 🔹 <a href='https://www.youtube.com/watch?v=sSpULGNHyoI' target='_blank' rel='noopener noreferrer'>Architecting large software projects [video]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 08:05 UTC</small><br><br>
-🔹 <a href='https://danielchasehooper.com/posts/syscall-build-snooping/' target='_blank' rel='noopener noreferrer'>I Made a Realtime C/C++ Build Visualizer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 16:06 UTC</small><br><br>
-🔹 <a href='https://www.seangoedecke.com/model-on-a-mbp/' target='_blank' rel='noopener noreferrer'>What's the strongest AI model you can train on a laptop in five minutes?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 13:15 UTC</small><br><br>
-🔹 <a href='https://resobscura.substack.com/p/all-souls-exam-questions-and-the' target='_blank' rel='noopener noreferrer'>All Souls exam questions and the limits of machine reasoning</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 20:34 UTC</small><br><br>
+🔹 <a href='https://www.apple.com/newsroom/2025/08/an-update-on-blood-oxygen-for-apple-watch-in-the-us/' target='_blank' rel='noopener noreferrer'>Blood oxygen monitoring returning to Apple Watch in the US</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 13:14 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-14 20:13:07 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-14 20:33:58 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
