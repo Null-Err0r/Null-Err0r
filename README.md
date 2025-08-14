@@ -26,18 +26,18 @@
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://www.medschool.umaryland.edu/news/2025/new-protein-therapy-shows-promise-as-first-ever-antidote-for-carbon-monoxide-poisoning.html' target='_blank' rel='noopener noreferrer'>New protein therapy shows promise as antidote for carbon monoxide poisoning</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 11:56 UTC</small><br><br>
 🔹 <a href='https://www.seangoedecke.com/model-on-a-mbp/' target='_blank' rel='noopener noreferrer'>What's the strongest AI model you can train on a laptop in five minutes?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 13:15 UTC</small><br><br>
+🔹 <a href='https://allenai.org/blog/nsf-nvidia' target='_blank' rel='noopener noreferrer'>NSF and Nvidia award Ai2 $152M to support building an open AI ecosystem</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 13:08 UTC</small><br><br>
 🔹 <a href='https://lwn.net/SubscriberLink/1032604/73596e0c3ed1945a/' target='_blank' rel='noopener noreferrer'>Arch shares its wiki strategy with Debian</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 08:58 UTC</small><br><br>
 🔹 <a href='https://github.com/tanrax/org-social' target='_blank' rel='noopener noreferrer'>Org-social is a decentralized social network that runs on an Org Mode</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 10:55 UTC</small><br><br>
-🔹 <a href='https://www.bloomberg.com/news/articles/2025-08-14/us-producer-prices-rise-by-most-in-three-years-on-services' target='_blank' rel='noopener noreferrer'>US Wholesale Inflation Rises by Most in 3 Years</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 12:38 UTC</small><br><br>
-🔹 <a href='https://allenai.org/blog/nsf-nvidia' target='_blank' rel='noopener noreferrer'>NSF and Nvidia award Ai2 $152M to support building an open AI ecosystem</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 13:08 UTC</small><br><br>
 🔹 <a href='https://mashable.com/archive/soviet-hobbit' target='_blank' rel='noopener noreferrer'>Brilliant illustrations bring this 1976 Soviet edition of 'The Hobbit' to life (2015)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-10 22:54 UTC</small><br><br>
 🔹 <a href='https://dillonshook.com/passion-over-profits/' target='_blank' rel='noopener noreferrer'>Passion over Profits</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 13:22 UTC</small><br><br>
 🔹 <a href='https://bookriot.com/penguin-random-house-florida-lawsuit/' target='_blank' rel='noopener noreferrer'>"None of These Books Are Obscene": Judge Strikes Down Much of FL's Book Ban Bill</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 13:45 UTC</small><br><br>
-🔹 <a href='https://www.ycombinator.com/companies/mbodi-ai/jobs/ftTsxcl-founding-research-engineer' target='_blank' rel='noopener noreferrer'>Mbodi AI (YC X25) Is Hiring a Founding Research Engineer (Robotics)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 12:00 UTC</small><br><br>
+🔹 <a href='https://www.malwarebytes.com/blog/news/2025/08/meta-accessed-womens-health-data-from-flo-app-without-consent-says-court' target='_blank' rel='noopener noreferrer'>Meta accessed women's health data from Flo app without consent, says court</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 10:51 UTC</small><br><br>
+🔹 <a href='https://www.phoronix.com/news/Linux-ASI-Lower-Overhead' target='_blank' rel='noopener noreferrer'>Linux Address Space Isolation Revived After Lowering 70% Performance Hit to 13%</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 12:14 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-14 14:11:25 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-14 14:35:12 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
