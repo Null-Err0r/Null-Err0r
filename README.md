@@ -24,12 +24,12 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://www.zdnet.com/article/debian-13-arrives-with-major-updates-for-linux-users-whats-new-in-trixie/' target='_blank' rel='noopener noreferrer'>Debian 13 arrives with major updates for Linux users – what's new in 'Trixie'</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 20:37 UTC</small><br><br>
-🔹 <a href='https://astral.sh/blog/introducing-pyx' target='_blank' rel='noopener noreferrer'>PYX: The next step in Python packaging</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 18:42 UTC</small><br><br>
 🔹 <a href='https://blog.nginx.org/blog/native-support-for-acme-protocol' target='_blank' rel='noopener noreferrer'>Nginx introduces native support for ACME protocol</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 15:41 UTC</small><br><br>
-🔹 <a href='https://github.com/trvon/yams' target='_blank' rel='noopener noreferrer'>Show HN: Yet another memory system for LLMs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 03:34 UTC</small><br><br>
 🔹 <a href='https://zenobiapay.com/blog/open-source-payments' target='_blank' rel='noopener noreferrer'>Zenobia Pay – A mission to build an alternative to high-fee card networks</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 02:19 UTC</small><br><br>
+🔹 <a href='https://astral.sh/blog/introducing-pyx' target='_blank' rel='noopener noreferrer'>PYX: The next step in Python packaging</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 18:42 UTC</small><br><br>
+🔹 <a href='https://github.com/trvon/yams' target='_blank' rel='noopener noreferrer'>Show HN: Yet another memory system for LLMs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 03:34 UTC</small><br><br>
 🔹 <a href='https://dri.es/funding-open-source-like-public-infrastructure' target='_blank' rel='noopener noreferrer'>Funding Open Source like public infrastructure</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 03:24 UTC</small><br><br>
+🔹 <a href='https://www.zdnet.com/article/debian-13-arrives-with-major-updates-for-linux-users-whats-new-in-trixie/' target='_blank' rel='noopener noreferrer'>Debian 13 arrives with major updates for Linux users – what's new in 'Trixie'</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 20:37 UTC</small><br><br>
 🔹 <a href='https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b' target='_blank' rel='noopener noreferrer'>FFmpeg 8.0 adds Whisper support</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 10:19 UTC</small><br><br>
 🔹 <a href='https://learn.convo-lang.ai/' target='_blank' rel='noopener noreferrer'>Convo-Lang: LLM Programming Language and Runtime</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 05:40 UTC</small><br><br>
 🔹 <a href='https://forgefed.org' target='_blank' rel='noopener noreferrer'>ForgeFed: ActivityPub-based forge federation protocol</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 07:19 UTC</small><br><br>
@@ -37,7 +37,7 @@
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-14 08:16:13 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-14 08:47:57 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
