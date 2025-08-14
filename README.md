@@ -24,20 +24,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://www.medschool.umaryland.edu/news/2025/new-protein-therapy-shows-promise-as-first-ever-antidote-for-carbon-monoxide-poisoning.html' target='_blank' rel='noopener noreferrer'>New protein therapy shows promise as antidote for carbon monoxide poisoning</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 11:56 UTC</small><br><br>
-🔹 <a href='https://allenai.org/blog/nsf-nvidia' target='_blank' rel='noopener noreferrer'>NSF and Nvidia award Ai2 $152M to support building an open AI ecosystem</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 13:08 UTC</small><br><br>
-🔹 <a href='https://zed.dev/blog/why-llms-cant-build-software' target='_blank' rel='noopener noreferrer'>Why LLMs Can't Build Software</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 13:26 UTC</small><br><br>
 🔹 <a href='https://www.kodak.com/en/company/blog-post/statement-regarding-misleading-media-reports/' target='_blank' rel='noopener noreferrer'>Statement Regarding Misleading Media Reports</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 15:09 UTC</small><br><br>
-🔹 <a href='https://www.seangoedecke.com/model-on-a-mbp/' target='_blank' rel='noopener noreferrer'>What's the strongest AI model you can train on a laptop in five minutes?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 13:15 UTC</small><br><br>
+🔹 <a href='https://www.medschool.umaryland.edu/news/2025/new-protein-therapy-shows-promise-as-first-ever-antidote-for-carbon-monoxide-poisoning.html' target='_blank' rel='noopener noreferrer'>New protein therapy shows promise as antidote for carbon monoxide poisoning</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 11:56 UTC</small><br><br>
+🔹 <a href='https://zed.dev/blog/why-llms-cant-build-software' target='_blank' rel='noopener noreferrer'>Why LLMs Can't Build Software</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 13:26 UTC</small><br><br>
+🔹 <a href='https://allenai.org/blog/nsf-nvidia' target='_blank' rel='noopener noreferrer'>NSF and Nvidia award Ai2 $152M to support building an open AI ecosystem</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 13:08 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Cyberdesk (YC S25) – Automate Windows legacy desktop apps</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 15:24 UTC</small><br><br>
-🔹 <a href='https://lwn.net/SubscriberLink/1032604/73596e0c3ed1945a/' target='_blank' rel='noopener noreferrer'>Arch shares its wiki strategy with Debian</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 08:58 UTC</small><br><br>
+🔹 <a href='https://www.seangoedecke.com/model-on-a-mbp/' target='_blank' rel='noopener noreferrer'>What's the strongest AI model you can train on a laptop in five minutes?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 13:15 UTC</small><br><br>
 🔹 <a href='https://www.seangoedecke.com/real-reasoning/' target='_blank' rel='noopener noreferrer'>Is chain-of-thought AI reasoning a mirage?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 13:48 UTC</small><br><br>
+🔹 <a href='https://lwn.net/SubscriberLink/1032604/73596e0c3ed1945a/' target='_blank' rel='noopener noreferrer'>Arch shares its wiki strategy with Debian</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 08:58 UTC</small><br><br>
 🔹 <a href='https://radicle.xyz/2025/08/14/jujutsu-with-radicle' target='_blank' rel='noopener noreferrer'>Jujutsu and Radicle</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 13:58 UTC</small><br><br>
 🔹 <a href='https://github.com/tanrax/org-social' target='_blank' rel='noopener noreferrer'>Org-social is a decentralized social network that runs on an Org Mode</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 10:55 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-14 15:34:06 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-14 15:51:36 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
