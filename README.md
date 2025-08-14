@@ -26,18 +26,18 @@
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://astral.sh/pyx' target='_blank' rel='noopener noreferrer'>PYX: The next step in Python packaging</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 18:42 UTC</small><br><br>
 🔹 <a href='https://blog.nginx.org/blog/native-support-for-acme-protocol' target='_blank' rel='noopener noreferrer'>Nginx introduces native support for ACME protocol</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 15:41 UTC</small><br><br>
-🔹 <a href='#' target='_blank' rel='noopener noreferrer'>VC-backed company just killed my EU trademark for a small OSS project</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 01:14 UTC</small><br><br>
 🔹 <a href='https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices' target='_blank' rel='noopener noreferrer'>NIST Finalizes 'Lightweight Cryptography' Standard to Protect Small Devices</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 20:43 UTC</small><br><br>
-🔹 <a href='https://xvw.lol/en/articles/why-ocaml.html' target='_blank' rel='noopener noreferrer'>OCaml as my primary language</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 18:05 UTC</small><br><br>
 🔹 <a href='https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b' target='_blank' rel='noopener noreferrer'>FFmpeg 8.0 adds Whisper support</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 10:19 UTC</small><br><br>
-🔹 <a href='https://www.washingtonpost.com/nation/2025/08/12/illinois-ai-therapy-ban/' target='_blank' rel='noopener noreferrer'>Illinois bans use of artificial intelligence for mental health therapy</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 20:11 UTC</small><br><br>
-🔹 <a href='https://www.servethehome.com/pcie-8-0-announced-by-the-pci-sig-will-double-throughput-again/' target='_blank' rel='noopener noreferrer'>PCIe 8.0 announced by the PCI-Sig will double throughput again</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-09 22:41 UTC</small><br><br>
-🔹 <a href='https://lostpixels.io/writings/the-difference-between-plotted-and-printed-artwork' target='_blank' rel='noopener noreferrer'>So what's the difference between plotted and printed artwork?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 13:06 UTC</small><br><br>
-🔹 <a href='https://video.golpoai.com/' target='_blank' rel='noopener noreferrer'>Launch HN: Golpo (YC S25) – AI-generated explainer videos</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 17:11 UTC</small><br><br>
+🔹 <a href='#' target='_blank' rel='noopener noreferrer'>VC-backed company just killed my EU trademark for a small OSS project</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 01:14 UTC</small><br><br>
+🔹 <a href='https://xvw.lol/en/articles/why-ocaml.html' target='_blank' rel='noopener noreferrer'>OCaml as my primary language</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 18:05 UTC</small><br><br>
+🔹 <a href='https://forgefed.org' target='_blank' rel='noopener noreferrer'>ForgeFed: ActivityPub-based forge federation protocol</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 07:19 UTC</small><br><br>
+🔹 <a href='https://github.com/PrivacyIsAllYouNeed/protector' target='_blank' rel='noopener noreferrer'>Show HN: Real-time privacy protection for smart glasses</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-11 19:40 UTC</small><br><br>
+🔹 <a href='https://www.bitsaboutmoney.com/archive/open-banking-and-payments-competition/' target='_blank' rel='noopener noreferrer'>Open Banking and Payments Competition</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 23:44 UTC</small><br><br>
+🔹 <a href='https://www.cnn.com/2025/08/12/business/kodak-survival-warning' target='_blank' rel='noopener noreferrer'>Kodak says it might have to cease operations</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 12:15 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-14 00:56:06 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-14 02:46:18 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
