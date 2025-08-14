@@ -26,18 +26,18 @@
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://developers.googleblog.com/en/introducing-gemma-3-270m/' target='_blank' rel='noopener noreferrer'>Gemma 3 270M: Compact model for hyper-efficient AI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 16:08 UTC</small><br><br>
 🔹 <a href='https://www.apple.com/newsroom/2025/08/an-update-on-blood-oxygen-for-apple-watch-in-the-us/' target='_blank' rel='noopener noreferrer'>Blood oxygen monitoring returning to Apple Watch in the US</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 13:14 UTC</small><br><br>
-🔹 <a href='https://bsky.social/about/blog/08-14-2025-updated-terms-and-policies' target='_blank' rel='noopener noreferrer'>Bluesky: Updated Terms and Policies</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 16:54 UTC</small><br><br>
 🔹 <a href='https://www.medschool.umaryland.edu/news/2025/new-protein-therapy-shows-promise-as-first-ever-antidote-for-carbon-monoxide-poisoning.html' target='_blank' rel='noopener noreferrer'>New protein therapy shows promise as antidote for carbon monoxide poisoning</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 11:56 UTC</small><br><br>
-🔹 <a href='https://www.kodak.com/en/company/blog-post/statement-regarding-misleading-media-reports/' target='_blank' rel='noopener noreferrer'>Kodak has no plans to cease, go out of business, or file for bankruptcy</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 15:09 UTC</small><br><br>
 🔹 <a href='https://www.seangoedecke.com/model-on-a-mbp/' target='_blank' rel='noopener noreferrer'>What's the strongest AI model you can train on a laptop in five minutes?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 13:15 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Cyberdesk (YC S25) – Automate Windows legacy desktop apps</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 15:24 UTC</small><br><br>
-🔹 <a href='https://lwn.net/SubscriberLink/1032604/73596e0c3ed1945a/' target='_blank' rel='noopener noreferrer'>Arch shares its wiki strategy with Debian</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 08:58 UTC</small><br><br>
-🔹 <a href='https://www.ycombinator.com/companies/axle/jobs/8wAy0QH-product-engineer' target='_blank' rel='noopener noreferrer'>Axle (YC S22) Is Hiring Product Engineers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 17:00 UTC</small><br><br>
 🔹 <a href='https://radicle.xyz/2025/08/14/jujutsu-with-radicle' target='_blank' rel='noopener noreferrer'>Jujutsu and Radicle</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 13:58 UTC</small><br><br>
+🔹 <a href='https://www.youtube.com/watch?v=sSpULGNHyoI' target='_blank' rel='noopener noreferrer'>Architecting large software projects [video]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 08:05 UTC</small><br><br>
+🔹 <a href='https://danielchasehooper.com/posts/syscall-build-snooping/' target='_blank' rel='noopener noreferrer'>I Made a Realtime C/C++ Build Visualizer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 16:06 UTC</small><br><br>
+🔹 <a href='https://github.com/embedpdf/embed-pdf-viewer' target='_blank' rel='noopener noreferrer'>Show HN: I built a free alternative to Adobe Acrobat PDF viewer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 15:34 UTC</small><br><br>
+🔹 <a href='https://www.ycombinator.com/companies/axle/jobs/8wAy0QH-product-engineer' target='_blank' rel='noopener noreferrer'>Axle (YC S22) is hiring product engineers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 17:00 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-14 18:16:17 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-14 18:50:01 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
