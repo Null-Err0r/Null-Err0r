@@ -26,18 +26,18 @@
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/' target='_blank' rel='noopener noreferrer'>Blurry rendering of games on Mac</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 22:11 UTC</small><br><br>
 🔹 <a href='https://mitchellh.com/writing/ghostty-gtk-rewrite' target='_blank' rel='noopener noreferrer'>We rewrote the Ghostty GTK application</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 21:19 UTC</small><br><br>
-🔹 <a href='https://developers.googleblog.com/en/introducing-gemma-3-270m/' target='_blank' rel='noopener noreferrer'>Gemma 3 270M: Compact model for hyper-efficient AI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 16:08 UTC</small><br><br>
 🔹 <a href='https://www.theguardian.com/film/2025/aug/14/cant-pay-wont-pay-impoverished-streaming-services-are-driving-viewers-back-to-piracy' target='_blank' rel='noopener noreferrer'>Streaming services are driving viewers back to piracy</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 16:56 UTC</small><br><br>
+🔹 <a href='https://developers.googleblog.com/en/introducing-gemma-3-270m/' target='_blank' rel='noopener noreferrer'>Gemma 3 270M: Compact model for hyper-efficient AI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 16:08 UTC</small><br><br>
 🔹 <a href='https://yro.slashdot.org/comments.pl?sid=23765914&cid=65583466' target='_blank' rel='noopener noreferrer'>Steve Wozniak: Life to me was never about accomplishment, but about happiness</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 18:19 UTC</small><br><br>
 🔹 <a href='https://danielchasehooper.com/posts/syscall-build-snooping/' target='_blank' rel='noopener noreferrer'>I made a real-time C/C++/Rust build visualizer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 16:06 UTC</small><br><br>
-🔹 <a href='https://www.coolandcollected.com/airbrush-art-of-the-80s-was-chrome-tastic/' target='_blank' rel='noopener noreferrer'>Airbrush art of the 80s was Chrome-tastic (2015)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 19:53 UTC</small><br><br>
-🔹 <a href='https://arxiv.org/abs/2508.09157' target='_blank' rel='noopener noreferrer'>Time travel is self-suppressing</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 21:17 UTC</small><br><br>
 🔹 <a href='https://github.com/tanrax/org-social' target='_blank' rel='noopener noreferrer'>Org-social is a decentralized social network that runs on Org Mode</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 15:00 UTC</small><br><br>
 🔹 <a href='https://docs.hyprnote.com/owhisper/what-is-this' target='_blank' rel='noopener noreferrer'>Show HN: OWhisper – Ollama for realtime speech-to-text</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 15:47 UTC</small><br><br>
+🔹 <a href='https://www.coolandcollected.com/airbrush-art-of-the-80s-was-chrome-tastic/' target='_blank' rel='noopener noreferrer'>Airbrush art of the 80s was Chrome-tastic (2015)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 19:53 UTC</small><br><br>
+🔹 <a href='https://www.seangoedecke.com/model-on-a-mbp/' target='_blank' rel='noopener noreferrer'>What's the strongest AI model you can train on a laptop in five minutes?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 13:15 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-14 23:47:34 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-15 00:56:22 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
