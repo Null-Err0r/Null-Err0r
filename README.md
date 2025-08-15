@@ -29,15 +29,15 @@
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Embedder (YC S25) – Claude Code for Embedded Software</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 17:38 UTC</small><br><br>
 🔹 <a href='https://paulgraham.com/ds.html' target='_blank' rel='noopener noreferrer'>Do Things That Don't Scale (2013)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 15:07 UTC</small><br><br>
 🔹 <a href='https://mattsayar.com/letting-inmates-run-the-asylum-using-ai-to-secure-ai/' target='_blank' rel='noopener noreferrer'>Letting inmates run the asylum: Using AI to secure AI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 15:36 UTC</small><br><br>
-🔹 <a href='https://soonly.com/electric-fences/' target='_blank' rel='noopener noreferrer'>The Electric Fence Stopped Working Years Ago</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 15:34 UTC</small><br><br>
 🔹 <a href='https://github.com/wyattjoh/jmap-mcp' target='_blank' rel='noopener noreferrer'>Show HN: JMAP MCP – Email for your agents</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 17:39 UTC</small><br><br>
-🔹 <a href='https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/' target='_blank' rel='noopener noreferrer'>Compiler Bug Causes Compiler Bug: How a 12-Year-Old G++ Bug Took Down Solidity</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 05:04 UTC</small><br><br>
 🔹 <a href='https://developers.googleblog.com/en/announcing-imagen-4-fast-and-imagen-4-family-generally-available-in-the-gemini-api/' target='_blank' rel='noopener noreferrer'>Imagen 4 is now generally available</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 17:36 UTC</small><br><br>
-🔹 <a href='https://www.easypost.com/careers' target='_blank' rel='noopener noreferrer'>EasyPost (YC S13) Is Hiring</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 17:01 UTC</small><br><br>
+🔹 <a href='https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/' target='_blank' rel='noopener noreferrer'>Compiler Bug Causes Compiler Bug: How a 12-Year-Old G++ Bug Took Down Solidity</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 05:04 UTC</small><br><br>
+🔹 <a href='https://newsroom.arm.com/news/arm-announces-arm-neural-technology' target='_blank' rel='noopener noreferrer'>ARM adds neural accelerators to GPUs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 14:03 UTC</small><br><br>
+🔹 <a href='https://soonly.com/electric-fences/' target='_blank' rel='noopener noreferrer'>The Electric Fence Stopped Working Years Ago</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 15:34 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-15 18:48:44 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-15 19:08:46 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
