@@ -27,17 +27,17 @@
 🔹 <a href='https://edka.io' target='_blank' rel='noopener noreferrer'>Show HN: Edka – Kubernetes clusters on your own Hetzner account</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 17:34 UTC</small><br><br>
 🔹 <a href='https://www.openculture.com/2025/08/2178-occult-books-now-digitized-put-online.html' target='_blank' rel='noopener noreferrer'>Occult books digitized and put online by Amsterdam’s Ritman Library</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 16:03 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Embedder (YC S25) – Claude code for embedded software</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 17:38 UTC</small><br><br>
-🔹 <a href='https://paulgraham.com/ds.html' target='_blank' rel='noopener noreferrer'>Do Things That Don't Scale (2013)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 15:07 UTC</small><br><br>
 🔹 <a href='https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux' target='_blank' rel='noopener noreferrer'>OpenBSD is so fast, I had to modify the program slightly to measure itself</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 18:25 UTC</small><br><br>
+🔹 <a href='https://paulgraham.com/ds.html' target='_blank' rel='noopener noreferrer'>Do Things That Don't Scale (2013)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 15:07 UTC</small><br><br>
+🔹 <a href='https://www.filfre.net/2025/08/bullfrog-in-the-dungeon/' target='_blank' rel='noopener noreferrer'>Bullfrog in the Dungeon</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 16:10 UTC</small><br><br>
+🔹 <a href='https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/' target='_blank' rel='noopener noreferrer'>Compiler Bug Causes Compiler Bug: How a 12-Year-Old G++ Bug Took Down Solidity</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 05:04 UTC</small><br><br>
 🔹 <a href='https://github.com/wyattjoh/jmap-mcp' target='_blank' rel='noopener noreferrer'>Show HN: JMAP MCP – Email for your agents</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 17:39 UTC</small><br><br>
 🔹 <a href='https://developers.googleblog.com/en/announcing-imagen-4-fast-and-imagen-4-family-generally-available-in-the-gemini-api/' target='_blank' rel='noopener noreferrer'>Imagen 4 is now generally available</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 17:36 UTC</small><br><br>
-🔹 <a href='https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/' target='_blank' rel='noopener noreferrer'>Compiler Bug Causes Compiler Bug: How a 12-Year-Old G++ Bug Took Down Solidity</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 05:04 UTC</small><br><br>
 🔹 <a href='https://newsroom.arm.com/news/arm-announces-arm-neural-technology' target='_blank' rel='noopener noreferrer'>ARM adds neural accelerators to GPUs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 14:03 UTC</small><br><br>
-🔹 <a href='https://github.com/dani-garcia/vaultwarden/pull/3899' target='_blank' rel='noopener noreferrer'>Vaultwarden commit introduces SSO using OpenID Connect</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 12:31 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-15 20:12:29 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-15 20:32:55 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
