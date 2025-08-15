@@ -27,17 +27,17 @@
 🔹 <a href='https://edka.io' target='_blank' rel='noopener noreferrer'>Show HN: Edka – Kubernetes clusters on your own Hetzner account</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 17:34 UTC</small><br><br>
 🔹 <a href='https://www.openculture.com/2025/08/2178-occult-books-now-digitized-put-online.html' target='_blank' rel='noopener noreferrer'>Occult books digitized and put online by Amsterdam’s Ritman Library</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 16:03 UTC</small><br><br>
 🔹 <a href='https://tylercipriani.com/blog/2025/08/15/git-lfs/' target='_blank' rel='noopener noreferrer'>The Future of Large Files in Git Is Git</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 20:07 UTC</small><br><br>
+🔹 <a href='https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/' target='_blank' rel='noopener noreferrer'>TextKit 2 – The Promised Land</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 21:26 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Embedder (YC S25) – Claude code for embedded software</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 17:38 UTC</small><br><br>
+🔹 <a href='https://paulgraham.com/ds.html' target='_blank' rel='noopener noreferrer'>Do Things That Don't Scale (2013)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 15:07 UTC</small><br><br>
 🔹 <a href='https://www.anthropic.com/research/end-subset-conversations' target='_blank' rel='noopener noreferrer'>Claude Opus 4 and 4.1 can now end a rare subset of conversations</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 20:12 UTC</small><br><br>
 🔹 <a href='https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux' target='_blank' rel='noopener noreferrer'>OpenBSD is so fast, I had to modify the program slightly to measure itself</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 18:25 UTC</small><br><br>
-🔹 <a href='https://paulgraham.com/ds.html' target='_blank' rel='noopener noreferrer'>Do Things That Don't Scale (2013)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 15:07 UTC</small><br><br>
-🔹 <a href='https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/' target='_blank' rel='noopener noreferrer'>TextKit 2 – The Promised Land</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 21:26 UTC</small><br><br>
 🔹 <a href='https://www.scmp.com/news/asia/southeast-asia/article/3320828/us-f-16s-lose-out-thai-air-force-seals-us600-million-deal-swedish-gripen-jets' target='_blank' rel='noopener noreferrer'>US F-16s lose out as Thai Air Force seals US$600M deal for Swedish Gripen jets</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 21:11 UTC</small><br><br>
-🔹 <a href='https://enda.sh/primegrid/' target='_blank' rel='noopener noreferrer'>Show HN: Prime Number Grid Visualizer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 13:59 UTC</small><br><br>
+🔹 <a href='https://www.nature.com/articles/d41586-025-02589-5' target='_blank' rel='noopener noreferrer'>A mind–reading brain implant that comes with password protection</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 00:32 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-15 22:10:57 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-15 22:33:16 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
