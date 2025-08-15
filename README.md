@@ -26,18 +26,18 @@
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://www.josefprusa.com/articles/open-hardware-in-3d-printing-is-dead/' target='_blank' rel='noopener noreferrer'>Open hardware desktop 3D printing is dead</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 12:14 UTC</small><br><br>
 🔹 <a href='https://albanbrooke.com/the-beauty-of-a-text-only-webpage/' target='_blank' rel='noopener noreferrer'>The beauty of a text only webpage</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 15:05 UTC</small><br><br>
-🔹 <a href='https://paulgraham.com/ds.html' target='_blank' rel='noopener noreferrer'>Do Things That Don't Scale</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 15:07 UTC</small><br><br>
-🔹 <a href='https://jenson.org/timmy/' target='_blank' rel='noopener noreferrer'>The Timmy Trap</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 14:10 UTC</small><br><br>
+🔹 <a href='https://paulgraham.com/ds.html' target='_blank' rel='noopener noreferrer'>Do Things That Don't Scale (2013)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 15:07 UTC</small><br><br>
 🔹 <a href='https://mattsayar.com/letting-inmates-run-the-asylum-using-ai-to-secure-ai/' target='_blank' rel='noopener noreferrer'>Letting inmates run the asylum: Using AI to secure AI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 15:36 UTC</small><br><br>
-🔹 <a href='https://www.bmj.com/content/390/bmj-2024-083658' target='_blank' rel='noopener noreferrer'>ADHD drug treatment and risk of negative events and outcomes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 14:27 UTC</small><br><br>
 🔹 <a href='https://soonly.com/electric-fences/' target='_blank' rel='noopener noreferrer'>The Electric Fence Stopped Working Years Ago</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 15:34 UTC</small><br><br>
+🔹 <a href='https://scdailygazette.com/2025/08/14/sen-graham-on-scs-proposed-nuclear-reboot-were-going-to-finish-these-reactors/' target='_blank' rel='noopener noreferrer'>SC's proposed nuclear reboot: 'We're going to finish these reactors'</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 15:30 UTC</small><br><br>
 🔹 <a href='https://github.com/dani-garcia/vaultwarden/pull/3899' target='_blank' rel='noopener noreferrer'>Vaultwarden commit introduces SSO using OpenID Connect</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 12:31 UTC</small><br><br>
+🔹 <a href='https://overbring.com/blog/2025-08-13-writing-an-elixir-nif-with-genai/' target='_blank' rel='noopener noreferrer'>I let LLMs write an Elixir NIF in C; it mostly worked</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 16:02 UTC</small><br><br>
+🔹 <a href='https://jenson.org/timmy/' target='_blank' rel='noopener noreferrer'>The Timmy Trap</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 14:10 UTC</small><br><br>
 🔹 <a href='https://newsroom.arm.com/news/arm-announces-arm-neural-technology' target='_blank' rel='noopener noreferrer'>ARM adds neural accelerators to GPUs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 14:03 UTC</small><br><br>
-🔹 <a href='https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/' target='_blank' rel='noopener noreferrer'>Compiler Bug Causes Compiler Bug: How a 12-Year-Old G++ Bug Took Down Solidity</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 05:04 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-15 16:13:36 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-15 16:40:37 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
