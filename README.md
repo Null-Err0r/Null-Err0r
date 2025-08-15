@@ -28,16 +28,16 @@
 🔹 <a href='https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/' target='_blank' rel='noopener noreferrer'>Blurry rendering of games on Mac</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 22:11 UTC</small><br><br>
 🔹 <a href='https://developers.googleblog.com/en/introducing-gemma-3-270m/' target='_blank' rel='noopener noreferrer'>Gemma 3 270M: Compact model for hyper-efficient AI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 16:08 UTC</small><br><br>
 🔹 <a href='https://mitchellh.com/writing/ghostty-gtk-rewrite' target='_blank' rel='noopener noreferrer'>We rewrote the Ghostty GTK application</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 21:19 UTC</small><br><br>
-🔹 <a href='https://zed.dev/blog/why-llms-cant-build-software' target='_blank' rel='noopener noreferrer'>Why LLMs can't really build software</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 13:26 UTC</small><br><br>
 🔹 <a href='https://github.com/whatwg/html/issues/11523' target='_blank' rel='noopener noreferrer'>Should we remove XSLT from the web platform?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 07:37 UTC</small><br><br>
+🔹 <a href='https://zed.dev/blog/why-llms-cant-build-software' target='_blank' rel='noopener noreferrer'>Why LLMs can't really build software</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 13:26 UTC</small><br><br>
 🔹 <a href='https://aethermug.com/posts/i-used-to-know-how-to-write-in-japanese' target='_blank' rel='noopener noreferrer'>I used to know how to write in Japanese</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 01:01 UTC</small><br><br>
-🔹 <a href='https://www.cfr.org/blog/time-end-roundtripping-big-pharma' target='_blank' rel='noopener noreferrer'>Time to End Roundtripping by Big Pharma</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 01:08 UTC</small><br><br>
-🔹 <a href='https://mark.stosberg.com/universal-copy-paste/' target='_blank' rel='noopener noreferrer'>Progress towards universal Copy/Paste shortcuts on Linux</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 12:00 UTC</small><br><br>
+🔹 <a href='https://www.apple.com/newsroom/2025/08/an-update-on-blood-oxygen-for-apple-watch-in-the-us/' target='_blank' rel='noopener noreferrer'>Blood oxygen monitoring returning to Apple Watch in the US</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 13:14 UTC</small><br><br>
 🔹 <a href='https://www.historytoday.com/archive/history-matters/galileos-telescopes-seeing-believing' target='_blank' rel='noopener noreferrer'>Galileo's Telescopes: Seeing Is Believing</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 05:03 UTC</small><br><br>
+🔹 <a href='https://danielchasehooper.com/posts/syscall-build-snooping/' target='_blank' rel='noopener noreferrer'>I made a real-time C/C++/Rust build visualizer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 16:06 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-15 08:15:48 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-15 08:45:30 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
