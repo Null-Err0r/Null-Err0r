@@ -24,20 +24,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://www.openculture.com/2025/08/2178-occult-books-now-digitized-put-online.html' target='_blank' rel='noopener noreferrer'>Occult books digitized and put online by Amsterdam’s Ritman Library</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 16:03 UTC</small><br><br>
 🔹 <a href='https://edka.io' target='_blank' rel='noopener noreferrer'>Show HN: Edka – Deploy Kubernetes on your own Hetzner account in minutes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 17:34 UTC</small><br><br>
-🔹 <a href='https://paulgraham.com/ds.html' target='_blank' rel='noopener noreferrer'>Do Things That Don't Scale (2013)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 15:07 UTC</small><br><br>
+🔹 <a href='https://www.openculture.com/2025/08/2178-occult-books-now-digitized-put-online.html' target='_blank' rel='noopener noreferrer'>Occult books digitized and put online by Amsterdam’s Ritman Library</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 16:03 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Embedder (YC S25) – Claude Code for Embedded Software</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 17:38 UTC</small><br><br>
+🔹 <a href='https://paulgraham.com/ds.html' target='_blank' rel='noopener noreferrer'>Do Things That Don't Scale (2013)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 15:07 UTC</small><br><br>
 🔹 <a href='https://mattsayar.com/letting-inmates-run-the-asylum-using-ai-to-secure-ai/' target='_blank' rel='noopener noreferrer'>Letting inmates run the asylum: Using AI to secure AI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 15:36 UTC</small><br><br>
-🔹 <a href='https://luolink.substack.com/p/the-million-dollar-safety-net-how' target='_blank' rel='noopener noreferrer'>Are We Creating Entrepreneurs or Just Privileged Risk-Takers?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 17:20 UTC</small><br><br>
 🔹 <a href='https://soonly.com/electric-fences/' target='_blank' rel='noopener noreferrer'>The Electric Fence Stopped Working Years Ago</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 15:34 UTC</small><br><br>
+🔹 <a href='https://github.com/wyattjoh/jmap-mcp' target='_blank' rel='noopener noreferrer'>Show HN: JMAP MCP – Email for your agents</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 17:39 UTC</small><br><br>
+🔹 <a href='https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/' target='_blank' rel='noopener noreferrer'>Compiler Bug Causes Compiler Bug: How a 12-Year-Old G++ Bug Took Down Solidity</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 05:04 UTC</small><br><br>
+🔹 <a href='https://developers.googleblog.com/en/announcing-imagen-4-fast-and-imagen-4-family-generally-available-in-the-gemini-api/' target='_blank' rel='noopener noreferrer'>Imagen 4 is now generally available</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 17:36 UTC</small><br><br>
 🔹 <a href='https://www.easypost.com/careers' target='_blank' rel='noopener noreferrer'>EasyPost (YC S13) Is Hiring</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 17:01 UTC</small><br><br>
-🔹 <a href='https://overbring.com/blog/2025-08-13-writing-an-elixir-nif-with-genai/' target='_blank' rel='noopener noreferrer'>I let LLMs write an Elixir NIF in C; it mostly worked</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 16:02 UTC</small><br><br>
-🔹 <a href='https://github.com/dani-garcia/vaultwarden/pull/3899' target='_blank' rel='noopener noreferrer'>Vaultwarden commit introduces SSO using OpenID Connect</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 12:31 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-15 18:16:01 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-15 18:48:44 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
