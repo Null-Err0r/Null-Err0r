@@ -26,18 +26,18 @@
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://www.josefprusa.com/articles/open-hardware-in-3d-printing-is-dead/' target='_blank' rel='noopener noreferrer'>Open hardware desktop 3D printing is dead</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 12:14 UTC</small><br><br>
 🔹 <a href='https://github.com/dani-garcia/vaultwarden/pull/3899' target='_blank' rel='noopener noreferrer'>Vaultwarden commit introduces SSO using OpenID Connect</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 12:31 UTC</small><br><br>
+🔹 <a href='https://jenson.org/timmy/' target='_blank' rel='noopener noreferrer'>The Timmy Trap</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 14:10 UTC</small><br><br>
 🔹 <a href='https://smokinggun.org/court-records-reveal-sig-sauer-knew-of-pistol-risks-for-years/' target='_blank' rel='noopener noreferrer'>Court Records Reveal Sig Sauer Knew of Pistol Risks for Years</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 11:32 UTC</small><br><br>
 🔹 <a href='https://blog.foletta.net/post/2025-07-14-clt/' target='_blank' rel='noopener noreferrer'>Simulating and Visualising the Central Limit Theorem</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 06:11 UTC</small><br><br>
 🔹 <a href='https://myscp.onlinelibrary.wiley.com/doi/10.1002/jcpy.1441' target='_blank' rel='noopener noreferrer'>AI-induced dehumanization (2024)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 12:29 UTC</small><br><br>
 🔹 <a href='https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/' target='_blank' rel='noopener noreferrer'>Blurry rendering of games on Mac</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 22:11 UTC</small><br><br>
 🔹 <a href='https://developers.googleblog.com/en/introducing-gemma-3-270m/' target='_blank' rel='noopener noreferrer'>Gemma 3 270M: Compact model for hyper-efficient AI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 16:08 UTC</small><br><br>
 🔹 <a href='https://mitchellh.com/writing/ghostty-gtk-rewrite' target='_blank' rel='noopener noreferrer'>We rewrote the Ghostty GTK application</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 21:19 UTC</small><br><br>
-🔹 <a href='https://www.theatlantic.com/ideas/archive/2025/08/kids-smartphones-play-freedom/683742/' target='_blank' rel='noopener noreferrer'>What kids told us about how to get them off their phones</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 13:01 UTC</small><br><br>
-🔹 <a href='https://www.tesorio.com/careers#job-openings' target='_blank' rel='noopener noreferrer'>Tesorio (YC S15) Is Hiring a Senior GenAI Engineer (100% Remote)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 12:01 UTC</small><br><br>
+🔹 <a href='https://phys.org/news/2025-08-32c-mediterranean-tropicalization-shifts-high.html' target='_blank' rel='noopener noreferrer'>With waters at 32C, Mediterranean tropicalization shifts into high gear</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 12:25 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-15 14:33:30 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-15 14:51:03 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
