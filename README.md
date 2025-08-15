@@ -27,17 +27,17 @@
 🔹 <a href='https://www.josefprusa.com/articles/open-hardware-in-3d-printing-is-dead/' target='_blank' rel='noopener noreferrer'>Open hardware desktop 3D printing is dead</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 12:14 UTC</small><br><br>
 🔹 <a href='https://albanbrooke.com/the-beauty-of-a-text-only-webpage/' target='_blank' rel='noopener noreferrer'>The beauty of a text only webpage</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 15:05 UTC</small><br><br>
 🔹 <a href='https://jenson.org/timmy/' target='_blank' rel='noopener noreferrer'>The Timmy Trap</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 14:10 UTC</small><br><br>
-🔹 <a href='https://github.com/dani-garcia/vaultwarden/pull/3899' target='_blank' rel='noopener noreferrer'>Vaultwarden commit introduces SSO using OpenID Connect</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 12:31 UTC</small><br><br>
 🔹 <a href='https://paulgraham.com/ds.html' target='_blank' rel='noopener noreferrer'>Do Things That Don't Scale</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 15:07 UTC</small><br><br>
+🔹 <a href='https://github.com/dani-garcia/vaultwarden/pull/3899' target='_blank' rel='noopener noreferrer'>Vaultwarden commit introduces SSO using OpenID Connect</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 12:31 UTC</small><br><br>
+🔹 <a href='https://www.bmj.com/content/390/bmj-2024-083658' target='_blank' rel='noopener noreferrer'>ADHD drug treatment and risk of negative events and outcomes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 14:27 UTC</small><br><br>
+🔹 <a href='https://mattsayar.com/letting-inmates-run-the-asylum-using-ai-to-secure-ai/' target='_blank' rel='noopener noreferrer'>Letting inmates run the asylum: Using AI to secure AI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 15:36 UTC</small><br><br>
 🔹 <a href='https://blog.foletta.net/post/2025-07-14-clt/' target='_blank' rel='noopener noreferrer'>Simulating and Visualising the Central Limit Theorem</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 06:11 UTC</small><br><br>
 🔹 <a href='https://newsroom.arm.com/news/arm-announces-arm-neural-technology' target='_blank' rel='noopener noreferrer'>ARM adds neural accelerators to GPUs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 14:03 UTC</small><br><br>
 🔹 <a href='https://smokinggun.org/court-records-reveal-sig-sauer-knew-of-pistol-risks-for-years/' target='_blank' rel='noopener noreferrer'>Court Records Reveal Sig Sauer Knew of Pistol Risks for Years</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 11:32 UTC</small><br><br>
-🔹 <a href='https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/' target='_blank' rel='noopener noreferrer'>Blurry rendering of games on Mac</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 22:11 UTC</small><br><br>
-🔹 <a href='https://developers.googleblog.com/en/introducing-gemma-3-270m/' target='_blank' rel='noopener noreferrer'>Gemma 3 270M: Compact model for hyper-efficient AI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 16:08 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-15 15:32:01 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-15 15:49:36 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
