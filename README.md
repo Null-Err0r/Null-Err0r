@@ -32,12 +32,12 @@
 🔹 <a href='https://github.com/wyattjoh/jmap-mcp' target='_blank' rel='noopener noreferrer'>Show HN: JMAP MCP – Email for your agents</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 17:39 UTC</small><br><br>
 🔹 <a href='https://developers.googleblog.com/en/announcing-imagen-4-fast-and-imagen-4-family-generally-available-in-the-gemini-api/' target='_blank' rel='noopener noreferrer'>Imagen 4 is now generally available</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 17:36 UTC</small><br><br>
 🔹 <a href='https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/' target='_blank' rel='noopener noreferrer'>Compiler Bug Causes Compiler Bug: How a 12-Year-Old G++ Bug Took Down Solidity</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 05:04 UTC</small><br><br>
-🔹 <a href='https://newsroom.arm.com/news/arm-announces-arm-neural-technology' target='_blank' rel='noopener noreferrer'>ARM adds neural accelerators to GPUs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 14:03 UTC</small><br><br>
 🔹 <a href='https://www.filfre.net/2025/08/bullfrog-in-the-dungeon/' target='_blank' rel='noopener noreferrer'>Bullfrog in the Dungeon</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 16:10 UTC</small><br><br>
+🔹 <a href='https://newsroom.arm.com/news/arm-announces-arm-neural-technology' target='_blank' rel='noopener noreferrer'>ARM adds neural accelerators to GPUs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-12 14:03 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-15 19:24:54 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-15 19:33:03 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
