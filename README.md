@@ -31,13 +31,13 @@
 🔹 <a href='https://www.openpa.net/hp-ux_office.html' target='_blank' rel='noopener noreferrer'>Office on HP-UX and Unix</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 18:36 UTC</small><br><br>
 🔹 <a href='https://gonzoml.substack.com/p/tversky-neural-networks' target='_blank' rel='noopener noreferrer'>Tversky Neural Networks</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 16:59 UTC</small><br><br>
 🔹 <a href='https://en.wikipedia.org/wiki/Pfeilstorch' target='_blank' rel='noopener noreferrer'>Pfeilstorch</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 09:07 UTC</small><br><br>
-🔹 <a href='https://www.seangoedecke.com/good-system-design/' target='_blank' rel='noopener noreferrer'>Good system design</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 07:38 UTC</small><br><br>
-🔹 <a href='https://github.com/superstarryeyes/lue' target='_blank' rel='noopener noreferrer'>Show HN: Lue – Terminal eBook Reader with Text-to-Speech</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 18:00 UTC</small><br><br>
 🔹 <a href='https://pudding.cool/2025/08/onions/' target='_blank' rel='noopener noreferrer'>Dicing an Onion, the Mathematically Optimal Way</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 13:54 UTC</small><br><br>
+🔹 <a href='https://github.com/superstarryeyes/lue' target='_blank' rel='noopener noreferrer'>Show HN: Lue – Terminal eBook Reader with Text-to-Speech</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 18:00 UTC</small><br><br>
+🔹 <a href='https://www.seangoedecke.com/good-system-design/' target='_blank' rel='noopener noreferrer'>Good system design</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 07:38 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-16 21:27:11 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-16 21:36:39 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
