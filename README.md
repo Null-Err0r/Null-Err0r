@@ -27,17 +27,17 @@
 🔹 <a href='https://derwiki.medium.com/do-things-that-dont-scale-and-then-don-t-scale-9fd2cd7e2156' target='_blank' rel='noopener noreferrer'>Do things that don't scale, and then don't scale</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 17:33 UTC</small><br><br>
 🔹 <a href='https://www.kcl.ac.uk/news/toothpaste-made-from-hair-provides-natural-root-to-repair-teeth' target='_blank' rel='noopener noreferrer'>Toothpaste made from hair provides natural root to repair teeth</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 12:13 UTC</small><br><br>
 🔹 <a href='https://www.openpa.net/hp-ux_office.html' target='_blank' rel='noopener noreferrer'>Office on HP-UX and Unix</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 18:36 UTC</small><br><br>
-🔹 <a href='https://raft.github.io/' target='_blank' rel='noopener noreferrer'>The Raft Consensus Algorithm (2015)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 09:09 UTC</small><br><br>
-🔹 <a href='https://github.com/superstarryeyes/lue' target='_blank' rel='noopener noreferrer'>Show HN: Lue – Terminal eBook Reader with Text-to-Speech</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 18:00 UTC</small><br><br>
-🔹 <a href='https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/MMCCEQKA4UPGGWFWEBWLYKHTYCAOQIZS/#MMCCEQKA4UPGGWFWEBWLYKHTYCAOQIZS' target='_blank' rel='noopener noreferrer'>One person was able to claim 20M IPs, or 9% of all IPv4 hosts</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 17:57 UTC</small><br><br>
 🔹 <a href='https://gonzoml.substack.com/p/tversky-neural-networks' target='_blank' rel='noopener noreferrer'>Tversky Neural Networks</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 16:59 UTC</small><br><br>
-🔹 <a href='https://en.wikipedia.org/wiki/Pfeilstorch' target='_blank' rel='noopener noreferrer'>Pfeilstorch</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 09:07 UTC</small><br><br>
+🔹 <a href='https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/MMCCEQKA4UPGGWFWEBWLYKHTYCAOQIZS/#MMCCEQKA4UPGGWFWEBWLYKHTYCAOQIZS' target='_blank' rel='noopener noreferrer'>One person was able to claim 20M IPs, or 9% of all IPv4 hosts</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 17:57 UTC</small><br><br>
+🔹 <a href='https://raft.github.io/' target='_blank' rel='noopener noreferrer'>The Raft Consensus Algorithm (2015)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 09:09 UTC</small><br><br>
 🔹 <a href='https://www.seangoedecke.com/good-system-design/' target='_blank' rel='noopener noreferrer'>Good system design</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 07:38 UTC</small><br><br>
-🔹 <a href='https://putty.software/' target='_blank' rel='noopener noreferrer'>PuTTY has a new website</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 03:35 UTC</small><br><br>
+🔹 <a href='https://en.wikipedia.org/wiki/Pfeilstorch' target='_blank' rel='noopener noreferrer'>Pfeilstorch</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 09:07 UTC</small><br><br>
+🔹 <a href='https://github.com/superstarryeyes/lue' target='_blank' rel='noopener noreferrer'>Show HN: Lue – Terminal eBook Reader with Text-to-Speech</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 18:00 UTC</small><br><br>
+🔹 <a href='https://pudding.cool/2025/08/onions/' target='_blank' rel='noopener noreferrer'>Dicing an Onion, the Mathematically Optimal Way</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 13:54 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-16 20:30:31 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-16 20:48:09 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
