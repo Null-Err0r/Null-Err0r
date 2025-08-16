@@ -25,6 +25,7 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://putty.software/' target='_blank' rel='noopener noreferrer'>PuTTY has a new website</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 03:35 UTC</small><br><br>
+🔹 <a href='https://www.seangoedecke.com/good-system-design/' target='_blank' rel='noopener noreferrer'>Everything I know about good system design</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 07:38 UTC</small><br><br>
 🔹 <a href='https://tylercipriani.com/blog/2025/08/15/git-lfs/' target='_blank' rel='noopener noreferrer'>The future of large files in Git is Git</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 20:07 UTC</small><br><br>
 🔹 <a href='https://www.antirez.com/news/155' target='_blank' rel='noopener noreferrer'>AI is different</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 18:49 UTC</small><br><br>
 🔹 <a href='https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/' target='_blank' rel='noopener noreferrer'>I accidentally became PureGym’s unofficial Apple Wallet developer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 11:06 UTC</small><br><br>
@@ -33,11 +34,10 @@
 🔹 <a href='https://www.scientificamerican.com/article/deep-sea-desalination-pulls-drinking-water-from-the-depths/' target='_blank' rel='noopener noreferrer'>Deep-Sea Desalination Pulls Fresh Water from the Depths</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 00:08 UTC</small><br><br>
 🔹 <a href='https://paulgraham.com/ds.html' target='_blank' rel='noopener noreferrer'>Do Things That Don't Scale (2013)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 15:07 UTC</small><br><br>
 🔹 <a href='https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux' target='_blank' rel='noopener noreferrer'>OpenBSD is so fast, I had to modify the program slightly to measure itself</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 18:25 UTC</small><br><br>
-🔹 <a href='https://www.bmj.com/content/390/bmj-2024-083658' target='_blank' rel='noopener noreferrer'>ADHD drug treatment and risk of negative events and outcomes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 14:27 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-16 07:46:57 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-16 08:14:35 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
