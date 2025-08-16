@@ -33,11 +33,11 @@
 🔹 <a href='https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/' target='_blank' rel='noopener noreferrer'>I accidentally became PureGym’s unofficial Apple Wallet developer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 11:06 UTC</small><br><br>
 🔹 <a href='https://www.openculture.com/2025/08/2178-occult-books-now-digitized-put-online.html' target='_blank' rel='noopener noreferrer'>Occult books digitized and put online by Amsterdam’s Ritman Library</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 16:03 UTC</small><br><br>
 🔹 <a href='https://www.scientificamerican.com/article/deep-sea-desalination-pulls-drinking-water-from-the-depths/' target='_blank' rel='noopener noreferrer'>Deep-Sea Desalination Pulls Fresh Water from the Depths</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 00:08 UTC</small><br><br>
-🔹 <a href='https://paulgraham.com/ds.html' target='_blank' rel='noopener noreferrer'>Do Things That Don't Scale (2013)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 15:07 UTC</small><br><br>
+🔹 <a href='https://nikodunk.com/2025-06-10-diy-serverless-(coreos-+-dokploy)' target='_blank' rel='noopener noreferrer'>Dokploy is the sweet spot between PaaS and EC2</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 02:24 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-16 09:46:49 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-16 10:10:02 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
