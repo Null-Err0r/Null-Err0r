@@ -27,8 +27,8 @@
 🔹 <a href='https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/' target='_blank' rel='noopener noreferrer'>Payment Processor Fun 2025 – Making Your Own Merchant Service Provider</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 15:01 UTC</small><br><br>
 🔹 <a href='https://www.seangoedecke.com/good-system-design/' target='_blank' rel='noopener noreferrer'>Good system design</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 07:38 UTC</small><br><br>
 🔹 <a href='https://www.kcl.ac.uk/news/toothpaste-made-from-hair-provides-natural-root-to-repair-teeth' target='_blank' rel='noopener noreferrer'>Toothpaste made from hair provides natural root to repair teeth</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 12:13 UTC</small><br><br>
-🔹 <a href='https://putty.software/' target='_blank' rel='noopener noreferrer'>PuTTY has a new website</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 03:35 UTC</small><br><br>
 🔹 <a href='https://en.wikipedia.org/wiki/Pfeilstorch' target='_blank' rel='noopener noreferrer'>Pfeilstorch</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 09:07 UTC</small><br><br>
+🔹 <a href='https://putty.software/' target='_blank' rel='noopener noreferrer'>PuTTY has a new website</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 03:35 UTC</small><br><br>
 🔹 <a href='https://pudding.cool/2025/08/onions/' target='_blank' rel='noopener noreferrer'>Dicing an Onion, the Mathematically Optimal Way</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 13:54 UTC</small><br><br>
 🔹 <a href='https://qouteall.fun/qouteall-blog/2025/Traps%20to%20Developers' target='_blank' rel='noopener noreferrer'>Traps to Developers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 10:34 UTC</small><br><br>
 🔹 <a href='https://gautiersblog.blogspot.com/2025/07/writing-bzip2-encoder-in-ada-from.html' target='_blank' rel='noopener noreferrer'>Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 2</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 14:47 UTC</small><br><br>
@@ -37,7 +37,7 @@
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-16 15:47:37 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-16 16:11:58 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
