@@ -31,13 +31,13 @@
 🔹 <a href='https://www.openpa.net/hp-ux_office.html' target='_blank' rel='noopener noreferrer'>Office on HP-UX and Unix</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 18:36 UTC</small><br><br>
 🔹 <a href='https://pudding.cool/2025/08/onions/' target='_blank' rel='noopener noreferrer'>Dicing an Onion, the Mathematically Optimal Way</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 13:54 UTC</small><br><br>
 🔹 <a href='https://en.wikipedia.org/wiki/Pfeilstorch' target='_blank' rel='noopener noreferrer'>Pfeilstorch</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 09:07 UTC</small><br><br>
+🔹 <a href='https://www.troyhunt.com/that-16-billion-password-story-aka-data-troll/' target='_blank' rel='noopener noreferrer'>That 16 Billion Password Story (AKA "Data Troll")</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 20:01 UTC</small><br><br>
 🔹 <a href='https://progress.openai.com' target='_blank' rel='noopener noreferrer'>OpenAI Progress</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 15:47 UTC</small><br><br>
 🔹 <a href='https://aeon.co/essays/for-iris-murdoch-morality-is-about-love-not-duties-and-rules' target='_blank' rel='noopener noreferrer'>For Iris Murdoch, morality is about love, not duties and rules</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 06:12 UTC</small><br><br>
-🔹 <a href='https://www.troyhunt.com/that-16-billion-password-story-aka-data-troll/' target='_blank' rel='noopener noreferrer'>That 16 Billion Password Story (AKA "Data Troll")</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 20:01 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-16 23:37:31 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-16 23:46:51 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
