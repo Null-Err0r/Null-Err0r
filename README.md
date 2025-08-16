@@ -25,19 +25,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://www.seangoedecke.com/good-system-design/' target='_blank' rel='noopener noreferrer'>Everything I know about good system design</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 07:38 UTC</small><br><br>
-🔹 <a href='https://putty.software/' target='_blank' rel='noopener noreferrer'>PuTTY has a new website</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 03:35 UTC</small><br><br>
 🔹 <a href='https://shkspr.mobi/blog/2025/08/books-will-soon-be-obsolete-in-school/' target='_blank' rel='noopener noreferrer'>Books will soon be obsolete in school</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 12:56 UTC</small><br><br>
-🔹 <a href='https://qouteall.fun/qouteall-blog/2025/Traps%20to%20Developers' target='_blank' rel='noopener noreferrer'>Traps to Developers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 10:34 UTC</small><br><br>
 🔹 <a href='https://www.economist.com/science-and-technology/2025/07/11/should-you-take-creatine' target='_blank' rel='noopener noreferrer'>Should You Take Creatine?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 12:51 UTC</small><br><br>
+🔹 <a href='https://putty.software/' target='_blank' rel='noopener noreferrer'>PuTTY has a new website</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 03:35 UTC</small><br><br>
+🔹 <a href='https://www.nbcnews.com/business/business-news/ai-which-jobs-are-skilled-trades-protected-what-to-know-rcna223249' target='_blank' rel='noopener noreferrer'>Blue-collar jobs are gaining popularity as AI threatens office work</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 13:23 UTC</small><br><br>
+🔹 <a href='https://qouteall.fun/qouteall-blog/2025/Traps%20to%20Developers' target='_blank' rel='noopener noreferrer'>Traps to Developers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 10:34 UTC</small><br><br>
 🔹 <a href='https://tylercipriani.com/blog/2025/08/15/git-lfs/' target='_blank' rel='noopener noreferrer'>The future of large files in Git is Git</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 20:07 UTC</small><br><br>
 🔹 <a href='https://www.antirez.com/news/155' target='_blank' rel='noopener noreferrer'>AI is different</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 18:49 UTC</small><br><br>
 🔹 <a href='https://edka.io' target='_blank' rel='noopener noreferrer'>Show HN: Edka – Kubernetes clusters on your own Hetzner account</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 17:34 UTC</small><br><br>
 🔹 <a href='https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=579e9d03-0724-482b-a42a-8e5e80d73405' target='_blank' rel='noopener noreferrer'>Ashby (YC W19) Is Hiring Design Engineers in AMER and EMEA</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 12:00 UTC</small><br><br>
-🔹 <a href='https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/' target='_blank' rel='noopener noreferrer'>I accidentally became PureGym’s unofficial Apple Wallet developer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 11:06 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-16 13:35:02 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-16 13:47:45 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
