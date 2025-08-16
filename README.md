@@ -33,11 +33,11 @@
 🔹 <a href='https://www.scientificamerican.com/article/deep-sea-desalination-pulls-drinking-water-from-the-depths/' target='_blank' rel='noopener noreferrer'>Deep-Sea Desalination Pulls Fresh Water from the Depths</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 00:08 UTC</small><br><br>
 🔹 <a href='https://paulgraham.com/ds.html' target='_blank' rel='noopener noreferrer'>Do Things That Don't Scale (2013)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 15:07 UTC</small><br><br>
 🔹 <a href='https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux' target='_blank' rel='noopener noreferrer'>OpenBSD is so fast, I had to modify the program slightly to measure itself</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 18:25 UTC</small><br><br>
-🔹 <a href='https://userjot.com/blog/best-practices-building-agentic-ai-systems' target='_blank' rel='noopener noreferrer'>Best Practices for Building Agentic AI Systems</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 02:39 UTC</small><br><br>
+🔹 <a href='https://www.bmj.com/content/390/bmj-2024-083658' target='_blank' rel='noopener noreferrer'>ADHD drug treatment and risk of negative events and outcomes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 14:27 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-16 07:27:03 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-16 07:36:26 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
