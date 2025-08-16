@@ -29,15 +29,15 @@
 🔹 <a href='https://www.kcl.ac.uk/news/toothpaste-made-from-hair-provides-natural-root-to-repair-teeth' target='_blank' rel='noopener noreferrer'>Toothpaste made from hair provides natural root to repair teeth</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 12:13 UTC</small><br><br>
 🔹 <a href='https://gonzoml.substack.com/p/tversky-neural-networks' target='_blank' rel='noopener noreferrer'>Tversky Neural Networks</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 16:59 UTC</small><br><br>
 🔹 <a href='https://en.wikipedia.org/wiki/Pfeilstorch' target='_blank' rel='noopener noreferrer'>Pfeilstorch</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 09:07 UTC</small><br><br>
-🔹 <a href='https://raft.github.io/' target='_blank' rel='noopener noreferrer'>The Raft Consensus Algorithm (2015)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 09:09 UTC</small><br><br>
 🔹 <a href='https://www.openpa.net/hp-ux_office.html' target='_blank' rel='noopener noreferrer'>Office on HP-UX and Unix</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 18:36 UTC</small><br><br>
 🔹 <a href='https://www.seangoedecke.com/good-system-design/' target='_blank' rel='noopener noreferrer'>Good system design</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 07:38 UTC</small><br><br>
+🔹 <a href='https://raft.github.io/' target='_blank' rel='noopener noreferrer'>The Raft Consensus Algorithm (2015)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 09:09 UTC</small><br><br>
 🔹 <a href='https://github.com/superstarryeyes/lue' target='_blank' rel='noopener noreferrer'>Show HN: Lue – Terminal eBook Reader with Text-to-Speech</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 18:00 UTC</small><br><br>
-🔹 <a href='https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/' target='_blank' rel='noopener noreferrer'>Payment Processor Fun 2025 – Making Your Own Merchant Service Provider</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 15:01 UTC</small><br><br>
+🔹 <a href='https://putty.software/' target='_blank' rel='noopener noreferrer'>PuTTY has a new website</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 03:35 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-16 19:23:38 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-16 19:32:36 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
