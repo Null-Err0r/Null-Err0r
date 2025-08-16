@@ -28,16 +28,16 @@
 🔹 <a href='https://tylercipriani.com/blog/2025/08/15/git-lfs/' target='_blank' rel='noopener noreferrer'>The future of large files in Git is Git</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 20:07 UTC</small><br><br>
 🔹 <a href='https://www.antirez.com/news/155' target='_blank' rel='noopener noreferrer'>AI is different</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 18:49 UTC</small><br><br>
 🔹 <a href='https://userjot.com/blog/best-practices-building-agentic-ai-systems' target='_blank' rel='noopener noreferrer'>Best Practices for Building Agentic AI Systems</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 02:39 UTC</small><br><br>
-🔹 <a href='https://cendyne.dev/posts/2025-08-15-single-sign-on-for-furries.html' target='_blank' rel='noopener noreferrer'>Single Sign on for Furries</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 04:42 UTC</small><br><br>
 🔹 <a href='https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/' target='_blank' rel='noopener noreferrer'>I accidentally became PureGym’s unofficial Apple Wallet developer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 11:06 UTC</small><br><br>
 🔹 <a href='https://edka.io' target='_blank' rel='noopener noreferrer'>Show HN: Edka – Kubernetes clusters on your own Hetzner account</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 17:34 UTC</small><br><br>
 🔹 <a href='https://www.openculture.com/2025/08/2178-occult-books-now-digitized-put-online.html' target='_blank' rel='noopener noreferrer'>Occult books digitized and put online by Amsterdam’s Ritman Library</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 16:03 UTC</small><br><br>
 🔹 <a href='https://paulgraham.com/ds.html' target='_blank' rel='noopener noreferrer'>Do Things That Don't Scale (2013)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 15:07 UTC</small><br><br>
 🔹 <a href='https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux' target='_blank' rel='noopener noreferrer'>OpenBSD is so fast, I had to modify the program slightly to measure itself</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 18:25 UTC</small><br><br>
+🔹 <a href='https://www.sfchronicle.com/california/article/unemployment-rate-rises-tech-20819276.php' target='_blank' rel='noopener noreferrer'>California unemployment rises to 5.5%, worst in the U.S. as tech falters</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 22:10 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-16 04:51:38 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-16 05:11:04 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
