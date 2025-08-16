@@ -28,16 +28,16 @@
 🔹 <a href='https://dyna.org/' target='_blank' rel='noopener noreferrer'>Dyna – Logic Programming for Machine Learning</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 19:50 UTC</small><br><br>
 🔹 <a href='https://raft.github.io/' target='_blank' rel='noopener noreferrer'>The Raft Consensus Algorithm (2015)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 09:09 UTC</small><br><br>
 🔹 <a href='https://www.openpa.net/hp-ux_office.html' target='_blank' rel='noopener noreferrer'>Office on HP-UX and Unix</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 18:36 UTC</small><br><br>
+🔹 <a href='https://pudding.cool/2025/08/onions/' target='_blank' rel='noopener noreferrer'>Dicing an Onion, the Mathematically Optimal Way</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 13:54 UTC</small><br><br>
 🔹 <a href='https://www.seangoedecke.com/good-system-design/' target='_blank' rel='noopener noreferrer'>Good system design</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 07:38 UTC</small><br><br>
 🔹 <a href='https://en.wikipedia.org/wiki/Pfeilstorch' target='_blank' rel='noopener noreferrer'>Pfeilstorch</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 09:07 UTC</small><br><br>
-🔹 <a href='https://pudding.cool/2025/08/onions/' target='_blank' rel='noopener noreferrer'>Dicing an Onion, the Mathematically Optimal Way</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 13:54 UTC</small><br><br>
-🔹 <a href='https://github.com/superstarryeyes/lue' target='_blank' rel='noopener noreferrer'>Show HN: Lue – Terminal eBook Reader with Text-to-Speech</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 18:00 UTC</small><br><br>
 🔹 <a href='https://gonzoml.substack.com/p/tversky-neural-networks' target='_blank' rel='noopener noreferrer'>Tversky Neural Networks</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 16:59 UTC</small><br><br>
-🔹 <a href='https://www.troyhunt.com/that-16-billion-password-story-aka-data-troll/' target='_blank' rel='noopener noreferrer'>That 16 Billion Password Story (AKA "Data Troll")</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 20:01 UTC</small><br><br>
+🔹 <a href='https://github.com/superstarryeyes/lue' target='_blank' rel='noopener noreferrer'>Show HN: Lue – Terminal eBook Reader with Text-to-Speech</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 18:00 UTC</small><br><br>
+🔹 <a href='https://progress.openai.com' target='_blank' rel='noopener noreferrer'>OpenAI Progress</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 15:47 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-16 22:31:14 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-16 22:47:54 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
