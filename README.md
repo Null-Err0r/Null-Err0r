@@ -32,12 +32,12 @@
 🔹 <a href='https://www.antirez.com/news/155' target='_blank' rel='noopener noreferrer'>AI is different</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 18:49 UTC</small><br><br>
 🔹 <a href='https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/' target='_blank' rel='noopener noreferrer'>I accidentally became PureGym’s unofficial Apple Wallet developer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 11:06 UTC</small><br><br>
 🔹 <a href='https://edka.io' target='_blank' rel='noopener noreferrer'>Show HN: Edka – Kubernetes clusters on your own Hetzner account</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 17:34 UTC</small><br><br>
+🔹 <a href='https://www.openculture.com/2025/08/2178-occult-books-now-digitized-put-online.html' target='_blank' rel='noopener noreferrer'>Occult books digitized and put online by Amsterdam’s Ritman Library</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 16:03 UTC</small><br><br>
 🔹 <a href='https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=579e9d03-0724-482b-a42a-8e5e80d73405' target='_blank' rel='noopener noreferrer'>Ashby (YC W19) Is Hiring Design Engineers in AMER and EMEA</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 12:00 UTC</small><br><br>
-🔹 <a href='https://gautiersblog.blogspot.com/2025/07/writing-bzip2-encoder-in-ada-from.html' target='_blank' rel='noopener noreferrer'>Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 2</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 14:47 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-16 14:47:00 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-16 14:48:23 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
