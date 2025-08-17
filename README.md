@@ -30,14 +30,14 @@
 🔹 <a href='https://nodejs.org/en/blog/release/v22.18.0' target='_blank' rel='noopener noreferrer'>Node.js can now execute TypeScript files</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 06:03 UTC</small><br><br>
 🔹 <a href='https://dyna.org/' target='_blank' rel='noopener noreferrer'>Dyna – Logic Programming for Machine Learning</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 19:50 UTC</small><br><br>
 🔹 <a href='https://progress.openai.com' target='_blank' rel='noopener noreferrer'>OpenAI Progress</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 15:47 UTC</small><br><br>
-🔹 <a href='https://www.neowin.net/news/hyundai-wants-ioniq-5-customers-to-pay-for-cybersecurity-patch-in-baffling-move/' target='_blank' rel='noopener noreferrer'>Hyundai wants loniq 5 customers to pay for cybersecurity patch in baffling move</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 02:49 UTC</small><br><br>
 🔹 <a href='https://raft.github.io/' target='_blank' rel='noopener noreferrer'>The Raft Consensus Algorithm (2015)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 09:09 UTC</small><br><br>
+🔹 <a href='https://www.neowin.net/news/hyundai-wants-ioniq-5-customers-to-pay-for-cybersecurity-patch-in-baffling-move/' target='_blank' rel='noopener noreferrer'>Hyundai wants loniq 5 customers to pay for cybersecurity patch in baffling move</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 02:49 UTC</small><br><br>
 🔹 <a href='https://pudding.cool/2025/08/onions/' target='_blank' rel='noopener noreferrer'>Dicing an Onion, the Mathematically Optimal Way</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 13:54 UTC</small><br><br>
 🔹 <a href='https://en.wikipedia.org/wiki/Pfeilstorch' target='_blank' rel='noopener noreferrer'>Pfeilstorch</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 09:07 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-17 07:10:17 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-17 07:27:58 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
