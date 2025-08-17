@@ -24,20 +24,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://tracker.archiveteam.org/goo-gl/' target='_blank' rel='noopener noreferrer'>Archive.org has finished archiving all goo.gl short links</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 17:46 UTC</small><br><br>
-🔹 <a href='https://github.com/JGoyd/iOS-18.5-Bluetooth-Privacy-Vuln' target='_blank' rel='noopener noreferrer'>iOS 18.5 silently triggers Bluetooth and GPS data collection – no user consent</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 17:50 UTC</small><br><br>
-🔹 <a href='https://claudiacode.com/' target='_blank' rel='noopener noreferrer'>Claudia – Elegant Desktop Companion for Claude Code</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 17:26 UTC</small><br><br>
+🔹 <a href='https://claudiacode.com/' target='_blank' rel='noopener noreferrer'>Claudia – Desktop companion for Claude code</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 17:26 UTC</small><br><br>
+🔹 <a href='https://clickhouse.com/blog/update-performance-clickhouse-vs-postgresql' target='_blank' rel='noopener noreferrer'>ClickHouse matches PG for single-row UPDATEs and 4000 x faster for bulk UPDATEs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 17:52 UTC</small><br><br>
 🔹 <a href='https://threedle.github.io/ll3m/' target='_blank' rel='noopener noreferrer'>LL3M: Large Language 3D Modelers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 11:20 UTC</small><br><br>
 🔹 <a href='https://xeiaso.net/blog/2025/who-assistant-serve/' target='_blank' rel='noopener noreferrer'>Who does your assistant serve?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 15:14 UTC</small><br><br>
 🔹 <a href='https://blog.demofox.org/2025/08/16/derivatives-gradients-jacobians-and-hessians-oh-my/' target='_blank' rel='noopener noreferrer'>Derivatives, Gradients, Jacobians and Hessians</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 14:08 UTC</small><br><br>
+🔹 <a href='https://tracker.archiveteam.org/goo-gl/' target='_blank' rel='noopener noreferrer'>ArchiveTeam has finished archiving all goo.gl short links</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 17:46 UTC</small><br><br>
 🔹 <a href='https://www.elliotcsmith.com/linkedin-toxic-mediocrity/' target='_blank' rel='noopener noreferrer'>LinkedIn rewards mediocrity</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 09:29 UTC</small><br><br>
-🔹 <a href='https://www.marginalia.nu/log/a_123_index_io/' target='_blank' rel='noopener noreferrer'>Faster Index I/O with NVMe SSDs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 13:17 UTC</small><br><br>
-🔹 <a href='https://churchofturing.github.io/the-enterprise-experience.html' target='_blank' rel='noopener noreferrer'>The Enterprise Experience</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 16:53 UTC</small><br><br>
 🔹 <a href='https://clickhouse.com/blog/moosestack-does-olap-need-an-orm' target='_blank' rel='noopener noreferrer'>Does OLAP Need an ORM</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 16:03 UTC</small><br><br>
+🔹 <a href='https://churchofturing.github.io/the-enterprise-experience.html' target='_blank' rel='noopener noreferrer'>The Enterprise Experience</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 16:53 UTC</small><br><br>
+🔹 <a href='https://scienceblog.com/joshmitteldorf/2025/08/17/review-of-anti-aging-drugs/' target='_blank' rel='noopener noreferrer'>Review of Anti-Aging Drugs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 17:22 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-17 18:14:33 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-17 18:42:51 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
