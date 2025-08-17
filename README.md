@@ -24,20 +24,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://www.trackingai.org/home' target='_blank' rel='noopener noreferrer'>IQ Tests Results for AI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 09:36 UTC</small><br><br>
 🔹 <a href='https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity' target='_blank' rel='noopener noreferrer'>Lessons learned from building a sync-engine and reactivity system with SQLite</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 06:51 UTC</small><br><br>
-🔹 <a href='https://marnetto.net/2025/02/20/broderbund-stunts-1' target='_blank' rel='noopener noreferrer'>SuperSight: A graphical enhancement mod for Brøderbund's "Stunts"</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 12:42 UTC</small><br><br>
-🔹 <a href='https://nodejs.org/en/blog/release/v22.18.0' target='_blank' rel='noopener noreferrer'>Node.js can now execute TypeScript files</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 06:03 UTC</small><br><br>
 🔹 <a href='https://www.elliotcsmith.com/linkedin-toxic-mediocrity/' target='_blank' rel='noopener noreferrer'>Why LinkedIn Rewards Mediocrity</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 09:29 UTC</small><br><br>
+🔹 <a href='https://marnetto.net/2025/02/20/broderbund-stunts-1' target='_blank' rel='noopener noreferrer'>SuperSight: A graphical enhancement mod for Brøderbund's "Stunts"</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 12:42 UTC</small><br><br>
 🔹 <a href='https://goose.icu/lambda/' target='_blank' rel='noopener noreferrer'>Eliminating JavaScript cold starts on AWS Lambda</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 11:44 UTC</small><br><br>
+🔹 <a href='https://nodejs.org/en/blog/release/v22.18.0' target='_blank' rel='noopener noreferrer'>Node.js can now execute TypeScript files</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 06:03 UTC</small><br><br>
 🔹 <a href='https://treeform.github.io/devcompas/' target='_blank' rel='noopener noreferrer'>Dev Compass – Programming Philosophy Quiz</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 22:04 UTC</small><br><br>
-🔹 <a href='https://www.guidsmash.com' target='_blank' rel='noopener noreferrer'>Visualising how close random GUIDs come to being the same</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 22:11 UTC</small><br><br>
 🔹 <a href='https://github.com/Wan-Video/Wan2.2' target='_blank' rel='noopener noreferrer'>Wan – Open-source alternative to VEO 3</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 05:00 UTC</small><br><br>
+🔹 <a href='https://www.guidsmash.com' target='_blank' rel='noopener noreferrer'>Visualising how close random GUIDs come to being the same</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 22:11 UTC</small><br><br>
 🔹 <a href='https://jeclark.net/articles/tcp-initcwnd/?tag=performance' target='_blank' rel='noopener noreferrer'>An Argument for Increasing TCP's Initial Congestion Window Again</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 15:23 UTC</small><br><br>
+🔹 <a href='https://www.trackingai.org/home' target='_blank' rel='noopener noreferrer'>IQ Tests Results for AI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 09:36 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-17 10:33:56 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-17 10:49:24 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
