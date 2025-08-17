@@ -24,20 +24,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
+🔹 <a href='https://tracker.archiveteam.org/goo-gl/' target='_blank' rel='noopener noreferrer'>Archive.org has finished archiving all goo.gl short links</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 17:46 UTC</small><br><br>
+🔹 <a href='https://github.com/JGoyd/iOS-18.5-Bluetooth-Privacy-Vuln' target='_blank' rel='noopener noreferrer'>iOS 18.5 silently triggers Bluetooth and GPS data collection – no user consent</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 17:50 UTC</small><br><br>
+🔹 <a href='https://claudiacode.com/' target='_blank' rel='noopener noreferrer'>Claudia – Elegant Desktop Companion for Claude Code</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 17:26 UTC</small><br><br>
 🔹 <a href='https://threedle.github.io/ll3m/' target='_blank' rel='noopener noreferrer'>LL3M: Large Language 3D Modelers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 11:20 UTC</small><br><br>
 🔹 <a href='https://xeiaso.net/blog/2025/who-assistant-serve/' target='_blank' rel='noopener noreferrer'>Who does your assistant serve?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 15:14 UTC</small><br><br>
 🔹 <a href='https://blog.demofox.org/2025/08/16/derivatives-gradients-jacobians-and-hessians-oh-my/' target='_blank' rel='noopener noreferrer'>Derivatives, Gradients, Jacobians and Hessians</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 14:08 UTC</small><br><br>
 🔹 <a href='https://www.elliotcsmith.com/linkedin-toxic-mediocrity/' target='_blank' rel='noopener noreferrer'>LinkedIn rewards mediocrity</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 09:29 UTC</small><br><br>
 🔹 <a href='https://www.marginalia.nu/log/a_123_index_io/' target='_blank' rel='noopener noreferrer'>Faster Index I/O with NVMe SSDs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 13:17 UTC</small><br><br>
-🔹 <a href='https://clickhouse.com/blog/moosestack-does-olap-need-an-orm' target='_blank' rel='noopener noreferrer'>Does OLAP Need an ORM</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 16:03 UTC</small><br><br>
-🔹 <a href='https://retrogamecoders.com/bbc-micro-the-ancestor-to-a-device-you-are-guaranteed-to-own/' target='_blank' rel='noopener noreferrer'>BBC Micro: The Ancestor to a Device You Are Guaranteed to Own</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 13:08 UTC</small><br><br>
-🔹 <a href='http://www.righto.com/2025/08/static-latchup-metastability-386.html' target='_blank' rel='noopener noreferrer'>Here be dragons: Preventing static damage, latchup, and metastability in the 386</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 15:34 UTC</small><br><br>
 🔹 <a href='https://churchofturing.github.io/the-enterprise-experience.html' target='_blank' rel='noopener noreferrer'>The Enterprise Experience</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 16:53 UTC</small><br><br>
-🔹 <a href='https://fallinorg.com/#' target='_blank' rel='noopener noreferrer'>Show HN: Fallinorg - Offline Mac app that organizes files by meaning</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 15:40 UTC</small><br><br>
+🔹 <a href='https://clickhouse.com/blog/moosestack-does-olap-need-an-orm' target='_blank' rel='noopener noreferrer'>Does OLAP Need an ORM</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 16:03 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-17 17:48:06 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-17 18:14:33 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
