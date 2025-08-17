@@ -24,20 +24,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
+🔹 <a href='https://code.ffmpeg.org/FFmpeg/FFmpeg' target='_blank' rel='noopener noreferrer'>FFmpeg moves to Forgejo</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 11:08 UTC</small><br><br>
 🔹 <a href='https://treeform.github.io/devcompas/' target='_blank' rel='noopener noreferrer'>Dev Compass – Programming Philosophy Quiz</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 22:04 UTC</small><br><br>
 🔹 <a href='https://www.guidsmash.com' target='_blank' rel='noopener noreferrer'>Visualising how close random GUIDs come to being the same</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 22:11 UTC</small><br><br>
 🔹 <a href='https://dyna.org/' target='_blank' rel='noopener noreferrer'>Dyna – Logic Programming for Machine Learning</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 19:50 UTC</small><br><br>
 🔹 <a href='https://raft.github.io/' target='_blank' rel='noopener noreferrer'>The Raft Consensus Algorithm (2015)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 09:09 UTC</small><br><br>
 🔹 <a href='https://www.youtube.com/watch?v=3NyUgv6dpJc' target='_blank' rel='noopener noreferrer'>GDPR meant nothing: chat control ends privacy for the EU [video]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 00:21 UTC</small><br><br>
-🔹 <a href='https://aeon.co/essays/for-iris-murdoch-morality-is-about-love-not-duties-and-rules' target='_blank' rel='noopener noreferrer'>For Iris Murdoch, morality is about love, not duties and rules</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 06:12 UTC</small><br><br>
-🔹 <a href='https://pudding.cool/2025/08/onions/' target='_blank' rel='noopener noreferrer'>Dicing an Onion, the Mathematically Optimal Way</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 13:54 UTC</small><br><br>
-🔹 <a href='https://en.wikipedia.org/wiki/Pfeilstorch' target='_blank' rel='noopener noreferrer'>Pfeilstorch</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 09:07 UTC</small><br><br>
+🔹 <a href='https://jeclark.net/articles/tcp-initcwnd/?tag=performance' target='_blank' rel='noopener noreferrer'>An Argument for Increasing TCP's Initial Congestion Window Again</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 15:23 UTC</small><br><br>
+🔹 <a href='https://www.bbc.com/news/health-26888280' target='_blank' rel='noopener noreferrer'>Living with Williams Syndrome, the 'opposite of autism' (2014)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 21:12 UTC</small><br><br>
 🔹 <a href='https://progress.openai.com' target='_blank' rel='noopener noreferrer'>OpenAI Progress</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 15:47 UTC</small><br><br>
-🔹 <a href='https://www.openpa.net/hp-ux_office.html' target='_blank' rel='noopener noreferrer'>Office on HP-UX and Unix</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 18:36 UTC</small><br><br>
+🔹 <a href='https://pudding.cool/2025/08/onions/' target='_blank' rel='noopener noreferrer'>Dicing an Onion, the Mathematically Optimal Way</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 13:54 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-17 00:59:53 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-17 02:55:50 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
