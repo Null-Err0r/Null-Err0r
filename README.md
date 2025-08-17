@@ -27,17 +27,17 @@
 🔹 <a href='https://claudiacode.com/' target='_blank' rel='noopener noreferrer'>Claudia – Desktop companion for Claude code</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 17:26 UTC</small><br><br>
 🔹 <a href='https://github.com/ngafar/llama-scan' target='_blank' rel='noopener noreferrer'>Llama-Scan: Convert PDFs to Text W Local LLMs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 21:40 UTC</small><br><br>
 🔹 <a href='https://churchofturing.github.io/the-enterprise-experience.html' target='_blank' rel='noopener noreferrer'>The Enterprise Experience</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 16:53 UTC</small><br><br>
+🔹 <a href='https://blog.waldrn.com/p/the-decline-of-high-tech-manufacturing' target='_blank' rel='noopener noreferrer'>The decline of high-tech manufacturing in the United States</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 22:35 UTC</small><br><br>
 🔹 <a href='https://threedle.github.io/ll3m/' target='_blank' rel='noopener noreferrer'>LL3M: Large Language 3D Modelers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 11:20 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Show HN: OverType – A Markdown WYSIWYG editor that's just a textarea</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 16:13 UTC</small><br><br>
 🔹 <a href='https://tracker.archiveteam.org/goo-gl/' target='_blank' rel='noopener noreferrer'>ArchiveTeam has finished archiving all goo.gl short links</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 17:46 UTC</small><br><br>
 🔹 <a href='https://blog.demofox.org/2025/08/16/derivatives-gradients-jacobians-and-hessians-oh-my/' target='_blank' rel='noopener noreferrer'>Derivatives, Gradients, Jacobians and Hessians</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 14:08 UTC</small><br><br>
 🔹 <a href='https://www.bbc.co.uk/news/articles/c36x08jezw5o' target='_blank' rel='noopener noreferrer'>He found a bomb under a playground – and there were 176 more</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 10:13 UTC</small><br><br>
-🔹 <a href='https://blog.waldrn.com/p/the-decline-of-high-tech-manufacturing' target='_blank' rel='noopener noreferrer'>The decline of high-tech manufacturing in the United States</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 22:35 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Show HN: NextDNS Adds "Bypass Age Verification"</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 14:29 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-17 23:28:42 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-17 23:39:54 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
