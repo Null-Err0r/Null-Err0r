@@ -24,6 +24,7 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
+🔹 <a href='https://www.x-cmd.com/' target='_blank' rel='noopener noreferrer'>In one command use 500 open source tools</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 04:46 UTC</small><br><br>
 🔹 <a href='https://code.ffmpeg.org/FFmpeg/FFmpeg' target='_blank' rel='noopener noreferrer'>FFmpeg moves to Forgejo</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 11:08 UTC</small><br><br>
 🔹 <a href='https://treeform.github.io/devcompas/' target='_blank' rel='noopener noreferrer'>Dev Compass – Programming Philosophy Quiz</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 22:04 UTC</small><br><br>
 🔹 <a href='https://www.guidsmash.com' target='_blank' rel='noopener noreferrer'>Visualising how close random GUIDs come to being the same</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 22:11 UTC</small><br><br>
@@ -31,13 +32,12 @@
 🔹 <a href='https://dyna.org/' target='_blank' rel='noopener noreferrer'>Dyna – Logic Programming for Machine Learning</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 19:50 UTC</small><br><br>
 🔹 <a href='https://www.youtube.com/watch?v=3NyUgv6dpJc' target='_blank' rel='noopener noreferrer'>GDPR meant nothing: chat control ends privacy for the EU [video]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 00:21 UTC</small><br><br>
 🔹 <a href='https://raft.github.io/' target='_blank' rel='noopener noreferrer'>The Raft Consensus Algorithm (2015)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 09:09 UTC</small><br><br>
-🔹 <a href='https://progress.openai.com' target='_blank' rel='noopener noreferrer'>OpenAI Progress</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 15:47 UTC</small><br><br>
 🔹 <a href='https://www.neowin.net/news/hyundai-wants-ioniq-5-customers-to-pay-for-cybersecurity-patch-in-baffling-move/' target='_blank' rel='noopener noreferrer'>Hyundai wants loniq 5 customers to pay for cybersecurity patch in baffling move</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 02:49 UTC</small><br><br>
-🔹 <a href='https://pudding.cool/2025/08/onions/' target='_blank' rel='noopener noreferrer'>Dicing an Onion, the Mathematically Optimal Way</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 13:54 UTC</small><br><br>
+🔹 <a href='https://progress.openai.com' target='_blank' rel='noopener noreferrer'>OpenAI Progress</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 15:47 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-17 05:12:03 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-17 05:33:39 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
