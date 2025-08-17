@@ -26,18 +26,18 @@
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity' target='_blank' rel='noopener noreferrer'>Lessons learned from building a sync-engine and reactivity system with SQLite</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 06:51 UTC</small><br><br>
 🔹 <a href='https://marnetto.net/2025/02/20/broderbund-stunts-1' target='_blank' rel='noopener noreferrer'>SuperSight: A graphical enhancement mod for Brøderbund's "Stunts"</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 12:42 UTC</small><br><br>
+🔹 <a href='https://nicksimulator.com/' target='_blank' rel='noopener noreferrer'>Simulator of the life of a 30-year-old in the UK</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 08:44 UTC</small><br><br>
 🔹 <a href='https://nodejs.org/en/blog/release/v22.18.0' target='_blank' rel='noopener noreferrer'>Node.js can now execute TypeScript files</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 06:03 UTC</small><br><br>
 🔹 <a href='https://treeform.github.io/devcompas/' target='_blank' rel='noopener noreferrer'>Dev Compass – Programming Philosophy Quiz</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 22:04 UTC</small><br><br>
+🔹 <a href='https://danfabulich.medium.com/llms-tell-bad-jokes-because-they-avoid-surprises-7f111aac4f96' target='_blank' rel='noopener noreferrer'>LLMs tell bad jokes because they avoid surprises</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 17:53 UTC</small><br><br>
+🔹 <a href='https://github.com/Wan-Video/Wan2.2' target='_blank' rel='noopener noreferrer'>Wan – Open-source alternative to VEO 3</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 05:00 UTC</small><br><br>
 🔹 <a href='https://www.guidsmash.com' target='_blank' rel='noopener noreferrer'>Visualising how close random GUIDs come to being the same</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 22:11 UTC</small><br><br>
 🔹 <a href='https://jeclark.net/articles/tcp-initcwnd/?tag=performance' target='_blank' rel='noopener noreferrer'>An Argument for Increasing TCP's Initial Congestion Window Again</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 15:23 UTC</small><br><br>
-🔹 <a href='https://danfabulich.medium.com/llms-tell-bad-jokes-because-they-avoid-surprises-7f111aac4f96' target='_blank' rel='noopener noreferrer'>LLMs tell bad jokes because they avoid surprises</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 17:53 UTC</small><br><br>
-🔹 <a href='https://progress.openai.com' target='_blank' rel='noopener noreferrer'>OpenAI Progress</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 15:47 UTC</small><br><br>
 🔹 <a href='https://dyna.org/' target='_blank' rel='noopener noreferrer'>Dyna – Logic Programming for Machine Learning</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 19:50 UTC</small><br><br>
-🔹 <a href='https://www.neowin.net/news/hyundai-wants-ioniq-5-customers-to-pay-for-cybersecurity-patch-in-baffling-move/' target='_blank' rel='noopener noreferrer'>Hyundai wants loniq 5 customers to pay for cybersecurity patch in baffling move</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 02:49 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-17 08:52:35 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-17 09:10:43 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
