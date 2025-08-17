@@ -32,12 +32,12 @@
 🔹 <a href='https://www.trackingai.org/home' target='_blank' rel='noopener noreferrer'>IQ Tests Results for AI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 09:36 UTC</small><br><br>
 🔹 <a href='https://goose.icu/lambda/' target='_blank' rel='noopener noreferrer'>Eliminating JavaScript cold starts on AWS Lambda</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 11:44 UTC</small><br><br>
 🔹 <a href='https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity' target='_blank' rel='noopener noreferrer'>Lessons learned from building a sync-engine and reactivity system with SQLite</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 06:51 UTC</small><br><br>
-🔹 <a href='https://www.neowin.net/news/report-microsofts-latest-windows-11-24h2-update-breaks-ssdshdds-may-corrupt-your-data/' target='_blank' rel='noopener noreferrer'>Microsoft's latest Windows 11 24H2 update breaks SSDs/HDDs, may corrupt data</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 13:20 UTC</small><br><br>
 🔹 <a href='https://victoriametrics.com/blog/victorialogs-concepts-message-time-stream/index.html' target='_blank' rel='noopener noreferrer'>VictoriaLogs Practical Ingestion Guide for Message, Time and Streams</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 10:49 UTC</small><br><br>
+🔹 <a href='https://aerial-toothpaste-34a.notion.site/How-OpenAI-Misled-You-on-RLHF-1f83f742d9dd80a68129d06503464aff' target='_blank' rel='noopener noreferrer'>Dispelling misconceptions about RLHF</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 06:37 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-17 15:29:21 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-17 15:40:20 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
