@@ -29,15 +29,15 @@
 🔹 <a href='https://churchofturing.github.io/the-enterprise-experience.html' target='_blank' rel='noopener noreferrer'>The Enterprise Experience</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 16:53 UTC</small><br><br>
 🔹 <a href='https://threedle.github.io/ll3m/' target='_blank' rel='noopener noreferrer'>LL3M: Large Language 3D Modelers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 11:20 UTC</small><br><br>
 🔹 <a href='https://tracker.archiveteam.org/goo-gl/' target='_blank' rel='noopener noreferrer'>ArchiveTeam has finished archiving all goo.gl short links</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 17:46 UTC</small><br><br>
-🔹 <a href='https://blog.demofox.org/2025/08/16/derivatives-gradients-jacobians-and-hessians-oh-my/' target='_blank' rel='noopener noreferrer'>Derivatives, Gradients, Jacobians and Hessians</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 14:08 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Show HN: OverType – A Markdown WYSIWYG editor that's just a textarea</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 16:13 UTC</small><br><br>
+🔹 <a href='https://blog.demofox.org/2025/08/16/derivatives-gradients-jacobians-and-hessians-oh-my/' target='_blank' rel='noopener noreferrer'>Derivatives, Gradients, Jacobians and Hessians</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 14:08 UTC</small><br><br>
 🔹 <a href='https://github.com/algolia/hn-search/issues/248' target='_blank' rel='noopener noreferrer'>HN Search isn't ingesting new data since Friday</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 20:08 UTC</small><br><br>
 🔹 <a href='https://www.imj.org.il/en/collections/334459-0' target='_blank' rel='noopener noreferrer'>The Oldest Mask in the World (Pre-Pottery Neolithic B)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 16:29 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Show HN: NextDNS Adds "Bypass Age Verification"</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 14:29 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-17 21:27:50 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-17 21:38:11 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
