@@ -24,20 +24,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://derwiki.medium.com/do-things-that-dont-scale-and-then-don-t-scale-9fd2cd7e2156' target='_blank' rel='noopener noreferrer'>Do things that don't scale, and then don't scale</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 17:33 UTC</small><br><br>
-🔹 <a href='https://dyna.org/' target='_blank' rel='noopener noreferrer'>Dyna – Logic Programming for Machine Learning</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 19:50 UTC</small><br><br>
 🔹 <a href='https://treeform.github.io/devcompas/' target='_blank' rel='noopener noreferrer'>Dev Compass – Programming Philosophy Quiz</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 22:04 UTC</small><br><br>
+🔹 <a href='https://www.guidsmash.com' target='_blank' rel='noopener noreferrer'>Visualising how close random GUIDs come to being the same</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 22:11 UTC</small><br><br>
+🔹 <a href='https://dyna.org/' target='_blank' rel='noopener noreferrer'>Dyna – Logic Programming for Machine Learning</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 19:50 UTC</small><br><br>
 🔹 <a href='https://raft.github.io/' target='_blank' rel='noopener noreferrer'>The Raft Consensus Algorithm (2015)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 09:09 UTC</small><br><br>
-🔹 <a href='https://www.openpa.net/hp-ux_office.html' target='_blank' rel='noopener noreferrer'>Office on HP-UX and Unix</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 18:36 UTC</small><br><br>
+🔹 <a href='https://www.youtube.com/watch?v=3NyUgv6dpJc' target='_blank' rel='noopener noreferrer'>GDPR meant nothing: chat control ends privacy for the EU [video]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 00:21 UTC</small><br><br>
+🔹 <a href='https://aeon.co/essays/for-iris-murdoch-morality-is-about-love-not-duties-and-rules' target='_blank' rel='noopener noreferrer'>For Iris Murdoch, morality is about love, not duties and rules</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 06:12 UTC</small><br><br>
 🔹 <a href='https://pudding.cool/2025/08/onions/' target='_blank' rel='noopener noreferrer'>Dicing an Onion, the Mathematically Optimal Way</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 13:54 UTC</small><br><br>
 🔹 <a href='https://en.wikipedia.org/wiki/Pfeilstorch' target='_blank' rel='noopener noreferrer'>Pfeilstorch</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 09:07 UTC</small><br><br>
-🔹 <a href='https://www.troyhunt.com/that-16-billion-password-story-aka-data-troll/' target='_blank' rel='noopener noreferrer'>That 16 Billion Password Story (AKA "Data Troll")</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 20:01 UTC</small><br><br>
 🔹 <a href='https://progress.openai.com' target='_blank' rel='noopener noreferrer'>OpenAI Progress</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 15:47 UTC</small><br><br>
-🔹 <a href='https://aeon.co/essays/for-iris-murdoch-morality-is-about-love-not-duties-and-rules' target='_blank' rel='noopener noreferrer'>For Iris Murdoch, morality is about love, not duties and rules</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-13 06:12 UTC</small><br><br>
+🔹 <a href='https://www.openpa.net/hp-ux_office.html' target='_blank' rel='noopener noreferrer'>Office on HP-UX and Unix</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 18:36 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-16 23:46:51 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-17 00:59:53 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
