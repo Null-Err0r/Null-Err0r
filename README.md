@@ -25,19 +25,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://help.obsidian.md/bases' target='_blank' rel='noopener noreferrer'>Obsidian Bases</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 21:28 UTC</small><br><br>
+🔹 <a href='https://not-a-tech-bro.ghost.io/google-is-watching/' target='_blank' rel='noopener noreferrer'>Google Is Watching</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 21:36 UTC</small><br><br>
 🔹 <a href='https://github.com/epicenter-so/epicenter/tree/main/apps/whispering' target='_blank' rel='noopener noreferrer'>Show HN: Whispering – Open-source, local-first dictation you can trust</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 16:52 UTC</small><br><br>
 🔹 <a href='https://www.youtube.com/watch?v=sRPnX_f2V_c' target='_blank' rel='noopener noreferrer'>Show HN: We started building an AI dev tool but it turned into a Sims-style game</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 18:51 UTC</small><br><br>
 🔹 <a href='https://github.com/tiny-tpu-v2/tiny-tpu' target='_blank' rel='noopener noreferrer'>A minimal tensor processing unit (TPU), inspired by Google's TPU</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 20:34 UTC</small><br><br>
 🔹 <a href='https://graic.net/p/left-to-right-programming' target='_blank' rel='noopener noreferrer'>Left to Right Programming</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 17:08 UTC</small><br><br>
-🔹 <a href='https://scrollguard.app/' target='_blank' rel='noopener noreferrer'>Show HN: I built an app to block Shorts and Reels</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 14:01 UTC</small><br><br>
-🔹 <a href='https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad' target='_blank' rel='noopener noreferrer'>Spice Data (YC S19) Is Hiring a Product Associate (New Grad)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 21:31 UTC</small><br><br>
-🔹 <a href='https://www.nytimes.com/2025/08/18/arts/counter-strike-half-life-minh-le.html' target='_blank' rel='noopener noreferrer'>Counter-Strike: A billion-dollar game built in a dorm room</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 14:59 UTC</small><br><br>
-🔹 <a href='https://github.com/FFmpeg/asm-lessons' target='_blank' rel='noopener noreferrer'>FFmpeg Assembly Language Lessons</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 13:39 UTC</small><br><br>
 🔹 <a href='https://www.fractionaljobs.io' target='_blank' rel='noopener noreferrer'>Show HN: Fractional jobs – part-time roles for engineers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 21:10 UTC</small><br><br>
+🔹 <a href='https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad' target='_blank' rel='noopener noreferrer'>Spice Data (YC S19) Is Hiring a Product Associate (New Grad)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 21:31 UTC</small><br><br>
+🔹 <a href='https://scrollguard.app/' target='_blank' rel='noopener noreferrer'>Show HN: I built an app to block Shorts and Reels</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 14:01 UTC</small><br><br>
+🔹 <a href='https://www.nytimes.com/2025/08/18/arts/counter-strike-half-life-minh-le.html' target='_blank' rel='noopener noreferrer'>Counter-Strike: A billion-dollar game built in a dorm room</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 14:59 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-18 22:10:29 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-18 22:30:10 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
