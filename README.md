@@ -30,14 +30,14 @@
 🔹 <a href='https://emiruz.com/post/2025-08-17-statistical-reasoning/' target='_blank' rel='noopener noreferrer'>A short statistical reasoning test</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 06:55 UTC</small><br><br>
 🔹 <a href='https://claudiacode.com/' target='_blank' rel='noopener noreferrer'>Claudia – Desktop companion for Claude code</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 17:26 UTC</small><br><br>
 🔹 <a href='https://clojure.github.io/core.async/flow-guide.html' target='_blank' rel='noopener noreferrer'>Clojure Async Flow Guide</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 00:52 UTC</small><br><br>
-🔹 <a href='https://www.newyorker.com/magazine/2025/08/18/baldwin-a-love-story-nicholas-boggs-book-review' target='_blank' rel='noopener noreferrer'>The Lives and Loves of James Baldwin</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 22:53 UTC</small><br><br>
 🔹 <a href='https://github.com/ngafar/llama-scan' target='_blank' rel='noopener noreferrer'>Llama-Scan: Convert PDFs to Text W Local LLMs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 21:40 UTC</small><br><br>
+🔹 <a href='https://www.newyorker.com/magazine/2025/08/18/baldwin-a-love-story-nicholas-boggs-book-review' target='_blank' rel='noopener noreferrer'>The Lives and Loves of James Baldwin</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 22:53 UTC</small><br><br>
 🔹 <a href='https://churchofturing.github.io/the-enterprise-experience.html' target='_blank' rel='noopener noreferrer'>The Enterprise Experience</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 16:53 UTC</small><br><br>
 🔹 <a href='https://www.accc.gov.au/media-release/google-admits-anti-competitive-conduct-involving-google-search-in-australia' target='_blank' rel='noopener noreferrer'>Google admits anti-competitive conduct involving Google Search in Australia</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 02:54 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-18 09:43:40 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-18 09:53:41 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
