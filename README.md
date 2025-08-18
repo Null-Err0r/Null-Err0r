@@ -26,18 +26,18 @@
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://hyperclay.com/' target='_blank' rel='noopener noreferrer'>Web apps in a single, portable, self-updating, vanilla HTML file</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 06:38 UTC</small><br><br>
 🔹 <a href='https://science.nasa.gov/science-research/heliophysics/a-gigantic-jet-caught-on-camera-a-spritacular-moment-for-nasa-astronaut-nicole-ayers/' target='_blank' rel='noopener noreferrer'>A gigantic jet caught on camera: A spritacular moment for NASA astronaut</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 04:11 UTC</small><br><br>
-🔹 <a href='https://clojure.github.io/core.async/flow-guide.html' target='_blank' rel='noopener noreferrer'>Clojure Async Flow Guide</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 00:52 UTC</small><br><br>
-🔹 <a href='https://press.asimov.com/articles/leeches-and-the-legitimizing-of-folk-medicine' target='_blank' rel='noopener noreferrer'>Leeches and the Legitimizing of Folk-Medicine</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 15:29 UTC</small><br><br>
-🔹 <a href='https://www.newyorker.com/magazine/2025/08/18/baldwin-a-love-story-nicholas-boggs-book-review' target='_blank' rel='noopener noreferrer'>The Lives and Loves of James Baldwin</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 22:53 UTC</small><br><br>
 🔹 <a href='https://eli.thegreenplace.net/2018/unification/' target='_blank' rel='noopener noreferrer'>Unification (2018)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 07:11 UTC</small><br><br>
 🔹 <a href='https://claudiacode.com/' target='_blank' rel='noopener noreferrer'>Claudia – Desktop companion for Claude code</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 17:26 UTC</small><br><br>
+🔹 <a href='https://clojure.github.io/core.async/flow-guide.html' target='_blank' rel='noopener noreferrer'>Clojure Async Flow Guide</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 00:52 UTC</small><br><br>
+🔹 <a href='https://emiruz.com/post/2025-08-17-statistical-reasoning/' target='_blank' rel='noopener noreferrer'>A short statistical reasoning test</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 06:55 UTC</small><br><br>
 🔹 <a href='https://github.com/ngafar/llama-scan' target='_blank' rel='noopener noreferrer'>Llama-Scan: Convert PDFs to Text W Local LLMs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 21:40 UTC</small><br><br>
-🔹 <a href='https://www.accc.gov.au/media-release/google-admits-anti-competitive-conduct-involving-google-search-in-australia' target='_blank' rel='noopener noreferrer'>Google admits anti-competitive conduct involving Google Search in Australia</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 02:54 UTC</small><br><br>
+🔹 <a href='https://www.newyorker.com/magazine/2025/08/18/baldwin-a-love-story-nicholas-boggs-book-review' target='_blank' rel='noopener noreferrer'>The Lives and Loves of James Baldwin</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 22:53 UTC</small><br><br>
 🔹 <a href='https://churchofturing.github.io/the-enterprise-experience.html' target='_blank' rel='noopener noreferrer'>The Enterprise Experience</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 16:53 UTC</small><br><br>
+🔹 <a href='https://www.accc.gov.au/media-release/google-admits-anti-competitive-conduct-involving-google-search-in-australia' target='_blank' rel='noopener noreferrer'>Google admits anti-competitive conduct involving Google Search in Australia</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 02:54 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-18 08:17:34 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-18 08:48:41 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
