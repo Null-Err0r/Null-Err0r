@@ -25,19 +25,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://help.obsidian.md/bases' target='_blank' rel='noopener noreferrer'>Obsidian Bases</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 21:28 UTC</small><br><br>
-🔹 <a href='https://coppolaemilio.com/entries/what-could-have-been/' target='_blank' rel='noopener noreferrer'>Even if snap out of the AI bubble, we are never going to get these years back</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 22:29 UTC</small><br><br>
 🔹 <a href='https://www.fractionaljobs.io' target='_blank' rel='noopener noreferrer'>Show HN: Fractional jobs – part-time roles for engineers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 21:10 UTC</small><br><br>
-🔹 <a href='https://github.com/epicenter-so/epicenter/tree/main/apps/whispering' target='_blank' rel='noopener noreferrer'>Show HN: Whispering – Open-source, local-first dictation you can trust</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 16:52 UTC</small><br><br>
+🔹 <a href='https://coppolaemilio.com/entries/what-could-have-been/' target='_blank' rel='noopener noreferrer'>What could have been</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 22:29 UTC</small><br><br>
 🔹 <a href='https://github.com/tiny-tpu-v2/tiny-tpu' target='_blank' rel='noopener noreferrer'>A minimal tensor processing unit (TPU), inspired by Google's TPU</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 20:34 UTC</small><br><br>
+🔹 <a href='https://github.com/epicenter-so/epicenter/tree/main/apps/whispering' target='_blank' rel='noopener noreferrer'>Show HN: Whispering – Open-source, local-first dictation you can trust</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 16:52 UTC</small><br><br>
 🔹 <a href='https://www.youtube.com/watch?v=sRPnX_f2V_c' target='_blank' rel='noopener noreferrer'>Show HN: We started building an AI dev tool but it turned into a Sims-style game</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 18:51 UTC</small><br><br>
-🔹 <a href='https://graic.net/p/left-to-right-programming' target='_blank' rel='noopener noreferrer'>Left to Right Programming</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 17:08 UTC</small><br><br>
 🔹 <a href='https://apnews.com/article/dominion-voting-newsmax-defamation-trump-2020-3b2366dfdae3a8432afe822bf14fe1ef' target='_blank' rel='noopener noreferrer'>Newsmax agrees to pay $67M in defamation case over bogus 2020 election claims</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 22:23 UTC</small><br><br>
+🔹 <a href='https://www.smithsonianmag.com/smart-news/lab-grown-salmon-hits-the-menu-at-an-oregon-restaurant-as-the-fda-greenlights-the-cell-cultured-product-180986769/' target='_blank' rel='noopener noreferrer'>Lab-Grown Salmon Hits the Menu at an Oregon Restaurant as the FDA Greenlights</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 22:29 UTC</small><br><br>
 🔹 <a href='https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad' target='_blank' rel='noopener noreferrer'>Spice Data (YC S19) Is Hiring a Product Associate (New Grad)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 21:31 UTC</small><br><br>
-🔹 <a href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242171' target='_blank' rel='noopener noreferrer'>The Rising Returns to R&D: Ideas Are Not Getting Harder to Find</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 23:58 UTC</small><br><br>
+🔹 <a href='https://nadia.xyz/shameless' target='_blank' rel='noopener noreferrer'>Shamelessness as a strategy (2019)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 22:27 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-18 22:48:57 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-18 23:10:14 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
