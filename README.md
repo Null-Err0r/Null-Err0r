@@ -26,9 +26,9 @@
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://clojure.github.io/core.async/flow-guide.html' target='_blank' rel='noopener noreferrer'>Clojure Async Flow Guide</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 00:52 UTC</small><br><br>
 🔹 <a href='https://claudiacode.com/' target='_blank' rel='noopener noreferrer'>Claudia – Desktop companion for Claude code</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 17:26 UTC</small><br><br>
-🔹 <a href='https://churchofturing.github.io/the-enterprise-experience.html' target='_blank' rel='noopener noreferrer'>The Enterprise Experience</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 16:53 UTC</small><br><br>
-🔹 <a href='http://mark---lawrence.blogspot.com/2025/08/the-ai-vs-authors-results-part-2.html' target='_blank' rel='noopener noreferrer'>AI vs. Professional Authors Results</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 21:41 UTC</small><br><br>
+🔹 <a href='https://www.accc.gov.au/media-release/google-admits-anti-competitive-conduct-involving-google-search-in-australia' target='_blank' rel='noopener noreferrer'>Google admits anti-competitive conduct involving Google Search in Australia</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 02:54 UTC</small><br><br>
 🔹 <a href='https://codemia.io/blog/path/NUMA-Is-the-New-Network-How-Per-Socket-Memory-Models-Are-Reshaping-Microservice-Placement' target='_blank' rel='noopener noreferrer'>NUMA Is the New Network: Reshaping Per-Socket Microservice Placement</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 01:40 UTC</small><br><br>
+🔹 <a href='https://churchofturing.github.io/the-enterprise-experience.html' target='_blank' rel='noopener noreferrer'>The Enterprise Experience</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 16:53 UTC</small><br><br>
 🔹 <a href='https://natkr.com/2025-08-14-modifying-other-peoples-software/' target='_blank' rel='noopener noreferrer'>Modifying other people's software</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 03:32 UTC</small><br><br>
 🔹 <a href='https://github.com/bgreenwell/doxx' target='_blank' rel='noopener noreferrer'>Show HN: Doxx – Terminal .docx viewer inspired by Glow</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 19:52 UTC</small><br><br>
 🔹 <a href='https://github.com/ngafar/llama-scan' target='_blank' rel='noopener noreferrer'>Llama-Scan: Convert PDFs to Text W Local LLMs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 21:40 UTC</small><br><br>
@@ -37,7 +37,7 @@
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-18 02:58:24 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-18 03:59:58 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
