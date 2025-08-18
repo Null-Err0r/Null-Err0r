@@ -25,19 +25,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://www.youtube.com/watch?v=sRPnX_f2V_c' target='_blank' rel='noopener noreferrer'>Show HN: We started building an AI dev tool but it turned into a Sims-style game</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 18:51 UTC</small><br><br>
-🔹 <a href='https://graic.net/p/left-to-right-programming' target='_blank' rel='noopener noreferrer'>Left to Right Programming</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 17:08 UTC</small><br><br>
 🔹 <a href='https://github.com/epicenter-so/epicenter/tree/main/apps/whispering' target='_blank' rel='noopener noreferrer'>Show HN: Whispering – Open-source, local-first dictation you can trust</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 16:52 UTC</small><br><br>
+🔹 <a href='https://graic.net/p/left-to-right-programming' target='_blank' rel='noopener noreferrer'>Left to Right Programming</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 17:08 UTC</small><br><br>
 🔹 <a href='https://scrollguard.app/' target='_blank' rel='noopener noreferrer'>Show HN: I built an app to block Shorts and Reels</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 14:01 UTC</small><br><br>
 🔹 <a href='https://github.com/FFmpeg/asm-lessons' target='_blank' rel='noopener noreferrer'>FFmpeg Assembly Language Lessons</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 13:39 UTC</small><br><br>
 🔹 <a href='https://annas-archive.org/blog/an-update-from-the-team.html' target='_blank' rel='noopener noreferrer'>Anna's Archive: An Update from the Team</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 16:31 UTC</small><br><br>
 🔹 <a href='https://arstechnica.com/tech-policy/2025/08/t-mobile-claimed-selling-location-data-without-consent-is-legal-judges-disagree/' target='_blank' rel='noopener noreferrer'>T-Mobile claimed selling location data without consent is legal–judges disagree</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 19:25 UTC</small><br><br>
-🔹 <a href='https://www.realitydefender.com/platform/api' target='_blank' rel='noopener noreferrer'>Launch HN: Reality Defender (YC W22) – API for Deepfake and GenAI Detection</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 15:16 UTC</small><br><br>
 🔹 <a href='https://www.asimov.press/p/cell-weight' target='_blank' rel='noopener noreferrer'>The Weight of a Cell</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 15:29 UTC</small><br><br>
-🔹 <a href='https://5wgraphicsblog.com/2016/10/24/the-cutaway-illustrations-of-fred-freeman/' target='_blank' rel='noopener noreferrer'>The Cutaway Illustrations of Fred Freeman</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 09:41 UTC</small><br><br>
+🔹 <a href='https://github.com/tiny-tpu-v2/tiny-tpu' target='_blank' rel='noopener noreferrer'>A minimal tensor processing unit (TPU), inspired by Google's TPU</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 20:34 UTC</small><br><br>
+🔹 <a href='https://www.realitydefender.com/platform/api' target='_blank' rel='noopener noreferrer'>Launch HN: Reality Defender (YC W22) – API for Deepfake and GenAI Detection</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 15:16 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-18 20:31:34 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-18 20:48:27 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
