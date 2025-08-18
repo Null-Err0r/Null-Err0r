@@ -27,17 +27,17 @@
 🔹 <a href='https://github.com/FFmpeg/asm-lessons' target='_blank' rel='noopener noreferrer'>FFmpeg Assembly Language Lessons</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 13:39 UTC</small><br><br>
 🔹 <a href='https://scrollguard.app/' target='_blank' rel='noopener noreferrer'>Show HN: I built an app to block Shorts and Reels</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 14:01 UTC</small><br><br>
 🔹 <a href='https://hyperclay.com/' target='_blank' rel='noopener noreferrer'>Web apps in a single, portable, self-updating, vanilla HTML file</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 06:38 UTC</small><br><br>
+🔹 <a href='https://www.realitydefender.com/platform/api' target='_blank' rel='noopener noreferrer'>Launch HN: Reality Defender (YC W22) – API for Deepfake and GenAI Detection</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 15:16 UTC</small><br><br>
 🔹 <a href='https://github.com/wieslawsoltes/HackerNewsWatch' target='_blank' rel='noopener noreferrer'>Show HN: A Minimal Hacker News Reader for Apple Watch Built with SwiftUI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 14:22 UTC</small><br><br>
-🔹 <a href='https://lucumr.pocoo.org/2025/8/18/code-mcps/' target='_blank' rel='noopener noreferrer'>MCP doesn't need tools, it needs code</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 09:53 UTC</small><br><br>
-🔹 <a href='https://medicalxpress.com/news/2025-08-alternative-lasik-lasers.html' target='_blank' rel='noopener noreferrer'>Electromechanical reshaping,  an alternative to laser eye surgery</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 09:35 UTC</small><br><br>
 🔹 <a href='https://www.axios.com/2025/08/18/ai-jobs-layoffs' target='_blank' rel='noopener noreferrer'>AI is predominantly replacing outsourced, offshore workers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 14:20 UTC</small><br><br>
+🔹 <a href='https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/' target='_blank' rel='noopener noreferrer'>95% of AI Pilots Failing</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 14:36 UTC</small><br><br>
+🔹 <a href='https://lucumr.pocoo.org/2025/8/18/code-mcps/' target='_blank' rel='noopener noreferrer'>MCP doesn't need tools, it needs code</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 09:53 UTC</small><br><br>
 🔹 <a href='http://www.technoblogy.com/show?2AON' target='_blank' rel='noopener noreferrer'>Walkie-Textie Wireless Communicator</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 12:08 UTC</small><br><br>
 🔹 <a href='https://science.nasa.gov/science-research/heliophysics/a-gigantic-jet-caught-on-camera-a-spritacular-moment-for-nasa-astronaut-nicole-ayers/' target='_blank' rel='noopener noreferrer'>A gigantic jet caught on camera: A spritacular moment for NASA astronaut</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 04:11 UTC</small><br><br>
-🔹 <a href='https://abramsplanetarium.org/SkyCalendar/index.html' target='_blank' rel='noopener noreferrer'>Sky Calendar</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 14:24 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-18 15:12:26 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-18 15:34:55 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
