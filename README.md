@@ -27,17 +27,17 @@
 🔹 <a href='https://hyperclay.com/' target='_blank' rel='noopener noreferrer'>Web apps in a single, portable, self-updating, vanilla HTML file</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 06:38 UTC</small><br><br>
 🔹 <a href='https://lucumr.pocoo.org/2025/8/18/code-mcps/' target='_blank' rel='noopener noreferrer'>MCP Doesn't Need 30 Tools: It Needs Code</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 09:53 UTC</small><br><br>
 🔹 <a href='https://science.nasa.gov/science-research/heliophysics/a-gigantic-jet-caught-on-camera-a-spritacular-moment-for-nasa-astronaut-nicole-ayers/' target='_blank' rel='noopener noreferrer'>A gigantic jet caught on camera: A spritacular moment for NASA astronaut</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 04:11 UTC</small><br><br>
-🔹 <a href='https://medicalxpress.com/news/2025-08-alternative-lasik-lasers.html' target='_blank' rel='noopener noreferrer'>An alternative to LASIK eye surgery – electromechanical remodelling</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 09:35 UTC</small><br><br>
 🔹 <a href='https://vlaaad.github.io/mcp-tools-with-dependent-types' target='_blank' rel='noopener noreferrer'>MCP Tools and Dependent Types</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 10:02 UTC</small><br><br>
+🔹 <a href='https://medicalxpress.com/news/2025-08-alternative-lasik-lasers.html' target='_blank' rel='noopener noreferrer'>An alternative to LASIK eye surgery – electromechanical remodelling</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 09:35 UTC</small><br><br>
 🔹 <a href='https://eli.thegreenplace.net/2018/unification/' target='_blank' rel='noopener noreferrer'>Unification (2018)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 07:11 UTC</small><br><br>
 🔹 <a href='https://claudiacode.com/' target='_blank' rel='noopener noreferrer'>Claudia – Desktop companion for Claude code</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 17:26 UTC</small><br><br>
-🔹 <a href='https://emiruz.com/post/2025-08-17-statistical-reasoning/' target='_blank' rel='noopener noreferrer'>A short statistical reasoning test</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 06:55 UTC</small><br><br>
 🔹 <a href='https://www.newyorker.com/magazine/2025/08/18/baldwin-a-love-story-nicholas-boggs-book-review' target='_blank' rel='noopener noreferrer'>The Lives and Loves of James Baldwin</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 22:53 UTC</small><br><br>
+🔹 <a href='https://roguesecurity.dev/blog/systemd-hardening' target='_blank' rel='noopener noreferrer'>SystemD Service Hardening</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 04:57 UTC</small><br><br>
 🔹 <a href='https://clojure.github.io/core.async/flow-guide.html' target='_blank' rel='noopener noreferrer'>Clojure Async Flow Guide</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 00:52 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-18 11:38:48 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-18 11:47:48 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
