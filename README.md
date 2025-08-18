@@ -24,20 +24,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://people.idsia.ch/~juergen/who-invented-backpropagation.html' target='_blank' rel='noopener noreferrer'>Who Invented Backpropagation?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 15:50 UTC</small><br><br>
 🔹 <a href='https://annas-archive.org/blog/an-update-from-the-team.html' target='_blank' rel='noopener noreferrer'>Anna's Archive: An Update from the Team</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 16:31 UTC</small><br><br>
 🔹 <a href='https://github.com/FFmpeg/asm-lessons' target='_blank' rel='noopener noreferrer'>FFmpeg Assembly Language Lessons</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 13:39 UTC</small><br><br>
 🔹 <a href='https://scrollguard.app/' target='_blank' rel='noopener noreferrer'>Show HN: I built an app to block Shorts and Reels</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 14:01 UTC</small><br><br>
-🔹 <a href='https://www.realitydefender.com/platform/api' target='_blank' rel='noopener noreferrer'>Launch HN: Reality Defender (YC W22) – API for Deepfake and GenAI Detection</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 15:16 UTC</small><br><br>
+🔹 <a href='https://blog.gingerbeardman.com/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/' target='_blank' rel='noopener noreferrer'>Turning an iPad Pro into the Ultimate Classic Macintosh</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 17:09 UTC</small><br><br>
+🔹 <a href='https://people.idsia.ch/~juergen/who-invented-backpropagation.html' target='_blank' rel='noopener noreferrer'>Who Invented Backpropagation?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 15:50 UTC</small><br><br>
 🔹 <a href='https://www.asimov.press/p/cell-weight' target='_blank' rel='noopener noreferrer'>The Weight of a Cell</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 15:29 UTC</small><br><br>
+🔹 <a href='https://www.realitydefender.com/platform/api' target='_blank' rel='noopener noreferrer'>Launch HN: Reality Defender (YC W22) – API for Deepfake and GenAI Detection</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 15:16 UTC</small><br><br>
 🔹 <a href='https://hyperclay.com/' target='_blank' rel='noopener noreferrer'>Web apps in a single, portable, self-updating, vanilla HTML file</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 06:38 UTC</small><br><br>
+🔹 <a href='https://www.nytimes.com/2025/08/18/arts/counter-strike-half-life-minh-le.html' target='_blank' rel='noopener noreferrer'>Counter-Strike: A billion-dollar game built in a dorm room</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 14:59 UTC</small><br><br>
 🔹 <a href='https://sdiehl.github.io/typechecker-zoo/' target='_blank' rel='noopener noreferrer'>Typechecker Zoo</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 19:11 UTC</small><br><br>
-🔹 <a href='https://medicalxpress.com/news/2025-08-alternative-lasik-lasers.html' target='_blank' rel='noopener noreferrer'>Electromechanical reshaping,  an alternative to laser eye surgery</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 09:35 UTC</small><br><br>
-🔹 <a href='https://github.com/wieslawsoltes/HackerNewsWatch' target='_blank' rel='noopener noreferrer'>Show HN: A Minimal Hacker News Reader for Apple Watch Built with SwiftUI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 14:22 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-18 16:57:26 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-18 17:16:23 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
