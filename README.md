@@ -33,11 +33,11 @@
 🔹 <a href='https://clojure.github.io/core.async/flow-guide.html' target='_blank' rel='noopener noreferrer'>Clojure Async Flow Guide</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 00:52 UTC</small><br><br>
 🔹 <a href='https://github.com/ngafar/llama-scan' target='_blank' rel='noopener noreferrer'>Llama-Scan: Convert PDFs to Text W Local LLMs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 21:40 UTC</small><br><br>
 🔹 <a href='https://churchofturing.github.io/the-enterprise-experience.html' target='_blank' rel='noopener noreferrer'>The Enterprise Experience</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 16:53 UTC</small><br><br>
-🔹 <a href='https://www.heritagedaily.com/2025/08/viking-age-hoard-reveals-trade-between-england-and-the-islamic-world/155786' target='_blank' rel='noopener noreferrer'>Viking-Age hoard reveals trade between England and the Islamic World</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 12:34 UTC</small><br><br>
+🔹 <a href='https://roguesecurity.dev/blog/systemd-hardening' target='_blank' rel='noopener noreferrer'>SystemD Service Hardening</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 04:57 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-18 10:12:56 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-18 10:40:06 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
