@@ -31,13 +31,13 @@
 🔹 <a href='https://press.asimov.com/articles/leeches-and-the-legitimizing-of-folk-medicine' target='_blank' rel='noopener noreferrer'>Leeches and the Legitimizing of Folk-Medicine</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-14 15:29 UTC</small><br><br>
 🔹 <a href='https://www.accc.gov.au/media-release/google-admits-anti-competitive-conduct-involving-google-search-in-australia' target='_blank' rel='noopener noreferrer'>Google admits anti-competitive conduct involving Google Search in Australia</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 02:54 UTC</small><br><br>
 🔹 <a href='https://github.com/ngafar/llama-scan' target='_blank' rel='noopener noreferrer'>Llama-Scan: Convert PDFs to Text W Local LLMs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 21:40 UTC</small><br><br>
-🔹 <a href='https://codemia.io/blog/path/NUMA-Is-the-New-Network-How-Per-Socket-Memory-Models-Are-Reshaping-Microservice-Placement' target='_blank' rel='noopener noreferrer'>Non-Uniform Memory Access (NUMA) is reshaping microservice placement</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 01:40 UTC</small><br><br>
 🔹 <a href='https://churchofturing.github.io/the-enterprise-experience.html' target='_blank' rel='noopener noreferrer'>The Enterprise Experience</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 16:53 UTC</small><br><br>
+🔹 <a href='https://codemia.io/blog/path/NUMA-Is-the-New-Network-How-Per-Socket-Memory-Models-Are-Reshaping-Microservice-Placement' target='_blank' rel='noopener noreferrer'>Non-Uniform Memory Access (NUMA) is reshaping microservice placement</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 01:40 UTC</small><br><br>
 🔹 <a href='https://github.com/google/mangle' target='_blank' rel='noopener noreferrer'>Mangle – a language for deductive database programming</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 00:55 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-18 07:15:34 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-18 07:40:04 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
