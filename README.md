@@ -27,17 +27,17 @@
 🔹 <a href='https://annas-archive.org/blog/an-update-from-the-team.html' target='_blank' rel='noopener noreferrer'>Anna's Archive: An Update from the Team</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 16:31 UTC</small><br><br>
 🔹 <a href='https://www.youtube.com/watch?v=sRPnX_f2V_c' target='_blank' rel='noopener noreferrer'>Show HN: We started building an AI dev tool but it turned into a Sims-style game</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 18:51 UTC</small><br><br>
 🔹 <a href='https://www.myretrotvs.com/' target='_blank' rel='noopener noreferrer'>My Retro TVs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 16:40 UTC</small><br><br>
-🔹 <a href='https://github.com/FFmpeg/asm-lessons' target='_blank' rel='noopener noreferrer'>FFmpeg Assembly Language Lessons</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 13:39 UTC</small><br><br>
-🔹 <a href='https://www.sustainabilitybynumbers.com/p/electric-car-battery-degradation' target='_blank' rel='noopener noreferrer'>How much do electric car batteries degrade?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 17:53 UTC</small><br><br>
 🔹 <a href='https://github.com/epicenter-so/epicenter/tree/main/apps/whispering' target='_blank' rel='noopener noreferrer'>Show HN: Whispering – Open-source, local-first dictation you can trust</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 16:52 UTC</small><br><br>
+🔹 <a href='https://www.sustainabilitybynumbers.com/p/electric-car-battery-degradation' target='_blank' rel='noopener noreferrer'>How much do electric car batteries degrade?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 17:53 UTC</small><br><br>
 🔹 <a href='https://scrollguard.app/' target='_blank' rel='noopener noreferrer'>Show HN: I built an app to block Shorts and Reels</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 14:01 UTC</small><br><br>
+🔹 <a href='https://github.com/FFmpeg/asm-lessons' target='_blank' rel='noopener noreferrer'>FFmpeg Assembly Language Lessons</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 13:39 UTC</small><br><br>
 🔹 <a href='https://5wgraphicsblog.com/2016/10/24/the-cutaway-illustrations-of-fred-freeman/' target='_blank' rel='noopener noreferrer'>The Cutaway Illustrations of Fred Freeman</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 09:41 UTC</small><br><br>
 🔹 <a href='https://arxiv.org/abs/2501.04765' target='_blank' rel='noopener noreferrer'>TREAD: Token Routing for Efficient Architecture-Agnostic Diffusion Training</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 17:29 UTC</small><br><br>
 🔹 <a href='https://www.asimov.press/p/cell-weight' target='_blank' rel='noopener noreferrer'>The Weight of a Cell</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 15:29 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-18 19:26:48 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-18 19:36:54 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
