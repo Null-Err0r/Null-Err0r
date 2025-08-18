@@ -26,18 +26,18 @@
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://annas-archive.org/blog/an-update-from-the-team.html' target='_blank' rel='noopener noreferrer'>Anna's Archive: An Update from the Team</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 16:31 UTC</small><br><br>
 🔹 <a href='https://blog.gingerbeardman.com/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/' target='_blank' rel='noopener noreferrer'>Turning an iPad Pro into the Ultimate Classic Macintosh</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 17:09 UTC</small><br><br>
+🔹 <a href='https://wiki.archiveteam.org/index.php/Robots.txt' target='_blank' rel='noopener noreferrer'>Robots.txt Is a Suicide Note (2011)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 17:20 UTC</small><br><br>
 🔹 <a href='https://github.com/FFmpeg/asm-lessons' target='_blank' rel='noopener noreferrer'>FFmpeg Assembly Language Lessons</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 13:39 UTC</small><br><br>
 🔹 <a href='https://scrollguard.app/' target='_blank' rel='noopener noreferrer'>Show HN: I built an app to block Shorts and Reels</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 14:01 UTC</small><br><br>
-🔹 <a href='https://wiki.archiveteam.org/index.php/Robots.txt' target='_blank' rel='noopener noreferrer'>Robots.txt Is a Suicide Note</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 17:20 UTC</small><br><br>
 🔹 <a href='https://www.myretrotvs.com/' target='_blank' rel='noopener noreferrer'>My Retro TVs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 16:40 UTC</small><br><br>
-🔹 <a href='https://people.idsia.ch/~juergen/who-invented-backpropagation.html' target='_blank' rel='noopener noreferrer'>Who Invented Backpropagation?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 15:50 UTC</small><br><br>
-🔹 <a href='https://www.realitydefender.com/platform/api' target='_blank' rel='noopener noreferrer'>Launch HN: Reality Defender (YC W22) – API for Deepfake and GenAI Detection</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 15:16 UTC</small><br><br>
 🔹 <a href='https://www.asimov.press/p/cell-weight' target='_blank' rel='noopener noreferrer'>The Weight of a Cell</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 15:29 UTC</small><br><br>
 🔹 <a href='https://arxiv.org/abs/2501.04765' target='_blank' rel='noopener noreferrer'>TREAD: Token Routing for Efficient Architecture-Agnostic Diffusion Training</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 17:29 UTC</small><br><br>
+🔹 <a href='https://people.idsia.ch/~juergen/who-invented-backpropagation.html' target='_blank' rel='noopener noreferrer'>Who Invented Backpropagation?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 15:50 UTC</small><br><br>
+🔹 <a href='https://www.realitydefender.com/platform/api' target='_blank' rel='noopener noreferrer'>Launch HN: Reality Defender (YC W22) – API for Deepfake and GenAI Detection</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 15:16 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-18 17:41:22 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-18 17:50:49 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
