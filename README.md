@@ -27,17 +27,17 @@
 🔹 <a href='https://lazybrush.dulnan.net' target='_blank' rel='noopener noreferrer'>Lazy-brush – smooth drawing with mouse or finger</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 18:30 UTC</small><br><br>
 🔹 <a href='https://github.com/ClemensElflein/OpenMower' target='_blank' rel='noopener noreferrer'>OpenMower – An open source lawn mower</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 00:35 UTC</small><br><br>
 🔹 <a href='https://www.cnbc.com/2025/08/15/croatia-digital-nomad-visa.html' target='_blank' rel='noopener noreferrer'>Croatia just revised its digital nomad visa to last up to 3 years</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 17:55 UTC</small><br><br>
+🔹 <a href='https://susam.net/primegrid.html' target='_blank' rel='noopener noreferrer'>Prime Number Grid</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 07:33 UTC</small><br><br>
 🔹 <a href='https://www.popsci.com/technology/tibetan-prayer-scroll-scans/' target='_blank' rel='noopener noreferrer'>X-ray scans reveal Buddhist prayers inside tiny Tibetan scrolls</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 20:54 UTC</small><br><br>
 🔹 <a href='https://github.com/tiny-tpu-v2/tiny-tpu' target='_blank' rel='noopener noreferrer'>Tiny-tpu: A minimal tensor processing unit (TPU), inspired by Google's TPU</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 20:34 UTC</small><br><br>
 🔹 <a href='https://github.com/epicenter-so/epicenter/tree/main/apps/whispering' target='_blank' rel='noopener noreferrer'>Show HN: Whispering – Open-source, local-first dictation you can trust</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 16:52 UTC</small><br><br>
 🔹 <a href='https://help.obsidian.md/bases' target='_blank' rel='noopener noreferrer'>Obsidian Bases</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 21:28 UTC</small><br><br>
 🔹 <a href='https://www.nytimes.com/2025/08/18/arts/counter-strike-half-life-minh-le.html' target='_blank' rel='noopener noreferrer'>Counter-Strike: A billion-dollar game built in a dorm room</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 14:59 UTC</small><br><br>
 🔹 <a href='https://scrollguard.app/' target='_blank' rel='noopener noreferrer'>Show HN: I built an app to block Shorts and Reels</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 14:01 UTC</small><br><br>
-🔹 <a href='https://graic.net/p/left-to-right-programming' target='_blank' rel='noopener noreferrer'>Left to Right Programming</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 17:08 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-19 07:28:38 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-19 07:38:59 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
