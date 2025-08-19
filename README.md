@@ -26,18 +26,18 @@
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://h4x0r.org/futex/' target='_blank' rel='noopener noreferrer'>Without the Futex, It's Futile</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 13:53 UTC</small><br><br>
 🔹 <a href='https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/' target='_blank' rel='noopener noreferrer'>How We Exploited CodeRabbit: From Simple PR to RCE and Write Access on 1M Repos</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 15:55 UTC</small><br><br>
+🔹 <a href='https://xenodium.com/emacs-as-your-video-trimming-tool' target='_blank' rel='noopener noreferrer'>Emacs as your video-trimming tool</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 16:22 UTC</small><br><br>
 🔹 <a href='https://github.com/whatwg/html/pull/11563' target='_blank' rel='noopener noreferrer'>Chrome intends to remove XSLT from the HTML spec</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 14:48 UTC</small><br><br>
 🔹 <a href='https://www.svendewaerhert.com/blog/telescope-mount/' target='_blank' rel='noopener noreferrer'>Custom telescope mount using harmonic drives and ESP32</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 09:46 UTC</small><br><br>
-🔹 <a href='https://xenodium.com/emacs-as-your-video-trimming-tool' target='_blank' rel='noopener noreferrer'>Emacs as your video-trimming tool</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 16:22 UTC</small><br><br>
-🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Parachute (YC S25) – Guardrails for Clinical AI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 14:53 UTC</small><br><br>
 🔹 <a href='https://cpldcpu.com/2025/08/13/candle-flame-oscillations-as-a-clock/' target='_blank' rel='noopener noreferrer'>Candle Flame Oscillations as a Clock</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 07:49 UTC</small><br><br>
-🔹 <a href='https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html' target='_blank' rel='noopener noreferrer'>Critical Cache Poisoning Vulnerability in Dnsmasq</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 12:56 UTC</small><br><br>
+🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Parachute (YC S25) – Guardrails for Clinical AI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 14:53 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Uplift (YC S25) – Voice models for under-served languages</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 12:10 UTC</small><br><br>
+🔹 <a href='https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html' target='_blank' rel='noopener noreferrer'>Critical Cache Poisoning Vulnerability in Dnsmasq</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 12:56 UTC</small><br><br>
 🔹 <a href='https://lazybrush.dulnan.net' target='_blank' rel='noopener noreferrer'>Lazy-brush – smooth drawing with mouse or finger</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 18:30 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-19 16:53:32 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-19 17:09:50 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
