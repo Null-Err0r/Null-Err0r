@@ -27,17 +27,17 @@
 🔹 <a href='https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/' target='_blank' rel='noopener noreferrer'>How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 15:55 UTC</small><br><br>
 🔹 <a href='https://xenodium.com/emacs-as-your-video-trimming-tool' target='_blank' rel='noopener noreferrer'>Emacs as your video-trimming tool</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 16:22 UTC</small><br><br>
 🔹 <a href='https://h4x0r.org/futex/' target='_blank' rel='noopener noreferrer'>Without the futex, it's futile</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 13:53 UTC</small><br><br>
+🔹 <a href='https://www.figma.com/blog/how-figmas-multiplayer-technology-works/' target='_blank' rel='noopener noreferrer'>Figma's Multiplayer Technology (2019)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 11:41 UTC</small><br><br>
 🔹 <a href='https://cpldcpu.com/2025/08/13/candle-flame-oscillations-as-a-clock/' target='_blank' rel='noopener noreferrer'>Candle Flame Oscillations as a Clock</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 07:49 UTC</small><br><br>
+🔹 <a href='https://www.atlasobscura.com/articles/derinkuyu-turkey-underground-city-strange-maps' target='_blank' rel='noopener noreferrer'>A renovation project in Turkey led to the discovery of a lost city (2023)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 15:34 UTC</small><br><br>
 🔹 <a href='https://www.svendewaerhert.com/blog/telescope-mount/' target='_blank' rel='noopener noreferrer'>Custom telescope mount using harmonic drives and ESP32</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 09:46 UTC</small><br><br>
 🔹 <a href='https://posit.co/blog/positron-product-announcement-aug-2025/' target='_blank' rel='noopener noreferrer'>Positron, a New Data Science IDE</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 14:20 UTC</small><br><br>
-🔹 <a href='https://www.atlasobscura.com/articles/derinkuyu-turkey-underground-city-strange-maps' target='_blank' rel='noopener noreferrer'>A renovation project in Turkey led to the discovery of a lost city (2023)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 15:34 UTC</small><br><br>
-🔹 <a href='https://github.com/whatwg/html/pull/11563' target='_blank' rel='noopener noreferrer'>"Remove mentions of XSLT from the html spec"</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 14:48 UTC</small><br><br>
+🔹 <a href='https://www.theguardian.com/technology/2025/aug/18/shut-it-down-and-start-again-staff-disquiet-as-alan-turing-institute-faces-identity-crisis' target='_blank' rel='noopener noreferrer'>Staff disquiet as Alan Turing Institute faces identity crisis</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 06:18 UTC</small><br><br>
 🔹 <a href='https://lazybrush.dulnan.net' target='_blank' rel='noopener noreferrer'>Lazy-brush – smooth drawing with mouse or finger</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 18:30 UTC</small><br><br>
-🔹 <a href='https://trychroma.com/cloud' target='_blank' rel='noopener noreferrer'>Show HN: Chroma Cloud – serverless search database for AI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 19:20 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-19 17:48:44 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-19 18:15:22 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
