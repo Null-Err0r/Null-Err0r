@@ -33,11 +33,11 @@
 🔹 <a href='https://github.com/epicenter-so/epicenter/tree/main/apps/whispering' target='_blank' rel='noopener noreferrer'>Show HN: Whispering – Open-source, local-first dictation you can trust</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 16:52 UTC</small><br><br>
 🔹 <a href='https://help.obsidian.md/bases' target='_blank' rel='noopener noreferrer'>Obsidian Bases</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 21:28 UTC</small><br><br>
 🔹 <a href='https://www.nytimes.com/2025/08/18/arts/counter-strike-half-life-minh-le.html' target='_blank' rel='noopener noreferrer'>Counter-Strike: A billion-dollar game built in a dorm room</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 14:59 UTC</small><br><br>
-🔹 <a href='https://scrollguard.app/' target='_blank' rel='noopener noreferrer'>Show HN: I built an app to block Shorts and Reels</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 14:01 UTC</small><br><br>
+🔹 <a href='https://archaeology.org/issues/september-october-2025/features/how-to-build-a-medieval-castle/' target='_blank' rel='noopener noreferrer'>How to Build a Medieval Castle</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 04:49 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-19 07:38:59 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-19 07:47:17 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
