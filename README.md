@@ -29,15 +29,15 @@
 🔹 <a href='https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html' target='_blank' rel='noopener noreferrer'>Critical Cache Poisoning Vulnerability in Dnsmasq</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 12:56 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Uplift (YC S25) – Voice models for under-served languages</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 12:10 UTC</small><br><br>
 🔹 <a href='https://lazybrush.dulnan.net' target='_blank' rel='noopener noreferrer'>Lazy-brush – smooth drawing with mouse or finger</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 18:30 UTC</small><br><br>
-🔹 <a href='https://blog.pypi.org/posts/2025-08-18-preventing-domain-resurrections/' target='_blank' rel='noopener noreferrer'>PyPI Preventing Domain Resurrection Attacks</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 10:32 UTC</small><br><br>
 🔹 <a href='https://susam.net/primegrid.html' target='_blank' rel='noopener noreferrer'>Prime Number Grid</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 07:33 UTC</small><br><br>
-🔹 <a href='https://github.com/ClemensElflein/OpenMower' target='_blank' rel='noopener noreferrer'>OpenMower – An open source lawn mower</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 00:35 UTC</small><br><br>
+🔹 <a href='https://blog.pypi.org/posts/2025-08-18-preventing-domain-resurrections/' target='_blank' rel='noopener noreferrer'>PyPI Preventing Domain Resurrection Attacks</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 10:32 UTC</small><br><br>
 🔹 <a href='https://tangled.sh/@adam.tngl.sh/vim-beancounting' target='_blank' rel='noopener noreferrer'>Vim Macros for Beancount</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 12:52 UTC</small><br><br>
-🔹 <a href='https://archaeology.org/issues/september-october-2025/features/how-to-build-a-medieval-castle/' target='_blank' rel='noopener noreferrer'>How to Build a Medieval Castle</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 04:49 UTC</small><br><br>
+🔹 <a href='https://www.theregister.com/2025/08/19/uk_commissioner_suggests_govt_stop/' target='_blank' rel='noopener noreferrer'>End well, this won't: UK commissioner suggests govt stops kids from using VPNs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 14:24 UTC</small><br><br>
+🔹 <a href='https://github.com/ClemensElflein/OpenMower' target='_blank' rel='noopener noreferrer'>OpenMower – An open source lawn mower</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 00:35 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-19 14:33:46 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-19 14:51:07 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
