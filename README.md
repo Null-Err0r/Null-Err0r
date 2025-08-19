@@ -28,16 +28,16 @@
 🔹 <a href='https://github.com/ClemensElflein/OpenMower' target='_blank' rel='noopener noreferrer'>OpenMower – An Open Source Lawn Mower</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 00:35 UTC</small><br><br>
 🔹 <a href='https://www.smithsonianmag.com/smart-news/lab-grown-salmon-hits-the-menu-at-an-oregon-restaurant-as-the-fda-greenlights-the-cell-cultured-product-180986769/' target='_blank' rel='noopener noreferrer'>Lab-grown salmon hits the menu</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 22:29 UTC</small><br><br>
 🔹 <a href='https://www.popsci.com/technology/tibetan-prayer-scroll-scans/' target='_blank' rel='noopener noreferrer'>X-ray scans reveal Buddhist prayers inside tiny Tibetan scrolls</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 20:54 UTC</small><br><br>
-🔹 <a href='https://github.com/tiny-tpu-v2/tiny-tpu' target='_blank' rel='noopener noreferrer'>A minimal tensor processing unit (TPU), inspired by Google's TPU</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 20:34 UTC</small><br><br>
 🔹 <a href='https://help.obsidian.md/bases' target='_blank' rel='noopener noreferrer'>Obsidian Bases</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 21:28 UTC</small><br><br>
+🔹 <a href='https://github.com/tiny-tpu-v2/tiny-tpu' target='_blank' rel='noopener noreferrer'>A minimal tensor processing unit (TPU), inspired by Google's TPU</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 20:34 UTC</small><br><br>
 🔹 <a href='https://github.com/epicenter-so/epicenter/tree/main/apps/whispering' target='_blank' rel='noopener noreferrer'>Show HN: Whispering – Open-source, local-first dictation you can trust</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 16:52 UTC</small><br><br>
-🔹 <a href='https://divernet.com/scuba-news/freediving/how-croatian-freediver-held-breath-for-29-minutes/' target='_blank' rel='noopener noreferrer'>Croatian freediver held breath for 29 minutes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 00:04 UTC</small><br><br>
 🔹 <a href='https://www.freecodecamp.org/news/how-to-free-up-and-automatically-manage-disk-space-for-wsl-on-windows-1011/' target='_blank' rel='noopener noreferrer'>Free up space (effortlessly) on WSL2</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 23:15 UTC</small><br><br>
+🔹 <a href='https://divernet.com/scuba-news/freediving/how-croatian-freediver-held-breath-for-29-minutes/' target='_blank' rel='noopener noreferrer'>Croatian freediver held breath for 29 minutes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 00:04 UTC</small><br><br>
 🔹 <a href='https://graic.net/p/left-to-right-programming' target='_blank' rel='noopener noreferrer'>Left to Right Programming</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 17:08 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-19 03:53:22 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-19 04:14:15 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
