@@ -24,12 +24,12 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://www.perfectfreehand.com/' target='_blank' rel='noopener noreferrer'>Perfect Freehand – Draw perfect pressure-sensitive freehand lines</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 19:53 UTC</small><br><br>
 🔹 <a href='https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/' target='_blank' rel='noopener noreferrer'>How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 15:55 UTC</small><br><br>
 🔹 <a href='https://d2lang.com/blog/ascii/' target='_blank' rel='noopener noreferrer'>D2 (text to diagram tool) now supports ASCII renders</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 18:14 UTC</small><br><br>
 🔹 <a href='https://xenodium.com/emacs-as-your-video-trimming-tool' target='_blank' rel='noopener noreferrer'>Emacs as your video-trimming tool</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 16:22 UTC</small><br><br>
 🔹 <a href='https://h4x0r.org/futex/' target='_blank' rel='noopener noreferrer'>Without the futex, it's futile</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 13:53 UTC</small><br><br>
-🔹 <a href='https://www.anduinos.com/' target='_blank' rel='noopener noreferrer'>AnduinOS</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 18:42 UTC</small><br><br>
+🔹 <a href='https://www.perfectfreehand.com/' target='_blank' rel='noopener noreferrer'>Perfect Freehand – Draw perfect pressure-sensitive freehand lines</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 19:53 UTC</small><br><br>
+🔹 <a href='https://github.com/openai/openai-reflect' target='_blank' rel='noopener noreferrer'>Show HN: OpenAI/reflect – Physical AI Assistant that illuminates your life</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 19:48 UTC</small><br><br>
 🔹 <a href='https://www.figma.com/blog/how-figmas-multiplayer-technology-works/' target='_blank' rel='noopener noreferrer'>How Figma’s multiplayer technology works (2019)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 11:41 UTC</small><br><br>
 🔹 <a href='https://www.economist.com/interactive/britain/2025/08/17/the-new-geography-of-stolen-goods' target='_blank' rel='noopener noreferrer'>The new geography of stolen goods</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 11:29 UTC</small><br><br>
 🔹 <a href='https://cpldcpu.com/2025/08/13/candle-flame-oscillations-as-a-clock/' target='_blank' rel='noopener noreferrer'>Candle Flame Oscillations as a Clock</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 07:49 UTC</small><br><br>
@@ -37,7 +37,7 @@
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-19 21:10:01 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-19 21:27:49 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
