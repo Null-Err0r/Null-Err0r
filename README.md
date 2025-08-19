@@ -27,17 +27,17 @@
 🔹 <a href='https://www.svendewaerhert.com/blog/telescope-mount/' target='_blank' rel='noopener noreferrer'>Custom telescope mount using harmonic drives and ESP32</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 09:46 UTC</small><br><br>
 🔹 <a href='https://susam.net/primegrid.html' target='_blank' rel='noopener noreferrer'>Prime Number Grid</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 07:33 UTC</small><br><br>
 🔹 <a href='https://lazybrush.dulnan.net' target='_blank' rel='noopener noreferrer'>Lazy-brush – smooth drawing with mouse or finger</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 18:30 UTC</small><br><br>
+🔹 <a href='https://www.theverge.com/news/761240/uk-apple-us-encryption-back-door-demands-dropped' target='_blank' rel='noopener noreferrer'>UK drops demand for backdoor into Apple encryption</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 11:58 UTC</small><br><br>
 🔹 <a href='https://github.com/ClemensElflein/OpenMower' target='_blank' rel='noopener noreferrer'>OpenMower – An open source lawn mower</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 00:35 UTC</small><br><br>
-🔹 <a href='https://www.hitachi.com/New/cnews/060206.html' target='_blank' rel='noopener noreferrer'>In 2006, Hitachi developed a 0.15mm-sized RFID chip</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 14:28 UTC</small><br><br>
+🔹 <a href='https://blog.pypi.org/posts/2025-08-18-preventing-domain-resurrections/' target='_blank' rel='noopener noreferrer'>PyPI Preventing Domain Resurrection Attacks</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 10:32 UTC</small><br><br>
+🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Uplift (YC S25) – Voice models for under-served languages</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 12:10 UTC</small><br><br>
+🔹 <a href='https://victorwynne.com/vision-for-ipad/' target='_blank' rel='noopener noreferrer'>Apple has not destroyed Steve Jobs' vision for iPad</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 12:18 UTC</small><br><br>
 🔹 <a href='https://archaeology.org/issues/september-october-2025/features/how-to-build-a-medieval-castle/' target='_blank' rel='noopener noreferrer'>How to Build a Medieval Castle</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 04:49 UTC</small><br><br>
 🔹 <a href='https://www.infoq.com/news/2025/08/netflix-tudum-cqrs-raw-hollow/' target='_blank' rel='noopener noreferrer'>Netflix Revamps Tudum's CQRS Architecture with Raw Hollow In-Memory Object Store</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 15:27 UTC</small><br><br>
-🔹 <a href='https://github.com/epicenter-so/epicenter/tree/main/apps/whispering' target='_blank' rel='noopener noreferrer'>Show HN: Whispering – Open-source, local-first dictation you can trust</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 16:52 UTC</small><br><br>
-🔹 <a href='https://github.com/tiny-tpu-v2/tiny-tpu' target='_blank' rel='noopener noreferrer'>Tiny-tpu: A minimal tensor processing unit (TPU), inspired by Google's TPU</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 20:34 UTC</small><br><br>
-🔹 <a href='https://www.popsci.com/technology/tibetan-prayer-scroll-scans/' target='_blank' rel='noopener noreferrer'>X-ray scans reveal Buddhist prayers inside tiny Tibetan scrolls</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 20:54 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-19 12:21:07 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-19 13:02:52 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
