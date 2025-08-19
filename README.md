@@ -25,19 +25,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://www.svendewaerhert.com/blog/telescope-mount/' target='_blank' rel='noopener noreferrer'>Custom telescope mount using harmonic drives and ESP32</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 09:46 UTC</small><br><br>
-🔹 <a href='https://www.theverge.com/news/761240/uk-apple-us-encryption-back-door-demands-dropped' target='_blank' rel='noopener noreferrer'>UK drops demand for backdoor into Apple encryption</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 11:58 UTC</small><br><br>
-🔹 <a href='https://susam.net/primegrid.html' target='_blank' rel='noopener noreferrer'>Prime Number Grid</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 07:33 UTC</small><br><br>
 🔹 <a href='https://lazybrush.dulnan.net' target='_blank' rel='noopener noreferrer'>Lazy-brush – smooth drawing with mouse or finger</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 18:30 UTC</small><br><br>
-🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Uplift (YC S25) – Voice models for under-served languages</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 12:10 UTC</small><br><br>
+🔹 <a href='https://susam.net/primegrid.html' target='_blank' rel='noopener noreferrer'>Prime Number Grid</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 07:33 UTC</small><br><br>
 🔹 <a href='https://blog.pypi.org/posts/2025-08-18-preventing-domain-resurrections/' target='_blank' rel='noopener noreferrer'>PyPI Preventing Domain Resurrection Attacks</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 10:32 UTC</small><br><br>
+🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Uplift (YC S25) – Voice models for under-served languages</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 12:10 UTC</small><br><br>
 🔹 <a href='https://github.com/ClemensElflein/OpenMower' target='_blank' rel='noopener noreferrer'>OpenMower – An open source lawn mower</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 00:35 UTC</small><br><br>
 🔹 <a href='https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html' target='_blank' rel='noopener noreferrer'>Critical Cache Poisoning Vulnerability in Dnsmasq</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 12:56 UTC</small><br><br>
 🔹 <a href='https://archaeology.org/issues/september-october-2025/features/how-to-build-a-medieval-castle/' target='_blank' rel='noopener noreferrer'>How to Build a Medieval Castle</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 04:49 UTC</small><br><br>
-🔹 <a href='https://victorwynne.com/vision-for-ipad/' target='_blank' rel='noopener noreferrer'>Apple has not destroyed Steve Jobs' vision for iPad</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 12:18 UTC</small><br><br>
+🔹 <a href='https://github.com/eloqdata/eloqkv' target='_blank' rel='noopener noreferrer'>EloqKV, a distributed database with Redis compatible API (GPLv2 and AGPLv3)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 06:35 UTC</small><br><br>
+🔹 <a href='https://www.hitachi.com/New/cnews/060206.html' target='_blank' rel='noopener noreferrer'>In 2006, Hitachi developed a 0.15mm-sized RFID chip</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 14:28 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-19 13:39:29 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-19 13:50:55 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
