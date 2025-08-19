@@ -24,9 +24,9 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://www.notion.com/help/guides/working-offline-in-notion-everything-you-need-to-know' target='_blank' rel='noopener noreferrer'>Notion releases offline mode</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 18:27 UTC</small><br><br>
-🔹 <a href='https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/' target='_blank' rel='noopener noreferrer'>How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 15:55 UTC</small><br><br>
 🔹 <a href='https://sso.tax/' target='_blank' rel='noopener noreferrer'>The SSO Wall of Shame – Vendors that treat SSO as luxury feature</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 19:38 UTC</small><br><br>
+🔹 <a href='https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/' target='_blank' rel='noopener noreferrer'>How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 15:55 UTC</small><br><br>
+🔹 <a href='https://www.notion.com/help/guides/working-offline-in-notion-everything-you-need-to-know' target='_blank' rel='noopener noreferrer'>Notion releases offline mode</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 18:27 UTC</small><br><br>
 🔹 <a href='https://www.perfectfreehand.com/' target='_blank' rel='noopener noreferrer'>Perfect Freehand – Draw perfect pressure-sensitive freehand lines</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 19:53 UTC</small><br><br>
 🔹 <a href='https://xenodium.com/emacs-as-your-video-trimming-tool' target='_blank' rel='noopener noreferrer'>Emacs as your video-trimming tool</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 16:22 UTC</small><br><br>
 🔹 <a href='https://d2lang.com/blog/ascii/' target='_blank' rel='noopener noreferrer'>D2 (text to diagram tool) now supports ASCII renders</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 18:14 UTC</small><br><br>
@@ -37,7 +37,7 @@
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-19 20:12:13 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-19 20:30:32 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
