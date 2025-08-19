@@ -24,20 +24,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://www.svendewaerhert.com/blog/telescope-mount/' target='_blank' rel='noopener noreferrer'>Custom telescope mount using harmonic drives and ESP32</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 09:46 UTC</small><br><br>
 🔹 <a href='https://h4x0r.org/futex/' target='_blank' rel='noopener noreferrer'>Without the Futex, It's Futile</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 13:53 UTC</small><br><br>
+🔹 <a href='https://www.svendewaerhert.com/blog/telescope-mount/' target='_blank' rel='noopener noreferrer'>Custom telescope mount using harmonic drives and ESP32</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 09:46 UTC</small><br><br>
 🔹 <a href='https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html' target='_blank' rel='noopener noreferrer'>Critical Cache Poisoning Vulnerability in Dnsmasq</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 12:56 UTC</small><br><br>
-🔹 <a href='https://lazybrush.dulnan.net' target='_blank' rel='noopener noreferrer'>Lazy-brush – smooth drawing with mouse or finger</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 18:30 UTC</small><br><br>
-🔹 <a href='https://susam.net/primegrid.html' target='_blank' rel='noopener noreferrer'>Prime Number Grid</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 07:33 UTC</small><br><br>
-🔹 <a href='https://blog.pypi.org/posts/2025-08-18-preventing-domain-resurrections/' target='_blank' rel='noopener noreferrer'>PyPI Preventing Domain Resurrection Attacks</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 10:32 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Uplift (YC S25) – Voice models for under-served languages</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 12:10 UTC</small><br><br>
+🔹 <a href='https://lazybrush.dulnan.net' target='_blank' rel='noopener noreferrer'>Lazy-brush – smooth drawing with mouse or finger</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-15 18:30 UTC</small><br><br>
+🔹 <a href='https://blog.pypi.org/posts/2025-08-18-preventing-domain-resurrections/' target='_blank' rel='noopener noreferrer'>PyPI Preventing Domain Resurrection Attacks</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 10:32 UTC</small><br><br>
+🔹 <a href='https://susam.net/primegrid.html' target='_blank' rel='noopener noreferrer'>Prime Number Grid</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 07:33 UTC</small><br><br>
 🔹 <a href='https://github.com/ClemensElflein/OpenMower' target='_blank' rel='noopener noreferrer'>OpenMower – An open source lawn mower</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 00:35 UTC</small><br><br>
 🔹 <a href='https://tangled.sh/@adam.tngl.sh/vim-beancounting' target='_blank' rel='noopener noreferrer'>Vim Macros for Beancount</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 12:52 UTC</small><br><br>
 🔹 <a href='https://archaeology.org/issues/september-october-2025/features/how-to-build-a-medieval-castle/' target='_blank' rel='noopener noreferrer'>How to Build a Medieval Castle</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 04:49 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-19 14:11:00 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-19 14:33:46 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
