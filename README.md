@@ -31,13 +31,13 @@
 🔹 <a href='https://www.perfectfreehand.com/' target='_blank' rel='noopener noreferrer'>Perfect Freehand – Draw perfect pressure-sensitive freehand lines</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 19:53 UTC</small><br><br>
 🔹 <a href='https://github.com/openai/openai-reflect' target='_blank' rel='noopener noreferrer'>Show HN: OpenAI/reflect – Physical AI Assistant that illuminates your life</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 19:48 UTC</small><br><br>
 🔹 <a href='https://www.figma.com/blog/how-figmas-multiplayer-technology-works/' target='_blank' rel='noopener noreferrer'>How Figma’s multiplayer technology works (2019)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 11:41 UTC</small><br><br>
-🔹 <a href='https://www.economist.com/interactive/britain/2025/08/17/the-new-geography-of-stolen-goods' target='_blank' rel='noopener noreferrer'>The new geography of stolen goods</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 11:29 UTC</small><br><br>
 🔹 <a href='https://cpldcpu.com/2025/08/13/candle-flame-oscillations-as-a-clock/' target='_blank' rel='noopener noreferrer'>Candle Flame Oscillations as a Clock</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 07:49 UTC</small><br><br>
-🔹 <a href='https://sso.tax/' target='_blank' rel='noopener noreferrer'>Vendors that treat single sign-on as a luxury feature</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 19:38 UTC</small><br><br>
+🔹 <a href='https://www.economist.com/interactive/britain/2025/08/17/the-new-geography-of-stolen-goods' target='_blank' rel='noopener noreferrer'>The new geography of stolen goods</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 11:29 UTC</small><br><br>
+🔹 <a href='https://madebyevan.com/algos/crdt-text-buffer/' target='_blank' rel='noopener noreferrer'>CRDT: Text Buffer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 19:38 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-19 21:27:49 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-19 21:37:11 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
