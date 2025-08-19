@@ -33,11 +33,11 @@
 🔹 <a href='https://madebyevan.com/algos/crdt-text-buffer/' target='_blank' rel='noopener noreferrer'>CRDT: Text Buffer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 19:38 UTC</small><br><br>
 🔹 <a href='https://h4x0r.org/futex/' target='_blank' rel='noopener noreferrer'>Without the futex, it's futile</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 13:53 UTC</small><br><br>
 🔹 <a href='https://github.com/openai/openai-reflect' target='_blank' rel='noopener noreferrer'>Show HN: OpenAI/reflect – Physical AI Assistant that illuminates your life</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 19:48 UTC</small><br><br>
-🔹 <a href='https://cpldcpu.com/2025/08/13/candle-flame-oscillations-as-a-clock/' target='_blank' rel='noopener noreferrer'>Candle Flame Oscillations as a Clock</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 07:49 UTC</small><br><br>
+🔹 <a href='https://www.figma.com/blog/how-figmas-multiplayer-technology-works/' target='_blank' rel='noopener noreferrer'>How Figma’s multiplayer technology works (2019)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 11:41 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-19 23:26:58 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-19 23:36:43 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
