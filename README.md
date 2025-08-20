@@ -30,14 +30,14 @@
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Ask HN: Why does the US Visa application website do a port-scan of my network?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 06:03 UTC</small><br><br>
 🔹 <a href='https://muffinman.io/blog/invaders/' target='_blank' rel='noopener noreferrer'>How to Draw a Space Invader</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 22:41 UTC</small><br><br>
 🔹 <a href='https://pistachioapp.com/blog/copilot-broke-your-audit-log' target='_blank' rel='noopener noreferrer'>Copilot broke audit logs, but Microsoft won't tell customers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 00:18 UTC</small><br><br>
-🔹 <a href='https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/' target='_blank' rel='noopener noreferrer'>Modern CI is too complex and misdirected (2021)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 03:30 UTC</small><br><br>
 🔹 <a href='https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/' target='_blank' rel='noopener noreferrer'>How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 15:55 UTC</small><br><br>
 🔹 <a href='https://www.wired.com/story/the-end-of-handwriting/' target='_blank' rel='noopener noreferrer'>The End of Handwriting</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 10:37 UTC</small><br><br>
+🔹 <a href='https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/' target='_blank' rel='noopener noreferrer'>Modern CI is too complex and misdirected (2021)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 03:30 UTC</small><br><br>
 🔹 <a href='https://d2lang.com/blog/ascii/' target='_blank' rel='noopener noreferrer'>D2 (text to diagram tool) now supports ASCII renders</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 18:14 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-20 11:25:44 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-20 11:35:07 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
