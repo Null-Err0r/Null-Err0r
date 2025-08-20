@@ -31,13 +31,13 @@
 🔹 <a href='https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/' target='_blank' rel='noopener noreferrer'>How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 15:55 UTC</small><br><br>
 🔹 <a href='https://nautil.us/a-rogue-new-life-form-1232095/' target='_blank' rel='noopener noreferrer'>Tiny microbe challenges the definition of cellular life</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 23:18 UTC</small><br><br>
 🔹 <a href='https://d2lang.com/blog/ascii/' target='_blank' rel='noopener noreferrer'>D2 (text to diagram tool) now supports ASCII renders</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 18:14 UTC</small><br><br>
+🔹 <a href='https://pvk.ca/Blog/2025/08/19/monoid-augmented-fifos/' target='_blank' rel='noopener noreferrer'>Monoid-Augmented FIFOs, Deamortised</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 03:35 UTC</small><br><br>
 🔹 <a href='https://arstechnica.com/gadgets/2025/08/tiny-removable-mini-ssd-could-eventually-be-a-big-deal-for-gaming-handhelds/' target='_blank' rel='noopener noreferrer'>Tiny, removable "mini SSD" could eventually be a big deal for gaming handhelds</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-16 19:14 UTC</small><br><br>
-🔹 <a href='https://google.github.io/filament/Filament.md.html#overview' target='_blank' rel='noopener noreferrer'>Physically Based Rendering in Filament</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 11:34 UTC</small><br><br>
-🔹 <a href='https://re.factorcode.org/2023/08/drunken-bishop.html' target='_blank' rel='noopener noreferrer'>Drunken Bishop (2023)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 21:48 UTC</small><br><br>
+🔹 <a href='https://www.overcomingbias.com/p/many-big-pre-sputnik-earth-orbit' target='_blank' rel='noopener noreferrer'>Pre-Sputnik Earth-Orbit Glints</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 03:55 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-20 04:14:09 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-20 04:36:09 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
