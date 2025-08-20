@@ -25,19 +25,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://visualrambling.space/moving-objects-in-3d/' target='_blank' rel='noopener noreferrer'>Show HN: I was curious about spherical helix, ended up making this visualization</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 14:02 UTC</small><br><br>
+🔹 <a href='https://www.mindflash.org/coding/ai/ai-and-the-bus-factor-of-0-1608' target='_blank' rel='noopener noreferrer'>"AI first" and the Bus Factor of 0</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 21:47 UTC</small><br><br>
 🔹 <a href='https://github.com/plutoprint/plutoprint' target='_blank' rel='noopener noreferrer'>Show HN: PlutoPrint – Generate PDFs and PNGs from HTML with Python</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 20:37 UTC</small><br><br>
-🔹 <a href='https://github.com/zedless-editor/zed' target='_blank' rel='noopener noreferrer'>Zedless: Zed fork focused on privacy and being local-first</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 18:47 UTC</small><br><br>
 🔹 <a href='https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/12_gemma3' target='_blank' rel='noopener noreferrer'>Gemma 3 270M re-implemented in pure PyTorch for local tinkering</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 14:01 UTC</small><br><br>
+🔹 <a href='https://github.com/zedless-editor/zed' target='_blank' rel='noopener noreferrer'>Zedless: Zed fork focused on privacy and being local-first</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 18:47 UTC</small><br><br>
 🔹 <a href='https://mackuba.eu/2025/08/20/introduction-to-atproto/' target='_blank' rel='noopener noreferrer'>Introduction to AT Protocol</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 19:13 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Channel3 (YC S25) – A database of every product on the internet</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 15:34 UTC</small><br><br>
 🔹 <a href='https://github.com/google/pytype' target='_blank' rel='noopener noreferrer'>An Update on Pytype</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 17:04 UTC</small><br><br>
 🔹 <a href='https://imperialcollegelondon.github.io/FLT/blueprint.pdf' target='_blank' rel='noopener noreferrer'>Lean proof of Fermat's Last Theorem [pdf]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 18:27 UTC</small><br><br>
-🔹 <a href='https://blog.google/products/pixel/google-pixel-10-pro-xl/' target='_blank' rel='noopener noreferrer'>Pixel 10 Phones</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 17:24 UTC</small><br><br>
 🔹 <a href='https://www.ycombinator.com/companies/coris/jobs/rqO40yy-ai-engineer' target='_blank' rel='noopener noreferrer'>Coris (YC S22) Is Hiring</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 21:00 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-20 22:47:02 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-20 23:10:06 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
