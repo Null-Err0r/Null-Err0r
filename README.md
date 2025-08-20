@@ -28,16 +28,16 @@
 🔹 <a href='https://agents.md/' target='_blank' rel='noopener noreferrer'>AGENTS.md – Open format for guiding coding agents</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 00:15 UTC</small><br><br>
 🔹 <a href='https://jax-ml.github.io/scaling-book/gpus/' target='_blank' rel='noopener noreferrer'>How to Think About GPUs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 18:18 UTC</small><br><br>
 🔹 <a href='https://github.com/automazeio/ccpm' target='_blank' rel='noopener noreferrer'>Show HN: Claude Code workflow: PRDs → GitHub Issues → parallel execution</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 10:32 UTC</small><br><br>
-🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Ask HN: Why does the US Visa application website do a port-scan of my network?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 06:03 UTC</small><br><br>
-🔹 <a href='https://muffinman.io/blog/invaders/' target='_blank' rel='noopener noreferrer'>How to Draw a Space Invader</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 22:41 UTC</small><br><br>
-🔹 <a href='https://givecampus.breezy.hr/p/0c4a97691730' target='_blank' rel='noopener noreferrer'>GiveCampus (YC S15) Hiring Rails engineers passionate about education</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 12:00 UTC</small><br><br>
-🔹 <a href='https://pistachioapp.com/blog/copilot-broke-your-audit-log' target='_blank' rel='noopener noreferrer'>Copilot broke audit logs, but Microsoft won't tell customers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 00:18 UTC</small><br><br>
 🔹 <a href='https://arxiv.org/abs/2508.10791' target='_blank' rel='noopener noreferrer'>MapLibre Tile: A next generation geospatial format optimized for rendering</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 11:28 UTC</small><br><br>
-🔹 <a href='https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/' target='_blank' rel='noopener noreferrer'>How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 15:55 UTC</small><br><br>
+🔹 <a href='https://muffinman.io/blog/invaders/' target='_blank' rel='noopener noreferrer'>How to Draw a Space Invader</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 22:41 UTC</small><br><br>
+🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Ask HN: Why does the US Visa application website do a port-scan of my network?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 06:03 UTC</small><br><br>
+🔹 <a href='https://givecampus.breezy.hr/p/0c4a97691730' target='_blank' rel='noopener noreferrer'>GiveCampus (YC S15) Hiring Rails engineers passionate about education</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 12:00 UTC</small><br><br>
+🔹 <a href='https://sites.pitt.edu/~jdnorton/Goodies/block_stacking/block_stacking.html' target='_blank' rel='noopener noreferrer'>The Block Stacking Problem</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 06:01 UTC</small><br><br>
+🔹 <a href='https://pistachioapp.com/blog/copilot-broke-your-audit-log' target='_blank' rel='noopener noreferrer'>Copilot broke audit logs, but Microsoft won't tell customers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 00:18 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-20 12:21:02 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-20 13:04:48 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
