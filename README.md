@@ -33,11 +33,11 @@
 🔹 <a href='https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/' target='_blank' rel='noopener noreferrer'>How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 15:55 UTC</small><br><br>
 🔹 <a href='https://arthi-chaud.github.io/posts/type-machine/' target='_blank' rel='noopener noreferrer'>Type-machine</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 04:59 UTC</small><br><br>
 🔹 <a href='https://nautil.us/a-rogue-new-life-form-1232095/' target='_blank' rel='noopener noreferrer'>Tiny microbe challenges the definition of cellular life</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 23:18 UTC</small><br><br>
-🔹 <a href='https://gfw.report/blog/gfw_unconditional_rst_20250820/en/' target='_blank' rel='noopener noreferrer'>Analysis of the GFW's Unconditional Port 443 Block on August 20, 2025</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 04:27 UTC</small><br><br>
+🔹 <a href='https://www.mooreds.com/wordpress/archives/3530' target='_blank' rel='noopener noreferrer'>The Value of Hitting the HN Front Page</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 02:00 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-20 07:40:42 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-20 07:47:50 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
