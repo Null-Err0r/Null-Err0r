@@ -29,15 +29,15 @@
 🔹 <a href='https://tarides.com/blog/2025-08-20-internship-report-refactoring-tools-coming-to-merlin/' target='_blank' rel='noopener noreferrer'>Improvements to OCaml code editing: the basics of a refactor engine</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 13:37 UTC</small><br><br>
 🔹 <a href='https://tidewave.ai/blog/tidewave-web-phoenix-rails' target='_blank' rel='noopener noreferrer'>Tidewave Web: in-browser coding agent for Rails and Phoenix</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 09:43 UTC</small><br><br>
 🔹 <a href='https://agents.md/' target='_blank' rel='noopener noreferrer'>AGENTS.md – Open format for guiding coding agents</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 00:15 UTC</small><br><br>
-🔹 <a href='https://arxiv.org/abs/2508.10791' target='_blank' rel='noopener noreferrer'>MapLibre Tile: A next generation geospatial format optimized for rendering</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 11:28 UTC</small><br><br>
 🔹 <a href='https://jax-ml.github.io/scaling-book/gpus/' target='_blank' rel='noopener noreferrer'>How to Think About GPUs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 18:18 UTC</small><br><br>
+🔹 <a href='https://arxiv.org/abs/2508.10791' target='_blank' rel='noopener noreferrer'>MapLibre Tile: A next generation geospatial format optimized for rendering</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 11:28 UTC</small><br><br>
 🔹 <a href='https://sites.pitt.edu/~jdnorton/Goodies/block_stacking/block_stacking.html' target='_blank' rel='noopener noreferrer'>The Block Stacking Problem</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 06:01 UTC</small><br><br>
 🔹 <a href='https://github.com/tonbo-io/typed-arrow' target='_blank' rel='noopener noreferrer'>Show HN: Typed-arrow – compile‑time Arrow schemas for Rust</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 12:34 UTC</small><br><br>
 🔹 <a href='https://muffinman.io/blog/invaders/' target='_blank' rel='noopener noreferrer'>How to Draw a Space Invader</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 22:41 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-20 15:32:24 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-20 15:48:14 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
