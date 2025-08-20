@@ -25,19 +25,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://tidewave.ai/blog/tidewave-web-phoenix-rails' target='_blank' rel='noopener noreferrer'>Tidewave Web: in-browser coding agent for Rails and Phoenix</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 09:43 UTC</small><br><br>
-🔹 <a href='https://github.com/automazeio/ccpm' target='_blank' rel='noopener noreferrer'>Show HN: Claude Code workflow: PRDs → GitHub Issues → parallel execution</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 10:32 UTC</small><br><br>
+🔹 <a href='https://github.com/automazeio/ccpm' target='_blank' rel='noopener noreferrer'>Show HN: Project management system for Claude Code</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 10:32 UTC</small><br><br>
 🔹 <a href='https://agents.md/' target='_blank' rel='noopener noreferrer'>AGENTS.md – Open format for guiding coding agents</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 00:15 UTC</small><br><br>
 🔹 <a href='https://jax-ml.github.io/scaling-book/gpus/' target='_blank' rel='noopener noreferrer'>How to Think About GPUs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 18:18 UTC</small><br><br>
 🔹 <a href='https://arxiv.org/abs/2508.10791' target='_blank' rel='noopener noreferrer'>MapLibre Tile: A next generation geospatial format optimized for rendering</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 11:28 UTC</small><br><br>
-🔹 <a href='https://muffinman.io/blog/invaders/' target='_blank' rel='noopener noreferrer'>How to Draw a Space Invader</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 22:41 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Ask HN: Why does the US Visa application website do a port-scan of my network?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 06:03 UTC</small><br><br>
+🔹 <a href='https://muffinman.io/blog/invaders/' target='_blank' rel='noopener noreferrer'>How to Draw a Space Invader</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 22:41 UTC</small><br><br>
 🔹 <a href='https://sites.pitt.edu/~jdnorton/Goodies/block_stacking/block_stacking.html' target='_blank' rel='noopener noreferrer'>The Block Stacking Problem</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 06:01 UTC</small><br><br>
+🔹 <a href='https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/' target='_blank' rel='noopener noreferrer'>Modern CI is too complex and misdirected (2021)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 03:30 UTC</small><br><br>
 🔹 <a href='https://pistachioapp.com/blog/copilot-broke-your-audit-log' target='_blank' rel='noopener noreferrer'>Copilot broke audit logs, but Microsoft won't tell customers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 00:18 UTC</small><br><br>
-🔹 <a href='https://www.wsj.com/opinion/rfk-jr-mrna-vaccines-hhs-covid-jay-bhattacharya-e9fa1ac3' target='_blank' rel='noopener noreferrer'>RFK Jr. is waging a misguided war on mRNA vaccine technology</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 13:05 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-20 13:39:53 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-20 13:51:31 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
