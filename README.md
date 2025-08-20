@@ -29,15 +29,15 @@
 🔹 <a href='https://browser-use.com/posts/playwright-to-cdp' target='_blank' rel='noopener noreferrer'>Closer to the Metal: Leaving Playwright for CDP</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 15:32 UTC</small><br><br>
 🔹 <a href='https://blog.openpolicyagent.org/note-from-teemu-tim-and-torin-to-the-open-policy-agent-community-2dbbfe494371' target='_blank' rel='noopener noreferrer'>OPA maintainers and Styra employees hired by Apple</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 15:44 UTC</small><br><br>
 🔹 <a href='https://tarides.com/blog/2025-08-20-internship-report-refactoring-tools-coming-to-merlin/' target='_blank' rel='noopener noreferrer'>Improvements to OCaml code editing: the basics of a refactor engine</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 13:37 UTC</small><br><br>
+🔹 <a href='https://14.ai/careers' target='_blank' rel='noopener noreferrer'>14.ai (YC W24) is hiring eng (TS/Effect) in SF to build the AI-native Zendesk</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 17:01 UTC</small><br><br>
+🔹 <a href='https://github.com/luminal-ai/luminal' target='_blank' rel='noopener noreferrer'>Show HN: Luminal – Open-source, search-based GPU compiler</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 16:01 UTC</small><br><br>
+🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Channel3 (YC S25) – A database of every product on the internet</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 15:34 UTC</small><br><br>
 🔹 <a href='https://tidewave.ai/blog/tidewave-web-phoenix-rails' target='_blank' rel='noopener noreferrer'>Tidewave Web: in-browser coding agent for Rails and Phoenix</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 09:43 UTC</small><br><br>
-🔹 <a href='https://agents.md/' target='_blank' rel='noopener noreferrer'>AGENTS.md – Open format for guiding coding agents</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 00:15 UTC</small><br><br>
-🔹 <a href='https://anchor.dev/relay' target='_blank' rel='noopener noreferrer'>Show HN: Anchor Relay – A faster, easier way to get Let's Encrypt certificates</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 16:13 UTC</small><br><br>
-🔹 <a href='https://zed.dev/blog/sequoia-backs-zed' target='_blank' rel='noopener noreferrer'>Sequoia Backs Zed's Vision for Collaborative Coding</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 12:13 UTC</small><br><br>
-🔹 <a href='https://jax-ml.github.io/scaling-book/gpus/' target='_blank' rel='noopener noreferrer'>How to Think About GPUs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 18:18 UTC</small><br><br>
+🔹 <a href='https://www.digg.com/' target='_blank' rel='noopener noreferrer'>Digg.com Is Back</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 16:35 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-20 16:53:02 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-20 17:09:33 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
