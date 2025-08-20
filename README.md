@@ -27,17 +27,17 @@
 🔹 <a href='https://www.mindflash.org/coding/ai/ai-and-the-bus-factor-of-0-1608' target='_blank' rel='noopener noreferrer'>"AI first" and the Bus Factor of 0</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 21:47 UTC</small><br><br>
 🔹 <a href='https://visualrambling.space/moving-objects-in-3d/' target='_blank' rel='noopener noreferrer'>Show HN: I was curious about spherical helix, ended up making this visualization</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 14:02 UTC</small><br><br>
 🔹 <a href='https://github.com/plutoprint/plutoprint' target='_blank' rel='noopener noreferrer'>Show HN: PlutoPrint – Generate PDFs and PNGs from HTML with Python</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 20:37 UTC</small><br><br>
+🔹 <a href='https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/' target='_blank' rel='noopener noreferrer'>Code Review Can Be Better</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 23:10 UTC</small><br><br>
 🔹 <a href='https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/12_gemma3' target='_blank' rel='noopener noreferrer'>Gemma 3 270M re-implemented in pure PyTorch for local tinkering</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 14:01 UTC</small><br><br>
-🔹 <a href='https://github.com/zedless-editor/zed' target='_blank' rel='noopener noreferrer'>Zedless: Zed fork focused on privacy and being local-first</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 18:47 UTC</small><br><br>
 🔹 <a href='https://mackuba.eu/2025/08/20/introduction-to-atproto/' target='_blank' rel='noopener noreferrer'>Introduction to AT Protocol</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 19:13 UTC</small><br><br>
+🔹 <a href='https://github.com/zedless-editor/zed' target='_blank' rel='noopener noreferrer'>Zedless: Zed fork focused on privacy and being local-first</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 18:47 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Channel3 (YC S25) – A database of every product on the internet</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 15:34 UTC</small><br><br>
 🔹 <a href='https://github.com/google/pytype' target='_blank' rel='noopener noreferrer'>An Update on Pytype</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 17:04 UTC</small><br><br>
-🔹 <a href='https://arstechnica.com/gadgets/2025/05/gouach-wants-you-to-insert-and-pluck-the-cells-from-its-infinite-e-bike-battery/' target='_blank' rel='noopener noreferrer'>Gouach wants you to insert and pluck the cells from its Infinite e-bike battery</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 01:32 UTC</small><br><br>
 🔹 <a href='https://imperialcollegelondon.github.io/FLT/blueprint.pdf' target='_blank' rel='noopener noreferrer'>Lean proof of Fermat's Last Theorem [pdf]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 18:27 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-20 23:36:13 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-20 23:47:04 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
