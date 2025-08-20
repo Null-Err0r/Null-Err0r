@@ -27,17 +27,17 @@
 🔹 <a href='https://agents.md/' target='_blank' rel='noopener noreferrer'>AGENTS.md – Open format for guiding coding agents</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 00:15 UTC</small><br><br>
 🔹 <a href='https://pistachioapp.com/blog/copilot-broke-your-audit-log' target='_blank' rel='noopener noreferrer'>Copilot broke audit logs, but Microsoft won't tell customers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 00:18 UTC</small><br><br>
 🔹 <a href='https://muffinman.io/blog/invaders/' target='_blank' rel='noopener noreferrer'>How to Draw a Space Invader</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 22:41 UTC</small><br><br>
+🔹 <a href='https://arthi-chaud.github.io/posts/type-machine/' target='_blank' rel='noopener noreferrer'>Type-Machine</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 04:59 UTC</small><br><br>
 🔹 <a href='https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/' target='_blank' rel='noopener noreferrer'>How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 15:55 UTC</small><br><br>
-🔹 <a href='https://nautil.us/a-rogue-new-life-form-1232095/' target='_blank' rel='noopener noreferrer'>Tiny microbe challenges the definition of cellular life</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 23:18 UTC</small><br><br>
 🔹 <a href='https://gfw.report/blog/gfw_unconditional_rst_20250820/en/' target='_blank' rel='noopener noreferrer'>China blocked all HTTPS connection abroad for 1 hour in midnight</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 04:27 UTC</small><br><br>
+🔹 <a href='https://nautil.us/a-rogue-new-life-form-1232095/' target='_blank' rel='noopener noreferrer'>Tiny microbe challenges the definition of cellular life</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 23:18 UTC</small><br><br>
 🔹 <a href='https://d2lang.com/blog/ascii/' target='_blank' rel='noopener noreferrer'>D2 (text to diagram tool) now supports ASCII renders</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 18:14 UTC</small><br><br>
-🔹 <a href='https://www.wired.com/story/the-end-of-handwriting/' target='_blank' rel='noopener noreferrer'>The End of Handwriting</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 10:37 UTC</small><br><br>
 🔹 <a href='https://noteflakes.com/articles/2025-08-18-how-to-make-ruby-faster' target='_blank' rel='noopener noreferrer'>How I Made Ruby Faster Than Ruby</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 11:22 UTC</small><br><br>
-🔹 <a href='https://xenodium.com/emacs-as-your-video-trimming-tool' target='_blank' rel='noopener noreferrer'>Emacs as your video-trimming tool</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 16:22 UTC</small><br><br>
+🔹 <a href='https://anguscheng.com/post/2025-08-13-calling-their-bluff/' target='_blank' rel='noopener noreferrer'>Calling Their Bluff</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 01:19 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-20 05:48:14 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-20 06:17:00 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
