@@ -26,8 +26,8 @@
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/' target='_blank' rel='noopener noreferrer'>AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 12:53 UTC</small><br><br>
 🔹 <a href='https://arxiv.org/abs/2507.00191' target='_blank' rel='noopener noreferrer'>Apple Watch wearable foundation model</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 14:39 UTC</small><br><br>
-🔹 <a href='https://www.journals.uchicago.edu/doi/10.1086/735665' target='_blank' rel='noopener noreferrer'>How Well Does the Money Laundering Control System Work?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 12:58 UTC</small><br><br>
 🔹 <a href='https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/' target='_blank' rel='noopener noreferrer'>Weaponizing image scaling against production AI systems</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 12:20 UTC</small><br><br>
+🔹 <a href='https://www.journals.uchicago.edu/doi/10.1086/735665' target='_blank' rel='noopener noreferrer'>How Well Does the Money Laundering Control System Work?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 12:58 UTC</small><br><br>
 🔹 <a href='https://emersion.fr/blog/2025/using-podman-compose-and-buildkit/' target='_blank' rel='noopener noreferrer'>Using Podman, Compose and BuildKit</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 10:54 UTC</small><br><br>
 🔹 <a href='https://www.nmichaels.org/musings/d4d4/d4d4/' target='_blank' rel='noopener noreferrer'>D4d4</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 15:42 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Skope (YC S25) – Outcome-based pricing for software products</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 15:09 UTC</small><br><br>
@@ -37,7 +37,7 @@
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-21 15:32:16 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-21 15:48:50 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
