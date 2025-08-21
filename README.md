@@ -32,12 +32,12 @@
 🔹 <a href='https://lock.cmpxchg8b.com/anubis.html' target='_blank' rel='noopener noreferrer'>Why are anime catgirls blocking my access to the Linux kernel?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 14:54 UTC</small><br><br>
 🔹 <a href='https://www.tedinski.com/2018/01/23/data-objects-and-being-railroaded-into-misdesign.html' target='_blank' rel='noopener noreferrer'>Data, objects, and how we're railroaded into poor design (2018)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 05:06 UTC</small><br><br>
 🔹 <a href='https://mw.rat.bz/MX-80/' target='_blank' rel='noopener noreferrer'>Epson MX-80 Fonts</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 13:18 UTC</small><br><br>
-🔹 <a href='https://www.statsignificant.com/p/is-rotten-tomatoes-still-reliable' target='_blank' rel='noopener noreferrer'>A statistical analysis of Rotten Tomatoes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 00:10 UTC</small><br><br>
 🔹 <a href='https://koreajoongangdaily.joins.com/news/2025-08-15/business/tech/Thanks-Nvidia-SK-hynix-dethrones-Samsung-as-worlds-top-DRAM-maker-for-first-time-in-over-30-years/2376834' target='_blank' rel='noopener noreferrer'>SK hynix dethrones Samsung as world’s top DRAM maker</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 17:31 UTC</small><br><br>
+🔹 <a href='https://www.statsignificant.com/p/is-rotten-tomatoes-still-reliable' target='_blank' rel='noopener noreferrer'>A statistical analysis of Rotten Tomatoes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 00:10 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-21 11:25:35 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-21 11:34:29 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
