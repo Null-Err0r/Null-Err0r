@@ -25,19 +25,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/' target='_blank' rel='noopener noreferrer'>Code review can be better</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 23:10 UTC</small><br><br>
+🔹 <a href='https://github.com/Growth-Kinetics/DiffMem' target='_blank' rel='noopener noreferrer'>Show HN: I replaced vector databases with Git for AI memory (PoC)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 06:20 UTC</small><br><br>
 🔹 <a href='https://www.tedinski.com/2018/01/23/data-objects-and-being-railroaded-into-misdesign.html' target='_blank' rel='noopener noreferrer'>Contrasting Data and Objects (2018)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 05:06 UTC</small><br><br>
+🔹 <a href='https://mw.rat.bz/MX-80/' target='_blank' rel='noopener noreferrer'>Epson MX-80 Fonts</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 13:18 UTC</small><br><br>
 🔹 <a href='https://visualrambling.space/moving-objects-in-3d/' target='_blank' rel='noopener noreferrer'>Show HN: I was curious about spherical helix, ended up making this visualization</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 14:02 UTC</small><br><br>
 🔹 <a href='https://koreajoongangdaily.joins.com/news/2025-08-15/business/tech/Thanks-Nvidia-SK-hynix-dethrones-Samsung-as-worlds-top-DRAM-maker-for-first-time-in-over-30-years/2376834' target='_blank' rel='noopener noreferrer'>SK hynix dethrones Samsung as world’s top DRAM maker</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 17:31 UTC</small><br><br>
-🔹 <a href='https://mw.rat.bz/MX-80/' target='_blank' rel='noopener noreferrer'>Epson MX-80 Fonts</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 13:18 UTC</small><br><br>
 🔹 <a href='https://www.statsignificant.com/p/is-rotten-tomatoes-still-reliable' target='_blank' rel='noopener noreferrer'>A statistical analysis of Rotten Tomatoes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 00:10 UTC</small><br><br>
-🔹 <a href='https://www.unicode.org/L2/L2019/19310-mirror-ball-emoji.pdf' target='_blank' rel='noopener noreferrer'>Mirror Ball Emoji Proposal (2018) [pdf]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 13:05 UTC</small><br><br>
+🔹 <a href='https://github.com/universal-tool-calling-protocol/python-utcp' target='_blank' rel='noopener noreferrer'>Universal Tool Calling Protocol (UTCP)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 11:56 UTC</small><br><br>
 🔹 <a href='https://lock.cmpxchg8b.com/anubis.html' target='_blank' rel='noopener noreferrer'>Why are anime catgirls blocking my access to the Linux kernel?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 14:54 UTC</small><br><br>
-🔹 <a href='https://www.rte.ie/news/world/2025/0820/1529397-denmark-book-tax/' target='_blank' rel='noopener noreferrer'>'Reading crisis' prompts Denmark to end 25% tax on books</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 05:19 UTC</small><br><br>
-🔹 <a href='https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/12_gemma3' target='_blank' rel='noopener noreferrer'>Gemma 3 270M re-implemented in pure PyTorch for local tinkering</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 14:01 UTC</small><br><br>
+🔹 <a href='https://www.unicode.org/L2/L2019/19310-mirror-ball-emoji.pdf' target='_blank' rel='noopener noreferrer'>Mirror Ball Emoji Proposal (2018) [pdf]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 13:05 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-21 06:25:26 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-21 06:55:50 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
