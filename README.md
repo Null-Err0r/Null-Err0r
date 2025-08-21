@@ -24,20 +24,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://www.mindflash.org/coding/ai/ai-and-the-bus-factor-of-0-1608' target='_blank' rel='noopener noreferrer'>"AI first" and the Bus Factor of 0</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 21:47 UTC</small><br><br>
-🔹 <a href='https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/' target='_blank' rel='noopener noreferrer'>Code Review Can Be Better</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 23:10 UTC</small><br><br>
+🔹 <a href='https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/' target='_blank' rel='noopener noreferrer'>Code review can be better</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 23:10 UTC</small><br><br>
+🔹 <a href='https://koreajoongangdaily.joins.com/news/2025-08-15/business/tech/Thanks-Nvidia-SK-hynix-dethrones-Samsung-as-worlds-top-DRAM-maker-for-first-time-in-over-30-years/2376834' target='_blank' rel='noopener noreferrer'>SK hynix dethrones Samsung as world’s top DRAM maker</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 17:31 UTC</small><br><br>
 🔹 <a href='https://visualrambling.space/moving-objects-in-3d/' target='_blank' rel='noopener noreferrer'>Show HN: I was curious about spherical helix, ended up making this visualization</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 14:02 UTC</small><br><br>
-🔹 <a href='https://koreajoongangdaily.joins.com/news/2025-08-15/business/tech/Thanks-Nvidia-SK-hynix-dethrones-Samsung-as-worlds-top-DRAM-maker-for-first-time-in-over-30-years/2376834' target='_blank' rel='noopener noreferrer'>SK hynix dethrones Samsung as top DRAM maker for first time in 30 years</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 17:31 UTC</small><br><br>
+🔹 <a href='https://www.yacinemahdid.com/p/how-to-stop-feeling-lost-in-tech' target='_blank' rel='noopener noreferrer'>How to stop feeling lost in tech: the wafflehouse method</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 01:28 UTC</small><br><br>
+🔹 <a href='https://www.statsignificant.com/p/is-rotten-tomatoes-still-reliable' target='_blank' rel='noopener noreferrer'>A statistical analysis of Rotten Tomatoes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 00:10 UTC</small><br><br>
 🔹 <a href='https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/12_gemma3' target='_blank' rel='noopener noreferrer'>Gemma 3 270M re-implemented in pure PyTorch for local tinkering</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 14:01 UTC</small><br><br>
-🔹 <a href='https://github.com/plutoprint/plutoprint' target='_blank' rel='noopener noreferrer'>Show HN: PlutoPrint – Generate PDFs and PNGs from HTML with Python</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 20:37 UTC</small><br><br>
-🔹 <a href='https://mackuba.eu/2025/08/20/introduction-to-atproto/' target='_blank' rel='noopener noreferrer'>Introduction to AT Protocol</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 19:13 UTC</small><br><br>
-🔹 <a href='https://github.com/zedless-editor/zed' target='_blank' rel='noopener noreferrer'>Zedless: Zed fork focused on privacy and being local-first</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 18:47 UTC</small><br><br>
-🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Channel3 (YC S25) – A database of every product on the internet</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 15:34 UTC</small><br><br>
 🔹 <a href='https://lock.cmpxchg8b.com/anubis.html' target='_blank' rel='noopener noreferrer'>Why are anime catgirls blocking my access to the Linux kernel?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 14:54 UTC</small><br><br>
+🔹 <a href='https://github.com/plutoprint/plutoprint' target='_blank' rel='noopener noreferrer'>Show HN: PlutoPrint – Generate PDFs and PNGs from HTML with Python</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 20:37 UTC</small><br><br>
+🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Channel3 (YC S25) – A database of every product on the internet</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 15:34 UTC</small><br><br>
+🔹 <a href='https://github.com/jamesplotts/simpleide' target='_blank' rel='noopener noreferrer'>SimpleIDE</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 23:15 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-21 00:51:16 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-21 02:24:45 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
