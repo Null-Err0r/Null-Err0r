@@ -31,13 +31,13 @@
 🔹 <a href='https://www.statsignificant.com/p/is-rotten-tomatoes-still-reliable' target='_blank' rel='noopener noreferrer'>A statistical analysis of Rotten Tomatoes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 00:10 UTC</small><br><br>
 🔹 <a href='https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/12_gemma3' target='_blank' rel='noopener noreferrer'>Gemma 3 270M re-implemented in pure PyTorch for local tinkering</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 14:01 UTC</small><br><br>
 🔹 <a href='https://lock.cmpxchg8b.com/anubis.html' target='_blank' rel='noopener noreferrer'>Why are anime catgirls blocking my access to the Linux kernel?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 14:54 UTC</small><br><br>
-🔹 <a href='https://www.newsweek.com/immigration-ice-bill-trump-2093456' target='_blank' rel='noopener noreferrer'>ICE Budget Now Bigger Than Most of the Militaries</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 02:43 UTC</small><br><br>
 🔹 <a href='https://github.com/jamesplotts/simpleide' target='_blank' rel='noopener noreferrer'>SimpleIDE</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 23:15 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Channel3 (YC S25) – A database of every product on the internet</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 15:34 UTC</small><br><br>
+🔹 <a href='https://github.com/plutoprint/plutoprint' target='_blank' rel='noopener noreferrer'>Show HN: PlutoPrint – Generate PDFs and PNGs from HTML with Python</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 20:37 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-21 03:26:45 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-21 03:51:24 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
