@@ -26,18 +26,18 @@
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://emersion.fr/blog/2025/using-podman-compose-and-buildkit/' target='_blank' rel='noopener noreferrer'>Using Podman, Compose and BuildKit</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 10:54 UTC</small><br><br>
 🔹 <a href='https://www.nmichaels.org/musings/d4d4/d4d4/' target='_blank' rel='noopener noreferrer'>D4d4</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 15:42 UTC</small><br><br>
-🔹 <a href='https://www.advisorperspectives.com/dshort/updates/2025/07/23/margin-debt-surges-record-high-june-2025' target='_blank' rel='noopener noreferrer'>Margin Debt Surges 9.5% in June to Record High</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 11:22 UTC</small><br><br>
-🔹 <a href='https://meyerweb.com/eric/thoughts/2025/08/20/to-infinity-but-not-beyond/' target='_blank' rel='noopener noreferrer'>To Infinity but Not Beyond</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 09:30 UTC</small><br><br>
-🔹 <a href='https://mavericksforever.com/' target='_blank' rel='noopener noreferrer'>Show HN: OS X Mavericks Forever</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 16:01 UTC</small><br><br>
+🔹 <a href='https://www.amtrak.com/privately-owned-rail-cars' target='_blank' rel='noopener noreferrer'>Ride in Your Privately-Owned Train Cars to See North America</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 12:31 UTC</small><br><br>
 🔹 <a href='https://blog.google/products/search/ai-mode-agentic-personalized/' target='_blank' rel='noopener noreferrer'>AI Mode in Search gets new agentic features and expands globally</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 11:03 UTC</small><br><br>
+🔹 <a href='https://mavericksforever.com/' target='_blank' rel='noopener noreferrer'>Show HN: OS X Mavericks Forever</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 16:01 UTC</small><br><br>
+🔹 <a href='https://en.wikipedia.org/wiki/S%C3%BCtterlin' target='_blank' rel='noopener noreferrer'>Sütterlin</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 13:56 UTC</small><br><br>
+🔹 <a href='https://meyerweb.com/eric/thoughts/2025/08/20/to-infinity-but-not-beyond/' target='_blank' rel='noopener noreferrer'>To Infinity but Not Beyond</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 09:30 UTC</small><br><br>
 🔹 <a href='https://careers.activeloop.ai/' target='_blank' rel='noopener noreferrer'>Activeloop (YC S18) Is Hiring Member of Technical Staff – Back End Engineering</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 12:00 UTC</small><br><br>
+🔹 <a href='https://www.newyorker.com/business/currency/the-open-office-trap' target='_blank' rel='noopener noreferrer'>The Open-Office Trap</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 10:16 UTC</small><br><br>
 🔹 <a href='https://github.com/Growth-Kinetics/DiffMem' target='_blank' rel='noopener noreferrer'>Show HN: I replaced vector databases with Git for AI memory (PoC)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 06:20 UTC</small><br><br>
-🔹 <a href='https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/' target='_blank' rel='noopener noreferrer'>Code review can be better</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 23:10 UTC</small><br><br>
-🔹 <a href='https://visualrambling.space/moving-objects-in-3d/' target='_blank' rel='noopener noreferrer'>Show HN: I was curious about spherical helix, ended up making this visualization</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 14:02 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-21 12:21:13 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-21 13:03:13 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
