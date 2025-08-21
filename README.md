@@ -25,19 +25,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://github.com/ghostty-org/ghostty/pull/8289' target='_blank' rel='noopener noreferrer'>AI tooling must be disclosed for contributions</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 18:49 UTC</small><br><br>
-🔹 <a href='https://sweatofthebrow.blogspot.com/2025/08/in-defense-of-car-centered-society.html' target='_blank' rel='noopener noreferrer'>In Defense of Car-Centered Society</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 20:18 UTC</small><br><br>
 🔹 <a href='https://giansegato.com/essays/probabilistic-era' target='_blank' rel='noopener noreferrer'>Building AI products in the probabilistic era</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 18:42 UTC</small><br><br>
 🔹 <a href='https://www.construction-physics.com/p/how-does-the-us-use-water' target='_blank' rel='noopener noreferrer'>How does the US use water?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 12:21 UTC</small><br><br>
-🔹 <a href='https://arxiv.org/abs/2507.00191' target='_blank' rel='noopener noreferrer'>Beyond sensor data: Foundation models of behavioral data from wearables</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 14:39 UTC</small><br><br>
-🔹 <a href='https://www.joshwcomeau.com/svg/interactive-guide-to-paths/' target='_blank' rel='noopener noreferrer'>An interactive guide to SVG paths</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 15:19 UTC</small><br><br>
 🔹 <a href='https://www.hillelwayne.com/post/python-abc/' target='_blank' rel='noopener noreferrer'>Crimes with Python's Pattern Matching (2022)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 19:47 UTC</small><br><br>
 🔹 <a href='https://api-docs.deepseek.com/news/news250821' target='_blank' rel='noopener noreferrer'>DeepSeek-v3.1 Release</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 19:06 UTC</small><br><br>
-🔹 <a href='https://www.cnn.com/2025/08/18/travel/budapest-diving-molnar-janos-cave' target='_blank' rel='noopener noreferrer'>Miles from the ocean, there's diving beneath the streets of Budapest</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 16:42 UTC</small><br><br>
+🔹 <a href='https://www.joshwcomeau.com/svg/interactive-guide-to-paths/' target='_blank' rel='noopener noreferrer'>An interactive guide to SVG paths</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 15:19 UTC</small><br><br>
+🔹 <a href='https://www.dbreunig.com/2025/08/21/a-guide-to-ai-titles.html' target='_blank' rel='noopener noreferrer'>A Decoder Ring for AI Job Titles</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 19:22 UTC</small><br><br>
+🔹 <a href='https://arxiv.org/abs/2507.00191' target='_blank' rel='noopener noreferrer'>Beyond sensor data: Foundation models of behavioral data from wearables</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 14:39 UTC</small><br><br>
 🔹 <a href='https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/' target='_blank' rel='noopener noreferrer'>Weaponizing image scaling against production AI systems</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 12:20 UTC</small><br><br>
+🔹 <a href='https://www.cnn.com/2025/08/18/travel/budapest-diving-molnar-janos-cave' target='_blank' rel='noopener noreferrer'>Miles from the ocean, there's diving beneath the streets of Budapest</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 16:42 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-21 20:31:42 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-21 20:48:24 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
