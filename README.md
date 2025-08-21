@@ -24,20 +24,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
+🔹 <a href='https://github.com/ghostty-org/ghostty/pull/8289' target='_blank' rel='noopener noreferrer'>AI tooling must be disclosed for contributions</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 18:49 UTC</small><br><br>
 🔹 <a href='https://jyn.dev/the-core-of-rust/' target='_blank' rel='noopener noreferrer'>The Core of Rust</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 16:27 UTC</small><br><br>
 🔹 <a href='https://arxiv.org/abs/2507.00191' target='_blank' rel='noopener noreferrer'>Beyond sensor data: Foundation models of behavioral data from wearables</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 14:39 UTC</small><br><br>
+🔹 <a href='https://giansegato.com/essays/probabilistic-era' target='_blank' rel='noopener noreferrer'>Building AI Products in the Probabilistic Era</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 18:42 UTC</small><br><br>
 🔹 <a href='https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/' target='_blank' rel='noopener noreferrer'>Weaponizing image scaling against production AI systems</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 12:20 UTC</small><br><br>
+🔹 <a href='https://feyor.sh/blog/my-other-email-client-is-a-mail-daemon/' target='_blank' rel='noopener noreferrer'>My other email client is a daemon</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 08:54 UTC</small><br><br>
+🔹 <a href='https://joshuavaldez.com/the-unbearable-slowness-of-ai-coding/' target='_blank' rel='noopener noreferrer'>The Unbearable Slowness of AI Coding</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 18:39 UTC</small><br><br>
 🔹 <a href='https://www.joshwcomeau.com/svg/interactive-guide-to-paths/' target='_blank' rel='noopener noreferrer'>An Interactive Guide to SVG Paths</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 15:19 UTC</small><br><br>
 🔹 <a href='https://emersion.fr/blog/2025/using-podman-compose-and-buildkit/' target='_blank' rel='noopener noreferrer'>Using Podman, Compose and BuildKit</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 10:54 UTC</small><br><br>
-🔹 <a href='https://feyor.sh/blog/my-other-email-client-is-a-mail-daemon/' target='_blank' rel='noopener noreferrer'>My other email client is a daemon</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 08:54 UTC</small><br><br>
-🔹 <a href='https://www.nmichaels.org/musings/d4d4/d4d4/' target='_blank' rel='noopener noreferrer'>D4d4</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 15:42 UTC</small><br><br>
-🔹 <a href='https://timothynguyen.org/2025/08/21/physics-grifters-eric-weinstein-sabine-hossenfelder-and-a-crisis-of-credibility/' target='_blank' rel='noopener noreferrer'>The contrarian physics podcast subculture</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 17:13 UTC</small><br><br>
 🔹 <a href='https://www.ycombinator.com/companies/cua/jobs/a6UbTvG-founding-engineer-ux-design' target='_blank' rel='noopener noreferrer'>Cua (YC X25) is hiring design engineers in SF</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 17:01 UTC</small><br><br>
-🔹 <a href='https://arstechnica.com/tech-policy/2025/08/bank-forced-to-rehire-workers-after-lying-about-chatbot-productivity-union-says/' target='_blank' rel='noopener noreferrer'>Bank forced to rehire workers after lying about chatbot productivity, union says</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 15:58 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-21 18:45:38 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-21 19:08:32 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
