@@ -30,14 +30,14 @@
 🔹 <a href='https://www.lumia.security/blog/applestorm' target='_blank' rel='noopener noreferrer'>Unmasking the Privacy Risks of Apple Intelligence</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 15:36 UTC</small><br><br>
 🔹 <a href='https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/' target='_blank' rel='noopener noreferrer'>Weaponizing image scaling against production AI systems</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 12:20 UTC</small><br><br>
 🔹 <a href='https://timothynguyen.org/2025/08/21/physics-grifters-eric-weinstein-sabine-hossenfelder-and-a-crisis-of-credibility/' target='_blank' rel='noopener noreferrer'>Physics Grifters: Eric Weinstein, Sabine Hossenfelder a Crisis of Credibility</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 17:13 UTC</small><br><br>
-🔹 <a href='https://emersion.fr/blog/2025/using-podman-compose-and-buildkit/' target='_blank' rel='noopener noreferrer'>Using Podman, Compose and BuildKit</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 10:54 UTC</small><br><br>
 🔹 <a href='https://www.ycombinator.com/companies/cua/jobs/a6UbTvG-founding-engineer-ux-design' target='_blank' rel='noopener noreferrer'>Cua (YC X25) Is Hiring Founding Design Engineers in SF</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 17:01 UTC</small><br><br>
+🔹 <a href='https://emersion.fr/blog/2025/using-podman-compose-and-buildkit/' target='_blank' rel='noopener noreferrer'>Using Podman, Compose and BuildKit</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 10:54 UTC</small><br><br>
 🔹 <a href='https://www.nmichaels.org/musings/d4d4/d4d4/' target='_blank' rel='noopener noreferrer'>D4d4</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 15:42 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Skope (YC S25) – Outcome-based pricing for software products</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 15:09 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-21 17:47:14 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-21 17:48:55 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
