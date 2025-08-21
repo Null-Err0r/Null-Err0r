@@ -27,8 +27,8 @@
 🔹 <a href='https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/' target='_blank' rel='noopener noreferrer'>Uv format: Code Formatting Comes to uv (experimentally)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 20:26 UTC</small><br><br>
 🔹 <a href='https://github.com/ghostty-org/ghostty/pull/8289' target='_blank' rel='noopener noreferrer'>AI tooling must be disclosed for contributions</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 18:49 UTC</small><br><br>
 🔹 <a href='https://www.construction-physics.com/p/how-does-the-us-use-water' target='_blank' rel='noopener noreferrer'>How does the US use water?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 12:21 UTC</small><br><br>
-🔹 <a href='https://www.hillelwayne.com/post/python-abc/' target='_blank' rel='noopener noreferrer'>Crimes with Python's Pattern Matching (2022)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 19:47 UTC</small><br><br>
 🔹 <a href='https://giansegato.com/essays/probabilistic-era' target='_blank' rel='noopener noreferrer'>Building AI products in the probabilistic era</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 18:42 UTC</small><br><br>
+🔹 <a href='https://www.hillelwayne.com/post/python-abc/' target='_blank' rel='noopener noreferrer'>Crimes with Python's Pattern Matching (2022)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 19:47 UTC</small><br><br>
 🔹 <a href='https://api-docs.deepseek.com/news/news250821' target='_blank' rel='noopener noreferrer'>DeepSeek-v3.1 Release</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 19:06 UTC</small><br><br>
 🔹 <a href='https://www.ycombinator.com/companies/text-ai/jobs/OJBr0v2-founding-full-stack-engineer' target='_blank' rel='noopener noreferrer'>Text.ai (YC X25) Is Hiring Founding Full-Stack Engineer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 21:04 UTC</small><br><br>
 🔹 <a href='https://www.joshwcomeau.com/svg/interactive-guide-to-paths/' target='_blank' rel='noopener noreferrer'>An interactive guide to SVG paths</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 15:19 UTC</small><br><br>
@@ -37,7 +37,7 @@
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-21 21:26:58 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-21 21:36:40 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
