@@ -33,11 +33,11 @@
 🔹 <a href='https://www.nmichaels.org/musings/d4d4/d4d4/' target='_blank' rel='noopener noreferrer'>D4d4</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 15:42 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Skope (YC S25) – Outcome-based pricing for software products</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 15:09 UTC</small><br><br>
 🔹 <a href='https://mavericksforever.com/' target='_blank' rel='noopener noreferrer'>Show HN: OS X Mavericks Forever</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 16:01 UTC</small><br><br>
-🔹 <a href='https://app.chartdb.io' target='_blank' rel='noopener noreferrer'>Show HN: ChartDB Cloud – Visualize and Share Database Diagrams</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 13:01 UTC</small><br><br>
+🔹 <a href='https://www.lumia.security/blog/applestorm' target='_blank' rel='noopener noreferrer'>Unmasking the Privacy Risks of Apple Intelligence</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 15:36 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-21 16:38:14 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-21 16:58:40 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
