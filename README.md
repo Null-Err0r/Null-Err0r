@@ -25,19 +25,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://arxiv.org/abs/2507.00191' target='_blank' rel='noopener noreferrer'>Beyond sensor data: Foundation models of behavioral data from wearables</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 14:39 UTC</small><br><br>
-🔹 <a href='https://thedailyadda.com/95-of-companies-see-zero-return-on-30-billion-generative-ai-spend-mit-report-finds/' target='_blank' rel='noopener noreferrer'>95% of Companies See 'Zero Return' on $30B Generative AI Spend</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 15:36 UTC</small><br><br>
-🔹 <a href='https://unity.com/products/unity-industry' target='_blank' rel='noopener noreferrer'>Unity reintroduces the Runtime Fee through its Industry license</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 14:31 UTC</small><br><br>
-🔹 <a href='https://www.lumia.security/blog/applestorm' target='_blank' rel='noopener noreferrer'>Unmasking the Privacy Risks of Apple Intelligence</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 15:36 UTC</small><br><br>
+🔹 <a href='https://jyn.dev/the-core-of-rust/' target='_blank' rel='noopener noreferrer'>The Core of Rust</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 16:27 UTC</small><br><br>
+🔹 <a href='https://rudevulture.com/marines-managed-to-get-past-an-ai-powered-camera-undetected-thanks-to-hiding-in-boxes/' target='_blank' rel='noopener noreferrer'>Marines managed to get past an AI powered camera "undetected" by hiding in boxes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 16:59 UTC</small><br><br>
 🔹 <a href='https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/' target='_blank' rel='noopener noreferrer'>Weaponizing image scaling against production AI systems</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 12:20 UTC</small><br><br>
-🔹 <a href='https://timothynguyen.org/2025/08/21/physics-grifters-eric-weinstein-sabine-hossenfelder-and-a-crisis-of-credibility/' target='_blank' rel='noopener noreferrer'>Physics Grifters: Eric Weinstein, Sabine Hossenfelder a Crisis of Credibility</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 17:13 UTC</small><br><br>
-🔹 <a href='https://www.ycombinator.com/companies/cua/jobs/a6UbTvG-founding-engineer-ux-design' target='_blank' rel='noopener noreferrer'>Cua (YC X25) Is Hiring Founding Design Engineers in SF</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 17:01 UTC</small><br><br>
+🔹 <a href='https://www.lumia.security/blog/applestorm' target='_blank' rel='noopener noreferrer'>Unmasking the Privacy Risks of Apple Intelligence</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 15:36 UTC</small><br><br>
+🔹 <a href='https://timothynguyen.org/2025/08/21/physics-grifters-eric-weinstein-sabine-hossenfelder-and-a-crisis-of-credibility/' target='_blank' rel='noopener noreferrer'>The contrarian physics podcast subculture</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 17:13 UTC</small><br><br>
+🔹 <a href='https://feyor.sh/blog/my-other-email-client-is-a-mail-daemon/' target='_blank' rel='noopener noreferrer'>My other email client is a daemon</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 08:54 UTC</small><br><br>
+🔹 <a href='https://www.ycombinator.com/companies/cua/jobs/a6UbTvG-founding-engineer-ux-design' target='_blank' rel='noopener noreferrer'>Cua (YC X25) is hiring design engineers in SF</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 17:01 UTC</small><br><br>
 🔹 <a href='https://emersion.fr/blog/2025/using-podman-compose-and-buildkit/' target='_blank' rel='noopener noreferrer'>Using Podman, Compose and BuildKit</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 10:54 UTC</small><br><br>
-🔹 <a href='https://www.nmichaels.org/musings/d4d4/d4d4/' target='_blank' rel='noopener noreferrer'>D4d4</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 15:42 UTC</small><br><br>
-🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Skope (YC S25) – Outcome-based pricing for software products</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 15:09 UTC</small><br><br>
+🔹 <a href='https://unity.com/products/unity-industry' target='_blank' rel='noopener noreferrer'>Unity reintroduces the Runtime Fee through its Industry license</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 14:31 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-21 17:48:55 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-21 18:15:33 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
