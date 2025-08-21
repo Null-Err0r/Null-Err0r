@@ -25,19 +25,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://github.com/ghostty-org/ghostty/pull/8289' target='_blank' rel='noopener noreferrer'>AI tooling must be disclosed for contributions</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 18:49 UTC</small><br><br>
-🔹 <a href='https://jyn.dev/the-core-of-rust/' target='_blank' rel='noopener noreferrer'>The Core of Rust</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 16:27 UTC</small><br><br>
-🔹 <a href='https://giansegato.com/essays/probabilistic-era' target='_blank' rel='noopener noreferrer'>Building AI Products in the Probabilistic Era</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 18:42 UTC</small><br><br>
+🔹 <a href='https://www.construction-physics.com/p/how-does-the-us-use-water' target='_blank' rel='noopener noreferrer'>How does the US use water?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 12:21 UTC</small><br><br>
+🔹 <a href='https://giansegato.com/essays/probabilistic-era' target='_blank' rel='noopener noreferrer'>Building AI products in the probabilistic era</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 18:42 UTC</small><br><br>
 🔹 <a href='https://arxiv.org/abs/2507.00191' target='_blank' rel='noopener noreferrer'>Beyond sensor data: Foundation models of behavioral data from wearables</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 14:39 UTC</small><br><br>
-🔹 <a href='https://www.joshwcomeau.com/svg/interactive-guide-to-paths/' target='_blank' rel='noopener noreferrer'>An Interactive Guide to SVG Paths</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 15:19 UTC</small><br><br>
-🔹 <a href='https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/' target='_blank' rel='noopener noreferrer'>Weaponizing image scaling against production AI systems</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 12:20 UTC</small><br><br>
+🔹 <a href='https://www.joshwcomeau.com/svg/interactive-guide-to-paths/' target='_blank' rel='noopener noreferrer'>An interactive guide to SVG paths</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 15:19 UTC</small><br><br>
 🔹 <a href='https://www.cnn.com/2025/08/18/travel/budapest-diving-molnar-janos-cave' target='_blank' rel='noopener noreferrer'>Miles from the ocean, there's diving beneath the streets of Budapest</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 16:42 UTC</small><br><br>
+🔹 <a href='https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/' target='_blank' rel='noopener noreferrer'>Weaponizing image scaling against production AI systems</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 12:20 UTC</small><br><br>
+🔹 <a href='https://api-docs.deepseek.com/news/news250821' target='_blank' rel='noopener noreferrer'>DeepSeek-v3.1 Release</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 19:06 UTC</small><br><br>
 🔹 <a href='https://feyor.sh/blog/my-other-email-client-is-a-mail-daemon/' target='_blank' rel='noopener noreferrer'>My other email client is a daemon</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 08:54 UTC</small><br><br>
-🔹 <a href='https://emersion.fr/blog/2025/using-podman-compose-and-buildkit/' target='_blank' rel='noopener noreferrer'>Using Podman, Compose and BuildKit</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 10:54 UTC</small><br><br>
-🔹 <a href='https://www.nmichaels.org/musings/d4d4/d4d4/' target='_blank' rel='noopener noreferrer'>D4d4</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 15:42 UTC</small><br><br>
+🔹 <a href='https://www.nmichaels.org/musings/d4d4/d4d4/' target='_blank' rel='noopener noreferrer'>D4D4</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 15:42 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-21 19:46:59 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-21 20:11:53 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
