@@ -27,17 +27,17 @@
 🔹 <a href='https://ips-dc.org/report-executive-excess-2025/' target='_blank' rel='noopener noreferrer'>CEO pay and stock buybacks have soared at the 100 largest low-wage corporations</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 22:04 UTC</small><br><br>
 🔹 <a href='https://www.hillelwayne.com/post/python-abc/' target='_blank' rel='noopener noreferrer'>Crimes with Python's Pattern Matching (2022)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 19:47 UTC</small><br><br>
 🔹 <a href='https://github.com/ghostty-org/ghostty/pull/8289' target='_blank' rel='noopener noreferrer'>AI tooling must be disclosed for contributions</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 18:49 UTC</small><br><br>
+🔹 <a href='https://actu.epfl.ch/news/elegant-mathematics-bending-the-future-of-design/' target='_blank' rel='noopener noreferrer'>Elegant mathematics bending the future of design</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 16:36 UTC</small><br><br>
 🔹 <a href='https://www.dbreunig.com/2025/08/21/a-guide-to-ai-titles.html' target='_blank' rel='noopener noreferrer'>A Decoder Ring for AI Job Titles</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 19:22 UTC</small><br><br>
 🔹 <a href='https://www.joshwcomeau.com/svg/interactive-guide-to-paths/' target='_blank' rel='noopener noreferrer'>An interactive guide to SVG paths</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 15:19 UTC</small><br><br>
 🔹 <a href='https://api-docs.deepseek.com/news/news250821' target='_blank' rel='noopener noreferrer'>DeepSeek-v3.1 Release</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 19:06 UTC</small><br><br>
-🔹 <a href='https://actu.epfl.ch/news/elegant-mathematics-bending-the-future-of-design/' target='_blank' rel='noopener noreferrer'>Elegant mathematics bending the future of design</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 16:36 UTC</small><br><br>
 🔹 <a href='https://arxiv.org/abs/2507.00191' target='_blank' rel='noopener noreferrer'>Beyond sensor data: Foundation models of behavioral data from wearables</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 14:39 UTC</small><br><br>
 🔹 <a href='https://www.cnn.com/2025/08/18/travel/budapest-diving-molnar-janos-cave' target='_blank' rel='noopener noreferrer'>Miles from the ocean, there's diving beneath the streets of Budapest</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 16:42 UTC</small><br><br>
-🔹 <a href='https://www.ycombinator.com/companies/text-ai/jobs/OJBr0v2-founding-full-stack-engineer' target='_blank' rel='noopener noreferrer'>Text.ai (YC X25) Is Hiring Founding Full-Stack Engineer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 21:04 UTC</small><br><br>
+🔹 <a href='https://feyor.sh/blog/my-other-email-client-is-a-mail-daemon/' target='_blank' rel='noopener noreferrer'>My other email client is a daemon</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 08:54 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-21 23:10:16 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-21 23:27:20 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
