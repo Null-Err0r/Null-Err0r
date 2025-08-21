@@ -25,8 +25,8 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://github.com/ghostty-org/ghostty/pull/8289' target='_blank' rel='noopener noreferrer'>AI tooling must be disclosed for contributions</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 18:49 UTC</small><br><br>
-🔹 <a href='https://jyn.dev/the-core-of-rust/' target='_blank' rel='noopener noreferrer'>The Core of Rust</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 16:27 UTC</small><br><br>
 🔹 <a href='https://joshuavaldez.com/the-unbearable-slowness-of-ai-coding/' target='_blank' rel='noopener noreferrer'>The Unbearable Slowness of AI Coding</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 18:39 UTC</small><br><br>
+🔹 <a href='https://jyn.dev/the-core-of-rust/' target='_blank' rel='noopener noreferrer'>The Core of Rust</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 16:27 UTC</small><br><br>
 🔹 <a href='https://arxiv.org/abs/2507.00191' target='_blank' rel='noopener noreferrer'>Beyond sensor data: Foundation models of behavioral data from wearables</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 14:39 UTC</small><br><br>
 🔹 <a href='https://giansegato.com/essays/probabilistic-era' target='_blank' rel='noopener noreferrer'>Building AI Products in the Probabilistic Era</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 18:42 UTC</small><br><br>
 🔹 <a href='https://www.joshwcomeau.com/svg/interactive-guide-to-paths/' target='_blank' rel='noopener noreferrer'>An Interactive Guide to SVG Paths</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 15:19 UTC</small><br><br>
@@ -37,7 +37,7 @@
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-21 19:23:48 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-21 19:32:41 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
