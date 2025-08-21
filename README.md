@@ -24,12 +24,12 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://emersion.fr/blog/2025/using-podman-compose-and-buildkit/' target='_blank' rel='noopener noreferrer'>Using Podman, Compose and BuildKit</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 10:54 UTC</small><br><br>
-🔹 <a href='https://www.journals.uchicago.edu/doi/10.1086/735665' target='_blank' rel='noopener noreferrer'>How Well Does the Money Laundering Control System Work?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 12:58 UTC</small><br><br>
-🔹 <a href='https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/' target='_blank' rel='noopener noreferrer'>Weaponizing image scaling against production AI systems</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 12:20 UTC</small><br><br>
 🔹 <a href='https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/' target='_blank' rel='noopener noreferrer'>AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 12:53 UTC</small><br><br>
-🔹 <a href='https://www.nmichaels.org/musings/d4d4/d4d4/' target='_blank' rel='noopener noreferrer'>D4d4</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 15:42 UTC</small><br><br>
+🔹 <a href='https://www.journals.uchicago.edu/doi/10.1086/735665' target='_blank' rel='noopener noreferrer'>How Well Does the Money Laundering Control System Work?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 12:58 UTC</small><br><br>
+🔹 <a href='https://emersion.fr/blog/2025/using-podman-compose-and-buildkit/' target='_blank' rel='noopener noreferrer'>Using Podman, Compose and BuildKit</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 10:54 UTC</small><br><br>
 🔹 <a href='https://app.chartdb.io' target='_blank' rel='noopener noreferrer'>Show HN: ChartDB Cloud – Visualize and Share Database Diagrams</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 13:01 UTC</small><br><br>
+🔹 <a href='https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/' target='_blank' rel='noopener noreferrer'>Weaponizing image scaling against production AI systems</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 12:20 UTC</small><br><br>
+🔹 <a href='https://www.nmichaels.org/musings/d4d4/d4d4/' target='_blank' rel='noopener noreferrer'>D4d4</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-17 15:42 UTC</small><br><br>
 🔹 <a href='https://mavericksforever.com/' target='_blank' rel='noopener noreferrer'>Show HN: OS X Mavericks Forever</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 16:01 UTC</small><br><br>
 🔹 <a href='https://www.telegraph.co.uk/business/2025/08/21/zuckerberg-freezes-ai-hiring-amid-bubble-fears/' target='_blank' rel='noopener noreferrer'>Mark Zuckerberg freezes AI hiring amid bubble fears</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 11:04 UTC</small><br><br>
 🔹 <a href='https://turtleware.eu/posts/Using-Common-Lisp-from-inside-the-Browser.html' target='_blank' rel='noopener noreferrer'>Show HN: Using Common Lisp from Inside the Browser</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 12:08 UTC</small><br><br>
@@ -37,7 +37,7 @@
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-21 13:50:45 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-21 14:11:15 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
