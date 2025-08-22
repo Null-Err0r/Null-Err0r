@@ -26,18 +26,18 @@
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html' target='_blank' rel='noopener noreferrer'>U.S. government takes 10% stake in Intel</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 21:01 UTC</small><br><br>
 🔹 <a href='https://git.vuxu.org/nitro/about/' target='_blank' rel='noopener noreferrer'>Nitro: A tiny but flexible init system and process supervisor</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 19:06 UTC</small><br><br>
+🔹 <a href='https://cacm.acm.org/opinion/will-ai-destroy-the-world-wide-web/' target='_blank' rel='noopener noreferrer'>Will AI Destroy the World Wide Web?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 22:06 UTC</small><br><br>
 🔹 <a href='https://moq.dev/blog/first-cdn/' target='_blank' rel='noopener noreferrer'>The First Media over QUIC CDN: Cloudflare</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 18:24 UTC</small><br><br>
 🔹 <a href='https://thoughtbot.com/blog/top-secret' target='_blank' rel='noopener noreferrer'>Top Secret: Automatically filter sensitive information</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 04:48 UTC</small><br><br>
 🔹 <a href='https://ffmpeg.org/index.html#pr8.0' target='_blank' rel='noopener noreferrer'>FFmpeg 8.0</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 15:22 UTC</small><br><br>
 🔹 <a href='https://giuliomagnifico.blog/post/2025-08-18-leaving-gmail/' target='_blank' rel='noopener noreferrer'>Leaving Gmail for Mailbox.org</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 17:41 UTC</small><br><br>
-🔹 <a href='https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html' target='_blank' rel='noopener noreferrer'>Io_uring, kTLS and Rust for zero syscall HTTPS server</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 03:51 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: BlankBio (YC S25) - Making RNA Programmable</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 16:53 UTC</small><br><br>
 🔹 <a href='https://tulach.cc/the-issue-of-anti-cheat-on-linux/' target='_blank' rel='noopener noreferrer'>The issue of anti-cheat on Linux (2024)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 01:09 UTC</small><br><br>
 🔹 <a href='https://github.com/whatwg/html/issues/11578' target='_blank' rel='noopener noreferrer'>Should the web platform adopt XSLT 3.0?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 17:56 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-22 22:30:29 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-22 22:47:19 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
