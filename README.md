@@ -24,20 +24,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://moq.dev/blog/first-cdn/' target='_blank' rel='noopener noreferrer'>The First Media over QUIC CDN: Cloudflare</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 18:24 UTC</small><br><br>
 🔹 <a href='https://ffmpeg.org/index.html#pr8.0' target='_blank' rel='noopener noreferrer'>FFmpeg 8.0</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 15:22 UTC</small><br><br>
 🔹 <a href='https://www.cnbc.com/2025/08/22/waymo-permit-new-york-city-nyc-rides.html' target='_blank' rel='noopener noreferrer'>Waymo granted permit to begin testing in New York City</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 17:02 UTC</small><br><br>
-🔹 <a href='https://elijahpotter.dev/articles/harper_evolves' target='_blank' rel='noopener noreferrer'>Evolution Is Still a Valid Machine Learning Technique</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 19:04 UTC</small><br><br>
 🔹 <a href='https://justin.searls.co/posts/sprinkling-self-doubt-on-chatgpt/' target='_blank' rel='noopener noreferrer'>Sprinkling Self-Doubt on ChatGPT</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 17:45 UTC</small><br><br>
+🔹 <a href='https://blog.cloudflare.com/moq/' target='_blank' rel='noopener noreferrer'>Media over QUIC (MoQ): Refactoring the Internet's real-time media stack</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 13:59 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: BlankBio (YC S25) - Making RNA Programmable</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 16:53 UTC</small><br><br>
-🔹 <a href='https://steipete.me/posts/2025/essential-reading-august-2025' target='_blank' rel='noopener noreferrer'>Essential Reading for Agentic Engineers – August 2025</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 18:07 UTC</small><br><br>
-🔹 <a href='https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html' target='_blank' rel='noopener noreferrer'>Io_uring, kTLS and Rust for zero syscall HTTPS server</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 03:51 UTC</small><br><br>
+🔹 <a href='https://elijahpotter.dev/articles/harper_evolves' target='_blank' rel='noopener noreferrer'>Evolution is still a valid machine learning technique</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 19:04 UTC</small><br><br>
 🔹 <a href='https://www.sciencedaily.com/releases/2025/08/250820000808.htm' target='_blank' rel='noopener noreferrer'>Scientists just found a protein that reverses brain aging</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 18:56 UTC</small><br><br>
+🔹 <a href='https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html' target='_blank' rel='noopener noreferrer'>Io_uring, kTLS and Rust for zero syscall HTTPS server</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 03:51 UTC</small><br><br>
 🔹 <a href='https://github.com/murat-cileli/clyp' target='_blank' rel='noopener noreferrer'>Show HN: Clyp – Clipboard Manager for Linux</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 16:03 UTC</small><br><br>
+🔹 <a href='https://labplot.org/' target='_blank' rel='noopener noreferrer'>LabPlot: Free, open source and cross-platform Data Visualization and Analysis</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 09:11 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-22 19:23:37 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-22 19:32:41 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
