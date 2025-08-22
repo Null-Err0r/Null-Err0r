@@ -24,12 +24,12 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://blog.thunderbird.net/2025/08/tbpro-august-2025-update/' target='_blank' rel='noopener noreferrer'>Thunderbird Pro August 2025 Update</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 14:29 UTC</small><br><br>
-🔹 <a href='https://arxiv.org/abs/2508.12631' target='_blank' rel='noopener noreferrer'>Making LLMs Cheaper and Better via Performance-Efficiency Optimized Routing</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 14:43 UTC</small><br><br>
 🔹 <a href='https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html' target='_blank' rel='noopener noreferrer'>Io_uring, kTLS and Rust for zero syscall HTTPS server</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 03:51 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Inconvo (YC S23) – AI agents for customer-facing analytics</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 12:59 UTC</small><br><br>
 🔹 <a href='https://labplot.org/' target='_blank' rel='noopener noreferrer'>LabPlot: Free, open source and cross-platform Data Visualization and Analysis</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 09:11 UTC</small><br><br>
+🔹 <a href='https://blog.thunderbird.net/2025/08/tbpro-august-2025-update/' target='_blank' rel='noopener noreferrer'>Thunderbird Pro August 2025 Update</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 14:29 UTC</small><br><br>
 🔹 <a href='https://api-docs.deepseek.com/news/news250821' target='_blank' rel='noopener noreferrer'>DeepSeek-v3.1</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 19:06 UTC</small><br><br>
+🔹 <a href='https://arxiv.org/abs/2508.12631' target='_blank' rel='noopener noreferrer'>Making LLMs Cheaper and Better via Performance-Efficiency Optimized Routing</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 14:43 UTC</small><br><br>
 🔹 <a href='https://shkspr.mobi/blog/2025/08/what-about-using-relshare-url-to-expose-sharing-intents/' target='_blank' rel='noopener noreferrer'>What about using rel="share-url" to expose sharing intents?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 11:49 UTC</small><br><br>
 🔹 <a href='https://gwern.net/everything' target='_blank' rel='noopener noreferrer'>Everything is correlated (2014–23)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 02:05 UTC</small><br><br>
 🔹 <a href='https://terriblesoftware.org/2025/08/22/the-management-skill-nobody-talks-about/' target='_blank' rel='noopener noreferrer'>All managers make mistakes; good managers acknowledge and repair</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 12:50 UTC</small><br><br>
@@ -37,7 +37,7 @@
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-22 15:10:56 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-22 15:29:21 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
