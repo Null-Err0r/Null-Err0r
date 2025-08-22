@@ -25,19 +25,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html' target='_blank' rel='noopener noreferrer'>Io_uring, kTLS and Rust for zero syscall HTTPS server</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 03:51 UTC</small><br><br>
-🔹 <a href='https://hsivonen.fi/string-length/' target='_blank' rel='noopener noreferrer'>It's Not Wrong that " ".length == 7</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 06:18 UTC</small><br><br>
 🔹 <a href='https://api-docs.deepseek.com/news/news250821' target='_blank' rel='noopener noreferrer'>DeepSeek-v3.1</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 19:06 UTC</small><br><br>
 🔹 <a href='https://www.begaydocrime.com/' target='_blank' rel='noopener noreferrer'>Control shopping cart wheels with your phone (2021)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 00:59 UTC</small><br><br>
 🔹 <a href='https://gwern.net/everything' target='_blank' rel='noopener noreferrer'>Everything Is Correlated</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 02:05 UTC</small><br><br>
-🔹 <a href='https://www.thedrive.com/news/this-24000-watt-scooter-is-going-for-a-100-mph-speed-record-at-bonneville' target='_blank' rel='noopener noreferrer'>24,000-Watt Scooter Is Going for a 100 MPH Speed Record at Bonneville</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 15:40 UTC</small><br><br>
+🔹 <a href='https://hsivonen.fi/string-length/' target='_blank' rel='noopener noreferrer'>It's Not Wrong that " ".length == 7</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 06:18 UTC</small><br><br>
 🔹 <a href='https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/' target='_blank' rel='noopener noreferrer'>Code formatting comes to uv experimentally</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 20:26 UTC</small><br><br>
+🔹 <a href='https://www.thedrive.com/news/this-24000-watt-scooter-is-going-for-a-100-mph-speed-record-at-bonneville' target='_blank' rel='noopener noreferrer'>24,000-Watt Scooter Is Going for a 100 MPH Speed Record at Bonneville</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 15:40 UTC</small><br><br>
 🔹 <a href='https://andrei.xyz/post/how-not-to-buy-a-ssd/' target='_blank' rel='noopener noreferrer'>How Not to Buy a SSD</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 16:49 UTC</small><br><br>
 🔹 <a href='https://www.fertrevino.com/docs/gpt5_medhelm.pdf' target='_blank' rel='noopener noreferrer'>From GPT-4 to GPT-5: Measuring progress through MedHELM [pdf]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 22:52 UTC</small><br><br>
 🔹 <a href='https://www.hillelwayne.com/post/python-abc/' target='_blank' rel='noopener noreferrer'>Crimes with Python's Pattern Matching (2022)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 19:47 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-22 07:36:53 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-22 07:46:55 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
