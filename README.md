@@ -29,15 +29,15 @@
 🔹 <a href='https://gwern.net/everything' target='_blank' rel='noopener noreferrer'>Everything Is Correlated</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 02:05 UTC</small><br><br>
 🔹 <a href='https://www.begaydocrime.com/' target='_blank' rel='noopener noreferrer'>Control shopping cart wheels with your phone (2021)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 00:59 UTC</small><br><br>
 🔹 <a href='https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/' target='_blank' rel='noopener noreferrer'>Code formatting comes to uv experimentally</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 20:26 UTC</small><br><br>
-🔹 <a href='https://www.youtube.com/watch?v=HFYWHeBhYbM' target='_blank' rel='noopener noreferrer'>VHS-C: when a lazy idea stumbles towards perfection [video]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 14:30 UTC</small><br><br>
 🔹 <a href='https://www.youtube.com/watch?v=nz2LeXwJOyI' target='_blank' rel='noopener noreferrer'>The Minecraft code no one has solved (2024) [video]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 07:18 UTC</small><br><br>
+🔹 <a href='https://www.youtube.com/watch?v=HFYWHeBhYbM' target='_blank' rel='noopener noreferrer'>VHS-C: when a lazy idea stumbles towards perfection [video]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 14:30 UTC</small><br><br>
 🔹 <a href='https://www.hillelwayne.com/post/python-abc/' target='_blank' rel='noopener noreferrer'>Crimes with Python's Pattern Matching (2022)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 19:47 UTC</small><br><br>
 🔹 <a href='https://www.joshwcomeau.com/svg/interactive-guide-to-paths/' target='_blank' rel='noopener noreferrer'>An interactive guide to SVG paths</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 15:19 UTC</small><br><br>
 🔹 <a href='https://www.fertrevino.com/docs/gpt5_medhelm.pdf' target='_blank' rel='noopener noreferrer'>From GPT-4 to GPT-5: Measuring progress through MedHELM [pdf]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 22:52 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-22 09:47:33 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-22 10:11:36 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
