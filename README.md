@@ -33,11 +33,11 @@
 🔹 <a href='https://github.com/cvilsmeier/go-sqlite-bench' target='_blank' rel='noopener noreferrer'>Benchmarks for Golang SQLite Drivers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 15:13 UTC</small><br><br>
 🔹 <a href='https://www.youtube.com/watch?v=jHG_I-9a7FY' target='_blank' rel='noopener noreferrer'>1981 Sony Trinitron KV-3000R: The Most Luxurious Trinitron [video]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 11:52 UTC</small><br><br>
 🔹 <a href='https://www.joshwcomeau.com/svg/interactive-guide-to-paths/' target='_blank' rel='noopener noreferrer'>An interactive guide to SVG paths</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 15:19 UTC</small><br><br>
-🔹 <a href='https://actu.epfl.ch/news/elegant-mathematics-bending-the-future-of-design/' target='_blank' rel='noopener noreferrer'>Elegant mathematics bending the future of design</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 16:36 UTC</small><br><br>
+🔹 <a href='https://gwern.net/everything' target='_blank' rel='noopener noreferrer'>Everything Is Correlated</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 02:05 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-22 05:31:47 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-22 05:47:28 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
