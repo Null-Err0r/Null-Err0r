@@ -27,17 +27,17 @@
 🔹 <a href='https://git.vuxu.org/nitro/about/' target='_blank' rel='noopener noreferrer'>Nitro: A tiny but flexible init system and process supervisor</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 19:06 UTC</small><br><br>
 🔹 <a href='https://moq.dev/blog/first-cdn/' target='_blank' rel='noopener noreferrer'>The First Media over QUIC CDN: Cloudflare</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 18:24 UTC</small><br><br>
 🔹 <a href='https://github.com/whatwg/html/issues/11578' target='_blank' rel='noopener noreferrer'>Should the web platform adopt XSLT 3.0?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 17:56 UTC</small><br><br>
+🔹 <a href='https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html' target='_blank' rel='noopener noreferrer'>US takes 10% stake in Intel</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 21:01 UTC</small><br><br>
 🔹 <a href='https://ffmpeg.org/index.html#pr8.0' target='_blank' rel='noopener noreferrer'>FFmpeg 8.0</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 15:22 UTC</small><br><br>
 🔹 <a href='https://www.npr.org/sections/shots-health-news/2025/08/22/nx-s1-5511182/aca-tax-credits-health-insurance-open-enrollment' target='_blank' rel='noopener noreferrer'>From $479 to $2,800 a month for ACA health insurance next year</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 20:56 UTC</small><br><br>
-🔹 <a href='https://justin.searls.co/posts/sprinkling-self-doubt-on-chatgpt/' target='_blank' rel='noopener noreferrer'>Sprinkling self-doubt on ChatGPT</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 17:45 UTC</small><br><br>
 🔹 <a href='https://www.sciencedaily.com/releases/2025/08/250820000808.htm' target='_blank' rel='noopener noreferrer'>Scientists just found a protein that reverses brain aging</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 18:56 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: BlankBio (YC S25) - Making RNA Programmable</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 16:53 UTC</small><br><br>
+🔹 <a href='https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html' target='_blank' rel='noopener noreferrer'>Io_uring, kTLS and Rust for zero syscall HTTPS server</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 03:51 UTC</small><br><br>
 🔹 <a href='https://github.com/murat-cileli/clyp' target='_blank' rel='noopener noreferrer'>Show HN: Clyp – Clipboard Manager for Linux</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 16:03 UTC</small><br><br>
-🔹 <a href='https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html' target='_blank' rel='noopener noreferrer'>US takes 10% stake in Intel</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 21:01 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-22 21:26:28 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-22 21:35:57 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
