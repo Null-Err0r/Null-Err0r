@@ -24,8 +24,8 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://www.fertrevino.com/docs/gpt5_medhelm.pdf' target='_blank' rel='noopener noreferrer'>From GPT-4 to GPT-5: Measuring progress through MedHELM [pdf]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 22:52 UTC</small><br><br>
 🔹 <a href='https://www.begaydocrime.com/' target='_blank' rel='noopener noreferrer'>Control shopping cart wheels with your phone (2021)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 00:59 UTC</small><br><br>
+🔹 <a href='https://www.fertrevino.com/docs/gpt5_medhelm.pdf' target='_blank' rel='noopener noreferrer'>From GPT-4 to GPT-5: Measuring progress through MedHELM [pdf]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 22:52 UTC</small><br><br>
 🔹 <a href='https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/' target='_blank' rel='noopener noreferrer'>Uv format: Code Formatting Comes to uv (experimentally)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 20:26 UTC</small><br><br>
 🔹 <a href='https://www.youtube.com/watch?v=jHG_I-9a7FY' target='_blank' rel='noopener noreferrer'>1981 Sony Trinitron KV-3000R: The Most Luxurious Trinitron [video]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 11:52 UTC</small><br><br>
 🔹 <a href='https://www.hillelwayne.com/post/python-abc/' target='_blank' rel='noopener noreferrer'>Crimes with Python's Pattern Matching (2022)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 19:47 UTC</small><br><br>
@@ -33,11 +33,11 @@
 🔹 <a href='https://www.joshwcomeau.com/svg/interactive-guide-to-paths/' target='_blank' rel='noopener noreferrer'>An interactive guide to SVG paths</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 15:19 UTC</small><br><br>
 🔹 <a href='https://github.com/ghostty-org/ghostty/pull/8289' target='_blank' rel='noopener noreferrer'>AI tooling must be disclosed for contributions</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 18:49 UTC</small><br><br>
 🔹 <a href='https://github.com/cvilsmeier/go-sqlite-bench' target='_blank' rel='noopener noreferrer'>Benchmarks for Golang SQLite Drivers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 15:13 UTC</small><br><br>
-🔹 <a href='https://www.construction-physics.com/p/how-does-the-us-use-water' target='_blank' rel='noopener noreferrer'>How does the US use water?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 12:21 UTC</small><br><br>
+🔹 <a href='https://splice-cad.com' target='_blank' rel='noopener noreferrer'>Show HN: Splice – CAD for Cable Harnesses and Electrical Assemblies</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 21:10 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-22 02:25:34 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-22 03:27:12 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
