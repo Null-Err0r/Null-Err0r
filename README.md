@@ -25,19 +25,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://www.cnbc.com/2025/08/22/waymo-permit-new-york-city-nyc-rides.html' target='_blank' rel='noopener noreferrer'>Waymo granted permit to begin testing in New York City</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 17:02 UTC</small><br><br>
-🔹 <a href='https://giuliomagnifico.blog/post/2025-08-18-leaving-gmail/' target='_blank' rel='noopener noreferrer'>Leaving Gmail for Mailbox.org</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 17:41 UTC</small><br><br>
 🔹 <a href='https://ffmpeg.org/index.html#pr8.0' target='_blank' rel='noopener noreferrer'>FFmpeg 8.0</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 15:22 UTC</small><br><br>
 🔹 <a href='https://justin.searls.co/posts/sprinkling-self-doubt-on-chatgpt/' target='_blank' rel='noopener noreferrer'>Sprinkling Self-Doubt on ChatGPT</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 17:45 UTC</small><br><br>
+🔹 <a href='https://steipete.me/posts/2025/essential-reading-august-2025' target='_blank' rel='noopener noreferrer'>Essential Reading for Agentic Engineers – August 2025</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 18:07 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: BlankBio (YC S25) - Making RNA Programmable</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 16:53 UTC</small><br><br>
 🔹 <a href='https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html' target='_blank' rel='noopener noreferrer'>Io_uring, kTLS and Rust for zero syscall HTTPS server</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 03:51 UTC</small><br><br>
 🔹 <a href='https://github.com/murat-cileli/clyp' target='_blank' rel='noopener noreferrer'>Show HN: Clyp – Clipboard Manager for Linux</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 16:03 UTC</small><br><br>
-🔹 <a href='https://labplot.org/' target='_blank' rel='noopener noreferrer'>LabPlot: Free, open source and cross-platform Data Visualization and Analysis</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 09:11 UTC</small><br><br>
-🔹 <a href='https://www.startpinch.com/' target='_blank' rel='noopener noreferrer'>Show HN: Pinch – macOS voice translation for real-time conversations</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 12:10 UTC</small><br><br>
 🔹 <a href='https://insideclimatenews.org/news/19082025/usda-bans-farm-renewables-support/' target='_blank' rel='noopener noreferrer'>The US Department of Agriculture Bans Support for Renewables</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 17:55 UTC</small><br><br>
+🔹 <a href='https://tulach.cc/the-issue-of-anti-cheat-on-linux/' target='_blank' rel='noopener noreferrer'>The issue of anti-cheat on Linux</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 01:09 UTC</small><br><br>
+🔹 <a href='https://labplot.org/' target='_blank' rel='noopener noreferrer'>LabPlot: Free, open source and cross-platform Data Visualization and Analysis</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 09:11 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-22 18:14:55 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-22 18:42:24 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
