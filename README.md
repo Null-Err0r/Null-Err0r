@@ -25,19 +25,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://ffmpeg.org/index.html#pr8.0' target='_blank' rel='noopener noreferrer'>FFmpeg 8.0</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 15:22 UTC</small><br><br>
+🔹 <a href='https://www.stochasticlifestyle.com/a-guide-to-gen-ai-llm-vibecoding-for-expert-programmers/' target='_blank' rel='noopener noreferrer'>A Guide to Gen AI / LLM Vibecoding for Expert Programmers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 14:37 UTC</small><br><br>
+🔹 <a href='https://www.cnbc.com/2025/08/22/waymo-permit-new-york-city-nyc-rides.html' target='_blank' rel='noopener noreferrer'>Waymo granted first permit to begin testing autonomous vehicles in New York City</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 17:02 UTC</small><br><br>
 🔹 <a href='https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html' target='_blank' rel='noopener noreferrer'>Io_uring, kTLS and Rust for zero syscall HTTPS server</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 03:51 UTC</small><br><br>
 🔹 <a href='https://arxiv.org/abs/2508.12631' target='_blank' rel='noopener noreferrer'>Making LLMs Cheaper and Better via Performance-Efficiency Optimized Routing</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 14:43 UTC</small><br><br>
 🔹 <a href='https://labplot.org/' target='_blank' rel='noopener noreferrer'>LabPlot: Free, open source and cross-platform Data Visualization and Analysis</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 09:11 UTC</small><br><br>
 🔹 <a href='https://api-docs.deepseek.com/news/news250821' target='_blank' rel='noopener noreferrer'>DeepSeek-v3.1</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 19:06 UTC</small><br><br>
-🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Inconvo (YC S23) – AI agents for customer-facing analytics</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 12:59 UTC</small><br><br>
-🔹 <a href='https://shkspr.mobi/blog/2025/08/what-about-using-relshare-url-to-expose-sharing-intents/' target='_blank' rel='noopener noreferrer'>What about using rel="share-url" to expose sharing intents?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 11:49 UTC</small><br><br>
-🔹 <a href='https://www.stochasticlifestyle.com/a-guide-to-gen-ai-llm-vibecoding-for-expert-programmers/' target='_blank' rel='noopener noreferrer'>A Guide to Gen AI / LLM Vibecoding for Expert Programmers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 14:37 UTC</small><br><br>
 🔹 <a href='https://github.com/murat-cileli/clyp' target='_blank' rel='noopener noreferrer'>Show HN: Clyp – Clipboard Manager for Linux</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 16:03 UTC</small><br><br>
+🔹 <a href='https://www.ubicloud.com/blog/does-mhz-still-matter' target='_blank' rel='noopener noreferrer'>Does MHz Still Matter?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 14:47 UTC</small><br><br>
 🔹 <a href='https://marketsaintefficient.substack.com/p/vibe-debugging-enterprises-up-and' target='_blank' rel='noopener noreferrer'>Vibe Debugging: Enterprises' Up and Coming Nightmare</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 15:46 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-22 17:09:41 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-22 17:29:29 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
