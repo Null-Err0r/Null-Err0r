@@ -24,20 +24,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://www.hillelwayne.com/post/python-abc/' target='_blank' rel='noopener noreferrer'>Crimes with Python's Pattern Matching (2022)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 19:47 UTC</small><br><br>
 🔹 <a href='https://www.fertrevino.com/docs/gpt5_medhelm.pdf' target='_blank' rel='noopener noreferrer'>From GPT-4 to GPT-5: Measuring Progress in Medical Language Understanding [pdf]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 22:52 UTC</small><br><br>
-🔹 <a href='https://github.com/ghostty-org/ghostty/pull/8289' target='_blank' rel='noopener noreferrer'>AI tooling must be disclosed for contributions</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 18:49 UTC</small><br><br>
-🔹 <a href='https://actu.epfl.ch/news/elegant-mathematics-bending-the-future-of-design/' target='_blank' rel='noopener noreferrer'>Elegant mathematics bending the future of design</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 16:36 UTC</small><br><br>
+🔹 <a href='https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/' target='_blank' rel='noopener noreferrer'>Uv format: Code Formatting Comes to uv (experimentally)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 20:26 UTC</small><br><br>
+🔹 <a href='https://www.hillelwayne.com/post/python-abc/' target='_blank' rel='noopener noreferrer'>Crimes with Python's Pattern Matching (2022)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 19:47 UTC</small><br><br>
+🔹 <a href='https://lists.debian.org/debian-devel-announce/2025/08/msg00006.html' target='_blank' rel='noopener noreferrer'>Happy 0b100000th Birthday, Debian</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 04:53 UTC</small><br><br>
 🔹 <a href='https://www.joshwcomeau.com/svg/interactive-guide-to-paths/' target='_blank' rel='noopener noreferrer'>An interactive guide to SVG paths</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 15:19 UTC</small><br><br>
+🔹 <a href='https://actu.epfl.ch/news/elegant-mathematics-bending-the-future-of-design/' target='_blank' rel='noopener noreferrer'>Elegant mathematics bending the future of design</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 16:36 UTC</small><br><br>
+🔹 <a href='https://www.changefly.com/blog/2025/08/anonymized-identity-and-age-verification-a-new-era-of-privacy-for-changefly-id' target='_blank' rel='noopener noreferrer'>Show HN: Changefly ID + Anonymized Identity and Age Verification</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 19:22 UTC</small><br><br>
+🔹 <a href='https://github.com/ghostty-org/ghostty/pull/8289' target='_blank' rel='noopener noreferrer'>AI tooling must be disclosed for contributions</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 18:49 UTC</small><br><br>
 🔹 <a href='https://api-docs.deepseek.com/news/news250821' target='_blank' rel='noopener noreferrer'>DeepSeek-v3.1 Release</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 19:06 UTC</small><br><br>
-🔹 <a href='https://arxiv.org/abs/2507.00191' target='_blank' rel='noopener noreferrer'>Beyond sensor data: Foundation models of behavioral data from wearables</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 14:39 UTC</small><br><br>
 🔹 <a href='https://feyor.sh/blog/my-other-email-client-is-a-mail-daemon/' target='_blank' rel='noopener noreferrer'>My other email client is a daemon</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 08:54 UTC</small><br><br>
-🔹 <a href='https://www.cnn.com/2025/08/18/travel/budapest-diving-molnar-janos-cave' target='_blank' rel='noopener noreferrer'>Miles from the ocean, there's diving beneath the streets of Budapest</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 16:42 UTC</small><br><br>
-🔹 <a href='https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/' target='_blank' rel='noopener noreferrer'>Weaponizing image scaling against production AI systems</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 12:20 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-21 23:46:57 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-22 00:52:16 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
