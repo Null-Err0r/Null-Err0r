@@ -24,20 +24,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html' target='_blank' rel='noopener noreferrer'>Io_uring, kTLS and Rust for zero syscall HTTPS server</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 03:51 UTC</small><br><br>
 🔹 <a href='https://blog.habets.se/2025/07/Go-is-still-not-good.html' target='_blank' rel='noopener noreferrer'>Go is still not good</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 09:25 UTC</small><br><br>
+🔹 <a href='https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html' target='_blank' rel='noopener noreferrer'>Io_uring, kTLS and Rust for zero syscall HTTPS server</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 03:51 UTC</small><br><br>
 🔹 <a href='https://api-docs.deepseek.com/news/news250821' target='_blank' rel='noopener noreferrer'>DeepSeek-v3.1</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 19:06 UTC</small><br><br>
 🔹 <a href='https://gwern.net/everything' target='_blank' rel='noopener noreferrer'>Everything Is Correlated</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 02:05 UTC</small><br><br>
 🔹 <a href='https://www.begaydocrime.com/' target='_blank' rel='noopener noreferrer'>Control shopping cart wheels with your phone (2021)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 00:59 UTC</small><br><br>
-🔹 <a href='https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/' target='_blank' rel='noopener noreferrer'>Code formatting comes to uv experimentally</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 20:26 UTC</small><br><br>
 🔹 <a href='https://labplot.org/' target='_blank' rel='noopener noreferrer'>LabPlot: Free, open source and cross-platform Data Visualization and Analysis</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 09:11 UTC</small><br><br>
+🔹 <a href='https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/' target='_blank' rel='noopener noreferrer'>Code formatting comes to uv experimentally</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 20:26 UTC</small><br><br>
 🔹 <a href='https://www.youtube.com/watch?v=HFYWHeBhYbM' target='_blank' rel='noopener noreferrer'>VHS-C: when a lazy idea stumbles towards perfection [video]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 14:30 UTC</small><br><br>
 🔹 <a href='https://www.youtube.com/watch?v=nz2LeXwJOyI' target='_blank' rel='noopener noreferrer'>The Minecraft code no one has solved (2024) [video]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 07:18 UTC</small><br><br>
 🔹 <a href='https://www.joshwcomeau.com/svg/interactive-guide-to-paths/' target='_blank' rel='noopener noreferrer'>An interactive guide to SVG paths</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-18 15:19 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-22 11:33:04 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-22 11:46:38 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
