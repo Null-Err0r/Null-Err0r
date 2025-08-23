@@ -36,14 +36,14 @@
 🔹 <a href='https://github.com/librebox-devs/librebox-demo' target='_blank' rel='noopener noreferrer'>Librebox: An open source, Roblox-compatible game engine</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 11:22 UTC</small><br><br>
 🔹 <a href='https://kottke.org/25/08/i-made-a-floppy-disk-from-scratch' target='_blank' rel='noopener noreferrer'>I Made a Floppy Disk from Scratch</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 10:32 UTC</small><br><br>
 🔹 <a href='https://gau-nernst.github.io/fa-5090/' target='_blank' rel='noopener noreferrer'>Writing Speed-of-Light Flash Attention for 5090 in CUDA C++</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 12:29 UTC</small><br><br>
+🔹 <a href='https://apps.apple.com/us/app/pocket-the-hardest-focus-app/id6746587044' target='_blank' rel='noopener noreferrer'>Show HN: I Made the Hardest Focus App</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 14:01 UTC</small><br><br>
 🔹 <a href='https://underlap.org/developers-block/' target='_blank' rel='noopener noreferrer'>Developer's block</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 09:20 UTC</small><br><br>
 🔹 <a href='https://docs.r-wasm.org/webr/latest/' target='_blank' rel='noopener noreferrer'>WebR – R in the Browser</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 14:36 UTC</small><br><br>
-🔹 <a href='https://www.crimepaysbutbotanydoesnt.com/blog/why-you-cant-grow-cool-climate-plants-in-hot-climates' target='_blank' rel='noopener noreferrer'>You can't grow cool-climate plants in hot climates</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 13:38 UTC</small><br><br>
-🔹 <a href='https://theconversation.com/the-world-regulated-sulfur-in-ship-fuels-and-the-lightning-stopped-249445' target='_blank' rel='noopener noreferrer'>Lightning declines over shipping lanes following regulation of sulfur emissions</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 07:35 UTC</small><br><br>
+🔹 <a href='https://readyset.io/blog/optimizing-straddled-joins-in-readyset-from-hash-joins-to-index-condition-pushdown' target='_blank' rel='noopener noreferrer'>450× Faster Joins with Index Condition Pushdown</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 15:43 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-23 14:46:56 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-23 15:08:54 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
