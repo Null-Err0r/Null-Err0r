@@ -30,20 +30,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://nkantar.com/blog/2025/08/static-python-uv-caddy-docker/' target='_blank' rel='noopener noreferrer'>Static sites with Python, uv, Caddy, and Docker</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 15:15 UTC</small><br><br>
 🔹 <a href='https://www.quantamagazine.org/how-can-ai-id-a-cat-an-illustrated-guide-20250430/' target='_blank' rel='noopener noreferrer'>How Can AI ID a Cat? An Illustrated Guide</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 18:36 UTC</small><br><br>
+🔹 <a href='https://nkantar.com/blog/2025/08/static-python-uv-caddy-docker/' target='_blank' rel='noopener noreferrer'>Static sites with Python, uv, Caddy, and Docker</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 15:15 UTC</small><br><br>
+🔹 <a href='https://daniel.lawrence.lu/blog/y2025m09d21/' target='_blank' rel='noopener noreferrer'>Line scan camera image processing for train photography</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 16:09 UTC</small><br><br>
+🔹 <a href='https://www.smithsonianmag.com/smart-news/a-2000-year-old-sun-hat-worn-by-a-roman-soldier-in-egypt-goes-on-view-after-a-century-in-storage-180987192/' target='_blank' rel='noopener noreferrer'>A 2k-year-old sun hat worn by a Roman soldier in Egypt</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 19:35 UTC</small><br><br>
 🔹 <a href='https://randomascii.wordpress.com/2025/05/26/acronis-true-image-costs-performance-when-not-used/' target='_blank' rel='noopener noreferrer'>Acronis True Image costs performance when not used</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 11:00 UTC</small><br><br>
 🔹 <a href='https://github.com/3b1b/manim' target='_blank' rel='noopener noreferrer'>Manim: Animation engine for explanatory math videos</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 07:35 UTC</small><br><br>
-🔹 <a href='https://daniel.lawrence.lu/blog/y2025m09d21/' target='_blank' rel='noopener noreferrer'>Line scan camera image processing for train photography</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 16:09 UTC</small><br><br>
 🔹 <a href='https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn' target='_blank' rel='noopener noreferrer'>Motion (YC W20) Is Hiring Senior Software Engineers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 21:00 UTC</small><br><br>
-🔹 <a href='https://www.smithsonianmag.com/smart-news/a-2000-year-old-sun-hat-worn-by-a-roman-soldier-in-egypt-goes-on-view-after-a-century-in-storage-180987192/' target='_blank' rel='noopener noreferrer'>A 2k-year-old sun hat worn by a Roman soldier in Egypt</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 19:35 UTC</small><br><br>
 🔹 <a href='https://github.com/librebox-devs/librebox-demo' target='_blank' rel='noopener noreferrer'>Librebox: An open source, Roblox-compatible game engine</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 11:22 UTC</small><br><br>
 🔹 <a href='https://www.cnbc.com/2025/08/22/apple-will-make-chips-at-texas-instruments-60-billion-us-project.html' target='_blank' rel='noopener noreferrer'>Texas Instruments' $60B U.S. project, the next iPhone chips fabric</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 17:14 UTC</small><br><br>
 🔹 <a href='https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839' target='_blank' rel='noopener noreferrer'>RFC 9839 and Bad Unicode</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 12:54 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-23 21:08:48 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-23 21:25:16 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
