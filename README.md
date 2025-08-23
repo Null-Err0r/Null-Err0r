@@ -24,20 +24,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://creao.ai/' target='_blank' rel='noopener noreferrer'>Show HN: Creao – Vibe coding product for founders</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 01:41 UTC</small><br><br>
 🔹 <a href='http://www.malsmith.net/blog/visual-c-visual-history/' target='_blank' rel='noopener noreferrer'>A visual history of Visual C++ (2017)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 03:39 UTC</small><br><br>
 🔹 <a href='https://github.com/Evidlo/xsl-website' target='_blank' rel='noopener noreferrer'>Show HN: JavaScript-free (X)HTML Includes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 18:47 UTC</small><br><br>
 🔹 <a href='https://arstechnica.com/ai/2025/08/google-says-it-dropped-the-energy-cost-of-ai-queries-by-33x-in-one-year/' target='_blank' rel='noopener noreferrer'>Google says it dropped the energy cost of AI queries by 33x in one year</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 03:22 UTC</small><br><br>
-🔹 <a href='https://shaderacademy.com/' target='_blank' rel='noopener noreferrer'>Shader Academy: Learn computer graphics by solving challenges</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 11:08 UTC</small><br><br>
 🔹 <a href='https://comeadwithus.wordpress.com/wp-content/uploads/2012/08/the-theory-and-practice-of-selling-the-aga-cooker.pdf' target='_blank' rel='noopener noreferrer'>The theory and practice of selling the Aga cooker (1935) [pdf]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 17:52 UTC</small><br><br>
-🔹 <a href='https://git.vuxu.org/nitro/about/' target='_blank' rel='noopener noreferrer'>Nitro: A tiny but flexible init system and process supervisor</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 19:06 UTC</small><br><br>
+🔹 <a href='https://shaderacademy.com/' target='_blank' rel='noopener noreferrer'>Shader Academy: Learn computer graphics by solving challenges</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 11:08 UTC</small><br><br>
+🔹 <a href='https://www.howtogeek.com/i-run-a-full-linux-desktop-in-docker-just-because-i-can/' target='_blank' rel='noopener noreferrer'>I run a full Linux desktop in Docker just because I can</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 11:39 UTC</small><br><br>
 🔹 <a href='https://arstechnica.com/tech-policy/2025/08/developer-gets-4-years-for-activating-network-kill-switch-to-avenge-his-firing/' target='_blank' rel='noopener noreferrer'>Developer sentenced to prison for activating “kill switch” to avenge his firing</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 04:05 UTC</small><br><br>
+🔹 <a href='https://git.vuxu.org/nitro/about/' target='_blank' rel='noopener noreferrer'>Nitro: A tiny but flexible init system and process supervisor</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 19:06 UTC</small><br><br>
 🔹 <a href='https://moq.dev/blog/first-cdn/' target='_blank' rel='noopener noreferrer'>The first Media over QUIC CDN: Cloudflare</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 18:24 UTC</small><br><br>
-🔹 <a href='https://www.howtogeek.com/i-run-a-full-linux-desktop-in-docker-just-because-i-can/' target='_blank' rel='noopener noreferrer'>I Run a Full Linux Desktop in Docker Just Because I Can</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 11:39 UTC</small><br><br>
+🔹 <a href='https://creao.ai/' target='_blank' rel='noopener noreferrer'>Show HN: Creao – Vibe coding product for founders</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 01:41 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-23 05:40:22 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-23 05:47:10 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
