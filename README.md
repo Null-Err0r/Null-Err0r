@@ -38,12 +38,12 @@
 🔹 <a href='https://github.com/3b1b/manim' target='_blank' rel='noopener noreferrer'>Manim: Animation engine for explanatory math videos</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 07:35 UTC</small><br><br>
 🔹 <a href='https://github.com/librebox-devs/librebox-demo' target='_blank' rel='noopener noreferrer'>Librebox: An open source, Roblox-compatible game engine</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 11:22 UTC</small><br><br>
 🔹 <a href='https://randomascii.wordpress.com/2025/05/26/acronis-true-image-costs-performance-when-not-used/' target='_blank' rel='noopener noreferrer'>Acronis True Image costs performance when not used</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 11:00 UTC</small><br><br>
-🔹 <a href='https://jobs.ashbyhq.com/motion/7355e80d-dab2-4ba1-89cc-a0197e08a83c?utm_source=hn' target='_blank' rel='noopener noreferrer'>Motion (YC W20) Is Hiring Senior Software Engineers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 21:00 UTC</small><br><br>
 🔹 <a href='https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839' target='_blank' rel='noopener noreferrer'>RFC 9839 and Bad Unicode</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 12:54 UTC</small><br><br>
+🔹 <a href='https://jobs.ashbyhq.com/motion/7355e80d-dab2-4ba1-89cc-a0197e08a83c?utm_source=hn' target='_blank' rel='noopener noreferrer'>Motion (YC W20) Is Hiring Senior Software Engineers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 21:00 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-23 22:40:53 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-23 22:47:30 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
