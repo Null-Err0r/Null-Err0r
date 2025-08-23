@@ -38,12 +38,12 @@
 🔹 <a href='https://underlap.org/developers-block/' target='_blank' rel='noopener noreferrer'>Developer's block</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 09:20 UTC</small><br><br>
 🔹 <a href='https://docs.r-wasm.org/webr/latest/' target='_blank' rel='noopener noreferrer'>WebR – R in the Browser</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 14:36 UTC</small><br><br>
 🔹 <a href='https://wwlln.net/' target='_blank' rel='noopener noreferrer'>World Wide Lightning Location Network</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 07:40 UTC</small><br><br>
-🔹 <a href='https://dfarq.homeip.net/building-a-computer-in-the-90s/' target='_blank' rel='noopener noreferrer'>Building a computer in the 90s (2019)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 09:18 UTC</small><br><br>
 🔹 <a href='https://www.crimepaysbutbotanydoesnt.com/blog/why-you-cant-grow-cool-climate-plants-in-hot-climates' target='_blank' rel='noopener noreferrer'>You can't grow cool-climate plants in hot climates</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 13:38 UTC</small><br><br>
+🔹 <a href='https://theconversation.com/the-world-regulated-sulfur-in-ship-fuels-and-the-lightning-stopped-249445' target='_blank' rel='noopener noreferrer'>Lightning declines over shipping lanes following regulation of sulfur emissions</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 07:35 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-23 13:38:29 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-23 13:46:55 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
