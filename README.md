@@ -17,7 +17,18 @@
   <img src="https://streak-stats.demolab.com/?user=null-err0r&theme=gruvbox" alt="GitHub Streak" />
 </div>
 
-
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center">
+          <img src="https://img.shields.io/badge/Linux-d65d0e?style=for-the-badge&logo=linux&logoColor=282828" width="100"/>
+           <img src="https://img.shields.io/badge/Rust-d65d0e?style=for-the-badge&logo=rust&logoColor=white&labelColor=282828" width="100"/>
+          <img src="https://img.shields.io/badge/Python-d65d0e?style=for-the-badge&logo=python&logoColor=282828" width="100"/>
+          <img src="https://img.shields.io/badge/JavaScript-d65d0e?style=for-the-badge&logo=javascript&logoColor=282828" width="100"/>
+          <img src="https://img.shields.io/badge/Android-d65d0e?style=for-the-badge&logo=android&logoColor=282828" width="100"/>
+      </p>
+      
+    </td>
+  </tr>
 
 ### 📰 Hacker News (Every 15 minutes)
 
