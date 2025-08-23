@@ -31,19 +31,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839' target='_blank' rel='noopener noreferrer'>RFC 9839 and Bad Unicode</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 12:54 UTC</small><br><br>
+🔹 <a href='https://bigdata.2minutestreaming.com/p/why-was-apache-kafka-created' target='_blank' rel='noopener noreferrer'>Why was Apache Kafka created?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 19:31 UTC</small><br><br>
 🔹 <a href='https://github.com/3b1b/manim' target='_blank' rel='noopener noreferrer'>Manim: Animation engine for explanatory math videos</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 07:35 UTC</small><br><br>
 🔹 <a href='https://github.com/librebox-devs/librebox-demo' target='_blank' rel='noopener noreferrer'>Librebox: An open source, Roblox-compatible game engine</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 11:22 UTC</small><br><br>
-🔹 <a href='https://bigdata.2minutestreaming.com/p/why-was-apache-kafka-created' target='_blank' rel='noopener noreferrer'>Why was Apache Kafka created?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 19:31 UTC</small><br><br>
 🔹 <a href='https://gau-nernst.github.io/fa-5090/' target='_blank' rel='noopener noreferrer'>Writing Speed-of-Light Flash Attention for 5090 in CUDA C++</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 12:29 UTC</small><br><br>
-🔹 <a href='https://www.hopefulmons.com/p/children-of-the-geissler-tube' target='_blank' rel='noopener noreferrer'>Children of the Geissler Tube</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 14:03 UTC</small><br><br>
 🔹 <a href='https://kottke.org/25/08/i-made-a-floppy-disk-from-scratch' target='_blank' rel='noopener noreferrer'>I made a floppy disk from scratch</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 10:32 UTC</small><br><br>
-🔹 <a href='https://libreantisocial.com' target='_blank' rel='noopener noreferrer'>Libre – An anonymous social experiment without likes, followers, or ads</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 16:49 UTC</small><br><br>
-🔹 <a href='https://lwn.net/Articles/1030818/' target='_blank' rel='noopener noreferrer'>Rethinking the Linux cloud stack for confidential VMs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 11:39 UTC</small><br><br>
+🔹 <a href='https://www.hopefulmons.com/p/children-of-the-geissler-tube' target='_blank' rel='noopener noreferrer'>Children of the Geissler Tube</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 14:03 UTC</small><br><br>
+🔹 <a href='https://readyset.io/blog/optimizing-straddled-joins-in-readyset-from-hash-joins-to-index-condition-pushdown' target='_blank' rel='noopener noreferrer'>450× Faster Joins with Index Condition Pushdown</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 15:43 UTC</small><br><br>
 🔹 <a href='https://antithesis.com/blog/2025/metroid/' target='_blank' rel='noopener noreferrer'>Optimizing our way through Metroid</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 13:42 UTC</small><br><br>
+🔹 <a href='https://hturan.com/writing/exploring-exif' target='_blank' rel='noopener noreferrer'>Exploring EXIF (2023)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 19:25 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-23 19:21:48 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-23 19:32:34 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
