@@ -34,8 +34,8 @@
 🔹 <a href='https://lwn.net/Articles/1030818/' target='_blank' rel='noopener noreferrer'>Rethinking the Linux cloud stack for confidential VMs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 11:39 UTC</small><br><br>
 🔹 <a href='https://github.com/3b1b/manim' target='_blank' rel='noopener noreferrer'>Manim: Animation engine for explanatory math videos</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 07:35 UTC</small><br><br>
 🔹 <a href='https://kottke.org/25/08/i-made-a-floppy-disk-from-scratch' target='_blank' rel='noopener noreferrer'>I Made a Floppy Disk from Scratch</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 10:32 UTC</small><br><br>
-🔹 <a href='https://underlap.org/developers-block/' target='_blank' rel='noopener noreferrer'>Developer's block</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 09:20 UTC</small><br><br>
 🔹 <a href='https://github.com/librebox-devs/librebox-demo' target='_blank' rel='noopener noreferrer'>Librebox: An open source, Roblox-compatible game engine</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 11:22 UTC</small><br><br>
+🔹 <a href='https://underlap.org/developers-block/' target='_blank' rel='noopener noreferrer'>Developer's block</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 09:20 UTC</small><br><br>
 🔹 <a href='https://docs.r-wasm.org/webr/latest/' target='_blank' rel='noopener noreferrer'>WebR – R in the Browser</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 14:36 UTC</small><br><br>
 🔹 <a href='https://wwlln.net/' target='_blank' rel='noopener noreferrer'>World Wide Lightning Location Network</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 07:40 UTC</small><br><br>
 🔹 <a href='https://dfarq.homeip.net/building-a-computer-in-the-90s/' target='_blank' rel='noopener noreferrer'>Building a computer in the 90s (2019)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 09:18 UTC</small><br><br>
@@ -43,7 +43,7 @@
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-23 13:23:03 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-23 13:38:29 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
