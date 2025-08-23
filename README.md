@@ -34,16 +34,16 @@
 🔹 <a href='https://underlap.org/developers-block/' target='_blank' rel='noopener noreferrer'>Developer's block</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 09:20 UTC</small><br><br>
 🔹 <a href='https://wwlln.net/' target='_blank' rel='noopener noreferrer'>World Wide Lightning Location Network</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 07:40 UTC</small><br><br>
 🔹 <a href='https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/' target='_blank' rel='noopener noreferrer'>I'm too dumb for Zig's new IO interface</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 06:39 UTC</small><br><br>
-🔹 <a href='https://github.com/RijinRaju/octanedb' target='_blank' rel='noopener noreferrer'>Show HN: OctaneDB – Fast, Open-Source Vector Database for Python</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 06:31 UTC</small><br><br>
-🔹 <a href='https://shaderacademy.com/' target='_blank' rel='noopener noreferrer'>Shader Academy: Learn computer graphics by solving challenges</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 11:08 UTC</small><br><br>
 🔹 <a href='https://dfarq.homeip.net/building-a-computer-in-the-90s/' target='_blank' rel='noopener noreferrer'>Building a computer in the 90s (2019)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 09:18 UTC</small><br><br>
+🔹 <a href='https://shaderacademy.com/' target='_blank' rel='noopener noreferrer'>Shader Academy: Learn computer graphics by solving challenges</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 11:08 UTC</small><br><br>
+🔹 <a href='https://github.com/RijinRaju/octanedb' target='_blank' rel='noopener noreferrer'>Show HN: OctaneDB – Fast, Open-Source Vector Database for Python</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 06:31 UTC</small><br><br>
 🔹 <a href='https://docs.r-wasm.org/webr/latest/' target='_blank' rel='noopener noreferrer'>WebR – R in the Browser</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 14:36 UTC</small><br><br>
 🔹 <a href='https://github.com/Evidlo/xsl-website' target='_blank' rel='noopener noreferrer'>Show HN: JavaScript-free (X)HTML Includes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 18:47 UTC</small><br><br>
-🔹 <a href='https://comeadwithus.wordpress.com/wp-content/uploads/2012/08/the-theory-and-practice-of-selling-the-aga-cooker.pdf' target='_blank' rel='noopener noreferrer'>The theory and practice of selling the Aga cooker (1935) [pdf]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 17:52 UTC</small><br><br>
+🔹 <a href='https://git.vuxu.org/nitro/about/' target='_blank' rel='noopener noreferrer'>Nitro: A tiny but flexible init system and process supervisor</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 19:06 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-23 10:31:21 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-23 10:46:53 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
