@@ -26,18 +26,18 @@
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://github.com/Evidlo/xsl-website' target='_blank' rel='noopener noreferrer'>Show HN: JavaScript-free (X)HTML Includes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 18:47 UTC</small><br><br>
 🔹 <a href='https://git.vuxu.org/nitro/about/' target='_blank' rel='noopener noreferrer'>Nitro: A tiny but flexible init system and process supervisor</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 19:06 UTC</small><br><br>
+🔹 <a href='https://programmersstone.blog/posts/why-is-this-hard/' target='_blank' rel='noopener noreferrer'>Why Is This Hard?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 12:47 UTC</small><br><br>
 🔹 <a href='https://moq.dev/blog/first-cdn/' target='_blank' rel='noopener noreferrer'>The first Media over QUIC CDN: Cloudflare</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 18:24 UTC</small><br><br>
 🔹 <a href='https://shaderacademy.com/' target='_blank' rel='noopener noreferrer'>Shader Academy: Learn computer graphics by solving challenges</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 11:08 UTC</small><br><br>
 🔹 <a href='https://thoughtbot.com/blog/top-secret' target='_blank' rel='noopener noreferrer'>Top Secret: Automatically filter sensitive information</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 04:48 UTC</small><br><br>
+🔹 <a href='https://www.howtogeek.com/i-run-a-full-linux-desktop-in-docker-just-because-i-can/' target='_blank' rel='noopener noreferrer'>I Run a Full Linux Desktop in Docker Just Because I Can</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 11:39 UTC</small><br><br>
 🔹 <a href='https://www.techdirt.com/2025/08/22/investigators-used-terrible-computer-fraud-laws-to-ensure-people-were-punished-for-leaking-air-crash-footage-to-cnn/' target='_blank' rel='noopener noreferrer'>Computer fraud laws used to prosecute leaking air crash footage to CNN</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 00:04 UTC</small><br><br>
 🔹 <a href='https://github.com/mbuhot/glyn' target='_blank' rel='noopener noreferrer'>Glyn: Type-safe PubSub and Registry for Gleam actors with distributed clustering</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 22:29 UTC</small><br><br>
 🔹 <a href='https://english.kyodonews.net/articles/-/59689' target='_blank' rel='noopener noreferrer'>Popular Japanese smartphone games have introduced external payment systems</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 23:50 UTC</small><br><br>
-🔹 <a href='https://ffmpeg.org/index.html#pr8.0' target='_blank' rel='noopener noreferrer'>FFmpeg 8.0</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 15:22 UTC</small><br><br>
-🔹 <a href='https://english.kyodonews.net/articles/-/59582' target='_blank' rel='noopener noreferrer'>Japan city drafts ordinance to cap smartphone use at 2 hours per day</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 02:20 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-23 03:14:22 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-23 03:43:57 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
