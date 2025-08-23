@@ -33,17 +33,17 @@
 🔹 <a href='https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839' target='_blank' rel='noopener noreferrer'>RFC 9839 and Bad Unicode</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 12:54 UTC</small><br><br>
 🔹 <a href='https://gau-nernst.github.io/fa-5090/' target='_blank' rel='noopener noreferrer'>Writing Speed-of-Light Flash Attention for 5090 in CUDA C++</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 12:29 UTC</small><br><br>
 🔹 <a href='https://github.com/3b1b/manim' target='_blank' rel='noopener noreferrer'>Manim: Animation engine for explanatory math videos</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 07:35 UTC</small><br><br>
-🔹 <a href='https://lwn.net/Articles/1030818/' target='_blank' rel='noopener noreferrer'>Rethinking the Linux cloud stack for confidential VMs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 11:39 UTC</small><br><br>
 🔹 <a href='https://github.com/librebox-devs/librebox-demo' target='_blank' rel='noopener noreferrer'>Librebox: An open source, Roblox-compatible game engine</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 11:22 UTC</small><br><br>
+🔹 <a href='https://lwn.net/Articles/1030818/' target='_blank' rel='noopener noreferrer'>Rethinking the Linux cloud stack for confidential VMs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 11:39 UTC</small><br><br>
 🔹 <a href='https://kottke.org/25/08/i-made-a-floppy-disk-from-scratch' target='_blank' rel='noopener noreferrer'>I Made a Floppy Disk from Scratch</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 10:32 UTC</small><br><br>
-🔹 <a href='https://apps.apple.com/us/app/pocket-the-hardest-focus-app/id6746587044' target='_blank' rel='noopener noreferrer'>Show HN: I Made the Hardest Focus App</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 14:01 UTC</small><br><br>
 🔹 <a href='https://underlap.org/developers-block/' target='_blank' rel='noopener noreferrer'>Developer's block</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 09:20 UTC</small><br><br>
+🔹 <a href='https://apps.apple.com/us/app/pocket-the-hardest-focus-app/id6746587044' target='_blank' rel='noopener noreferrer'>Show HN: I Made the Hardest Focus App</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 14:01 UTC</small><br><br>
 🔹 <a href='https://readyset.io/blog/optimizing-straddled-joins-in-readyset-from-hash-joins-to-index-condition-pushdown' target='_blank' rel='noopener noreferrer'>450× Faster Joins with Index Condition Pushdown</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 15:43 UTC</small><br><br>
 🔹 <a href='https://docs.r-wasm.org/webr/latest/' target='_blank' rel='noopener noreferrer'>WebR – R in the Browser</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 14:36 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-23 15:46:53 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-23 16:11:04 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
