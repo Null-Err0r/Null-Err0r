@@ -30,12 +30,12 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/' target='_blank' rel='noopener noreferrer'>I'm too dumb for Zig's new IO interface</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 06:39 UTC</small><br><br>
-🔹 <a href='https://underlap.org/developers-block/' target='_blank' rel='noopener noreferrer'>Developer's Block</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 09:20 UTC</small><br><br>
-🔹 <a href='https://wwlln.net/' target='_blank' rel='noopener noreferrer'>World Wide Lightning Location Network</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 07:40 UTC</small><br><br>
 🔹 <a href='https://github.com/3b1b/manim' target='_blank' rel='noopener noreferrer'>Manim: Animation engine for explanatory math videos</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 07:35 UTC</small><br><br>
-🔹 <a href='https://dfarq.homeip.net/building-a-computer-in-the-90s/' target='_blank' rel='noopener noreferrer'>Building a Computer in the 90s (2019)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 09:18 UTC</small><br><br>
+🔹 <a href='https://underlap.org/developers-block/' target='_blank' rel='noopener noreferrer'>Developer's block</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 09:20 UTC</small><br><br>
+🔹 <a href='https://wwlln.net/' target='_blank' rel='noopener noreferrer'>World Wide Lightning Location Network</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 07:40 UTC</small><br><br>
+🔹 <a href='https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/' target='_blank' rel='noopener noreferrer'>I'm too dumb for Zig's new IO interface</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 06:39 UTC</small><br><br>
 🔹 <a href='https://github.com/RijinRaju/octanedb' target='_blank' rel='noopener noreferrer'>Show HN: OctaneDB – Fast, Open-Source Vector Database for Python</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 06:31 UTC</small><br><br>
+🔹 <a href='https://dfarq.homeip.net/building-a-computer-in-the-90s/' target='_blank' rel='noopener noreferrer'>Building a computer in the 90s (2019)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 09:18 UTC</small><br><br>
 🔹 <a href='https://shaderacademy.com/' target='_blank' rel='noopener noreferrer'>Shader Academy: Learn computer graphics by solving challenges</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 11:08 UTC</small><br><br>
 🔹 <a href='https://github.com/Evidlo/xsl-website' target='_blank' rel='noopener noreferrer'>Show HN: JavaScript-free (X)HTML Includes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 18:47 UTC</small><br><br>
 🔹 <a href='https://www.howtogeek.com/i-run-a-full-linux-desktop-in-docker-just-because-i-can/' target='_blank' rel='noopener noreferrer'>I run a full Linux desktop in Docker just because I can</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 11:39 UTC</small><br><br>
@@ -43,7 +43,7 @@
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-23 09:46:49 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-23 10:09:55 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
