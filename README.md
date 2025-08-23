@@ -37,13 +37,13 @@
 🔹 <a href='https://github.com/librebox-devs/librebox-demo' target='_blank' rel='noopener noreferrer'>Librebox: An open source, Roblox-compatible game engine</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 11:22 UTC</small><br><br>
 🔹 <a href='https://lwn.net/Articles/1030818/' target='_blank' rel='noopener noreferrer'>Rethinking the Linux cloud stack for confidential VMs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 11:39 UTC</small><br><br>
 🔹 <a href='https://www.workatastartup.com/jobs/75647' target='_blank' rel='noopener noreferrer'>Bild AI (YC W25) Is Hiring Applied AI Founding Engineer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 17:00 UTC</small><br><br>
-🔹 <a href='https://kottke.org/25/08/i-made-a-floppy-disk-from-scratch' target='_blank' rel='noopener noreferrer'>I Made a Floppy Disk from Scratch</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 10:32 UTC</small><br><br>
 🔹 <a href='https://underlap.org/developers-block/' target='_blank' rel='noopener noreferrer'>Developer's block</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 09:20 UTC</small><br><br>
+🔹 <a href='https://kottke.org/25/08/i-made-a-floppy-disk-from-scratch' target='_blank' rel='noopener noreferrer'>I Made a Floppy Disk from Scratch</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 10:32 UTC</small><br><br>
 🔹 <a href='https://readyset.io/blog/optimizing-straddled-joins-in-readyset-from-hash-joins-to-index-condition-pushdown' target='_blank' rel='noopener noreferrer'>450× Faster Joins with Index Condition Pushdown</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-19 15:43 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-23 17:26:20 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-23 17:35:33 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
