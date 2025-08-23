@@ -31,19 +31,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://nkantar.com/blog/2025/08/static-python-uv-caddy-docker/' target='_blank' rel='noopener noreferrer'>Static sites with Python, uv, Caddy, and Docker</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 15:15 UTC</small><br><br>
-🔹 <a href='https://bigdata.2minutestreaming.com/p/why-was-apache-kafka-created' target='_blank' rel='noopener noreferrer'>Why was Apache Kafka created?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 19:31 UTC</small><br><br>
 🔹 <a href='https://github.com/3b1b/manim' target='_blank' rel='noopener noreferrer'>Manim: Animation engine for explanatory math videos</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 07:35 UTC</small><br><br>
 🔹 <a href='https://github.com/librebox-devs/librebox-demo' target='_blank' rel='noopener noreferrer'>Librebox: An open source, Roblox-compatible game engine</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 11:22 UTC</small><br><br>
 🔹 <a href='https://minusx.ai/blog/decoding-claude-code/' target='_blank' rel='noopener noreferrer'>What makes Claude Code so damn good</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 19:07 UTC</small><br><br>
 🔹 <a href='https://daniel.lawrence.lu/blog/y2025m09d21/' target='_blank' rel='noopener noreferrer'>Line scan camera image processing for train photography</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 16:09 UTC</small><br><br>
+🔹 <a href='https://bigdata.2minutestreaming.com/p/why-was-apache-kafka-created' target='_blank' rel='noopener noreferrer'>Why was Apache Kafka created?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 19:31 UTC</small><br><br>
+🔹 <a href='https://randomascii.wordpress.com/2025/05/26/acronis-true-image-costs-performance-when-not-used/' target='_blank' rel='noopener noreferrer'>Acronis True Image costs performance when not used</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 11:00 UTC</small><br><br>
+🔹 <a href='https://www.cnbc.com/2025/08/22/apple-will-make-chips-at-texas-instruments-60-billion-us-project.html' target='_blank' rel='noopener noreferrer'>Texas Instruments' $60B U.S. project, the next iPhone chips fabric</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 17:14 UTC</small><br><br>
 🔹 <a href='https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839' target='_blank' rel='noopener noreferrer'>RFC 9839 and Bad Unicode</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 12:54 UTC</small><br><br>
 🔹 <a href='https://gau-nernst.github.io/fa-5090/' target='_blank' rel='noopener noreferrer'>Writing Speed-of-Light Flash Attention for 5090 in CUDA C++</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 12:29 UTC</small><br><br>
-🔹 <a href='https://www.hopefulmons.com/p/children-of-the-geissler-tube' target='_blank' rel='noopener noreferrer'>Children of the Geissler Tube</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 14:03 UTC</small><br><br>
-🔹 <a href='https://www.cnbc.com/2025/08/22/apple-will-make-chips-at-texas-instruments-60-billion-us-project.html' target='_blank' rel='noopener noreferrer'>Texas Instruments' $60B U.S. project, the next iPhone chips fabric</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 17:14 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-23 20:29:03 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-23 20:39:10 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
