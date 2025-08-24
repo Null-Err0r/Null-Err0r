@@ -30,20 +30,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://avi.im/blag/2025/sqlite-fsync/' target='_blank' rel='noopener noreferrer'>SQLite (with WAL) doesn't do `fsync` on each commit under default settings</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 15:40 UTC</small><br><br>
 🔹 <a href='https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/' target='_blank' rel='noopener noreferrer'>Making Games in Go: 3 Months Without LLMs vs. 3 Days with LLMs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 15:01 UTC</small><br><br>
 🔹 <a href='https://twitter.com/zack_overflow/status/1959308058200551721' target='_blank' rel='noopener noreferrer'>Comet AI browser can get prompt injected from any site, drain your bank account</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 15:14 UTC</small><br><br>
 🔹 <a href='https://github.com/roryclear/clearcam' target='_blank' rel='noopener noreferrer'>Show HN: Clearcam – Add AI Object Detection to Your IP CCTV Cameras in a Minute</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 11:34 UTC</small><br><br>
-🔹 <a href='https://www.scientificamerican.com/article/how-nasas-juno-probe-changed-everything-we-know-about-jupiter/' target='_blank' rel='noopener noreferrer'>NASA's Juno Mission Leaves Legacy of Science at Jupiter</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 12:23 UTC</small><br><br>
+🔹 <a href='https://avi.im/blag/2025/sqlite-fsync/' target='_blank' rel='noopener noreferrer'>SQLite (with WAL) doesn't do `fsync` on each commit under default settings</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 15:40 UTC</small><br><br>
+🔹 <a href='https://blog.winny.tech/posts/update-on-my-racket-exit/' target='_blank' rel='noopener noreferrer'>Update on My Racket Exit</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 17:27 UTC</small><br><br>
 🔹 <a href='https://ericmjl.github.io/blog/2025/8/23/wicked-python-trickery-dynamically-patch-a-python-functions-source-code-at-runtime/' target='_blank' rel='noopener noreferrer'>Dynamically patch a Python function's source code at runtime</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 12:28 UTC</small><br><br>
+🔹 <a href='https://www.scientificamerican.com/article/how-nasas-juno-probe-changed-everything-we-know-about-jupiter/' target='_blank' rel='noopener noreferrer'>NASA's Juno Mission Leaves Legacy of Science at Jupiter</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 12:23 UTC</small><br><br>
 🔹 <a href='https://www.newscientist.com/article/2487804-trees-on-city-streets-cope-with-drought-by-drinking-from-leaky-pipes/' target='_blank' rel='noopener noreferrer'>Trees on city streets cope with drought by drinking from leaky pipes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 16:46 UTC</small><br><br>
 🔹 <a href='https://torrentfreak.com/uk-govt-finds-ideal-pirate-bay-poster-boy-to-sell-blocking-of-non-pirate-sites-250824/' target='_blank' rel='noopener noreferrer'>Is 4chan the perfect Pirate Bay poster child to justify wider UK site-blocking?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 16:30 UTC</small><br><br>
 🔹 <a href='https://bicyclopedia.lemoing.ca/' target='_blank' rel='noopener noreferrer'>Show HN: Bicyclopedia</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 11:15 UTC</small><br><br>
-🔹 <a href='https://ghuntley.com/agent/' target='_blank' rel='noopener noreferrer'>How to build a coding agent</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 03:21 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-24 17:37:49 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-24 17:46:54 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
