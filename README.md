@@ -30,20 +30,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://ghuntley.com/agent/' target='_blank' rel='noopener noreferrer'>Show HN: How to Build a Coding Agent (free workshop)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 03:21 UTC</small><br><br>
+🔹 <a href='https://ghuntley.com/agent/' target='_blank' rel='noopener noreferrer'>How to build a coding agent</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 03:21 UTC</small><br><br>
 🔹 <a href='https://webkit.org/blog/17285/rolling-the-dice-with-css-random/' target='_blank' rel='noopener noreferrer'>Rolling the dice with CSS random()</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 20:43 UTC</small><br><br>
 🔹 <a href='https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html' target='_blank' rel='noopener noreferrer'>The cost of interrupted work (2023)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 21:45 UTC</small><br><br>
 🔹 <a href='https://github.com/kagehq/port-kill' target='_blank' rel='noopener noreferrer'>I built a tiny mac app to monitor and manage my development processes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 03:08 UTC</small><br><br>
 🔹 <a href='https://daniel.lawrence.lu/blog/y2025m09d21/' target='_blank' rel='noopener noreferrer'>Line scan camera image processing for train photography</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 16:09 UTC</small><br><br>
-🔹 <a href='https://www.quantamagazine.org/how-can-ai-id-a-cat-an-illustrated-guide-20250430/' target='_blank' rel='noopener noreferrer'>How can AI ID a cat?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 18:36 UTC</small><br><br>
 🔹 <a href='https://darkcoding.net/software/personal-ai-evals-aug-2025/' target='_blank' rel='noopener noreferrer'>Evaluating LLMs for my personal use case</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 00:40 UTC</small><br><br>
+🔹 <a href='https://www.quantamagazine.org/how-can-ai-id-a-cat-an-illustrated-guide-20250430/' target='_blank' rel='noopener noreferrer'>How can AI ID a cat?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 18:36 UTC</small><br><br>
 🔹 <a href='https://minusx.ai/blog/decoding-claude-code/' target='_blank' rel='noopener noreferrer'>What makes Claude Code so damn good</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 19:07 UTC</small><br><br>
+🔹 <a href='https://brave.com/blog/comet-prompt-injection/' target='_blank' rel='noopener noreferrer'>Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 02:52 UTC</small><br><br>
 🔹 <a href='https://www.smithsonianmag.com/smart-news/a-2000-year-old-sun-hat-worn-by-a-roman-soldier-in-egypt-goes-on-view-after-a-century-in-storage-180987192/' target='_blank' rel='noopener noreferrer'>A 2k-year-old sun hat worn by a Roman soldier in Egypt</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 19:35 UTC</small><br><br>
-🔹 <a href='https://arstechnica.com/science/2025/08/physics-of-badmintons-new-killer-spin-serve/' target='_blank' rel='noopener noreferrer'>Physics of badminton's new killer spin serve</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 12:11 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-24 05:10:29 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-24 05:30:56 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
