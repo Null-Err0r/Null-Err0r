@@ -35,15 +35,15 @@
 🔹 <a href='https://lina.sh/blog/telefonica-sabotages-me' target='_blank' rel='noopener noreferrer'>A German ISP tampered with their DNS – specifically to sabotage my website</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 10:27 UTC</small><br><br>
 🔹 <a href='https://ghuntley.com/agent/' target='_blank' rel='noopener noreferrer'>How to build a coding agent</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 03:21 UTC</small><br><br>
 🔹 <a href='https://github.com/phantomics/seed' target='_blank' rel='noopener noreferrer'>Seed: Interactive software environment based on Common Lisp</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 06:57 UTC</small><br><br>
-🔹 <a href='https://github.com/roryclear/clearcam' target='_blank' rel='noopener noreferrer'>Show HN: Clearcam – Add AI object detection to Your IP CCTV cameras in a minute</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 11:25 UTC</small><br><br>
 🔹 <a href='https://alexhwilliams.info/itsneuronalblog/2020/10/09/optimal-transport/' target='_blank' rel='noopener noreferrer'>A short introduction to optimal transport and Wasserstein distance (2020)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 23:15 UTC</small><br><br>
-🔹 <a href='https://cdn.akamai.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf' target='_blank' rel='noopener noreferrer'>Valve Software handbook for new employees [pdf] (2012)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 08:02 UTC</small><br><br>
+🔹 <a href='https://blog.howardjohn.info/posts/buy-a-cpu/' target='_blank' rel='noopener noreferrer'>It is worth it to buy the fast CPU</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 06:03 UTC</small><br><br>
 🔹 <a href='https://bicyclopedia.lemoing.ca/' target='_blank' rel='noopener noreferrer'>Show HN: Bicyclopedia</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 11:15 UTC</small><br><br>
-🔹 <a href='https://youaretheassistantnow.com/' target='_blank' rel='noopener noreferrer'>Wildthing – A model trained on role-reversed ChatGPT conversations</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 05:51 UTC</small><br><br>
+🔹 <a href='https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html' target='_blank' rel='noopener noreferrer'>The cost of interrupted work (2023)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 21:45 UTC</small><br><br>
+🔹 <a href='https://www.heise.de/en/news/Copyright-clearing-house-Committee-for-website-blocking-to-rely-on-judiciary-10490128.html' target='_blank' rel='noopener noreferrer'>Germany's Copyright Clearing House now requires courts for website blocks</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 12:06 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-24 14:08:47 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-24 14:28:44 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
