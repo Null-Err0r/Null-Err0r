@@ -32,18 +32,18 @@
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://lina.sh/blog/telefonica-sabotages-me' target='_blank' rel='noopener noreferrer'>A German ISP tampered with their DNS – specifically to sabotage my website</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 10:27 UTC</small><br><br>
 🔹 <a href='https://betweentheprompts.com/design-partner/' target='_blank' rel='noopener noreferrer'>Turning Claude Code into My Best Design Partner</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 08:06 UTC</small><br><br>
-🔹 <a href='https://reflexions.florianernotte.be/post/ai-transparency/' target='_blank' rel='noopener noreferrer'>Writing with LLM is not a shame</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 10:10 UTC</small><br><br>
+🔹 <a href='https://thezvi.substack.com/p/spending-too-much-time-at-airports' target='_blank' rel='noopener noreferrer'>Spending Too Much Time at Airports</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 11:40 UTC</small><br><br>
 🔹 <a href='https://ghuntley.com/agent/' target='_blank' rel='noopener noreferrer'>How to build a coding agent</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 03:21 UTC</small><br><br>
 🔹 <a href='https://github.com/phantomics/seed' target='_blank' rel='noopener noreferrer'>Seed: Interactive software environment based on Common Lisp</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 06:57 UTC</small><br><br>
+🔹 <a href='https://github.com/roryclear/clearcam' target='_blank' rel='noopener noreferrer'>Show HN: Clearcam – Add AI Object Detection to Your IP CCTV Cameras in a Minute</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 11:34 UTC</small><br><br>
 🔹 <a href='https://youaretheassistantnow.com/' target='_blank' rel='noopener noreferrer'>Wildthing – A model trained on role-reversed ChatGPT conversations</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 05:51 UTC</small><br><br>
 🔹 <a href='https://www.openculture.com/2025/08/the-oldest-unopened-bottle-of-wine-in-the-world.html' target='_blank' rel='noopener noreferrer'>The oldest unopened bottle of wine in the world</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 20:54 UTC</small><br><br>
-🔹 <a href='https://cdn.akamai.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf' target='_blank' rel='noopener noreferrer'>Valve Software handbook for new employees [pdf] (2012)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 08:02 UTC</small><br><br>
 🔹 <a href='https://atomic14.substack.com/p/this-number-does-nothing' target='_blank' rel='noopener noreferrer'>Setting serial baud rate on ESP-IDF does nothing</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 16:24 UTC</small><br><br>
-🔹 <a href='https://equal-earth.com/index.html' target='_blank' rel='noopener noreferrer'>Equal Earth – Political Wall Map (2018)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 05:54 UTC</small><br><br>
+🔹 <a href='https://daniel.lawrence.lu/blog/y2025m09d21/' target='_blank' rel='noopener noreferrer'>Line scan camera image processing for train photography</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 16:09 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-24 11:46:51 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-24 12:18:50 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
