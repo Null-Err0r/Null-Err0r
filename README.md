@@ -32,8 +32,8 @@
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://cdn.akamai.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf' target='_blank' rel='noopener noreferrer'>Valve Software handbook for new employees [pdf]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 08:02 UTC</small><br><br>
 🔹 <a href='https://betweentheprompts.com/design-partner/' target='_blank' rel='noopener noreferrer'>Turning Claude Code into My Best Design Partner</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 08:06 UTC</small><br><br>
-🔹 <a href='https://github.com/phantomics/seed' target='_blank' rel='noopener noreferrer'>Seed: Interactive software environment based on Common Lisp</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 06:57 UTC</small><br><br>
 🔹 <a href='https://ghuntley.com/agent/' target='_blank' rel='noopener noreferrer'>How to build a coding agent</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 03:21 UTC</small><br><br>
+🔹 <a href='https://github.com/phantomics/seed' target='_blank' rel='noopener noreferrer'>Seed: Interactive software environment based on Common Lisp</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 06:57 UTC</small><br><br>
 🔹 <a href='https://youaretheassistantnow.com/' target='_blank' rel='noopener noreferrer'>Wildthing – A model trained on role-reversed ChatGPT conversations</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 05:51 UTC</small><br><br>
 🔹 <a href='https://equal-earth.com/index.html' target='_blank' rel='noopener noreferrer'>Equal Earth – Political Wall Map (2018)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 05:54 UTC</small><br><br>
 🔹 <a href='https://atomic14.substack.com/p/this-number-does-nothing' target='_blank' rel='noopener noreferrer'>Setting serial baud rate on ESP-IDF does nothing</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 16:24 UTC</small><br><br>
@@ -43,7 +43,7 @@
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-24 10:10:17 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-24 10:31:36 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
