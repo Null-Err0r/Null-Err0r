@@ -37,13 +37,13 @@
 🔹 <a href='https://youaretheassistantnow.com/' target='_blank' rel='noopener noreferrer'>Wildthing – A model trained on role-reversed ChatGPT conversations</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 05:51 UTC</small><br><br>
 🔹 <a href='https://equal-earth.com/index.html' target='_blank' rel='noopener noreferrer'>Equal Earth – Political Wall Map (2018)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 05:54 UTC</small><br><br>
 🔹 <a href='https://webkit.org/blog/17285/rolling-the-dice-with-css-random/' target='_blank' rel='noopener noreferrer'>Rolling the dice with CSS random()</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 20:43 UTC</small><br><br>
-🔹 <a href='https://atomic14.substack.com/p/this-number-does-nothing' target='_blank' rel='noopener noreferrer'>Setting serial baud rate on ESP-IDF does nothing</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 16:24 UTC</small><br><br>
 🔹 <a href='https://github.com/martianlantern/ThinkMesh' target='_blank' rel='noopener noreferrer'>ThinkMesh: A Python lib for parallel thinking in LLMs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 04:23 UTC</small><br><br>
+🔹 <a href='https://atomic14.substack.com/p/this-number-does-nothing' target='_blank' rel='noopener noreferrer'>Setting serial baud rate on ESP-IDF does nothing</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 16:24 UTC</small><br><br>
 🔹 <a href='https://daniel.lawrence.lu/blog/y2025m09d21/' target='_blank' rel='noopener noreferrer'>Line scan camera image processing for train photography</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 16:09 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-24 09:37:09 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-24 09:46:40 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
