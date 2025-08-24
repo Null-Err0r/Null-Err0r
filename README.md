@@ -31,19 +31,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://arxiviq.substack.com/p/deep-think-with-confidence' target='_blank' rel='noopener noreferrer'>Deep Think with Confidence</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 14:41 UTC</small><br><br>
-🔹 <a href='https://ericmjl.github.io/blog/2025/8/23/wicked-python-trickery-dynamically-patch-a-python-functions-source-code-at-runtime/' target='_blank' rel='noopener noreferrer'>Dynamically patch a Python function's source code at runtime</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 12:28 UTC</small><br><br>
-🔹 <a href='https://github.com/roryclear/clearcam' target='_blank' rel='noopener noreferrer'>Show HN: Clearcam – Add AI Object Detection to Your IP CCTV Cameras in a Minute</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 11:34 UTC</small><br><br>
-🔹 <a href='https://www.cnbc.com/2025/08/24/solar-wind-renewable-trump-tariff-utility-tax-credit-itc-ptc-obbb-electricity-price.html' target='_blank' rel='noopener noreferrer'>US attack on renewables will lead to power crunch that spikes electricity prices</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 14:22 UTC</small><br><br>
 🔹 <a href='https://twitter.com/zack_overflow/status/1959308058200551721' target='_blank' rel='noopener noreferrer'>Comet AI browser can get prompt injected from any site, drain your bank account</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 15:14 UTC</small><br><br>
+🔹 <a href='https://github.com/roryclear/clearcam' target='_blank' rel='noopener noreferrer'>Show HN: Clearcam – Add AI Object Detection to Your IP CCTV Cameras in a Minute</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 11:34 UTC</small><br><br>
+🔹 <a href='https://ericmjl.github.io/blog/2025/8/23/wicked-python-trickery-dynamically-patch-a-python-functions-source-code-at-runtime/' target='_blank' rel='noopener noreferrer'>Dynamically patch a Python function's source code at runtime</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 12:28 UTC</small><br><br>
+🔹 <a href='https://avi.im/blag/2025/sqlite-fsync/' target='_blank' rel='noopener noreferrer'>SQLite (with WAL) doesn't do `fsync` on each commit under default settings</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 15:40 UTC</small><br><br>
+🔹 <a href='https://www.newscientist.com/article/2487804-trees-on-city-streets-cope-with-drought-by-drinking-from-leaky-pipes/' target='_blank' rel='noopener noreferrer'>Trees on city streets cope with drought by drinking from leaky pipes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 16:46 UTC</small><br><br>
 🔹 <a href='https://bicyclopedia.lemoing.ca/' target='_blank' rel='noopener noreferrer'>Show HN: Bicyclopedia</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 11:15 UTC</small><br><br>
 🔹 <a href='https://lina.sh/blog/telefonica-sabotages-me' target='_blank' rel='noopener noreferrer'>A German ISP changed their DNS to block my website</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 10:27 UTC</small><br><br>
 🔹 <a href='https://ghuntley.com/agent/' target='_blank' rel='noopener noreferrer'>How to build a coding agent</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 03:21 UTC</small><br><br>
-🔹 <a href='https://www.newscientist.com/article/2487804-trees-on-city-streets-cope-with-drought-by-drinking-from-leaky-pipes/' target='_blank' rel='noopener noreferrer'>Trees on city streets cope with drought by drinking from leaky pipes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 16:46 UTC</small><br><br>
-🔹 <a href='https://alexhwilliams.info/itsneuronalblog/2020/10/09/optimal-transport/' target='_blank' rel='noopener noreferrer'>A short introduction to optimal transport and Wasserstein distance (2020)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 23:15 UTC</small><br><br>
+🔹 <a href='https://www.cnbc.com/2025/08/24/solar-wind-renewable-trump-tariff-utility-tax-credit-itc-ptc-obbb-electricity-price.html' target='_blank' rel='noopener noreferrer'>US attack on renewables will lead to power crunch that spikes electricity prices</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 14:22 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-24 15:46:44 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-24 16:11:28 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
