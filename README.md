@@ -39,11 +39,11 @@
 🔹 <a href='https://www.newscientist.com/article/2487804-trees-on-city-streets-cope-with-drought-by-drinking-from-leaky-pipes/' target='_blank' rel='noopener noreferrer'>Trees on city streets cope with drought by drinking from leaky pipes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 16:46 UTC</small><br><br>
 🔹 <a href='https://blog.cloudflare.com/cloudflare-incident-on-august-21-2025/' target='_blank' rel='noopener noreferrer'>Cloudflare incident on August 21, 2025</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 04:14 UTC</small><br><br>
 🔹 <a href='https://ericmjl.github.io/blog/2025/8/23/wicked-python-trickery-dynamically-patch-a-python-functions-source-code-at-runtime/' target='_blank' rel='noopener noreferrer'>Dynamically patch a Python function's source code at runtime</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 12:28 UTC</small><br><br>
-🔹 <a href='https://twitter.com/SebastienBubeck/status/1958198661139009862' target='_blank' rel='noopener noreferrer'>Claim: GPT-5-pro can prove new interesting mathematics</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 19:42 UTC</small><br><br>
+🔹 <a href='https://austinvernon.substack.com/p/building-ultra-cheap-energy-storage' target='_blank' rel='noopener noreferrer'>Building ultra cheap energy storage for solar PV</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 19:26 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-24 19:32:39 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-24 19:47:04 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
