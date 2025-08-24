@@ -37,13 +37,13 @@
 🔹 <a href='https://bicyclopedia.lemoing.ca/' target='_blank' rel='noopener noreferrer'>Show HN: Bicyclopedia</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 11:15 UTC</small><br><br>
 🔹 <a href='https://lina.sh/blog/telefonica-sabotages-me' target='_blank' rel='noopener noreferrer'>A German ISP changed their DNS to block my website</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 10:27 UTC</small><br><br>
 🔹 <a href='https://ghuntley.com/agent/' target='_blank' rel='noopener noreferrer'>How to build a coding agent</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 03:21 UTC</small><br><br>
-🔹 <a href='https://alexhwilliams.info/itsneuronalblog/2020/10/09/optimal-transport/' target='_blank' rel='noopener noreferrer'>A short introduction to optimal transport and Wasserstein distance (2020)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 23:15 UTC</small><br><br>
-🔹 <a href='https://blog.howardjohn.info/posts/buy-a-cpu/' target='_blank' rel='noopener noreferrer'>It is worth it to buy the fast CPU</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 06:03 UTC</small><br><br>
+🔹 <a href='https://twitter.com/zack_overflow/status/1959308058200551721' target='_blank' rel='noopener noreferrer'>Comet AI browser can get prompt injected from any site, drain your bank account</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 15:14 UTC</small><br><br>
 🔹 <a href='https://www.newscientist.com/article/2487804-trees-on-city-streets-cope-with-drought-by-drinking-from-leaky-pipes/' target='_blank' rel='noopener noreferrer'>Trees on city streets cope with drought by drinking from leaky pipes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 16:46 UTC</small><br><br>
+🔹 <a href='https://alexhwilliams.info/itsneuronalblog/2020/10/09/optimal-transport/' target='_blank' rel='noopener noreferrer'>A short introduction to optimal transport and Wasserstein distance (2020)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 23:15 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-24 15:27:46 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-24 15:37:25 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
