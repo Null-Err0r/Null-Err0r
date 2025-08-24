@@ -31,19 +31,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/' target='_blank' rel='noopener noreferrer'>Making games in Go: 3 months without LLMs vs. 3 days with LLMs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 15:01 UTC</small><br><br>
+🔹 <a href='https://www.ctol.digital/news/walmart-fires-vp-kickbacks-terminates-1200-contractors/' target='_blank' rel='noopener noreferrer'>Walmart Fires VP for Taking Daily Kickbacks Starting from $30K</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 18:26 UTC</small><br><br>
 🔹 <a href='https://www.chronicle.com/article/bring-back-the-blue-book-exam' target='_blank' rel='noopener noreferrer'>Bring Back the Blue-Book Exam</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 17:44 UTC</small><br><br>
-🔹 <a href='https://twitter.com/zack_overflow/status/1959308058200551721' target='_blank' rel='noopener noreferrer'>Comet AI browser can get prompt injected from any site, drain your bank account</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 15:14 UTC</small><br><br>
 🔹 <a href='https://www.scientificamerican.com/article/how-nasas-juno-probe-changed-everything-we-know-about-jupiter/' target='_blank' rel='noopener noreferrer'>NASA's Juno mission leaves legacy of science at Jupiter</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 00:42 UTC</small><br><br>
+🔹 <a href='https://twitter.com/zack_overflow/status/1959308058200551721' target='_blank' rel='noopener noreferrer'>Comet AI browser can get prompt injected from any site, drain your bank account</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 15:14 UTC</small><br><br>
 🔹 <a href='https://github.com/roryclear/clearcam' target='_blank' rel='noopener noreferrer'>Show HN: Clearcam – Add AI object detection to your IP CCTV cameras</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 11:34 UTC</small><br><br>
 🔹 <a href='https://www.newscientist.com/article/2487804-trees-on-city-streets-cope-with-drought-by-drinking-from-leaky-pipes/' target='_blank' rel='noopener noreferrer'>Trees on city streets cope with drought by drinking from leaky pipes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 16:46 UTC</small><br><br>
 🔹 <a href='https://ericmjl.github.io/blog/2025/8/23/wicked-python-trickery-dynamically-patch-a-python-functions-source-code-at-runtime/' target='_blank' rel='noopener noreferrer'>Dynamically patch a Python function's source code at runtime</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 12:28 UTC</small><br><br>
 🔹 <a href='https://twitter.com/SebastienBubeck/status/1958198661139009862' target='_blank' rel='noopener noreferrer'>Claim: GPT-5-pro can prove new interesting mathematics</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-20 19:42 UTC</small><br><br>
-🔹 <a href='https://www.theguardian.com/culture/2025/aug/21/will-at-centre-of-legal-battle-over-shakespeares-home-unearthed-after-150-years' target='_blank' rel='noopener noreferrer'>Will at centre of legal battle over Shakespeare’s home unearthed after 150 years</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 18:42 UTC</small><br><br>
 🔹 <a href='https://austinvernon.substack.com/p/building-ultra-cheap-energy-storage' target='_blank' rel='noopener noreferrer'>Building ultra cheap energy storage for solar PV</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 19:26 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-24 18:38:46 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-24 18:51:23 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
