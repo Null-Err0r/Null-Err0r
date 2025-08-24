@@ -31,19 +31,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://www.spacex.com/launches/starship-flight-10' target='_blank' rel='noopener noreferrer'>Starship's Tenth Flight Test</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 21:22 UTC</small><br><br>
-🔹 <a href='https://www.jeronimo.dev/the-two-versions-of-parquet/' target='_blank' rel='noopener noreferrer'>The two versions of Parquet</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 09:34 UTC</small><br><br>
-🔹 <a href='https://www.seangoedecke.com/good-api-design/' target='_blank' rel='noopener noreferrer'>Everything I know about good API design</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 19:10 UTC</small><br><br>
 🔹 <a href='https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/' target='_blank' rel='noopener noreferrer'>Halt and Catch Fire Syllabus (2021)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 20:19 UTC</small><br><br>
-🔹 <a href='https://iopscience.iop.org/article/10.3847/2041-8213/adf62f' target='_blank' rel='noopener noreferrer'>A brilliant and nearby one-off fast radio burst localized to 13pc precision</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 19:23 UTC</small><br><br>
+🔹 <a href='https://www.seangoedecke.com/good-api-design/' target='_blank' rel='noopener noreferrer'>Everything I know about good API design</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 19:10 UTC</small><br><br>
+🔹 <a href='https://www.jeronimo.dev/the-two-versions-of-parquet/' target='_blank' rel='noopener noreferrer'>The two versions of Parquet</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 09:34 UTC</small><br><br>
 🔹 <a href='https://www.wsj.com/opinion/uncle-sam-shouldnt-own-intel-stock-ccd6986d' target='_blank' rel='noopener noreferrer'>Uncle Sam Shouldn't Own Intel Stock</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 21:40 UTC</small><br><br>
+🔹 <a href='https://iopscience.iop.org/article/10.3847/2041-8213/adf62f' target='_blank' rel='noopener noreferrer'>A brilliant and nearby one-off fast radio burst localized to 13pc precision</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 19:23 UTC</small><br><br>
 🔹 <a href='https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/' target='_blank' rel='noopener noreferrer'>Making games in Go: 3 months without LLMs vs. 3 days with LLMs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 15:01 UTC</small><br><br>
 🔹 <a href='https://www.newscientist.com/article/2487804-trees-on-city-streets-cope-with-drought-by-drinking-from-leaky-pipes/' target='_blank' rel='noopener noreferrer'>Trees on city streets cope with drought by drinking from leaky pipes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 16:46 UTC</small><br><br>
 🔹 <a href='https://www.scientificamerican.com/article/how-nasas-juno-probe-changed-everything-we-know-about-jupiter/' target='_blank' rel='noopener noreferrer'>NASA's Juno mission leaves legacy of science at Jupiter</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 00:42 UTC</small><br><br>
-🔹 <a href='https://github.com/roryclear/clearcam' target='_blank' rel='noopener noreferrer'>Show HN: Clearcam – Add AI object detection to your IP CCTV cameras</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 11:34 UTC</small><br><br>
+🔹 <a href='https://blog.cloudflare.com/cloudflare-incident-on-august-21-2025/' target='_blank' rel='noopener noreferrer'>Cloudflare incident on August 21, 2025</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 04:14 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-24 22:30:24 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-24 22:47:14 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
