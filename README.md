@@ -30,20 +30,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
+🔹 <a href='https://www.scottrlarson.com/publications/publication-looking-back-windows-to-linux/' target='_blank' rel='noopener noreferrer'>Looking back at my transition from Windows to Linux in an anti-customer age</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 20:22 UTC</small><br><br>
 🔹 <a href='https://reprobate.site/' target='_blank' rel='noopener noreferrer'>Show HN: My first game made with my homemade engine</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 21:33 UTC</small><br><br>
 🔹 <a href='https://www.jeronimo.dev/the-two-versions-of-parquet/' target='_blank' rel='noopener noreferrer'>The two versions of Parquet</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 09:34 UTC</small><br><br>
 🔹 <a href='https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/' target='_blank' rel='noopener noreferrer'>Making games in Go: 3 months without LLMs vs. 3 days with LLMs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 15:01 UTC</small><br><br>
-🔹 <a href='https://www.scottrlarson.com/publications/publication-looking-back-windows-to-linux/' target='_blank' rel='noopener noreferrer'>Looking back at my transition from Windows to Linux in an anti-customer age</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 20:22 UTC</small><br><br>
 🔹 <a href='https://www.newscientist.com/article/2487804-trees-on-city-streets-cope-with-drought-by-drinking-from-leaky-pipes/' target='_blank' rel='noopener noreferrer'>Trees on city streets cope with drought by drinking from leaky pipes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 16:46 UTC</small><br><br>
-🔹 <a href='https://github.com/roryclear/clearcam' target='_blank' rel='noopener noreferrer'>Show HN: Clearcam – Add AI object detection to your IP CCTV cameras</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 11:34 UTC</small><br><br>
-🔹 <a href='https://www.scientificamerican.com/article/how-nasas-juno-probe-changed-everything-we-know-about-jupiter/' target='_blank' rel='noopener noreferrer'>NASA's Juno mission leaves legacy of science at Jupiter</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 00:42 UTC</small><br><br>
 🔹 <a href='https://twitter.com/zack_overflow/status/1959308058200551721' target='_blank' rel='noopener noreferrer'>Comet AI browser can get prompt injected from any site, drain your bank account</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 15:14 UTC</small><br><br>
+🔹 <a href='https://github.com/roryclear/clearcam' target='_blank' rel='noopener noreferrer'>Show HN: Clearcam – Add AI object detection to your IP CCTV cameras</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 11:34 UTC</small><br><br>
 🔹 <a href='https://blog.cloudflare.com/cloudflare-incident-on-august-21-2025/' target='_blank' rel='noopener noreferrer'>Cloudflare incident on August 21, 2025</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 04:14 UTC</small><br><br>
+🔹 <a href='https://www.scientificamerican.com/article/how-nasas-juno-probe-changed-everything-we-know-about-jupiter/' target='_blank' rel='noopener noreferrer'>NASA's Juno mission leaves legacy of science at Jupiter</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 00:42 UTC</small><br><br>
 🔹 <a href='https://kalilinuxtutorials.com/how-firewall-works-step-by-step/' target='_blank' rel='noopener noreferrer'>How Does a Firewall Work Step by Step</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 18:32 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-24 20:40:59 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-24 20:47:40 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
