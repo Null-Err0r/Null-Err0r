@@ -30,9 +30,9 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://ghuntley.com/agent/' target='_blank' rel='noopener noreferrer'>How to build a coding agent</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 03:21 UTC</small><br><br>
-🔹 <a href='https://github.com/phantomics/seed' target='_blank' rel='noopener noreferrer'>Seed: Interactive software environment based on Common Lisp</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 06:57 UTC</small><br><br>
 🔹 <a href='https://betweentheprompts.com/design-partner/' target='_blank' rel='noopener noreferrer'>Turning Claude Code into My Best Design Partner</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 08:06 UTC</small><br><br>
+🔹 <a href='https://github.com/phantomics/seed' target='_blank' rel='noopener noreferrer'>Seed: Interactive software environment based on Common Lisp</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 06:57 UTC</small><br><br>
+🔹 <a href='https://ghuntley.com/agent/' target='_blank' rel='noopener noreferrer'>How to build a coding agent</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 03:21 UTC</small><br><br>
 🔹 <a href='https://cdn.akamai.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf' target='_blank' rel='noopener noreferrer'>Valve Software handbook for new employees [pdf]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 08:02 UTC</small><br><br>
 🔹 <a href='https://blog.howardjohn.info/posts/buy-a-cpu/' target='_blank' rel='noopener noreferrer'>Buy a Faster CPU</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 06:03 UTC</small><br><br>
 🔹 <a href='https://equal-earth.com/index.html' target='_blank' rel='noopener noreferrer'>Equal Earth – Political Wall Map (2018)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 05:54 UTC</small><br><br>
@@ -43,7 +43,7 @@
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-24 08:33:39 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-24 08:49:49 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
