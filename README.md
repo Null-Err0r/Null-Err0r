@@ -30,20 +30,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
+🔹 <a href='https://www.ctol.digital/news/walmart-fires-vp-kickbacks-terminates-1200-contractors/' target='_blank' rel='noopener noreferrer'>Walmart Fires VP in Tech for Taking Daily Kickbacks Starting from $30K</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 12:23 UTC</small><br><br>
 🔹 <a href='https://jakub.kr/components/oklch-colors' target='_blank' rel='noopener noreferrer'>What are OKLCH colors?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 06:32 UTC</small><br><br>
+🔹 <a href='https://austinvernon.site/blog/standardthermal.html' target='_blank' rel='noopener noreferrer'>Standard Thermal: Energy Storage 500x Cheaper Than Batteries</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 12:04 UTC</small><br><br>
 🔹 <a href='https://github.com/bravenewxyz/agent-c' target='_blank' rel='noopener noreferrer'>Agent-C: a 4KB AI agent</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 10:43 UTC</small><br><br>
 🔹 <a href='https://git-annex.branchable.com/' target='_blank' rel='noopener noreferrer'>Git-Annex</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 04:18 UTC</small><br><br>
 🔹 <a href='https://small-js.org/Home/Home.html' target='_blank' rel='noopener noreferrer'>SmallJS: Smalltalk-80 that compiles to JavaScript</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 09:29 UTC</small><br><br>
 🔹 <a href='https://leslefts.blogspot.com/2013/11/the-great-medieval-water-myth.html' target='_blank' rel='noopener noreferrer'>The great medieval water myth (2013)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 17:25 UTC</small><br><br>
+🔹 <a href='https://guard.io/labs/scamlexity-we-put-agentic-ai-browsers-to-the-test-they-clicked-they-paid-they-failed' target='_blank' rel='noopener noreferrer'>We Put Agentic AI Browsers to the Test – They Clicked, They Paid, They Failed</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 07:03 UTC</small><br><br>
 🔹 <a href='https://www.quantamagazine.org/busy-beaver-hunters-reach-numbers-that-overwhelm-ordinary-math-20250822/' target='_blank' rel='noopener noreferrer'>Busy beaver hunters reach numbers that overwhelm ordinary math</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 22:47 UTC</small><br><br>
-🔹 <a href='https://www.sdcard.org/downloads/sd-memory-card-formatter-for-linux/' target='_blank' rel='noopener noreferrer'>The SD Association has an official SD card format utility [Win/OS X/Linux]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 08:55 UTC</small><br><br>
 🔹 <a href='https://simson.net/ref/ugh.pdf' target='_blank' rel='noopener noreferrer'>The Unix-Haters Handbook (1994) [pdf]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 00:46 UTC</small><br><br>
-🔹 <a href='https://andre.arko.net/2025/08/18/in-memory-filesystems-in-rust/' target='_blank' rel='noopener noreferrer'>In-Memory Filesystems in Rust</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 06:33 UTC</small><br><br>
-🔹 <a href='https://dseltzer.gitlab.io/sping/docs/' target='_blank' rel='noopener noreferrer'>Show HN: Sping – An HTTP/TCP latency tool that's easy on the eye</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 23:42 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-25 12:21:17 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-25 13:05:00 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
