@@ -33,17 +33,17 @@
 🔹 <a href='https://menial.co.uk/base/' target='_blank' rel='noopener noreferrer'>Show HN: Base, an SQLite database editor for macOS</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 14:17 UTC</small><br><br>
 🔹 <a href='https://b.43z.one/2025-07-22/' target='_blank' rel='noopener noreferrer'>A Small Change to Improve Browsers for Keyboard Navigation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 13:40 UTC</small><br><br>
 🔹 <a href='https://jakub.kr/components/oklch-colors' target='_blank' rel='noopener noreferrer'>What are OKLCH colors?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 06:32 UTC</small><br><br>
-🔹 <a href='https://github.com/bravenewxyz/agent-c' target='_blank' rel='noopener noreferrer'>Agent-C: a 4KB AI agent</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 10:43 UTC</small><br><br>
 🔹 <a href='https://www.tokyocowboy.co/articles/doai-eki-japans-creepiest-station' target='_blank' rel='noopener noreferrer'>Japan's Creepiest Station</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 13:44 UTC</small><br><br>
+🔹 <a href='https://github.com/bravenewxyz/agent-c' target='_blank' rel='noopener noreferrer'>Agent-C: a 4KB AI agent</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 10:43 UTC</small><br><br>
+🔹 <a href='https://coloradosun.com/2025/08/25/costilla-county-water-cutoff/' target='_blank' rel='noopener noreferrer'>Hundreds lose water source in Colorado's poorest county with no notice</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 14:50 UTC</small><br><br>
+🔹 <a href='https://www.gojiberries.io/how-to-make-things-slower-so-they-go-faster-a-jitter-design-manual/' target='_blank' rel='noopener noreferrer'>How to Make Things Slower So They Go Faster</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 05:10 UTC</small><br><br>
 🔹 <a href='https://www.ducktyped.org/p/an-illustrated-guide-to-oauth' target='_blank' rel='noopener noreferrer'>An Illustrated Guide to OAuth</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 12:29 UTC</small><br><br>
 🔹 <a href='https://spectrum.ieee.org/nuclear-battery-revival' target='_blank' rel='noopener noreferrer'>The unlikely revival of nuclear batteries</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 13:37 UTC</small><br><br>
-🔹 <a href='https://www.gojiberries.io/how-to-make-things-slower-so-they-go-faster-a-jitter-design-manual/' target='_blank' rel='noopener noreferrer'>How to Make Things Slower So They Go Faster</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 05:10 UTC</small><br><br>
 🔹 <a href='https://www.makingsoftware.com/chapters/color-spaces-models-and-gamuts' target='_blank' rel='noopener noreferrer'>What Is a Color Space?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 12:33 UTC</small><br><br>
-🔹 <a href='https://small-js.org/Home/Home.html' target='_blank' rel='noopener noreferrer'>SmallJS: Smalltalk-80 that compiles to JavaScript</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 09:29 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-25 15:32:12 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-25 15:49:27 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
