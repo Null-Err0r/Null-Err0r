@@ -38,12 +38,12 @@
 🔹 <a href='https://www.producthunt.com/p/april-yc-s25/from-hackathon-to-yc' target='_blank' rel='noopener noreferrer'>From Hackathon to YC</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 22:08 UTC</small><br><br>
 🔹 <a href='https://torrentfreak.com/uk-govt-finds-ideal-pirate-bay-poster-boy-to-sell-blocking-of-non-pirate-sites-250824/' target='_blank' rel='noopener noreferrer'>Is 4chan the perfect Pirate Bay poster child to justify wider UK site-blocking?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 16:30 UTC</small><br><br>
 🔹 <a href='https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md' target='_blank' rel='noopener noreferrer'>We put a coding agent in a while loop</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 16:18 UTC</small><br><br>
-🔹 <a href='https://www.jeronimo.dev/the-two-versions-of-parquet/' target='_blank' rel='noopener noreferrer'>The two versions of Parquet</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 09:34 UTC</small><br><br>
 🔹 <a href='https://simson.net/ref/ugh.pdf' target='_blank' rel='noopener noreferrer'>The Unix-Haters Handbook (1994) [pdf]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 00:46 UTC</small><br><br>
+🔹 <a href='https://www.jeronimo.dev/the-two-versions-of-parquet/' target='_blank' rel='noopener noreferrer'>The two versions of Parquet</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 09:34 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-25 05:49:41 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-25 06:17:46 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
