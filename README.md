@@ -30,20 +30,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://austinvernon.site/blog/standardthermal.html' target='_blank' rel='noopener noreferrer'>Standard Thermal: Energy Storage 500x Cheaper Than Batteries</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 12:04 UTC</small><br><br>
-🔹 <a href='https://jakub.kr/components/oklch-colors' target='_blank' rel='noopener noreferrer'>What are OKLCH colors?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 06:32 UTC</small><br><br>
 🔹 <a href='https://www.ducktyped.org/p/an-illustrated-guide-to-oauth' target='_blank' rel='noopener noreferrer'>An Illustrated Guide to OAuth</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 12:29 UTC</small><br><br>
-🔹 <a href='https://github.com/bravenewxyz/agent-c' target='_blank' rel='noopener noreferrer'>Agent-C: a 4KB AI agent</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 10:43 UTC</small><br><br>
+🔹 <a href='https://jakub.kr/components/oklch-colors' target='_blank' rel='noopener noreferrer'>What are OKLCH colors?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 06:32 UTC</small><br><br>
 🔹 <a href='https://b.43z.one/2025-07-22/' target='_blank' rel='noopener noreferrer'>A Small Change to Improve Browsers for Keyboard Navigation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 13:40 UTC</small><br><br>
+🔹 <a href='https://github.com/bravenewxyz/agent-c' target='_blank' rel='noopener noreferrer'>Agent-C: a 4KB AI agent</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 10:43 UTC</small><br><br>
+🔹 <a href='https://sigwait.org/~alex/blog/2025/08/25/zw6z4E.html' target='_blank' rel='noopener noreferrer'>The Size of Adobe Reader Installers Through the Years</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 12:03 UTC</small><br><br>
+🔹 <a href='https://spectrum.ieee.org/nuclear-battery-revival' target='_blank' rel='noopener noreferrer'>The Unlikely Revival of Nuclear Batteries</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 13:37 UTC</small><br><br>
+🔹 <a href='https://austinvernon.site/blog/standardthermal.html' target='_blank' rel='noopener noreferrer'>Standard Thermal: Energy Storage 500x Cheaper Than Batteries</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 12:04 UTC</small><br><br>
+🔹 <a href='https://www.tokyocowboy.co/articles/doai-eki-japans-creepiest-station' target='_blank' rel='noopener noreferrer'>Japan's Creepiest Station</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 13:44 UTC</small><br><br>
 🔹 <a href='https://guard.io/labs/scamlexity-we-put-agentic-ai-browsers-to-the-test-they-clicked-they-paid-they-failed' target='_blank' rel='noopener noreferrer'>We Put Agentic AI Browsers to the Test – They Clicked, They Paid, They Failed</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 07:03 UTC</small><br><br>
 🔹 <a href='https://small-js.org/Home/Home.html' target='_blank' rel='noopener noreferrer'>SmallJS: Smalltalk-80 that compiles to JavaScript</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 09:29 UTC</small><br><br>
-🔹 <a href='https://git-annex.branchable.com/' target='_blank' rel='noopener noreferrer'>Git-Annex</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 04:18 UTC</small><br><br>
-🔹 <a href='https://leslefts.blogspot.com/2013/11/the-great-medieval-water-myth.html' target='_blank' rel='noopener noreferrer'>The great medieval water myth (2013)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 17:25 UTC</small><br><br>
-🔹 <a href='https://www.theguardian.com/science/2017/aug/24/mathematical-secrets-of-ancient-tablet-unlocked-after-nearly-a-century-of-study' target='_blank' rel='noopener noreferrer'>Mathematical secrets of ancient tablet unlocked after nearly a century of study (2017)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 21:31 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-25 13:51:01 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-25 14:11:20 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
