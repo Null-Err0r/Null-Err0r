@@ -32,18 +32,18 @@
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://dseltzer.gitlab.io/sping/docs/' target='_blank' rel='noopener noreferrer'>Show HN: Sping – An HTTP/TCP latency tool that's easy on the eye</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 23:42 UTC</small><br><br>
 🔹 <a href='https://www.quantamagazine.org/busy-beaver-hunters-reach-numbers-that-overwhelm-ordinary-math-20250822/' target='_blank' rel='noopener noreferrer'>Busy beaver hunters reach numbers that overwhelm ordinary math</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 22:47 UTC</small><br><br>
-🔹 <a href='http://redsymbol.net/articles/unofficial-bash-strict-mode/' target='_blank' rel='noopener noreferrer'>Bash Strict Mode</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 11:58 UTC</small><br><br>
 🔹 <a href='https://www.producthunt.com/p/april-yc-s25/from-hackathon-to-yc' target='_blank' rel='noopener noreferrer'>From Hackathon to YC</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 22:08 UTC</small><br><br>
 🔹 <a href='https://www.jeronimo.dev/the-two-versions-of-parquet/' target='_blank' rel='noopener noreferrer'>The two versions of Parquet</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 09:34 UTC</small><br><br>
 🔹 <a href='https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md' target='_blank' rel='noopener noreferrer'>We put a coding agent in a while loop</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 16:18 UTC</small><br><br>
 🔹 <a href='https://torrentfreak.com/uk-govt-finds-ideal-pirate-bay-poster-boy-to-sell-blocking-of-non-pirate-sites-250824/' target='_blank' rel='noopener noreferrer'>Is 4chan the perfect Pirate Bay poster child to justify wider UK site-blocking?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 16:30 UTC</small><br><br>
-🔹 <a href='https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/' target='_blank' rel='noopener noreferrer'>Ghrc.io appears to be malicious</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 23:27 UTC</small><br><br>
+🔹 <a href='https://www.theguardian.com/world/2025/aug/21/german-contest-to-live-in-depopulated-soviet-era-city-proves-global-hit' target='_blank' rel='noopener noreferrer'>German contest to live in depopulated Soviet-era city proves global hit</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 00:05 UTC</small><br><br>
 🔹 <a href='https://www.macrumors.com/2025/08/21/y-combinator-epic-games-amicus-brief/' target='_blank' rel='noopener noreferrer'>Y Combinator files brief supporting Epic Games, says store fees stifle startups</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 00:05 UTC</small><br><br>
-🔹 <a href='https://prisonjournalismproject.org/2025/08/19/prisons-outdated-technology-hurts-our-chances-at-freedom/' target='_blank' rel='noopener noreferrer'>Prison isn’t set up for today’s tech so we have to do legal work the old way</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 00:10 UTC</small><br><br>
+🔹 <a href='https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/' target='_blank' rel='noopener noreferrer'>Ghrc.io appears to be malicious</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 23:27 UTC</small><br><br>
+🔹 <a href='https://www.newscientist.com/article/2487804-trees-on-city-streets-cope-with-drought-by-drinking-from-leaky-pipes/' target='_blank' rel='noopener noreferrer'>Trees on city streets cope with drought by drinking from leaky pipes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 16:46 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-25 04:02:29 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-25 04:39:07 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
