@@ -34,16 +34,16 @@
 🔹 <a href='https://boston.conman.org/2025/08/21.1' target='_blank' rel='noopener noreferrer'>Bro, ban me at the IP level if you don't like me</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 04:23 UTC</small><br><br>
 🔹 <a href='https://git-annex.branchable.com/' target='_blank' rel='noopener noreferrer'>Git-Annex</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 04:18 UTC</small><br><br>
 🔹 <a href='https://github.com/IBM/mcp-context-forge' target='_blank' rel='noopener noreferrer'>MCP Gateway and Registry</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 05:30 UTC</small><br><br>
+🔹 <a href='https://www.buypass.com/products/tls-ssl-certificates/discontinues-issuance-of-tls-ssl-certificates' target='_blank' rel='noopener noreferrer'>Buypass Discontinues Issuance of TLS/SSL Certificates</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 06:28 UTC</small><br><br>
 🔹 <a href='https://www.quantamagazine.org/busy-beaver-hunters-reach-numbers-that-overwhelm-ordinary-math-20250822/' target='_blank' rel='noopener noreferrer'>Busy beaver hunters reach numbers that overwhelm ordinary math</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 22:47 UTC</small><br><br>
 🔹 <a href='https://dseltzer.gitlab.io/sping/docs/' target='_blank' rel='noopener noreferrer'>Show HN: Sping – An HTTP/TCP latency tool that's easy on the eye</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 23:42 UTC</small><br><br>
-🔹 <a href='https://www.buypass.com/products/tls-ssl-certificates/discontinues-issuance-of-tls-ssl-certificates' target='_blank' rel='noopener noreferrer'>Buypass Discontinues Issuance of TLS/SSL Certificates</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 06:28 UTC</small><br><br>
 🔹 <a href='https://www.producthunt.com/p/april-yc-s25/from-hackathon-to-yc' target='_blank' rel='noopener noreferrer'>From Hackathon to YC</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 22:08 UTC</small><br><br>
 🔹 <a href='https://andre.arko.net/2025/08/18/in-memory-filesystems-in-rust/' target='_blank' rel='noopener noreferrer'>In-Memory Filesystems in Rust</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 06:33 UTC</small><br><br>
 🔹 <a href='https://simson.net/ref/ugh.pdf' target='_blank' rel='noopener noreferrer'>The Unix-Haters Handbook (1994) [pdf]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 00:46 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-25 07:30:03 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-25 07:40:53 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
