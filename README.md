@@ -34,16 +34,16 @@
 🔹 <a href='https://github.com/bravenewxyz/agent-c' target='_blank' rel='noopener noreferrer'>Agent-C: a 4KB AI agent</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 10:43 UTC</small><br><br>
 🔹 <a href='https://git-annex.branchable.com/' target='_blank' rel='noopener noreferrer'>Git-Annex</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 04:18 UTC</small><br><br>
 🔹 <a href='https://small-js.org/Home/Home.html' target='_blank' rel='noopener noreferrer'>SmallJS: Smalltalk-80 that compiles to JavaScript</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 09:29 UTC</small><br><br>
-🔹 <a href='https://www.quantamagazine.org/busy-beaver-hunters-reach-numbers-that-overwhelm-ordinary-math-20250822/' target='_blank' rel='noopener noreferrer'>Busy beaver hunters reach numbers that overwhelm ordinary math</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 22:47 UTC</small><br><br>
-🔹 <a href='https://andre.arko.net/2025/08/18/in-memory-filesystems-in-rust/' target='_blank' rel='noopener noreferrer'>In-Memory Filesystems in Rust</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 06:33 UTC</small><br><br>
-🔹 <a href='https://simson.net/ref/ugh.pdf' target='_blank' rel='noopener noreferrer'>The Unix-Haters Handbook (1994) [pdf]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 00:46 UTC</small><br><br>
 🔹 <a href='https://leslefts.blogspot.com/2013/11/the-great-medieval-water-myth.html' target='_blank' rel='noopener noreferrer'>The great medieval water myth (2013)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 17:25 UTC</small><br><br>
+🔹 <a href='https://andre.arko.net/2025/08/18/in-memory-filesystems-in-rust/' target='_blank' rel='noopener noreferrer'>In-Memory Filesystems in Rust</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 06:33 UTC</small><br><br>
+🔹 <a href='https://www.quantamagazine.org/busy-beaver-hunters-reach-numbers-that-overwhelm-ordinary-math-20250822/' target='_blank' rel='noopener noreferrer'>Busy beaver hunters reach numbers that overwhelm ordinary math</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 22:47 UTC</small><br><br>
+🔹 <a href='https://simson.net/ref/ugh.pdf' target='_blank' rel='noopener noreferrer'>The Unix-Haters Handbook (1994) [pdf]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 00:46 UTC</small><br><br>
 🔹 <a href='https://dseltzer.gitlab.io/sping/docs/' target='_blank' rel='noopener noreferrer'>Show HN: Sping – An HTTP/TCP latency tool that's easy on the eye</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 23:42 UTC</small><br><br>
 🔹 <a href='https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md' target='_blank' rel='noopener noreferrer'>We put a coding agent in a while loop</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 16:18 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-25 11:35:48 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-25 11:46:39 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
