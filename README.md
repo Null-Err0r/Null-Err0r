@@ -33,17 +33,17 @@
 🔹 <a href='https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips' target='_blank' rel='noopener noreferrer'>Google's Liquid Cooling</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 17:57 UTC</small><br><br>
 🔹 <a href='https://menial.co.uk/base/' target='_blank' rel='noopener noreferrer'>Show HN: Base, an SQLite database editor for macOS</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 14:17 UTC</small><br><br>
 🔹 <a href='https://jakub.kr/components/oklch-colors' target='_blank' rel='noopener noreferrer'>What are OKLCH colors?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 06:32 UTC</small><br><br>
-🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: April (YC S25) – Voice AI to manage your email and calendar</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 15:56 UTC</small><br><br>
 🔹 <a href='https://samwilkinson.io/posts/2025-08-24-mx-ergo-mods' target='_blank' rel='noopener noreferrer'>Building the mouse Logitech won't make</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 15:34 UTC</small><br><br>
+🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: April (YC S25) – Voice AI to manage your email and calendar</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 15:56 UTC</small><br><br>
 🔹 <a href='https://twitter.com/nealstephenson/status/1959759051732213812' target='_blank' rel='noopener noreferrer'>Meta just suspended the Facebook account of Neal Stephenson</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 19:33 UTC</small><br><br>
 🔹 <a href='https://samwho.dev/big-o/' target='_blank' rel='noopener noreferrer'>A visual introduction to big O notation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 07:39 UTC</small><br><br>
-🔹 <a href='https://docs.fcc.gov/public/attachments/DOC-414073A1.txt' target='_blank' rel='noopener noreferrer'>FCC Bars over 1,200 Providers for Non-Compliance with Robocall Protections</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 16:06 UTC</small><br><br>
 🔹 <a href='https://b.43z.one/2025-07-22/' target='_blank' rel='noopener noreferrer'>A Small Change to Improve Browsers for Keyboard Navigation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 13:40 UTC</small><br><br>
+🔹 <a href='https://docs.fcc.gov/public/attachments/DOC-414073A1.txt' target='_blank' rel='noopener noreferrer'>FCC Bars over 1,200 Providers for Non-Compliance with Robocall Protections</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 16:06 UTC</small><br><br>
 🔹 <a href='https://www.gojiberries.io/how-to-make-things-slower-so-they-go-faster-a-jitter-design-manual/' target='_blank' rel='noopener noreferrer'>How to Make Things Slower So They Go Faster</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 05:10 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-25 20:11:55 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-25 20:32:03 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
