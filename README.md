@@ -30,20 +30,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://git-annex.branchable.com/' target='_blank' rel='noopener noreferrer'>Git-Annex</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 04:18 UTC</small><br><br>
+🔹 <a href='https://jakub.kr/components/oklch-colors' target='_blank' rel='noopener noreferrer'>What Are OKLCH Colors?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 06:32 UTC</small><br><br>
 🔹 <a href='https://boston.conman.org/2025/08/21.1' target='_blank' rel='noopener noreferrer'>Bro, ban me at the IP level if you don't like me</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 04:23 UTC</small><br><br>
+🔹 <a href='https://git-annex.branchable.com/' target='_blank' rel='noopener noreferrer'>Git-Annex</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 04:18 UTC</small><br><br>
 🔹 <a href='https://marginalrevolution.com/marginalrevolution/2025/08/why-is-choral-music-harder-to-appreciate.html' target='_blank' rel='noopener noreferrer'>Why is choral music harder to appreciate?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 14:02 UTC</small><br><br>
-🔹 <a href='https://dseltzer.gitlab.io/sping/docs/' target='_blank' rel='noopener noreferrer'>Show HN: Sping – An HTTP/TCP latency tool that's easy on the eye</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 23:42 UTC</small><br><br>
 🔹 <a href='https://www.quantamagazine.org/busy-beaver-hunters-reach-numbers-that-overwhelm-ordinary-math-20250822/' target='_blank' rel='noopener noreferrer'>Busy beaver hunters reach numbers that overwhelm ordinary math</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-22 22:47 UTC</small><br><br>
+🔹 <a href='https://dseltzer.gitlab.io/sping/docs/' target='_blank' rel='noopener noreferrer'>Show HN: Sping – An HTTP/TCP latency tool that's easy on the eye</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 23:42 UTC</small><br><br>
+🔹 <a href='https://github.com/IBM/mcp-context-forge' target='_blank' rel='noopener noreferrer'>MCP Gateway and Registry</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 05:30 UTC</small><br><br>
 🔹 <a href='https://www.producthunt.com/p/april-yc-s25/from-hackathon-to-yc' target='_blank' rel='noopener noreferrer'>From Hackathon to YC</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 22:08 UTC</small><br><br>
+🔹 <a href='https://andre.arko.net/2025/08/18/in-memory-filesystems-in-rust/' target='_blank' rel='noopener noreferrer'>In-Memory Filesystems in Rust</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 06:33 UTC</small><br><br>
 🔹 <a href='https://torrentfreak.com/uk-govt-finds-ideal-pirate-bay-poster-boy-to-sell-blocking-of-non-pirate-sites-250824/' target='_blank' rel='noopener noreferrer'>Is 4chan the perfect Pirate Bay poster child to justify wider UK site-blocking?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 16:30 UTC</small><br><br>
-🔹 <a href='https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md' target='_blank' rel='noopener noreferrer'>We put a coding agent in a while loop</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 16:18 UTC</small><br><br>
-🔹 <a href='https://simson.net/ref/ugh.pdf' target='_blank' rel='noopener noreferrer'>The Unix-Haters Handbook (1994) [pdf]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 00:46 UTC</small><br><br>
-🔹 <a href='https://www.jeronimo.dev/the-two-versions-of-parquet/' target='_blank' rel='noopener noreferrer'>The two versions of Parquet</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 09:34 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-25 06:17:46 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-25 06:49:58 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
