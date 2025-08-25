@@ -32,18 +32,18 @@
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://jakub.kr/components/oklch-colors' target='_blank' rel='noopener noreferrer'>What are OKLCH colors?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 06:32 UTC</small><br><br>
 🔹 <a href='https://b.43z.one/2025-07-22/' target='_blank' rel='noopener noreferrer'>A Small Change to Improve Browsers for Keyboard Navigation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 13:40 UTC</small><br><br>
-🔹 <a href='https://spectrum.ieee.org/nuclear-battery-revival' target='_blank' rel='noopener noreferrer'>The unlikely revival of nuclear batteries</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 13:37 UTC</small><br><br>
+🔹 <a href='https://menial.co.uk/base/' target='_blank' rel='noopener noreferrer'>Show HN: Base, an SQLite database editor for macOS</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 14:17 UTC</small><br><br>
 🔹 <a href='https://github.com/bravenewxyz/agent-c' target='_blank' rel='noopener noreferrer'>Agent-C: a 4KB AI agent</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 10:43 UTC</small><br><br>
 🔹 <a href='https://www.tokyocowboy.co/articles/doai-eki-japans-creepiest-station' target='_blank' rel='noopener noreferrer'>Japan's Creepiest Station</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 13:44 UTC</small><br><br>
 🔹 <a href='https://www.ducktyped.org/p/an-illustrated-guide-to-oauth' target='_blank' rel='noopener noreferrer'>An Illustrated Guide to OAuth</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 12:29 UTC</small><br><br>
-🔹 <a href='https://austinvernon.site/blog/standardthermal.html' target='_blank' rel='noopener noreferrer'>Standard Thermal: Energy Storage 500x Cheaper Than Batteries</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 12:04 UTC</small><br><br>
+🔹 <a href='https://spectrum.ieee.org/nuclear-battery-revival' target='_blank' rel='noopener noreferrer'>The unlikely revival of nuclear batteries</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 13:37 UTC</small><br><br>
 🔹 <a href='https://sigwait.org/~alex/blog/2025/08/25/zw6z4E.html' target='_blank' rel='noopener noreferrer'>The Size of Adobe Reader Installers Through the Years</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 12:03 UTC</small><br><br>
 🔹 <a href='https://small-js.org/Home/Home.html' target='_blank' rel='noopener noreferrer'>SmallJS: Smalltalk-80 that compiles to JavaScript</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 09:29 UTC</small><br><br>
-🔹 <a href='https://guard.io/labs/scamlexity-we-put-agentic-ai-browsers-to-the-test-they-clicked-they-paid-they-failed' target='_blank' rel='noopener noreferrer'>We put agentic AI browsers to the test – They clicked, they paid, they failed</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 07:03 UTC</small><br><br>
+🔹 <a href='https://austinvernon.site/blog/standardthermal.html' target='_blank' rel='noopener noreferrer'>Standard Thermal: Energy Storage 500x Cheaper Than Batteries</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 12:04 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-25 14:33:51 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-25 14:50:37 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
