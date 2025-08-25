@@ -31,19 +31,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips' target='_blank' rel='noopener noreferrer'>Google's Liquid Cooling</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 17:57 UTC</small><br><br>
-🔹 <a href='https://llama.fund' target='_blank' rel='noopener noreferrer'>Llama Fund: Crowdfund AI Models</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 20:40 UTC</small><br><br>
 🔹 <a href='https://9to5google.com/2025/08/25/android-apps-developer-verification/' target='_blank' rel='noopener noreferrer'>Google to require developer verification to install and sideload Android apps</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 18:18 UTC</small><br><br>
 🔹 <a href='https://newpublic.substack.com/p/how-blacksky-grew-to-millions-of' target='_blank' rel='noopener noreferrer'>Social media's next evolution: decentralized, open-source, and scalable</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 20:47 UTC</small><br><br>
+🔹 <a href='https://llama.fund' target='_blank' rel='noopener noreferrer'>Llama Fund: Crowdfund AI Models</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 20:40 UTC</small><br><br>
 🔹 <a href='https://menial.co.uk/base/' target='_blank' rel='noopener noreferrer'>Show HN: Base, an SQLite database editor for macOS</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 14:17 UTC</small><br><br>
 🔹 <a href='https://samwho.dev/big-o/' target='_blank' rel='noopener noreferrer'>A visual introduction to big O notation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 07:39 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: April (YC S25) – Voice AI to manage your email and calendar</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 15:56 UTC</small><br><br>
-🔹 <a href='https://jakub.kr/components/oklch-colors' target='_blank' rel='noopener noreferrer'>What are OKLCH colors?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 06:32 UTC</small><br><br>
 🔹 <a href='https://blog.rubygems.org/2025/08/25/rubygems-security-response.html' target='_blank' rel='noopener noreferrer'>How RubyGems.org protects OSS infrastructure</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 18:02 UTC</small><br><br>
+🔹 <a href='https://jakub.kr/components/oklch-colors' target='_blank' rel='noopener noreferrer'>What are OKLCH colors?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 06:32 UTC</small><br><br>
 🔹 <a href='https://www.caseyliss.com/2025/8/15/a-rube-goldberg-camera' target='_blank' rel='noopener noreferrer'>Turning a Decommissioned iPhone into a UniFi Protect Camera</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 06:13 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-25 21:37:40 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-25 21:46:57 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
