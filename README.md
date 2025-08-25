@@ -30,20 +30,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/' target='_blank' rel='noopener noreferrer'>Ghrc.io appears to be malicious</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 23:27 UTC</small><br><br>
-🔹 <a href='https://playvalorant.com/en-us/news/dev/vanguard-hits-new-bans-per-second-record/' target='_blank' rel='noopener noreferrer'>Vanguard hits new 'Bans-Per-Second' record</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 23:41 UTC</small><br><br>
+🔹 <a href='https://prisonjournalismproject.org/2025/08/19/prisons-outdated-technology-hurts-our-chances-at-freedom/' target='_blank' rel='noopener noreferrer'>Prison isn’t set up for today’s tech so we have to do legal work the old way</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 00:10 UTC</small><br><br>
 🔹 <a href='https://www.seangoedecke.com/good-api-design/' target='_blank' rel='noopener noreferrer'>Everything I know about good API design</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 19:10 UTC</small><br><br>
-🔹 <a href='https://www.spacex.com/launches/starship-flight-10' target='_blank' rel='noopener noreferrer'>Starship's Tenth Flight Test</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 21:22 UTC</small><br><br>
+🔹 <a href='https://eclecticlight.co/2025/08/21/how-to-check-if-your-apple-silicon-mac-is-booting-securely/' target='_blank' rel='noopener noreferrer'>How to check if your Apple Silicon Mac is booting securely</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 23:44 UTC</small><br><br>
+🔹 <a href='https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/' target='_blank' rel='noopener noreferrer'>Ghrc.io appears to be malicious</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 23:27 UTC</small><br><br>
+🔹 <a href='https://dseltzer.gitlab.io/sping/docs/' target='_blank' rel='noopener noreferrer'>Show HN: Sping – An HTTP/TCP Latency Tool That's Easy on the Eye</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 23:42 UTC</small><br><br>
 🔹 <a href='https://www.jeronimo.dev/the-two-versions-of-parquet/' target='_blank' rel='noopener noreferrer'>The two versions of Parquet</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 09:34 UTC</small><br><br>
-🔹 <a href='https://dseltzer.gitlab.io/sping/docs/' target='_blank' rel='noopener noreferrer'>Show HN: Sping – A HTTP/TCP Latency Tool That's Easy on the Eye</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 23:42 UTC</small><br><br>
-🔹 <a href='https://iopscience.iop.org/article/10.3847/2041-8213/adf62f' target='_blank' rel='noopener noreferrer'>A brilliant and nearby one-off fast radio burst localized to 13pc precision</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 19:23 UTC</small><br><br>
+🔹 <a href='https://torrentfreak.com/uk-govt-finds-ideal-pirate-bay-poster-boy-to-sell-blocking-of-non-pirate-sites-250824/' target='_blank' rel='noopener noreferrer'>Is 4chan the perfect Pirate Bay poster child to justify wider UK site-blocking?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 16:30 UTC</small><br><br>
+🔹 <a href='https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md' target='_blank' rel='noopener noreferrer'>We put a coding agent in a while loop</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 16:18 UTC</small><br><br>
 🔹 <a href='https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/' target='_blank' rel='noopener noreferrer'>Making games in Go: 3 months without LLMs vs. 3 days with LLMs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 15:01 UTC</small><br><br>
 🔹 <a href='https://www.usenix.org/conference/usenixsecurity25/presentation/you' target='_blank' rel='noopener noreferrer'>My ZIP isn't your ZIP: Identifying and exploiting semantic gaps between parsers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-21 08:58 UTC</small><br><br>
-🔹 <a href='https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/' target='_blank' rel='noopener noreferrer'>Halt and Catch Fire Syllabus (2021)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 20:19 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-25 00:54:36 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-25 02:39:53 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
