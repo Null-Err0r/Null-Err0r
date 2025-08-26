@@ -31,19 +31,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://deepmind.google/models/gemini/image/' target='_blank' rel='noopener noreferrer'>Gemini 2.5 Flash Image</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 14:01 UTC</small><br><br>
-🔹 <a href='https://unfuck.email' target='_blank' rel='noopener noreferrer'>Show HN: Smart email filters to unfuck your email</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 14:02 UTC</small><br><br>
-🔹 <a href='https://www.laphamsquarterly.org/roundtable/deeper-deep' target='_blank' rel='noopener noreferrer'>Deeper Than Deep: David Reich's genetics lab unveils our prehistoric past (2017)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 13:52 UTC</small><br><br>
 🔹 <a href='https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all' target='_blank' rel='noopener noreferrer'>One Universal Antiviral to Rule Them All?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 14:07 UTC</small><br><br>
 🔹 <a href='https://9to5google.com/2025/08/25/android-apps-developer-verification/' target='_blank' rel='noopener noreferrer'>Google will allow only apps from verified developers to be installed on Android</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 18:18 UTC</small><br><br>
-🔹 <a href='https://markdown-ui.com/' target='_blank' rel='noopener noreferrer'>Show HN: Turn Markdown into React/Svelte/Vue UI at runtime, zero build step</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 10:13 UTC</small><br><br>
+🔹 <a href='https://www.laphamsquarterly.org/roundtable/deeper-deep' target='_blank' rel='noopener noreferrer'>Deeper Than Deep: David Reich's genetics lab unveils our prehistoric past (2017)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 13:52 UTC</small><br><br>
+🔹 <a href='https://unfuck.email' target='_blank' rel='noopener noreferrer'>Show HN: Smart email filters to unfuck your email</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 14:02 UTC</small><br><br>
+🔹 <a href='https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/' target='_blank' rel='noopener noreferrer'>DSLRoot, Proxies, and the Threat of 'Legal Botnets'</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 14:08 UTC</small><br><br>
 🔹 <a href='https://hermiene.net/essays-trans/relativity_of_wrong.html' target='_blank' rel='noopener noreferrer'>The Relativity of Wrong (1988)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 12:27 UTC</small><br><br>
 🔹 <a href='https://jsomers.net/blog/the-mcphee-method' target='_blank' rel='noopener noreferrer'>The McPhee method for writing deeply reported nonfiction</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 13:17 UTC</small><br><br>
-🔹 <a href='https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/' target='_blank' rel='noopener noreferrer'>DSLRoot, Proxies, and the Threat of 'Legal Botnets'</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 14:08 UTC</small><br><br>
-🔹 <a href='https://stratechery.com/2025/u-s-intel/' target='_blank' rel='noopener noreferrer'>US Intel</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 10:47 UTC</small><br><br>
+🔹 <a href='https://markdown-ui.com/' target='_blank' rel='noopener noreferrer'>Show HN: Turn Markdown into React/Svelte/Vue UI at runtime, zero build step</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 10:13 UTC</small><br><br>
+🔹 <a href='https://display.counterpointresearch.com/press-release/chinas-share-in-global-display-capacity-to-reach-75-in-2028' target='_blank' rel='noopener noreferrer'>China's Share in Global Display Capacity to Reach 75% in 2028</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 14:35 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-26 14:49:09 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-26 15:11:21 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
