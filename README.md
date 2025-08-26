@@ -33,8 +33,8 @@
 🔹 <a href='https://9to5google.com/2025/08/25/android-apps-developer-verification/' target='_blank' rel='noopener noreferrer'>Google will allow only apps from verified developers to be installed on Android</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 18:18 UTC</small><br><br>
 🔹 <a href='https://markdown-ui.com/' target='_blank' rel='noopener noreferrer'>Show HN: Turn Markdown into React/Svelte/Vue UI at runtime, zero build step</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 10:13 UTC</small><br><br>
 🔹 <a href='https://becca.ooo/blog/macos-dotfiles/' target='_blank' rel='noopener noreferrer'>macOS dotfiles should not go in –/Library/Application Support</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 04:49 UTC</small><br><br>
-🔹 <a href='https://www.quantamagazine.org/ten-martini-proof-uses-number-theory-to-explain-quantum-fractals-20250825/' target='_blank' rel='noopener noreferrer'>'Ten Martini' Proof Uses Number Theory to Explain Quantum Fractals</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 10:23 UTC</small><br><br>
 🔹 <a href='https://weblog.rogueamoeba.com/2025/08/21/when-a-bug-saved-the-company/' target='_blank' rel='noopener noreferrer'>A bug saved the company</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 09:55 UTC</small><br><br>
+🔹 <a href='https://www.quantamagazine.org/ten-martini-proof-uses-number-theory-to-explain-quantum-fractals-20250825/' target='_blank' rel='noopener noreferrer'>'Ten Martini' Proof Uses Number Theory to Explain Quantum Fractals</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 10:23 UTC</small><br><br>
 🔹 <a href='https://www.seangoedecke.com/dangerous-advice/' target='_blank' rel='noopener noreferrer'>Dangerous Advice for Software Engineers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 06:15 UTC</small><br><br>
 🔹 <a href='https://github.com/pandax381/xv6-riscv-net' target='_blank' rel='noopener noreferrer'>Show HN: I integrated my from-scratch TCP/IP stack into the xv6-riscv OS</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 06:24 UTC</small><br><br>
 🔹 <a href='https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/' target='_blank' rel='noopener noreferrer'>Do I not like Ruby anymore? (2024)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 07:00 UTC</small><br><br>
@@ -43,7 +43,7 @@
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-26 11:26:11 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-26 11:36:04 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
