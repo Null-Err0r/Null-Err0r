@@ -32,18 +32,18 @@
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://9to5google.com/2025/08/25/android-apps-developer-verification/' target='_blank' rel='noopener noreferrer'>Google will allow only apps from verified developers to be installed on Android</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 18:18 UTC</small><br><br>
 🔹 <a href='https://becca.ooo/blog/macos-dotfiles/' target='_blank' rel='noopener noreferrer'>macOS dotfiles should not go in –/Library/Application Support</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 04:49 UTC</small><br><br>
-🔹 <a href='https://www.nongnu.org/lzip/xz_inadequate.html' target='_blank' rel='noopener noreferrer'>Xz format inadequate for general use</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 04:09 UTC</small><br><br>
+🔹 <a href='https://weblog.rogueamoeba.com/2025/08/21/when-a-bug-saved-the-company/' target='_blank' rel='noopener noreferrer'>When a Bug Saved the Company</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 09:55 UTC</small><br><br>
 🔹 <a href='https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips' target='_blank' rel='noopener noreferrer'>Google's Liquid Cooling</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 17:57 UTC</small><br><br>
 🔹 <a href='https://scottstuff.net/posts/2025/05/19/ntp-limits/' target='_blank' rel='noopener noreferrer'>The Limits of NTP Accuracy on Linux</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 01:02 UTC</small><br><br>
-🔹 <a href='https://nlp.seas.harvard.edu/annotated-transformer/' target='_blank' rel='noopener noreferrer'>The Annotated Transformer (2022)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 09:58 UTC</small><br><br>
 🔹 <a href='https://nrinaudo.github.io/articles/capture_checking.html' target='_blank' rel='noopener noreferrer'>Capture Checking in Scala</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 05:22 UTC</small><br><br>
 🔹 <a href='https://menial.co.uk/base/' target='_blank' rel='noopener noreferrer'>Show HN: Base, an SQLite database editor for macOS</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 14:17 UTC</small><br><br>
 🔹 <a href='https://samwho.dev/big-o/' target='_blank' rel='noopener noreferrer'>A visual introduction to big O notation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 07:39 UTC</small><br><br>
-🔹 <a href='https://github.com/MaliosDark/wifi-3d-fusion' target='_blank' rel='noopener noreferrer'>WiFi-3D-Fusion – Real-time 3D motion sensing with Wi-Fi</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 23:26 UTC</small><br><br>
+🔹 <a href='https://nlp.seas.harvard.edu/annotated-transformer/' target='_blank' rel='noopener noreferrer'>The Annotated Transformer (2022)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 09:58 UTC</small><br><br>
+🔹 <a href='https://www.nets-vs-automata.net/' target='_blank' rel='noopener noreferrer'>Neural Nets vs. Cellular Automata</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 06:39 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-26 05:11:53 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-26 05:32:55 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
