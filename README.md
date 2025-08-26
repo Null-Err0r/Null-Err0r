@@ -34,16 +34,16 @@
 🔹 <a href='https://artanis.dev/index.html' target='_blank' rel='noopener noreferrer'>GNU Artanis – A fast web application framework for Scheme</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 20:06 UTC</small><br><br>
 🔹 <a href='https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/' target='_blank' rel='noopener noreferrer'>Gemini 2.5 Flash Image</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 14:01 UTC</small><br><br>
 🔹 <a href='https://politics.stackexchange.com/questions/93401/what-happens-when-ambassadors-are-summoned-by-the-foreign-ministry-of-their-host' target='_blank' rel='noopener noreferrer'>What happens when ambassadors are summoned by the host country?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 19:52 UTC</small><br><br>
-🔹 <a href='https://www.righto.com/2025/08/Cr2Ge2Te6-not-Cr2Gr2Te6.html' target='_blank' rel='noopener noreferrer'>Why do people keep writing about the imaginary compound Cr2Gr2Te6?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 18:07 UTC</small><br><br>
 🔹 <a href='https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/' target='_blank' rel='noopener noreferrer'>Rv, a new kind of Ruby management tool</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 08:15 UTC</small><br><br>
-🔹 <a href='https://www.ietf.org/archive/id/draft-abaris-aicdh-00.html' target='_blank' rel='noopener noreferrer'>IETF Internet-Draft: AI Content Disclosure Header</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 21:08 UTC</small><br><br>
-🔹 <a href='https://www.ycombinator.com/companies/litellm/jobs/6uvoBp3-founding-backend-engineer' target='_blank' rel='noopener noreferrer'>LiteLLM (YC W23) is hiring a back end engineer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 21:00 UTC</small><br><br>
+🔹 <a href='https://www.righto.com/2025/08/Cr2Ge2Te6-not-Cr2Gr2Te6.html' target='_blank' rel='noopener noreferrer'>Why do people keep writing about the imaginary compound Cr2Gr2Te6?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 18:07 UTC</small><br><br>
 🔹 <a href='https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all' target='_blank' rel='noopener noreferrer'>One universal antiviral to rule them all?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 14:07 UTC</small><br><br>
+🔹 <a href='https://www.ycombinator.com/companies/litellm/jobs/6uvoBp3-founding-backend-engineer' target='_blank' rel='noopener noreferrer'>LiteLLM (YC W23) is hiring a back end engineer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 21:00 UTC</small><br><br>
+🔹 <a href='https://www.ietf.org/archive/id/draft-abaris-aicdh-00.html' target='_blank' rel='noopener noreferrer'>IETF Internet-Draft: AI Content Disclosure Header</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 21:08 UTC</small><br><br>
 🔹 <a href='https://www.bmj.com/content/384/bmj-2023-076902' target='_blank' rel='noopener noreferrer'>Undisclosed financial conflicts of interest in DSM-5 (2024)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 16:57 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-26 21:47:01 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-26 22:10:04 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
