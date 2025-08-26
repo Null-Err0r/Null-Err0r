@@ -32,18 +32,18 @@
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/' target='_blank' rel='noopener noreferrer'>Gemini 2.5 Flash Image</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 14:01 UTC</small><br><br>
 🔹 <a href='https://byte.tsundoku.io' target='_blank' rel='noopener noreferrer'>Show HN: A zoomable, searchable archive of BYTE magazine</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 15:34 UTC</small><br><br>
-🔹 <a href='https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all' target='_blank' rel='noopener noreferrer'>One universal antiviral to rule them all?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 14:07 UTC</small><br><br>
-🔹 <a href='https://olimex.wordpress.com/2025/08/26/we-regret-but-have-to-temporary-suspend-the-shipments-to-usa/' target='_blank' rel='noopener noreferrer'>We regret but have to temporary suspend the shipments to USA</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 17:22 UTC</small><br><br>
 🔹 <a href='https://www.righto.com/2025/08/Cr2Ge2Te6-not-Cr2Gr2Te6.html' target='_blank' rel='noopener noreferrer'>Why do people keep writing about the imaginary compound Cr2Gr2Te6?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 18:07 UTC</small><br><br>
-🔹 <a href='https://trackerninja.codeberg.page/post/windows-7-power-256-threads-192-gb-ram' target='_blank' rel='noopener noreferrer'>Windows 7 x64 Extended Support Page</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 15:40 UTC</small><br><br>
+🔹 <a href='https://olimex.wordpress.com/2025/08/26/we-regret-but-have-to-temporary-suspend-the-shipments-to-usa/' target='_blank' rel='noopener noreferrer'>We regret but have to temporary suspend the shipments to USA</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 17:22 UTC</small><br><br>
+🔹 <a href='https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all' target='_blank' rel='noopener noreferrer'>One universal antiviral to rule them all?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 14:07 UTC</small><br><br>
+🔹 <a href='https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific' target='_blank' rel='noopener noreferrer'>Michigan Supreme Court: Unrestricted Phone Searches Violate Fourth Amendment</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 17:36 UTC</small><br><br>
 🔹 <a href='https://stratechery.com/2025/u-s-intel/' target='_blank' rel='noopener noreferrer'>US Intel</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 10:47 UTC</small><br><br>
 🔹 <a href='https://www.cnbc.com/2025/08/25/tech-worker-was-frustrated-with-ghost-jobs-now-hes-trying-to-pass-a-national-ban.html' target='_blank' rel='noopener noreferrer'>Proposal to Ban Ghost Jobs: The Truth in Job Advertising and Accountability Act</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 16:27 UTC</small><br><br>
-🔹 <a href='https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific' target='_blank' rel='noopener noreferrer'>Michigan Supreme Court: Unrestricted Phone Searches Violate Fourth Amendment</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 17:36 UTC</small><br><br>
+🔹 <a href='https://trackerninja.codeberg.page/post/windows-7-power-256-threads-192-gb-ram' target='_blank' rel='noopener noreferrer'>Windows 7 x64 Extended Support Page</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 15:40 UTC</small><br><br>
 🔹 <a href='https://www.theguardian.com/world/2025/aug/25/japan-osmotic-power-plant-fukuoka' target='_blank' rel='noopener noreferrer'>Japan has opened its first osmotic power plant</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 02:53 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-26 18:41:50 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-26 18:53:01 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
