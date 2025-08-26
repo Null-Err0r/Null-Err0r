@@ -33,17 +33,17 @@
 🔹 <a href='https://deepmind.google/models/gemini/image/' target='_blank' rel='noopener noreferrer'>Gemini 2.5 Flash Image</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 14:01 UTC</small><br><br>
 🔹 <a href='https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all' target='_blank' rel='noopener noreferrer'>One Universal Antiviral to Rule Them All?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 14:07 UTC</small><br><br>
 🔹 <a href='https://byte.tsundoku.io' target='_blank' rel='noopener noreferrer'>Show HN: A zoomable, searchable archive of BYTE magazine</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 15:34 UTC</small><br><br>
+🔹 <a href='https://techcrunch.com/2025/08/25/silicon-valley-is-pouring-millions-into-pro-ai-pacs-to-sway-midterms/' target='_blank' rel='noopener noreferrer'>Silicon Valley is pouring millions into pro-AI PACs to sway midterms</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 15:25 UTC</small><br><br>
 🔹 <a href='https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/' target='_blank' rel='noopener noreferrer'>DSLRoot, Proxies, and the Threat of 'Legal Botnets'</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 14:08 UTC</small><br><br>
+🔹 <a href='https://arxiv.org/abs/2508.16872' target='_blank' rel='noopener noreferrer'>No evidence ageing/declining populations compromise socio-economic performance</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 16:05 UTC</small><br><br>
 🔹 <a href='https://www.laphamsquarterly.org/roundtable/deeper-deep' target='_blank' rel='noopener noreferrer'>Deeper Than Deep: David Reich's genetics lab unveils our prehistoric past (2017)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 13:52 UTC</small><br><br>
 🔹 <a href='https://jsomers.net/blog/the-mcphee-method' target='_blank' rel='noopener noreferrer'>The McPhee method for writing deeply reported nonfiction</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 13:17 UTC</small><br><br>
-🔹 <a href='https://techcrunch.com/2025/08/25/silicon-valley-is-pouring-millions-into-pro-ai-pacs-to-sway-midterms/' target='_blank' rel='noopener noreferrer'>Silicon Valley is pouring millions into pro-AI PACs to sway midterms</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 15:25 UTC</small><br><br>
 🔹 <a href='https://hermiene.net/essays-trans/relativity_of_wrong.html' target='_blank' rel='noopener noreferrer'>The Relativity of Wrong (1988)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 12:27 UTC</small><br><br>
 🔹 <a href='https://frame.work/ro/en/laptop16?tab=whats-new' target='_blank' rel='noopener noreferrer'>Framework Laptop 16. Upgraded!</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 15:12 UTC</small><br><br>
-🔹 <a href='https://markdown-ui.com/' target='_blank' rel='noopener noreferrer'>Show HN: Turn Markdown into React/Svelte/Vue UI at runtime, zero build step</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 10:13 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-26 16:12:57 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-26 16:36:32 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
