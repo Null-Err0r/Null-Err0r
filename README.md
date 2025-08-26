@@ -34,16 +34,16 @@
 🔹 <a href='https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/' target='_blank' rel='noopener noreferrer'>Gemini 2.5 Flash Image</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 14:01 UTC</small><br><br>
 🔹 <a href='https://artanis.dev/index.html' target='_blank' rel='noopener noreferrer'>GNU Artanis – A fast web application framework for Scheme</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 20:06 UTC</small><br><br>
 🔹 <a href='https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/' target='_blank' rel='noopener noreferrer'>Rv, a new kind of Ruby management tool</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 08:15 UTC</small><br><br>
+🔹 <a href='https://www.spacex.com/' target='_blank' rel='noopener noreferrer'>Starship 10T minus 10 min</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 23:22 UTC</small><br><br>
+🔹 <a href='https://www.iflscience.com/the-wow-signal-was-likely-from-an-extraterrestrial-source-and-more-powerful-than-we-thought-80561' target='_blank' rel='noopener noreferrer'>The "Wow!" signal was likely from extraterrestrial source, and more powerful</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 22:25 UTC</small><br><br>
 🔹 <a href='https://www.livescience.com/space/space-exploration/chinese-astronauts-make-rocket-fuel-and-oxygen-in-space-using-1st-of-its-kind-artificial-photosynthesis' target='_blank' rel='noopener noreferrer'>Chinese astronauts make rocket fuel and oxygen in space</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 17:54 UTC</small><br><br>
-🔹 <a href='https://www.righto.com/2025/08/Cr2Ge2Te6-not-Cr2Gr2Te6.html' target='_blank' rel='noopener noreferrer'>Why do people keep writing about the imaginary compound Cr2Gr2Te6?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 18:07 UTC</small><br><br>
 🔹 <a href='https://www.bmj.com/content/384/bmj-2023-076902' target='_blank' rel='noopener noreferrer'>Undisclosed financial conflicts of interest in DSM-5 (2024)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 16:57 UTC</small><br><br>
 🔹 <a href='https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all' target='_blank' rel='noopener noreferrer'>One universal antiviral to rule them all?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 14:07 UTC</small><br><br>
-🔹 <a href='https://www.spacex.com/' target='_blank' rel='noopener noreferrer'>Starship 10T minus 10 min</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 23:22 UTC</small><br><br>
-🔹 <a href='https://utcc.utoronto.ca/~cks/space/blog/tech/M2ToVariousThings' target='_blank' rel='noopener noreferrer'>Connecting M.2 drives to various things (and not doing so)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 12:39 UTC</small><br><br>
+🔹 <a href='https://www.righto.com/2025/08/Cr2Ge2Te6-not-Cr2Gr2Te6.html' target='_blank' rel='noopener noreferrer'>Why do people keep writing about the imaginary compound Cr2Gr2Te6?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 18:07 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-26 23:34:13 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-26 23:46:51 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
