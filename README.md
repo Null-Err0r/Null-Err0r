@@ -30,20 +30,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://markdown-ui.com/' target='_blank' rel='noopener noreferrer'>Show HN: Turn Markdown into React/Svelte/Vue UI at runtime, zero build step</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 10:13 UTC</small><br><br>
-🔹 <a href='https://9to5google.com/2025/08/25/android-apps-developer-verification/' target='_blank' rel='noopener noreferrer'>Google will allow only apps from verified developers to be installed on Android</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 18:18 UTC</small><br><br>
-🔹 <a href='https://www.quantamagazine.org/ten-martini-proof-uses-number-theory-to-explain-quantum-fractals-20250825/' target='_blank' rel='noopener noreferrer'>'Ten Martini' Proof Uses Number Theory to Explain Quantum Fractals</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 10:23 UTC</small><br><br>
 🔹 <a href='https://www.chrislockard.net/posts/ssl-cert-requirements-obnoxious/' target='_blank' rel='noopener noreferrer'>SSL certificate requirements are becoming obnoxious</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 12:50 UTC</small><br><br>
+🔹 <a href='https://9to5google.com/2025/08/25/android-apps-developer-verification/' target='_blank' rel='noopener noreferrer'>Google will allow only apps from verified developers to be installed on Android</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 18:18 UTC</small><br><br>
+🔹 <a href='https://markdown-ui.com/' target='_blank' rel='noopener noreferrer'>Show HN: Turn Markdown into React/Svelte/Vue UI at runtime, zero build step</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 10:13 UTC</small><br><br>
+🔹 <a href='https://hermiene.net/essays-trans/relativity_of_wrong.html' target='_blank' rel='noopener noreferrer'>The Relativity of Wrong (1988)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 12:27 UTC</small><br><br>
+🔹 <a href='https://www.quantamagazine.org/ten-martini-proof-uses-number-theory-to-explain-quantum-fractals-20250825/' target='_blank' rel='noopener noreferrer'>'Ten Martini' Proof Uses Number Theory to Explain Quantum Fractals</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 10:23 UTC</small><br><br>
 🔹 <a href='https://weblog.rogueamoeba.com/2025/08/21/when-a-bug-saved-the-company/' target='_blank' rel='noopener noreferrer'>A bug saved the company</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 09:55 UTC</small><br><br>
-🔹 <a href='https://raw.githubusercontent.com/torvalds/linux/refs/heads/master/tools/memory-model/Documentation/explanation.txt' target='_blank' rel='noopener noreferrer'>Explanation of the Linux-Kernel Memory Consistency Model</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 10:00 UTC</small><br><br>
-🔹 <a href='https://github.com/pandax381/xv6-riscv-net' target='_blank' rel='noopener noreferrer'>Show HN: I integrated my from-scratch TCP/IP stack into the xv6-riscv OS</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 06:24 UTC</small><br><br>
+🔹 <a href='https://stratechery.com/2025/u-s-intel/' target='_blank' rel='noopener noreferrer'>US Intel</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 10:47 UTC</small><br><br>
+🔹 <a href='https://raw.githubusercontent.com/torvalds/linux/refs/heads/master/tools/memory-model/Documentation/explanation.txt' target='_blank' rel='noopener noreferrer'>Explanation of the Linux-kernel memory consistency model (2017)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 10:00 UTC</small><br><br>
 🔹 <a href='https://jobs.ashbyhq.com/SigNoz/01ebd081-db0c-4eec-8a8b-e346bc3f14a7' target='_blank' rel='noopener noreferrer'>SigNoz (YC W21, Open Source Datadog) Is Hiring Platform Engineers (Remote)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 12:00 UTC</small><br><br>
-🔹 <a href='https://becca.ooo/blog/macos-dotfiles/' target='_blank' rel='noopener noreferrer'>macOS dotfiles should not go in –/Library/Application Support</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 04:49 UTC</small><br><br>
-🔹 <a href='https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips' target='_blank' rel='noopener noreferrer'>Google's Liquid Cooling</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 17:57 UTC</small><br><br>
+🔹 <a href='https://github.com/pandax381/xv6-riscv-net' target='_blank' rel='noopener noreferrer'>Show HN: I integrated my from-scratch TCP/IP stack into the xv6-riscv OS</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 06:24 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-26 13:05:57 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-26 13:42:07 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
