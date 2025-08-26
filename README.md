@@ -35,15 +35,15 @@
 🔹 <a href='https://weblog.rogueamoeba.com/2025/08/21/when-a-bug-saved-the-company/' target='_blank' rel='noopener noreferrer'>When a Bug Saved the Company</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 09:55 UTC</small><br><br>
 🔹 <a href='https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips' target='_blank' rel='noopener noreferrer'>Google's Liquid Cooling</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 17:57 UTC</small><br><br>
 🔹 <a href='https://scottstuff.net/posts/2025/05/19/ntp-limits/' target='_blank' rel='noopener noreferrer'>The Limits of NTP Accuracy on Linux</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 01:02 UTC</small><br><br>
-🔹 <a href='https://nrinaudo.github.io/articles/capture_checking.html' target='_blank' rel='noopener noreferrer'>Capture Checking in Scala</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 05:22 UTC</small><br><br>
 🔹 <a href='https://menial.co.uk/base/' target='_blank' rel='noopener noreferrer'>Show HN: Base, an SQLite database editor for macOS</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 14:17 UTC</small><br><br>
+🔹 <a href='https://waxy.org/2025/08/will-smiths-concert-crowds-were-real-but-ai-is-blurring-the-lines/' target='_blank' rel='noopener noreferrer'>Will Smith's concert crowds are real, but AI is blurring the lines</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 04:11 UTC</small><br><br>
+🔹 <a href='https://nrinaudo.github.io/articles/capture_checking.html' target='_blank' rel='noopener noreferrer'>Capture Checking in Scala</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 05:22 UTC</small><br><br>
 🔹 <a href='https://samwho.dev/big-o/' target='_blank' rel='noopener noreferrer'>A visual introduction to big O notation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 07:39 UTC</small><br><br>
 🔹 <a href='https://nlp.seas.harvard.edu/annotated-transformer/' target='_blank' rel='noopener noreferrer'>The Annotated Transformer (2022)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 09:58 UTC</small><br><br>
-🔹 <a href='https://www.science.org/content/article/thousands-climbing-catfish-filmed-scaling-waterfalls' target='_blank' rel='noopener noreferrer'>Climbing catfish filmed scaling waterfalls</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 00:37 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-26 05:48:44 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-26 06:17:13 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
