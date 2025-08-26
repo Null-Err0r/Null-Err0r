@@ -32,17 +32,18 @@
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://claude.ai/chrome' target='_blank' rel='noopener noreferrer'>Claude for Chrome</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 19:01 UTC</small><br><br>
 🔹 <a href='https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/' target='_blank' rel='noopener noreferrer'>Gemini 2.5 Flash Image</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 14:01 UTC</small><br><br>
+🔹 <a href='https://byte.tsundoku.io' target='_blank' rel='noopener noreferrer'>Show HN: A zoomable, searchable archive of BYTE magazine</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 15:34 UTC</small><br><br>
 🔹 <a href='https://olimex.wordpress.com/2025/08/26/we-regret-but-have-to-temporary-suspend-the-shipments-to-usa/' target='_blank' rel='noopener noreferrer'>We regret but have to temporary suspend the shipments to USA</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 17:22 UTC</small><br><br>
 🔹 <a href='https://www.righto.com/2025/08/Cr2Ge2Te6-not-Cr2Gr2Te6.html' target='_blank' rel='noopener noreferrer'>Why do people keep writing about the imaginary compound Cr2Gr2Te6?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 18:07 UTC</small><br><br>
-🔹 <a href='https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all' target='_blank' rel='noopener noreferrer'>One universal antiviral to rule them all?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 14:07 UTC</small><br><br>
 🔹 <a href='https://newsroom.ibm.com/2025-08-26-ibm-and-amd-join-forces-to-build-the-future-of-computing' target='_blank' rel='noopener noreferrer'>IBM and AMD Join Forces to Build the Future of Computing</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 18:53 UTC</small><br><br>
-🔹 <a href='https://www.bmj.com/content/384/bmj-2023-076902' target='_blank' rel='noopener noreferrer'>Undisclosed financial conflicts of interest in DSM-5</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 16:57 UTC</small><br><br>
+🔹 <a href='https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all' target='_blank' rel='noopener noreferrer'>One universal antiviral to rule them all?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 14:07 UTC</small><br><br>
 🔹 <a href='https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific' target='_blank' rel='noopener noreferrer'>Michigan Supreme Court: Unrestricted Phone Searches Violate Fourth Amendment</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 17:36 UTC</small><br><br>
+🔹 <a href='https://www.bmj.com/content/384/bmj-2023-076902' target='_blank' rel='noopener noreferrer'>Undisclosed financial conflicts of interest in DSM-5</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 16:57 UTC</small><br><br>
 🔹 <a href='https://stratechery.com/2025/u-s-intel/' target='_blank' rel='noopener noreferrer'>US Intel</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 10:47 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-26 19:22:59 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-26 19:32:42 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
