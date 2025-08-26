@@ -33,17 +33,17 @@
 🔹 <a href='https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/' target='_blank' rel='noopener noreferrer'>Gemini 2.5 Flash Image</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 14:01 UTC</small><br><br>
 🔹 <a href='https://byte.tsundoku.io' target='_blank' rel='noopener noreferrer'>Show HN: A zoomable, searchable archive of BYTE magazine</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 15:34 UTC</small><br><br>
 🔹 <a href='https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all' target='_blank' rel='noopener noreferrer'>One universal antiviral to rule them all?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 14:07 UTC</small><br><br>
-🔹 <a href='https://trackerninja.codeberg.page/post/windows-7-power-256-threads-192-gb-ram' target='_blank' rel='noopener noreferrer'>Windows 7 x64 Extended Support Page</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 15:40 UTC</small><br><br>
 🔹 <a href='https://fortune.com/2025/08/23/neuralink-participant-1-noland-arbaugh-18-months-post-surgery-life-changed-elon-musk/' target='_blank' rel='noopener noreferrer'>Neuralink 'Participant 1' says his life has changed</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 09:12 UTC</small><br><br>
+🔹 <a href='https://trackerninja.codeberg.page/post/windows-7-power-256-threads-192-gb-ram' target='_blank' rel='noopener noreferrer'>Windows 7 x64 Extended Support Page</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 15:40 UTC</small><br><br>
 🔹 <a href='https://stratechery.com/2025/u-s-intel/' target='_blank' rel='noopener noreferrer'>US Intel</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 10:47 UTC</small><br><br>
-🔹 <a href='https://hugston.com/articles/Apple_2016_Stand_Was_Never_About_One_Case' target='_blank' rel='noopener noreferrer'>Apple´s Tim Cook battle results</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 15:46 UTC</small><br><br>
 🔹 <a href='https://www.cnbc.com/2025/08/25/tech-worker-was-frustrated-with-ghost-jobs-now-hes-trying-to-pass-a-national-ban.html' target='_blank' rel='noopener noreferrer'>Proposal to Ban Ghost Jobs: The Truth in Job Advertising and Accountability Act</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 16:27 UTC</small><br><br>
 🔹 <a href='https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/' target='_blank' rel='noopener noreferrer'>DSLRoot, Proxies, and the Threat of 'Legal Botnets'</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 14:08 UTC</small><br><br>
-🔹 <a href='https://jsomers.net/blog/the-mcphee-method' target='_blank' rel='noopener noreferrer'>The McPhee method for writing deeply reported nonfiction</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 13:17 UTC</small><br><br>
+🔹 <a href='https://hugston.com/articles/Apple_2016_Stand_Was_Never_About_One_Case' target='_blank' rel='noopener noreferrer'>Apple´s Tim Cook battle results</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 15:46 UTC</small><br><br>
+🔹 <a href='https://olimex.wordpress.com/2025/08/26/we-regret-but-have-to-temporary-suspend-the-shipments-to-usa/' target='_blank' rel='noopener noreferrer'>We regret but have to temporary suspend the shipments to USA</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 17:22 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-26 17:40:27 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-26 17:47:18 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
