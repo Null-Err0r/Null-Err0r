@@ -32,18 +32,18 @@
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://9to5google.com/2025/08/25/android-apps-developer-verification/' target='_blank' rel='noopener noreferrer'>Google to require developer verification to install and sideload Android apps</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 18:18 UTC</small><br><br>
 🔹 <a href='https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips' target='_blank' rel='noopener noreferrer'>Google's Liquid Cooling</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 17:57 UTC</small><br><br>
-🔹 <a href='https://bphilip.uk/blog/2025-08-25-the-cs2-server-browser-where-community-goes-to-die/' target='_blank' rel='noopener noreferrer'>Exploring the tragedy of the Counter-Strike 2 server browser</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 22:31 UTC</small><br><br>
-🔹 <a href='https://menial.co.uk/base/' target='_blank' rel='noopener noreferrer'>Show HN: Base, an SQLite database editor for macOS</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 14:17 UTC</small><br><br>
+🔹 <a href='https://newpublic.substack.com/p/how-blacksky-grew-to-millions-of' target='_blank' rel='noopener noreferrer'>Blacksky grew to millions of users without spending a dollar</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 20:47 UTC</small><br><br>
 🔹 <a href='https://nlp.seas.harvard.edu/annotated-transformer/' target='_blank' rel='noopener noreferrer'>The Annotated Transformer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 09:58 UTC</small><br><br>
-🔹 <a href='https://news.cuanschutz.edu/news-stories/study-finds-gaps-in-evidence-for-air-cleaning-technologies-designed-to-prevent-respiratory-infections' target='_blank' rel='noopener noreferrer'>Study finds gaps in evidence for air-cleaning technologies to prevent infections</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 20:19 UTC</small><br><br>
-🔹 <a href='https://newpublic.substack.com/p/how-blacksky-grew-to-millions-of' target='_blank' rel='noopener noreferrer'>Social media's next evolution: decentralized, open-source, and scalable</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 20:47 UTC</small><br><br>
+🔹 <a href='https://github.com/MaliosDark/wifi-3d-fusion' target='_blank' rel='noopener noreferrer'>WiFi-3D-Fusion – Real-time 3D motion sensing with Wi-Fi</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 23:26 UTC</small><br><br>
+🔹 <a href='https://menial.co.uk/base/' target='_blank' rel='noopener noreferrer'>Show HN: Base, an SQLite database editor for macOS</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 14:17 UTC</small><br><br>
 🔹 <a href='https://samwho.dev/big-o/' target='_blank' rel='noopener noreferrer'>A visual introduction to big O notation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 07:39 UTC</small><br><br>
-🔹 <a href='https://nathansnelgrove.com/2025/08/maid-in-canada' target='_blank' rel='noopener noreferrer'>MAID in Canada</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 00:31 UTC</small><br><br>
 🔹 <a href='https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons' target='_blank' rel='noopener noreferrer'>macOS 26 Tahoe's Dead Canary Utility App Icons</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 00:03 UTC</small><br><br>
+🔹 <a href='https://blog.rubygems.org/2025/08/25/rubygems-security-response.html' target='_blank' rel='noopener noreferrer'>How RubyGems.org protects OSS infrastructure</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 18:02 UTC</small><br><br>
+🔹 <a href='https://www.caseyliss.com/2025/8/15/a-rube-goldberg-camera' target='_blank' rel='noopener noreferrer'>Turning a Decommissioned iPhone into a UniFi Protect Camera</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 06:13 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-26 00:52:44 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-26 02:26:33 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
