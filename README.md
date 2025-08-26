@@ -33,17 +33,17 @@
 🔹 <a href='https://9to5google.com/2025/08/25/android-apps-developer-verification/' target='_blank' rel='noopener noreferrer'>Google will allow only apps from verified developers to be installed on Android</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 18:18 UTC</small><br><br>
 🔹 <a href='https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/' target='_blank' rel='noopener noreferrer'>Do I not like Ruby anymore? (2024)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 07:00 UTC</small><br><br>
 🔹 <a href='https://waxy.org/2025/08/will-smiths-concert-crowds-were-real-but-ai-is-blurring-the-lines/' target='_blank' rel='noopener noreferrer'>Will Smith's concert crowds are real, but AI is blurring the lines</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 04:11 UTC</small><br><br>
-🔹 <a href='https://weblog.rogueamoeba.com/2025/08/21/when-a-bug-saved-the-company/' target='_blank' rel='noopener noreferrer'>A bug saved the company</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 09:55 UTC</small><br><br>
 🔹 <a href='https://becca.ooo/blog/macos-dotfiles/' target='_blank' rel='noopener noreferrer'>macOS dotfiles should not go in –/Library/Application Support</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 04:49 UTC</small><br><br>
-🔹 <a href='https://github.com/pandax381/xv6-riscv-net' target='_blank' rel='noopener noreferrer'>Show HN: I integrated my from-scratch TCP/IP stack into the xv6-riscv OS</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 06:24 UTC</small><br><br>
+🔹 <a href='https://weblog.rogueamoeba.com/2025/08/21/when-a-bug-saved-the-company/' target='_blank' rel='noopener noreferrer'>A bug saved the company</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 09:55 UTC</small><br><br>
 🔹 <a href='https://www.intofarlands.com/map-of-pauls-journeys' target='_blank' rel='noopener noreferrer'>Interactive Map of Paul's First Century Travels in Roman World</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 06:42 UTC</small><br><br>
+🔹 <a href='https://github.com/pandax381/xv6-riscv-net' target='_blank' rel='noopener noreferrer'>Show HN: I integrated my from-scratch TCP/IP stack into the xv6-riscv OS</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 06:24 UTC</small><br><br>
 🔹 <a href='https://scottstuff.net/posts/2025/05/19/ntp-limits/' target='_blank' rel='noopener noreferrer'>The Limits of NTP Accuracy on Linux</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 01:02 UTC</small><br><br>
 🔹 <a href='https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips' target='_blank' rel='noopener noreferrer'>Google's Liquid Cooling</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 17:57 UTC</small><br><br>
 🔹 <a href='https://legallyblindbirding.net/2023/10/13/frequency-dependence-of-parabolic-microphone-gain/' target='_blank' rel='noopener noreferrer'>The Physics of Parabolic Microphones: Frequency Dependence of Gain</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 09:42 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-26 09:12:20 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-26 09:33:31 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
