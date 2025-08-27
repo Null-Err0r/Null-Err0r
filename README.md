@@ -32,18 +32,18 @@
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c' target='_blank' rel='noopener noreferrer'>Malicious versions of Nx and some supporting plugins were published</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 01:38 UTC</small><br><br>
 🔹 <a href='https://www.thedrive.com/news/toyota-is-recycling-old-ev-batteries-to-help-power-mazdas-production-line' target='_blank' rel='noopener noreferrer'>Toyota is recycling old EV batteries to help power Mazda's production line</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 18:29 UTC</small><br><br>
-🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Bitrig (YC S25) – Build Swift apps on your iPhone</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 15:39 UTC</small><br><br>
-🔹 <a href='https://github.com/renzorlive/vimmaster' target='_blank' rel='noopener noreferrer'>VIM Master</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 15:50 UTC</small><br><br>
-🔹 <a href='https://www.cbc.ca/news/science/bloodsuckers-1.5361074' target='_blank' rel='noopener noreferrer'>You shouldn't salt a leech that's sucking your blood (2019)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 03:12 UTC</small><br><br>
-🔹 <a href='https://www.nordbayern.de/news-in-english/paypal-security-systems-down-german-banks-block-payments-in-the-billions-1.14811187' target='_blank' rel='noopener noreferrer'>A failure of security systems at PayPal is causing concern for German banks</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 17:28 UTC</small><br><br>
-🔹 <a href='https://lubeno.dev/blog/rusts-productivity-curve' target='_blank' rel='noopener noreferrer'>Unexpected productivity boost of Rust</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 15:48 UTC</small><br><br>
-🔹 <a href='https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html' target='_blank' rel='noopener noreferrer'>Google has eliminated 35% of managers overseeing small teams in past year</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 21:16 UTC</small><br><br>
+🔹 <a href='https://news.fsu.edu/news/education-society/2025/08/26/on-screen-and-now-irl-fsu-researchers-find-evidence-suggesting-chatgpt-influences-how-we-speak/' target='_blank' rel='noopener noreferrer'>Researchers find evidence of ChatGPT buzzwords turning up in everyday speech</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 21:27 UTC</small><br><br>
 🔹 <a href='https://yamanot.es/' target='_blank' rel='noopener noreferrer'>Yamanot.es: A music box of train station melodies from the JR Yamanote Line</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 21:08 UTC</small><br><br>
-🔹 <a href='https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev' target='_blank' rel='noopener noreferrer'>Object-oriented design patterns in C and kernel development</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 08:34 UTC</small><br><br>
+🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Bitrig (YC S25) – Build Swift apps on your iPhone</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 15:39 UTC</small><br><br>
+🔹 <a href='https://lubeno.dev/blog/rusts-productivity-curve' target='_blank' rel='noopener noreferrer'>Unexpected productivity boost of Rust</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 15:48 UTC</small><br><br>
+🔹 <a href='https://www.nordbayern.de/news-in-english/paypal-security-systems-down-german-banks-block-payments-in-the-billions-1.14811187' target='_blank' rel='noopener noreferrer'>A failure of security systems at PayPal is causing concern for German banks</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 17:28 UTC</small><br><br>
+🔹 <a href='https://github.com/renzorlive/vimmaster' target='_blank' rel='noopener noreferrer'>VIM Master</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 15:50 UTC</small><br><br>
+🔹 <a href='https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html' target='_blank' rel='noopener noreferrer'>Google has eliminated 35% of managers overseeing small teams in past year</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 21:16 UTC</small><br><br>
+🔹 <a href='https://www.cbc.ca/news/science/bloodsuckers-1.5361074' target='_blank' rel='noopener noreferrer'>You shouldn't salt a leech that's sucking your blood (2019)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 03:12 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 22:09:55 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 22:29:28 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
