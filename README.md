@@ -38,12 +38,12 @@
 🔹 <a href='https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/' target='_blank' rel='noopener noreferrer'>Gemini 2.5 Flash Image</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 14:01 UTC</small><br><br>
 🔹 <a href='https://rosenzweig.io/blog/asahi-gpu-part-n.html' target='_blank' rel='noopener noreferrer'>Dissecting the Apple M1 GPU, the end</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 01:44 UTC</small><br><br>
 🔹 <a href='https://gizmodo.com/birds-across-the-world-are-singing-all-day-for-a-disturbing-reason-2000646257' target='_blank' rel='noopener noreferrer'>Light pollution prolongs avian activity</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 13:32 UTC</small><br><br>
-🔹 <a href='https://www.bbc.com/news/articles/c0j9l08902eo' target='_blank' rel='noopener noreferrer'>Denmark summons top US diplomat over alleged Greenland influence operation</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 08:41 UTC</small><br><br>
 🔹 <a href='https://artanis.dev/index.html' target='_blank' rel='noopener noreferrer'>GNU Artanis – A fast web application framework for Scheme</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 20:06 UTC</small><br><br>
+🔹 <a href='https://www.livescience.com/space/space-exploration/chinese-astronauts-make-rocket-fuel-and-oxygen-in-space-using-1st-of-its-kind-artificial-photosynthesis' target='_blank' rel='noopener noreferrer'>Chinese astronauts make rocket fuel and oxygen in space</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 17:54 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 10:11:26 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 10:32:55 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
