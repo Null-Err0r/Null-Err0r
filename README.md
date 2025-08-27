@@ -37,13 +37,13 @@
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Bitrig (YC S25) – Build Swift apps on your iPhone</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 15:39 UTC</small><br><br>
 🔹 <a href='https://jero.zone/posts/cbr-building' target='_blank' rel='noopener noreferrer'>3D printing a building with 756 windows</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 22:31 UTC</small><br><br>
 🔹 <a href='https://lubeno.dev/blog/rusts-productivity-curve' target='_blank' rel='noopener noreferrer'>Unexpected productivity boost of Rust</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 15:48 UTC</small><br><br>
-🔹 <a href='https://www.nordbayern.de/news-in-english/paypal-security-systems-down-german-banks-block-payments-in-the-billions-1.14811187' target='_blank' rel='noopener noreferrer'>A failure of security systems at PayPal is causing concern for German banks</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 17:28 UTC</small><br><br>
+🔹 <a href='https://github.com/polaroi8d/cactoide' target='_blank' rel='noopener noreferrer'>Show HN: Meetup.com and eventribe alternative to small groups</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 20:53 UTC</small><br><br>
 🔹 <a href='https://github.com/renzorlive/vimmaster' target='_blank' rel='noopener noreferrer'>VIM Master</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 15:50 UTC</small><br><br>
-🔹 <a href='https://news.fsu.edu/news/education-society/2025/08/26/on-screen-and-now-irl-fsu-researchers-find-evidence-suggesting-chatgpt-influences-how-we-speak/' target='_blank' rel='noopener noreferrer'>Researchers find evidence of ChatGPT buzzwords turning up in everyday speech</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 21:27 UTC</small><br><br>
+🔹 <a href='https://www.nordbayern.de/news-in-english/paypal-security-systems-down-german-banks-block-payments-in-the-billions-1.14811187' target='_blank' rel='noopener noreferrer'>A failure of security systems at PayPal is causing concern for German banks</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 17:28 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 23:10:11 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 23:25:28 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
