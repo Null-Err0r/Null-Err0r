@@ -35,15 +35,15 @@
 🔹 <a href='https://www.thedrive.com/news/toyota-is-recycling-old-ev-batteries-to-help-power-mazdas-production-line' target='_blank' rel='noopener noreferrer'>Toyota is recycling old EV batteries to help power Mazda's production line</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 18:29 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Bitrig (YC S25) – Build Swift apps on your iPhone</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 15:39 UTC</small><br><br>
 🔹 <a href='https://www.quantamagazine.org/astrophysicists-find-no-hair-on-black-holes-20250827/' target='_blank' rel='noopener noreferrer'>Astrophysicists find no 'hair' on black holes</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 17:40 UTC</small><br><br>
-🔹 <a href='https://lubeno.dev/blog/rusts-productivity-curve' target='_blank' rel='noopener noreferrer'>Unexpected productivity boost of Rust</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 15:48 UTC</small><br><br>
-🔹 <a href='https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev' target='_blank' rel='noopener noreferrer'>Object-oriented design patterns in C and kernel development</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 08:34 UTC</small><br><br>
 🔹 <a href='https://gmplib.org/gmp-zen5' target='_blank' rel='noopener noreferrer'>GMP damaging Zen 5 CPUs?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 16:24 UTC</small><br><br>
-🔹 <a href='https://www.ycombinator.com/companies/lago/jobs' target='_blank' rel='noopener noreferrer'>Lago – Open-Source Usage Based Billing – Is Hiring in Sales, Eng, Ops (EU, US)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 17:01 UTC</small><br><br>
+🔹 <a href='https://github.com/antirez/sds' target='_blank' rel='noopener noreferrer'>Antirez/sds: Simple Dynamic Strings library for C</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 15:27 UTC</small><br><br>
+🔹 <a href='https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev' target='_blank' rel='noopener noreferrer'>Object-oriented design patterns in C and kernel development</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 08:34 UTC</small><br><br>
 🔹 <a href='https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/' target='_blank' rel='noopener noreferrer'>Implementing Forth in Go and C</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 13:19 UTC</small><br><br>
+🔹 <a href='https://www.ycombinator.com/companies/lago/jobs' target='_blank' rel='noopener noreferrer'>Lago – Open-Source Usage Based Billing – Is Hiring in Sales, Eng, Ops (EU, US)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 17:01 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 18:39:09 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 18:51:33 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
