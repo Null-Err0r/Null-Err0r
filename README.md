@@ -39,11 +39,11 @@
 🔹 <a href='https://lubeno.dev/blog/rusts-productivity-curve' target='_blank' rel='noopener noreferrer'>Unexpected productivity boost of Rust</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 15:48 UTC</small><br><br>
 🔹 <a href='https://www.nordbayern.de/news-in-english/paypal-security-systems-down-german-banks-block-payments-in-the-billions-1.14811187' target='_blank' rel='noopener noreferrer'>A failure of security systems at PayPal is causing concern for German banks</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 17:28 UTC</small><br><br>
 🔹 <a href='https://github.com/renzorlive/vimmaster' target='_blank' rel='noopener noreferrer'>VIM Master</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 15:50 UTC</small><br><br>
-🔹 <a href='https://www.cbc.ca/news/science/bloodsuckers-1.5361074' target='_blank' rel='noopener noreferrer'>You shouldn't salt a leech that's sucking your blood (2019)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 03:12 UTC</small><br><br>
+🔹 <a href='https://jero.zone/posts/cbr-building' target='_blank' rel='noopener noreferrer'>3D printing a building with 756 windows</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 22:31 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 22:40:22 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 22:47:13 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
