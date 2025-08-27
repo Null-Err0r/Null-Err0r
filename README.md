@@ -30,20 +30,20 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://monodraw.helftone.com/' target='_blank' rel='noopener noreferrer'>Monodraw</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 10:54 UTC</small><br><br>
 🔹 <a href='https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/' target='_blank' rel='noopener noreferrer'>Nx compromised: malware uses Claude code CLI to explore the filesystem</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 12:18 UTC</small><br><br>
+🔹 <a href='https://monodraw.helftone.com/' target='_blank' rel='noopener noreferrer'>Monodraw</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 10:54 UTC</small><br><br>
 🔹 <a href='https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev' target='_blank' rel='noopener noreferrer'>Object-oriented design patterns in C and kernel development</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 08:34 UTC</small><br><br>
-🔹 <a href='https://github.com/orgs/community/discussions/170758' target='_blank' rel='noopener noreferrer'>The GitHub website is slow on Safari</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 09:43 UTC</small><br><br>
-🔹 <a href='https://thedailywtf.com/articles/the-therac-25-incident' target='_blank' rel='noopener noreferrer'>The Therac-25 Incident (2021)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 06:57 UTC</small><br><br>
 🔹 <a href='https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/' target='_blank' rel='noopener noreferrer'>Implementing Forth in Go and C</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 13:19 UTC</small><br><br>
+🔹 <a href='https://thedailywtf.com/articles/the-therac-25-incident' target='_blank' rel='noopener noreferrer'>The Therac-25 Incident (2021)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 06:57 UTC</small><br><br>
+🔹 <a href='https://www.space.com/space-exploration/private-spaceflight/spacex-launches-starship-flight-10-critical-test-flight-video' target='_blank' rel='noopener noreferrer'>SpaceX's giant Starship Mars rocket nails critical 10th test flight</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 13:01 UTC</small><br><br>
 🔹 <a href='https://stefan-marr.de/2025/08/how-to-slow-down-a-program/' target='_blank' rel='noopener noreferrer'>Slowing down programs is surprisingly useful</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 11:38 UTC</small><br><br>
-🔹 <a href='https://learndelphi.org/delphi-ai-ultimate-guide/' target='_blank' rel='noopener noreferrer'>Delphi in the Age of AI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 14:54 UTC</small><br><br>
+🔹 <a href='https://github.com/orgs/community/discussions/170758' target='_blank' rel='noopener noreferrer'>The GitHub website is slow on Safari</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 09:43 UTC</small><br><br>
 🔹 <a href='https://docs.weblibre.eu/' target='_blank' rel='noopener noreferrer'>WebLibre: The Privacy-Focused Browser</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 08:38 UTC</small><br><br>
 🔹 <a href='https://www.ycombinator.com/companies/ember/jobs/OTB0qby-full-stack-engineering-intern-summer-2026' target='_blank' rel='noopener noreferrer'>Ember (YC F24) Is Hiring Full Stack Engineer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 12:00 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 13:49:25 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 14:10:38 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
