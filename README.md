@@ -33,17 +33,17 @@
 🔹 <a href='https://www.anthropic.com/news/claude-for-chrome' target='_blank' rel='noopener noreferrer'>Claude for Chrome</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 19:01 UTC</small><br><br>
 🔹 <a href='https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/' target='_blank' rel='noopener noreferrer'>Gemini 2.5 Flash Image</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 14:01 UTC</small><br><br>
 🔹 <a href='https://rosenzweig.io/blog/asahi-gpu-part-n.html' target='_blank' rel='noopener noreferrer'>Dissecting the Apple M1 GPU, the end</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 01:44 UTC</small><br><br>
-🔹 <a href='https://github.com/JakeRoggenbuck/regolith' target='_blank' rel='noopener noreferrer'>Show HN: Regolith – Regex library that prevents ReDoS CVEs in TypeScript</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 02:54 UTC</small><br><br>
 🔹 <a href='https://artanis.dev/index.html' target='_blank' rel='noopener noreferrer'>GNU Artanis – A fast web application framework for Scheme</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 20:06 UTC</small><br><br>
-🔹 <a href='https://swaits.com/game-theory-at-work-and-when-to-shutup/' target='_blank' rel='noopener noreferrer'>Game theory at work: When to talk and when to shut up (2024)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 01:10 UTC</small><br><br>
+🔹 <a href='https://github.com/JakeRoggenbuck/regolith' target='_blank' rel='noopener noreferrer'>Show HN: Regolith – Regex library that prevents ReDoS CVEs in TypeScript</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 02:54 UTC</small><br><br>
 🔹 <a href='https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/' target='_blank' rel='noopener noreferrer'>Rv, a new kind of Ruby management tool</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 08:15 UTC</small><br><br>
 🔹 <a href='https://www.livescience.com/space/space-exploration/chinese-astronauts-make-rocket-fuel-and-oxygen-in-space-using-1st-of-its-kind-artificial-photosynthesis' target='_blank' rel='noopener noreferrer'>Chinese astronauts make rocket fuel and oxygen in space</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 17:54 UTC</small><br><br>
 🔹 <a href='https://www.bmj.com/content/384/bmj-2023-076902' target='_blank' rel='noopener noreferrer'>Undisclosed financial conflicts of interest in DSM-5 (2024)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 16:57 UTC</small><br><br>
 🔹 <a href='https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all' target='_blank' rel='noopener noreferrer'>One universal antiviral to rule them all?</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 14:07 UTC</small><br><br>
+🔹 <a href='https://fortune.com/2025/08/23/neuralink-participant-1-noland-arbaugh-18-months-post-surgery-life-changed-elon-musk/' target='_blank' rel='noopener noreferrer'>Neuralink 'Participant 1' says his life has changed</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 09:12 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 03:43:10 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 03:53:34 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
