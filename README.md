@@ -30,8 +30,8 @@
 ### 📰 Hacker News (Every 15 minutes)
 
 <!-- HACKER_NEWS_START -->
-🔹 <a href='https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c' target='_blank' rel='noopener noreferrer'>Malicious versions of Nx and some supporting plugins were published</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 01:38 UTC</small><br><br>
 🔹 <a href='https://yamanot.es/' target='_blank' rel='noopener noreferrer'>Yamanot.es: A music box of train station melodies from the JR Yamanote Line</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 21:08 UTC</small><br><br>
+🔹 <a href='https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c' target='_blank' rel='noopener noreferrer'>Malicious versions of Nx and some supporting plugins were published</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 01:38 UTC</small><br><br>
 🔹 <a href='https://www.thedrive.com/news/toyota-is-recycling-old-ev-batteries-to-help-power-mazdas-production-line' target='_blank' rel='noopener noreferrer'>Toyota is recycling old EV batteries to help power Mazda's production line</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 18:29 UTC</small><br><br>
 🔹 <a href='https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html' target='_blank' rel='noopener noreferrer'>Google has eliminated 35% of managers overseeing small teams in past year</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 21:16 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Bitrig (YC S25) – Build Swift apps on your iPhone</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 15:39 UTC</small><br><br>
@@ -43,7 +43,7 @@
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 23:25:28 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 23:33:39 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
