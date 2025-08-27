@@ -31,19 +31,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/' target='_blank' rel='noopener noreferrer'>Nx compromised: malware uses Claude code CLI to explore the filesystem</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 12:18 UTC</small><br><br>
-🔹 <a href='https://mcp-install-instructions.alpic.cloud/servers/kiwi-com-flight-search' target='_blank' rel='noopener noreferrer'>Kiwi.com releases the first commercial Flight Search MCP server</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 15:56 UTC</small><br><br>
 🔹 <a href='https://monodraw.helftone.com/' target='_blank' rel='noopener noreferrer'>Monodraw</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 10:54 UTC</small><br><br>
-🔹 <a href='https://lubeno.dev/blog/rusts-productivity-curve' target='_blank' rel='noopener noreferrer'>The unexpected productivity boost of Rust</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 15:48 UTC</small><br><br>
 🔹 <a href='https://github.com/renzorlive/vimmaster' target='_blank' rel='noopener noreferrer'>VIMMaster</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 15:50 UTC</small><br><br>
+🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Bitrig (YC S25) – Build Swift Apps on Your iPhone</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 15:39 UTC</small><br><br>
 🔹 <a href='https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev' target='_blank' rel='noopener noreferrer'>Object-oriented design patterns in C and kernel development</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 08:34 UTC</small><br><br>
+🔹 <a href='https://www.ycombinator.com/companies/lago/jobs' target='_blank' rel='noopener noreferrer'>Lago – Open-Source Usage Based Billing – Is Hiring in Sales, Eng, Ops (EU, US)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 17:01 UTC</small><br><br>
+🔹 <a href='https://everything.typepad.com/blog/2025/08/typepad-is-shutting-down.html' target='_blank' rel='noopener noreferrer'>Typepad Is Shutting Down</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 16:28 UTC</small><br><br>
 🔹 <a href='https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/' target='_blank' rel='noopener noreferrer'>Implementing Forth in Go and C</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 13:19 UTC</small><br><br>
 🔹 <a href='https://asciiflow.com/' target='_blank' rel='noopener noreferrer'>ASCIIFlow</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 12:10 UTC</small><br><br>
 🔹 <a href='https://thedailywtf.com/articles/the-therac-25-incident' target='_blank' rel='noopener noreferrer'>The Therac-25 Incident (2021)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 06:57 UTC</small><br><br>
-🔹 <a href='https://www.cloudlife.io/resources/infrastructure-delivery-with-system-initiative' target='_blank' rel='noopener noreferrer'>We Rebuilt Cloud Life's Infrastructure Delivery with System Initiative</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 15:18 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 16:52:03 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 17:09:18 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
