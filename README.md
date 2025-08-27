@@ -38,12 +38,12 @@
 🔹 <a href='https://electrek.co/2025/08/25/scientist-exposes-anti-wind-groups-as-oil-funded-now-they-want-to-silence-him/' target='_blank' rel='noopener noreferrer'>Scientist exposes anti-wind groups as oil-funded. Now they want to silence him</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 06:49 UTC</small><br><br>
 🔹 <a href='https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/' target='_blank' rel='noopener noreferrer'>Gemini 2.5 Flash Image</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 14:01 UTC</small><br><br>
 🔹 <a href='https://rosenzweig.io/blog/asahi-gpu-part-n.html' target='_blank' rel='noopener noreferrer'>Dissecting the Apple M1 GPU, the end</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 01:44 UTC</small><br><br>
-🔹 <a href='https://gizmodo.com/birds-across-the-world-are-singing-all-day-for-a-disturbing-reason-2000646257' target='_blank' rel='noopener noreferrer'>Light pollution prolongs avian activity</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 13:32 UTC</small><br><br>
-🔹 <a href='https://github.com/adamhl8/filterql' target='_blank' rel='noopener noreferrer'>Show HN: FilterQL – A tiny query language for filtering structured data</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 18:55 UTC</small><br><br>
+🔹 <a href='https://blog.ericgoldman.org/archives/2025/08/internet-access-providers-arent-bound-by-dmca-unmasking-subpoenas-in-re-cox.htm' target='_blank' rel='noopener noreferrer'>Internet Access Providers Aren't Bound by DMCA Unmasking Subpoenas–In Re Cox</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 19:20 UTC</small><br><br>
+🔹 <a href='https://www.ghacks.net/2025/08/27/your-word-documents-will-be-saved-to-the-cloud-automatically-on-windows-going-forward/' target='_blank' rel='noopener noreferrer'>Word documents will be saved to the cloud automatically on Windows going forward</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 10:19 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 11:32:50 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 11:46:57 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
