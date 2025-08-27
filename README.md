@@ -33,8 +33,8 @@
 🔹 <a href='https://thedailywtf.com/articles/the-therac-25-incident' target='_blank' rel='noopener noreferrer'>The Therac-25 Incident</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 06:57 UTC</small><br><br>
 🔹 <a href='https://docs.weblibre.eu/' target='_blank' rel='noopener noreferrer'>WebLibre: The Privacy-Focused Browser</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 08:38 UTC</small><br><br>
 🔹 <a href='https://www.anthropic.com/news/claude-for-chrome' target='_blank' rel='noopener noreferrer'>Claude for Chrome</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 19:01 UTC</small><br><br>
-🔹 <a href='https://www.mdubakov.me/malleable-software-will-eat-the-saas-world/' target='_blank' rel='noopener noreferrer'>Malleable Software Will Eat the SaaS World</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 08:04 UTC</small><br><br>
 🔹 <a href='https://electrek.co/2025/08/25/scientist-exposes-anti-wind-groups-as-oil-funded-now-they-want-to-silence-him/' target='_blank' rel='noopener noreferrer'>Scientist exposes anti-wind groups as oil-funded. Now they want to silence him</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 06:49 UTC</small><br><br>
+🔹 <a href='https://www.mdubakov.me/malleable-software-will-eat-the-saas-world/' target='_blank' rel='noopener noreferrer'>Malleable Software Will Eat the SaaS World</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 08:04 UTC</small><br><br>
 🔹 <a href='https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/' target='_blank' rel='noopener noreferrer'>Gemini 2.5 Flash Image</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 14:01 UTC</small><br><br>
 🔹 <a href='https://rosenzweig.io/blog/asahi-gpu-part-n.html' target='_blank' rel='noopener noreferrer'>Dissecting the Apple M1 GPU, the end</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 01:44 UTC</small><br><br>
 🔹 <a href='https://gizmodo.com/birds-across-the-world-are-singing-all-day-for-a-disturbing-reason-2000646257' target='_blank' rel='noopener noreferrer'>Light pollution prolongs avian activity</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 13:32 UTC</small><br><br>
@@ -43,7 +43,7 @@
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 10:32:55 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 10:48:17 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
