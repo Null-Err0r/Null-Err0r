@@ -39,11 +39,11 @@
 🔹 <a href='https://stefan-marr.de/2025/08/how-to-slow-down-a-program/' target='_blank' rel='noopener noreferrer'>Slowing down programs is surprisingly useful</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 11:38 UTC</small><br><br>
 🔹 <a href='https://asciiflow.com/' target='_blank' rel='noopener noreferrer'>ASCIIFlow</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 12:10 UTC</small><br><br>
 🔹 <a href='https://docs.weblibre.eu/' target='_blank' rel='noopener noreferrer'>WebLibre: The Privacy-Focused Browser</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 08:38 UTC</small><br><br>
-🔹 <a href='https://github.com/orgs/community/discussions/170758' target='_blank' rel='noopener noreferrer'>The GitHub website is slow on Safari</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 09:43 UTC</small><br><br>
+🔹 <a href='https://learndelphi.org/delphi-ai-ultimate-guide/' target='_blank' rel='noopener noreferrer'>Delphi in the Age of AI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 14:54 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 14:31:47 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 14:49:01 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
