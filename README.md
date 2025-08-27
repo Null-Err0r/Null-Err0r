@@ -31,19 +31,19 @@
 
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://monodraw.helftone.com/' target='_blank' rel='noopener noreferrer'>Monodraw</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 10:54 UTC</small><br><br>
-🔹 <a href='https://thedailywtf.com/articles/the-therac-25-incident' target='_blank' rel='noopener noreferrer'>The Therac-25 Incident</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 06:57 UTC</small><br><br>
+🔹 <a href='https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/' target='_blank' rel='noopener noreferrer'>Nx compromised: malware uses Claude code CLI to explore the filesystem</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 12:18 UTC</small><br><br>
+🔹 <a href='https://thedailywtf.com/articles/the-therac-25-incident' target='_blank' rel='noopener noreferrer'>The Therac-25 Incident (2021)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 06:57 UTC</small><br><br>
+🔹 <a href='https://stefan-marr.de/2025/08/how-to-slow-down-a-program/' target='_blank' rel='noopener noreferrer'>Slowing down programs is surprisingly useful</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 11:38 UTC</small><br><br>
+🔹 <a href='https://learndelphi.org/delphi-ai-ultimate-guide/' target='_blank' rel='noopener noreferrer'>Delphi in the Age of AI</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 14:54 UTC</small><br><br>
+🔹 <a href='https://github.com/orgs/community/discussions/170758' target='_blank' rel='noopener noreferrer'>The GitHub website is slow on Safari</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 09:43 UTC</small><br><br>
 🔹 <a href='https://docs.weblibre.eu/' target='_blank' rel='noopener noreferrer'>WebLibre: The Privacy-Focused Browser</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 08:38 UTC</small><br><br>
-🔹 <a href='https://wiki.qemu.org/ChangeLog/10.1' target='_blank' rel='noopener noreferrer'>QEMU 10.1.0</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 11:02 UTC</small><br><br>
-🔹 <a href='https://www.cnn.com/2025/08/27/us/alaska-f-35-crash-accident-report-hnk-ml' target='_blank' rel='noopener noreferrer'>F-35 pilot held 50-minute airborne conference call with engineers before crash</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 11:38 UTC</small><br><br>
-🔹 <a href='https://www.anthropic.com/news/claude-for-chrome' target='_blank' rel='noopener noreferrer'>Claude for Chrome</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 19:01 UTC</small><br><br>
 🔹 <a href='https://www.ycombinator.com/companies/ember/jobs/OTB0qby-full-stack-engineering-intern-summer-2026' target='_blank' rel='noopener noreferrer'>Ember (YC F24) Is Hiring Full Stack Engineer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 12:00 UTC</small><br><br>
-🔹 <a href='https://electrek.co/2025/08/25/scientist-exposes-anti-wind-groups-as-oil-funded-now-they-want-to-silence-him/' target='_blank' rel='noopener noreferrer'>Scientist exposes anti-wind groups as oil-funded. Now they want to silence him</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 06:49 UTC</small><br><br>
-🔹 <a href='https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/' target='_blank' rel='noopener noreferrer'>Gemini 2.5 Flash Image</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 14:01 UTC</small><br><br>
-🔹 <a href='https://www.ghacks.net/2025/08/27/your-word-documents-will-be-saved-to-the-cloud-automatically-on-windows-going-forward/' target='_blank' rel='noopener noreferrer'>Word documents will be saved to the cloud automatically on Windows going forward</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 10:19 UTC</small><br><br>
+🔹 <a href='https://wiki.qemu.org/ChangeLog/10.1' target='_blank' rel='noopener noreferrer'>QEMU 10.1.0</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 11:02 UTC</small><br><br>
+🔹 <a href='https://old.reddit.com/r/whiteoutsurvival/comments/1hki2e9/i_spent_over_31900_on_whiteout_survivalheres_why/' target='_blank' rel='noopener noreferrer'>I spent over $31k on Whiteout Survival</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 12:34 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 12:20:36 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 13:01:59 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
