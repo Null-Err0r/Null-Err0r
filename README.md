@@ -39,11 +39,11 @@
 🔹 <a href='https://stefan-marr.de/2025/08/how-to-slow-down-a-program/' target='_blank' rel='noopener noreferrer'>Slowing down programs is surprisingly useful</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 11:38 UTC</small><br><br>
 🔹 <a href='https://www.space.com/space-exploration/private-spaceflight/spacex-launches-starship-flight-10-critical-test-flight-video' target='_blank' rel='noopener noreferrer'>SpaceX's giant Starship Mars rocket nails critical 10th test flight</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 13:01 UTC</small><br><br>
 🔹 <a href='https://www.asimov.press/p/sewers' target='_blank' rel='noopener noreferrer'>What We Find in the Sewers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 13:50 UTC</small><br><br>
-🔹 <a href='https://github.com/orgs/community/discussions/170758' target='_blank' rel='noopener noreferrer'>The GitHub website is slow on Safari</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 09:43 UTC</small><br><br>
+🔹 <a href='https://www.anthropic.com/news/claude-for-chrome' target='_blank' rel='noopener noreferrer'>Claude for Chrome</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 19:01 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 15:30:49 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 15:47:41 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
