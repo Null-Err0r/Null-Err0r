@@ -33,17 +33,17 @@
 🔹 <a href='https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/' target='_blank' rel='noopener noreferrer'>Nx compromised: malware uses Claude code CLI to explore the filesystem</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 12:18 UTC</small><br><br>
 🔹 <a href='https://monodraw.helftone.com/' target='_blank' rel='noopener noreferrer'>Monodraw</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 10:54 UTC</small><br><br>
 🔹 <a href='https://everything.typepad.com/blog/2025/08/typepad-is-shutting-down.html' target='_blank' rel='noopener noreferrer'>Typepad Is Shutting Down</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 16:28 UTC</small><br><br>
+🔹 <a href='https://www.thedrive.com/news/toyota-is-recycling-old-ev-batteries-to-help-power-mazdas-production-line' target='_blank' rel='noopener noreferrer'>Toyota Is Recycling Old EV Batteries to Help Power Mazda's Production Line</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 18:29 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Bitrig (YC S25) – Build Swift apps on your iPhone</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 15:39 UTC</small><br><br>
 🔹 <a href='https://github.com/renzorlive/vimmaster' target='_blank' rel='noopener noreferrer'>VIMMaster</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 15:50 UTC</small><br><br>
-🔹 <a href='https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev' target='_blank' rel='noopener noreferrer'>Object-oriented design patterns in C and kernel development</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 08:34 UTC</small><br><br>
 🔹 <a href='https://www.ycombinator.com/companies/lago/jobs' target='_blank' rel='noopener noreferrer'>Lago – Open-Source Usage Based Billing – Is Hiring in Sales, Eng, Ops (EU, US)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 17:01 UTC</small><br><br>
-🔹 <a href='https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/' target='_blank' rel='noopener noreferrer'>Implementing Forth in Go and C</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 13:19 UTC</small><br><br>
+🔹 <a href='https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev' target='_blank' rel='noopener noreferrer'>Object-oriented design patterns in C and kernel development</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 08:34 UTC</small><br><br>
 🔹 <a href='https://asciiflow.com/' target='_blank' rel='noopener noreferrer'>ASCIIFlow</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 12:10 UTC</small><br><br>
-🔹 <a href='https://thedailywtf.com/articles/the-therac-25-incident' target='_blank' rel='noopener noreferrer'>The Therac-25 Incident (2021)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 06:57 UTC</small><br><br>
+🔹 <a href='https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/' target='_blank' rel='noopener noreferrer'>Implementing Forth in Go and C</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 13:19 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 17:28:25 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 17:39:11 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
