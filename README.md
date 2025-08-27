@@ -32,18 +32,18 @@
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/' target='_blank' rel='noopener noreferrer'>Nx compromised: malware uses Claude code CLI to explore the filesystem</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 12:18 UTC</small><br><br>
 🔹 <a href='https://monodraw.helftone.com/' target='_blank' rel='noopener noreferrer'>Monodraw</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 10:54 UTC</small><br><br>
+🔹 <a href='https://mcp-install-instructions.alpic.cloud/servers/kiwi-com-flight-search' target='_blank' rel='noopener noreferrer'>Kiwi.com releases the first commercial Flight Search MCP server</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 15:56 UTC</small><br><br>
 🔹 <a href='https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev' target='_blank' rel='noopener noreferrer'>Object-oriented design patterns in C and kernel development</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 08:34 UTC</small><br><br>
 🔹 <a href='https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/' target='_blank' rel='noopener noreferrer'>Implementing Forth in Go and C</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 13:19 UTC</small><br><br>
-🔹 <a href='https://thedailywtf.com/articles/the-therac-25-incident' target='_blank' rel='noopener noreferrer'>The Therac-25 Incident (2021)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 06:57 UTC</small><br><br>
 🔹 <a href='https://asciiflow.com/' target='_blank' rel='noopener noreferrer'>ASCIIFlow</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 12:10 UTC</small><br><br>
+🔹 <a href='https://thedailywtf.com/articles/the-therac-25-incident' target='_blank' rel='noopener noreferrer'>The Therac-25 Incident (2021)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 06:57 UTC</small><br><br>
 🔹 <a href='https://stefan-marr.de/2025/08/how-to-slow-down-a-program/' target='_blank' rel='noopener noreferrer'>Slowing down programs is surprisingly useful</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 11:38 UTC</small><br><br>
-🔹 <a href='https://www.space.com/space-exploration/private-spaceflight/spacex-launches-starship-flight-10-critical-test-flight-video' target='_blank' rel='noopener noreferrer'>SpaceX's giant Starship Mars rocket nails critical 10th test flight</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 13:01 UTC</small><br><br>
 🔹 <a href='https://www.asimov.press/p/sewers' target='_blank' rel='noopener noreferrer'>What We Find in the Sewers</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 13:50 UTC</small><br><br>
-🔹 <a href='https://www.anthropic.com/news/claude-for-chrome' target='_blank' rel='noopener noreferrer'>Claude for Chrome</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-26 19:01 UTC</small><br><br>
+🔹 <a href='https://torrentfreak.com/apple-revokes-eu-distribution-rights-for-torrent-client-developer-left-in-the-dark/' target='_blank' rel='noopener noreferrer'>Apple Revokes EU Distribution Rights for an App on the Alt Store</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 14:15 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 15:47:41 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 16:13:21 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
