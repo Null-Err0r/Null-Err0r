@@ -37,13 +37,13 @@
 🔹 <a href='https://thedailywtf.com/articles/the-therac-25-incident' target='_blank' rel='noopener noreferrer'>The Therac-25 Incident (2021)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 06:57 UTC</small><br><br>
 🔹 <a href='https://www.space.com/space-exploration/private-spaceflight/spacex-launches-starship-flight-10-critical-test-flight-video' target='_blank' rel='noopener noreferrer'>SpaceX's giant Starship Mars rocket nails critical 10th test flight</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 13:01 UTC</small><br><br>
 🔹 <a href='https://stefan-marr.de/2025/08/how-to-slow-down-a-program/' target='_blank' rel='noopener noreferrer'>Slowing down programs is surprisingly useful</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 11:38 UTC</small><br><br>
-🔹 <a href='https://github.com/orgs/community/discussions/170758' target='_blank' rel='noopener noreferrer'>The GitHub website is slow on Safari</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 09:43 UTC</small><br><br>
+🔹 <a href='https://asciiflow.com/' target='_blank' rel='noopener noreferrer'>ASCIIFlow</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 12:10 UTC</small><br><br>
 🔹 <a href='https://docs.weblibre.eu/' target='_blank' rel='noopener noreferrer'>WebLibre: The Privacy-Focused Browser</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 08:38 UTC</small><br><br>
-🔹 <a href='https://www.ycombinator.com/companies/ember/jobs/OTB0qby-full-stack-engineering-intern-summer-2026' target='_blank' rel='noopener noreferrer'>Ember (YC F24) Is Hiring Full Stack Engineer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 12:00 UTC</small><br><br>
+🔹 <a href='https://github.com/orgs/community/discussions/170758' target='_blank' rel='noopener noreferrer'>The GitHub website is slow on Safari</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 09:43 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 14:10:38 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 14:31:47 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
