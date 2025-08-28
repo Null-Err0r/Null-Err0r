@@ -35,15 +35,15 @@
 🔹 <a href='https://news.fsu.edu/news/education-society/2025/08/26/on-screen-and-now-irl-fsu-researchers-find-evidence-suggesting-chatgpt-influences-how-we-speak/' target='_blank' rel='noopener noreferrer'>Researchers find evidence of ChatGPT buzzwords turning up in everyday speech</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 21:27 UTC</small><br><br>
 🔹 <a href='https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c' target='_blank' rel='noopener noreferrer'>Malicious versions of Nx and some supporting plugins were published</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 01:38 UTC</small><br><br>
 🔹 <a href='https://www.thedrive.com/news/toyota-is-recycling-old-ev-batteries-to-help-power-mazdas-production-line' target='_blank' rel='noopener noreferrer'>Toyota is recycling old EV batteries to help power Mazda's production line</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 18:29 UTC</small><br><br>
+🔹 <a href='https://github.com/soulim/bookmarks.txt' target='_blank' rel='noopener noreferrer'>Bookmarks.txt is a concept of keeping URLs in plain text files</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-28 02:12 UTC</small><br><br>
 🔹 <a href='https://www.nvidia.com/en-us/products/workstations/dgx-spark/' target='_blank' rel='noopener noreferrer'>Nvidia DGX Spark</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 22:35 UTC</small><br><br>
 🔹 <a href='https://linuxcontainers.org/incus/docs/main/explanation/containers_and_vms/' target='_blank' rel='noopener noreferrer'>About Containers and VMs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 07:58 UTC</small><br><br>
-🔹 <a href='https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html' target='_blank' rel='noopener noreferrer'>Google has eliminated 35% of managers overseeing small teams in past year</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 21:16 UTC</small><br><br>
 🔹 <a href='https://lubeno.dev/blog/rusts-productivity-curve' target='_blank' rel='noopener noreferrer'>Unexpected productivity boost of Rust</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 15:48 UTC</small><br><br>
-🔹 <a href='https://github.com/soulim/bookmarks.txt' target='_blank' rel='noopener noreferrer'>Bookmarks.txt is a concept of keeping URLs in plain text files</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-28 02:12 UTC</small><br><br>
+🔹 <a href='https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html' target='_blank' rel='noopener noreferrer'>Google has eliminated 35% of managers overseeing small teams in past year</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 21:16 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-28 03:54:12 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-28 04:13:06 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
