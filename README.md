@@ -37,13 +37,13 @@
 🔹 <a href='https://www.nvidia.com/en-us/products/workstations/dgx-spark/' target='_blank' rel='noopener noreferrer'>Nvidia DGX Spark</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 22:35 UTC</small><br><br>
 🔹 <a href='https://www.thedrive.com/news/toyota-is-recycling-old-ev-batteries-to-help-power-mazdas-production-line' target='_blank' rel='noopener noreferrer'>Toyota is recycling old EV batteries to help power Mazda's production line</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 18:29 UTC</small><br><br>
 🔹 <a href='https://www.ycombinator.com/companies/the-forecasting-company/jobs/9kIwGyz-founding-software-engineer' target='_blank' rel='noopener noreferrer'>The Forecasting Company (YC S24) Is Hiring a Software Engineer</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-28 08:20 UTC</small><br><br>
-🔹 <a href='https://sci-hub.se/sci-hub-blocked-india' target='_blank' rel='noopener noreferrer'>Sci-Hub has been blocked in India</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-28 04:47 UTC</small><br><br>
 🔹 <a href='https://onionservices.torproject.org/research/proposals/usability/certificates/' target='_blank' rel='noopener noreferrer'>Certificates for Onion Services</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-28 03:05 UTC</small><br><br>
+🔹 <a href='https://sci-hub.se/sci-hub-blocked-india' target='_blank' rel='noopener noreferrer'>Sci-Hub has been blocked in India</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-28 04:47 UTC</small><br><br>
 🔹 <a href='https://github.com/soulim/bookmarks.txt' target='_blank' rel='noopener noreferrer'>Bookmarks.txt is a concept of keeping URLs in plain text files</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-28 02:12 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-28 08:38:45 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-28 08:53:06 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
