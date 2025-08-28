@@ -39,11 +39,11 @@
 🔹 <a href='https://linuxcontainers.org/incus/docs/main/explanation/containers_and_vms/' target='_blank' rel='noopener noreferrer'>About Containers and VMs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-25 07:58 UTC</small><br><br>
 🔹 <a href='https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html' target='_blank' rel='noopener noreferrer'>Google has eliminated 35% of managers overseeing small teams in past year</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 21:16 UTC</small><br><br>
 🔹 <a href='https://lubeno.dev/blog/rusts-productivity-curve' target='_blank' rel='noopener noreferrer'>Unexpected productivity boost of Rust</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 15:48 UTC</small><br><br>
-🔹 <a href='https://github.com/polaroi8d/cactoide' target='_blank' rel='noopener noreferrer'>Show HN: Meetup.com and eventribe alternative to small groups</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 20:53 UTC</small><br><br>
+🔹 <a href='https://www.cnbc.com/2025/08/27/cdc-director-susan-monarez-.html' target='_blank' rel='noopener noreferrer'>White House fires CDC director Monarez after she refuses to resign</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-28 02:09 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-28 03:13:45 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-28 03:43:42 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
