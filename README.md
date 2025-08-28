@@ -28,7 +28,7 @@
   </tr>
 
   <div align="center">
-      <img src="https://nullglobeworker.awardbinsami.workers.dev/" alt="Live Feed from Esmaeil's Worker"/>
+      <img src="https://nullglobeworker.awardbinsami.workers.dev/"/>
   </div>
 
 <div align="center">
