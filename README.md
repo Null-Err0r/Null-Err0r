@@ -34,16 +34,16 @@
 🔹 <a href='https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c' target='_blank' rel='noopener noreferrer'>Malicious versions of Nx and some supporting plugins were published</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 01:38 UTC</small><br><br>
 🔹 <a href='https://www.thedrive.com/news/toyota-is-recycling-old-ev-batteries-to-help-power-mazdas-production-line' target='_blank' rel='noopener noreferrer'>Toyota is recycling old EV batteries to help power Mazda's production line</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 18:29 UTC</small><br><br>
 🔹 <a href='https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html' target='_blank' rel='noopener noreferrer'>Google has eliminated 35% of managers overseeing small teams in past year</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 21:16 UTC</small><br><br>
+🔹 <a href='https://www.nvidia.com/en-us/products/workstations/dgx-spark/' target='_blank' rel='noopener noreferrer'>Nvidia DGX Spark</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 22:35 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Bitrig (YC S25) – Build Swift apps on your iPhone</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 15:39 UTC</small><br><br>
-🔹 <a href='https://github.com/polaroi8d/cactoide' target='_blank' rel='noopener noreferrer'>Show HN: Meetup.com and eventribe alternative to small groups</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 20:53 UTC</small><br><br>
-🔹 <a href='https://jero.zone/posts/cbr-building' target='_blank' rel='noopener noreferrer'>3D printing a building with 756 windows</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 22:31 UTC</small><br><br>
 🔹 <a href='https://lubeno.dev/blog/rusts-productivity-curve' target='_blank' rel='noopener noreferrer'>Unexpected productivity boost of Rust</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 15:48 UTC</small><br><br>
+🔹 <a href='https://github.com/polaroi8d/cactoide' target='_blank' rel='noopener noreferrer'>Show HN: Meetup.com and eventribe alternative to small groups</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 20:53 UTC</small><br><br>
 🔹 <a href='https://github.com/renzorlive/vimmaster' target='_blank' rel='noopener noreferrer'>VIM Master</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 15:50 UTC</small><br><br>
-🔹 <a href='https://www.nordbayern.de/news-in-english/paypal-security-systems-down-german-banks-block-payments-in-the-billions-1.14811187' target='_blank' rel='noopener noreferrer'>A failure of security systems at PayPal is causing concern for German banks</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 17:28 UTC</small><br><br>
+🔹 <a href='https://thedailywtf.com/articles/the-therac-25-incident' target='_blank' rel='noopener noreferrer'>The Therac-25 Incident (2021)</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 06:57 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-27 23:47:03 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-28 00:50:40 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
