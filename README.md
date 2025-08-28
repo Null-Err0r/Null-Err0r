@@ -32,18 +32,18 @@
 <!-- HACKER_NEWS_START -->
 🔹 <a href='https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon' target='_blank' rel='noopener noreferrer'>The Deletion of Docker.io/Bitnami</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-28 04:37 UTC</small><br><br>
 🔹 <a href='https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411' target='_blank' rel='noopener noreferrer'>Altered states of consciousness induced by breathwork accompanied by music</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-28 00:22 UTC</small><br><br>
-🔹 <a href='https://digitaleconomy.stanford.edu/wp-content/uploads/2025/08/Canaries_BrynjolfssonChandarChen.pdf' target='_blank' rel='noopener noreferrer'>Canaries in the Coal Mine? Recent Employment Effects of AI [pdf]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-28 02:28 UTC</small><br><br>
 🔹 <a href='https://yamanot.es/' target='_blank' rel='noopener noreferrer'>Yamanot.es: A music box of train station melodies from the JR Yamanote Line</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 21:08 UTC</small><br><br>
 🔹 <a href='https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c' target='_blank' rel='noopener noreferrer'>Malicious versions of Nx and some supporting plugins were published</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 01:38 UTC</small><br><br>
+🔹 <a href='https://digitaleconomy.stanford.edu/wp-content/uploads/2025/08/Canaries_BrynjolfssonChandarChen.pdf' target='_blank' rel='noopener noreferrer'>Canaries in the Coal Mine? Recent Employment Effects of AI [pdf]</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-28 02:28 UTC</small><br><br>
 🔹 <a href='https://sci-hub.se/sci-hub-blocked-india' target='_blank' rel='noopener noreferrer'>Sci-Hub has been blocked in India</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-28 04:47 UTC</small><br><br>
-🔹 <a href='https://www.nvidia.com/en-us/products/workstations/dgx-spark/' target='_blank' rel='noopener noreferrer'>Nvidia DGX Spark</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 22:35 UTC</small><br><br>
-🔹 <a href='https://www.thedrive.com/news/toyota-is-recycling-old-ev-batteries-to-help-power-mazdas-production-line' target='_blank' rel='noopener noreferrer'>Toyota is recycling old EV batteries to help power Mazda's production line</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 18:29 UTC</small><br><br>
 🔹 <a href='https://github.com/soulim/bookmarks.txt' target='_blank' rel='noopener noreferrer'>Bookmarks.txt is a concept of keeping URLs in plain text files</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-28 02:12 UTC</small><br><br>
+🔹 <a href='https://www.thedrive.com/news/toyota-is-recycling-old-ev-batteries-to-help-power-mazdas-production-line' target='_blank' rel='noopener noreferrer'>Toyota is recycling old EV batteries to help power Mazda's production line</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-23 18:29 UTC</small><br><br>
+🔹 <a href='https://www.nvidia.com/en-us/products/workstations/dgx-spark/' target='_blank' rel='noopener noreferrer'>Nvidia DGX Spark</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-24 22:35 UTC</small><br><br>
 🔹 <a href='#' target='_blank' rel='noopener noreferrer'>Launch HN: Bitrig (YC S25) – Build Swift apps on your iPhone</a><br>&nbsp;&nbsp;&nbsp;&nbsp;— <small>2025-08-27 15:39 UTC</small><br><br>
 <!-- HACKER_NEWS_END -->
 
 <p align="right"><small>latest update: 
-<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-28 07:10:57 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
+<!-- HACKER_NEWS_LAST_UPDATED -->2025-08-28 07:28:32 UTC<!-- /HACKER_NEWS_LAST_UPDATED -->
 </small></p>
 
 <hr>
