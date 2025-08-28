@@ -27,9 +27,9 @@
       </p>
   </tr>
 
-  <div align="center">
+  <p align="center">
       <img src="https://nullglobeworker.awardbinsami.workers.dev/"/>
-  </div>
+  </p>
 
 <div align="center">
   <br> </br>
