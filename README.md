@@ -26,10 +26,7 @@
            <img src="https://img.shields.io/badge/JavaScript-d65d0e?style=for-the-badge&logo=javascript&logoColor=282828" width="100"/>
       </p>
   </tr>
-     <div align="center">
-        ![](https://img.shields.io/badge/Status-Active%20&%20Updated-FFA500?style=for-the-badge)
-         ![](https://mrdexter.ir/svg/Thecoffee.svg)
-    </div>
+
 
 <div align="center">
   <br> </br>
