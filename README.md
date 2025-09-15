@@ -26,7 +26,8 @@
            <img src="https://img.shields.io/badge/JavaScript-d65d0e?style=for-the-badge&logo=javascript&logoColor=282828" width="100"/>
       </p>
   </tr>
-
+  ![](https://img.shields.io/badge/Status-Active%20&%20Updated-FFA500?style=for-the-badge)
+  ![](https://mrdexter.ir/svg/Thecoffee.svg)
 <div align="center">
   <br> </br>
   <img src="https://ghvc.kabelkultur.se/?username=null-err0r&abbreviated=true&color=ff5500&label=%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%20%20%F0%9F%91%80%20%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AEVisitor%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%20%F0%9F%91%80%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE⁮⁮" alt="Visitor Counter" />
@@ -58,8 +59,7 @@
       <img alt="Geographical Distribution" src="https://next.ossinsight.io/widgets/official/compose-org-activity-map/thumbnail.png?activity=stars&role=stars&owner_id=19436819&period=past_12_months&image_size=4x7&color_scheme=dark" width="700" height="auto">
     </picture>
   </a>
-  ![](https://img.shields.io/badge/Status-Active%20&%20Updated-FFA500?style=for-the-badge)
-  ![](https://mrdexter.ir/svg/Thecoffee.svg)
+
 </div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Null-Err0r&theme=gruvbox" alt="Activity Graph" />
