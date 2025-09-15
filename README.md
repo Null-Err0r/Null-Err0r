@@ -58,6 +58,8 @@
       <img alt="Geographical Distribution" src="https://next.ossinsight.io/widgets/official/compose-org-activity-map/thumbnail.png?activity=stars&role=stars&owner_id=19436819&period=past_12_months&image_size=4x7&color_scheme=dark" width="700" height="auto">
     </picture>
   </a>
+  ![](https://img.shields.io/badge/Status-Active%20&%20Updated-FFA500?style=for-the-badge)
+  ![](https://mrdexter.ir/svg/Thecoffee.svg)
 </div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Null-Err0r&theme=gruvbox" alt="Activity Graph" />
