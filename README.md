@@ -82,6 +82,5 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Active%20&%20Updated-FFA500?style=for-the-badge" alt="Status Badge" />
-  <br/>
   <img src="https://mrdexter.ir/svg/Thecoffee.svg" alt="Coffee SVG" />
 </div>
