@@ -81,7 +81,7 @@
 <br>
 </details>
   <div align="center">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F7931A&height=120&section=footer"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff5500&height=120&section=footer"/>
   </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Active%20&%20Updated-FF5500?style=for-the-badge" alt="Status Badge" />
