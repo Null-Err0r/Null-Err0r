@@ -1,3 +1,6 @@
+  <div align="center">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=282828&height=80&section=header"/>
+  </div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=F7931A&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi+%2C++I'm+(+Esmaeil+Asadi+%3C%3D%3E+%D8%A7%D8%B3%D9%80%D9%85%D9%80%D8%A7%D8%B9%D9%80%DB%8C%D9%80%D9%84+%D8%A7%D8%B3%D9%80%D8%AF%DB%8C+)"/>
 </div>
@@ -77,9 +80,9 @@
 </div>
 <br>
 </details>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Bottom Banner" />
-</div>
+  <div align="center">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=282828&height=120&section=footer"/>
+  </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Active%20&%20Updated-FF5500?style=for-the-badge" alt="Status Badge" />
   <img src="https://mrdexter.ir/svg/TheCoffee.svg" alt="Coffee SVG" />
