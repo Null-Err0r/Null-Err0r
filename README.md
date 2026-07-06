@@ -16,9 +16,9 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Null-Err0r&theme=gruvbox" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Null-Err0r&theme=gruvbox&utcOffset=8" />
 </p>
-<div align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=null-err0r&theme=gruvbox"/>
-</div>
+</p>
 
   <tr>
       <p align="center">
