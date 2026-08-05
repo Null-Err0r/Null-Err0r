@@ -17,7 +17,7 @@
   <img src="https://raw.githubusercontent.com/Null-Err0r/Null-Err0r/main/profile-summary-card-output/gruvbox/4-productive-time.svg" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=null-err0r"/>
+  <img src="[https://streak-stats.demolab.com/?user=null-err0r](https://streak-stats.demolab.com/?user=null-err0r)"/>
 </p>
 
   <tr>
