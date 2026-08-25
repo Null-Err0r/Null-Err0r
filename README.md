@@ -6,18 +6,18 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Null-Err0r/Null-Err0r/main/profile-summary-card-output/gruvbox/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/i-mRsam/i-mRsam/main/profile-summary-card-output/gruvbox/0-profile-details.svg" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Null-Err0r/Null-Err0r/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg" />
-  <img src="https://raw.githubusercontent.com/Null-Err0r/Null-Err0r/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/i-mRsam/i-mRsam/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/i-mRsam/i-mRsam/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Null-Err0r/Null-Err0r/main/profile-summary-card-output/gruvbox/3-stats.svg" />
-  <img src="https://raw.githubusercontent.com/Null-Err0r/Null-Err0r/main/profile-summary-card-output/gruvbox/4-productive-time.svg" />
+  <img src="https://raw.githubusercontent.com/i-mRsam/i-mRsam/main/profile-summary-card-output/gruvbox/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/i-mRsam/i-mRsam/main/profile-summary-card-output/gruvbox/4-productive-time.svg" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=null-err0r&theme=gruvbox"/>
+  <img src="https://streak-stats.demolab.com/?user=i-mRsam&theme=gruvbox"/>
 </p>
 
   <tr>
@@ -33,7 +33,7 @@
 
 <div align="center">
   <br> </br>
-  <img src="https://ghvc.kabelkultur.se/?username=null-err0r&abbreviated=true&color=ff5500&label=%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%20%20%F0%9F%91%80%20%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AEVisitor%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%20%F0%9F%91%80%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE⁮⁮" alt="Visitor Counter" />
+  <img src="https://ghvc.kabelkultur.se/?username=i-mRsam&abbreviated=true&color=ff5500&label=%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%20%20%F0%9F%91%80%20%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AEVisitor%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%20%F0%9F%91%80%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE⁮⁮" alt="Visitor Counter" />
   <br> </br>
 </div>
 <details align="center">
@@ -65,7 +65,7 @@
 
 </div>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Null-Err0r&theme=gruvbox" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=i-mRsam&theme=gruvbox" alt="Activity Graph" />
 </div>
 <br>
 </details>
