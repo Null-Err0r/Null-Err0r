@@ -74,7 +74,7 @@
 <br>
 <div align="center">
   <br><br>
-  <a href="https://t.me/NullError_ir" target="_blank">
+  <a href="https://t.me/i_MrSAM" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram" alt="Telegram" />
   </a>
 </div>
